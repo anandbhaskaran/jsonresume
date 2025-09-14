@@ -2,18 +2,15 @@
 <div class="container awards-container">
     {{> title value="Awards"}}
 
-    {{#each resume.awards}}
-        <section class="item">
-            {{> section-header name=this.title }}
-
-            {{#if awarder}}
-            <h5 class="awarder">{{awarder}}</h5>
-            {{/if}}
-
-            {{#if summary}}
-            <p class="summary">{{summary}}</p>
-            {{/if}}
-        </section>
-    {{/each}}
+    <div class="awards-list">
+        {{#each resume.awards}}
+        <div class="award-item">
+            <strong>{{title}}</strong>{{#if awarder}} - {{awarder}}{{/if}}
+            {{#if date}}<span class="date"> ({{date}})</span>{{/if}}
+            {{#if summary}}<br>{{summary}}{{/if}}
+            {{#if url}}<br><a href="{{url}}" class="award-url">View Award</a>{{/if}}
+        </div>
+        {{/each}}
+    </div>
 </div>
 {{/if}}

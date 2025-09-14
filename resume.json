@@ -333,7 +333,6 @@
     {
       "name": "PulseView - AI Market Intelligence",
       "position": "Founder & AI Product Builder",
-      "description": "Real-time stock market analysis platform using AI agents for trading signal generation and explanation.",
       "highlights": [
         "AI-Powered Analysis: Built real-time stock market analysis platform using AI agents to generate and explain trading signals",
         "Technical & News Integration: Based on technical and news-based insights for comprehensive market analysis",
@@ -359,7 +358,6 @@
     {
       "name": "Proplab - AI Real Estate Tools",
       "position": "Founder & AI Product Builder",
-      "description": "An indie AI-driven initiative focused on empowering small real estate teams through intelligent digital tools.",
       "highlights": [
         "MVP Development: Designed and built MVP for fully digitalized property inventory inspection system, replacing manual workflows",
         "Structured Protocols: Implemented structured, image-backed, and timestamped protocols for property inspection",
@@ -373,23 +371,8 @@
     },
 
     {
-      "name": "Obermatt - Fintech Product Development",
-      "position": "Product Owner & Technical Lead",
-      "url": "https://obermatt.com/en/home.html",
-      "description": "Bridging business objectives with scalable product development for fintech solutions.",
-      "highlights": [
-        "Enhanced CI/CD pipelines with Docker implementation — reduced deployment times by 30%",
-        "Introduced agile methodologies — increased team productivity by 20% and ensured timely delivery",
-        "Developed strategic roadmaps that boosted customer satisfaction and retention rates"
-      ],
-      "startDate": "2018-07-01",
-      "endDate": "2021-01-01",
-      "technologies": ["Docker", "CI/CD", "Fintech Solutions", "Product Management", "Agile Methodologies"]
-    },
-    {
       "name": "SwissNRI - Cross-border Fintech Platform",
       "position": "Co-Founder & Technical Lead",
-      "description": "Fintech platform simplifying cross-border tax and financial compliance for NRIs living in Switzerland.",
       "highlights": [
         "Market Innovation: Identified untapped market need and launched first platform addressing complex cross-border financial challenges for Indian nationals in Switzerland",
         "Zero-to-One Product Development: Led development from concept to MVP in 3 months, acquiring early users through strategic partnerships with Swiss-Indian community organizations",

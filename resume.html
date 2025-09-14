@@ -74,6 +74,7 @@ html {
 body {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-weight: 400;
+  font-size: 17px;
   background: white;
   margin: 50px 0 100px;
   letter-spacing: .3px;
@@ -157,7 +158,7 @@ a .fa-external-link {
 
 p,
 li {
-  font-size: 11px;
+  font-size: 12px;
 }
 
 blockquote {
@@ -173,12 +174,12 @@ em {
 }
 
 ul {
-  margin: 10px 0 0;
-  -webkit-padding-start: 25px;
+  margin: 6px 0 0;
+  -webkit-padding-start: 15px;
 }
 
 ul li {
-  padding-left: 10px;
+  padding-left: 0px;
 }
 
 ul.minimal {
@@ -243,7 +244,7 @@ ul.two-column li {
 }
 
 .summary {
-  margin: 5px 0 5px;
+  margin: 5px 0 3px;
 }
 
 .sublink {
@@ -427,24 +428,75 @@ ul.two-column li {
   font-style: italic;
 }
 
-.certificates-container .issuer {
-  padding-bottom: 6px;
-  font-weight: 400;
-  color: #888;
+/* Simplified certificates styling */
+.certificates-list {
+  margin-bottom: 15px;
+}
+
+.certificate-item {
+  margin-bottom: 8px;
+  line-height: 1.4;
+  font-size: 11px;
+}
+
+.certificate-item strong {
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.certificate-item:last-child {
+  margin-bottom: 0;
 }
 
 .certificates-container .date {
-  font-size: 12px;
+  font-size: 10px;
   color: #666;
+  font-weight: normal;
 }
 
 .certificates-container .certificate-url {
-  font-size: 12px;
+  font-size: 10px;
   color: #0066cc;
   text-decoration: none;
 }
 
 .certificates-container .certificate-url:hover {
+  text-decoration: underline;
+}
+
+/* Awards styling matching certificates */
+.awards-list {
+  margin-bottom: 15px;
+}
+
+.award-item {
+  margin-bottom: 8px;
+  line-height: 1.4;
+  font-size: 11px;
+}
+
+.award-item strong {
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.award-item:last-child {
+  margin-bottom: 0;
+}
+
+.awards-container .date {
+  font-size: 10px;
+  color: #666;
+  font-weight: normal;
+}
+
+.awards-container .award-url {
+  font-size: 10px;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.awards-container .award-url:hover {
   text-decoration: underline;
 }
 
@@ -694,6 +746,34 @@ ul.two-column li {
                         </li>
                 </ul>
             </div>
+        <div class="container certificates-container">
+            <div class="title">
+                <h3>Certificates</h3>
+                <div class="keyline"></div>
+            </div>
+            <div class="certificates-list">
+                <div class="certificate-item">
+                    <strong>Building Modern Java Applications</strong> - AWS
+                    
+                    
+                </div>
+                <div class="certificate-item">
+                    <strong>Build LLM Apps with LangChain</strong> - DeepLearning.AI
+                    
+                    
+                </div>
+                <div class="certificate-item">
+                    <strong>Microsoft Certified Professional (MCPS)</strong> - Microsoft
+                    
+                    
+                </div>
+                <div class="certificate-item">
+                    <strong>MongoDB for Java Developers</strong> - MongoDB University
+                    
+                    
+                </div>
+            </div>
+        </div>
             <div class="container interests-container">
                 <div class="title">
                     <h3>Interests</h3>
@@ -717,42 +797,26 @@ ul.two-column li {
                 <h3>Awards</h3>
                 <div class="keyline"></div>
             </div>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                AWS Cloud Credits for Research
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-        
-                    <h5 class="awarder">Amazon Web Services</h5>
-        
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                KTH Opportunities Fund
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-        
-                    <h5 class="awarder">KTH Royal Institute of Technology</h5>
-        
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                TI India Analog Design Contest Winner
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-        
-                    <h5 class="awarder">Texas Instruments</h5>
-        
-                </section>
+            <div class="awards-list">
+                <div class="award-item">
+                    <strong>AWS Cloud Credits for Research</strong> - Amazon Web Services
+                    <span class="date"> (2020)</span>
+                    
+                    
+                </div>
+                <div class="award-item">
+                    <strong>KTH Opportunities Fund</strong> - KTH Royal Institute of Technology
+                    
+                    
+                    
+                </div>
+                <div class="award-item">
+                    <strong>TI India Analog Design Contest Winner</strong> - Texas Instruments
+                    
+                    
+                    
+                </div>
+            </div>
         </div>
       </aside>
       <div class="right-column">
@@ -816,6 +880,7 @@ ul.two-column li {
                     <ul>
                         <li>Conducted thorough evaluations of emerging technologies for seed-to-VC startups</li>
                         <li>Advised multiple startups on technical hiring, AI adoption, and scalable solution development</li>
+                        <li>Opt Alpha (Tech Advisor): Mentoring engineering teams on scaling algorithmic trading systems, optimizing performance, reliability, and operational efficiency for high-frequency trading</li>
                     </ul>
                 </section>
                 <section class="item">
@@ -882,16 +947,19 @@ ul.two-column li {
                                 </a>
                         </h3>
                         <h5 class="italic pull-right">
+                                <span class="startDate">05/2025</span>
+                                <span class="endDate"> - Present</span>
                         </h5>
                     </div>
-                      <h4>
-                        Real-time stock market analysis platform using AI agents for trading signal generation and explanation.
-                      </h4>
         
-        
+                    <h4>Founder &amp; AI Product Builder</h4>
         
         
                     <ul>
+                        <li>AI-Powered Analysis: Built real-time stock market analysis platform using AI agents to generate and explain trading signals</li>
+                        <li>Technical &amp; News Integration: Based on technical and news-based insights for comprehensive market analysis</li>
+                        <li>Personal to Public: Initially designed as personal tool, now public for retail traders and investors</li>
+                        <li>Focus Areas: Explainable AI, speed, and clarity in financial analysis</li>
                         <li>Explainable AI for financial analysis</li>
                         <li>Technical and news-based insights</li>
                     </ul>
@@ -905,16 +973,18 @@ ul.two-column li {
                                 </a>
                         </h3>
                         <h5 class="italic pull-right">
+                                <span class="startDate">09/2025</span>
+                                <span class="endDate"> - Present</span>
                         </h5>
                     </div>
-                      <h4>
-                        AI-powered platform for small real estate teams with digitalized property inspection and marketing automation.
-                      </h4>
         
-        
+                    <h4>Founder &amp; AI Product Builder</h4>
         
         
                     <ul>
+                        <li>MVP Development: Designed and built MVP for fully digitalized property inventory inspection system, replacing manual workflows</li>
+                        <li>Structured Protocols: Implemented structured, image-backed, and timestamped protocols for property inspection</li>
+                        <li>AI Marketing Assistant: Currently leading development of AI-powered marketing assistant to automate listing creation and boost property visibility across marketplaces</li>
                         <li>Image-backed inspection protocols</li>
                         <li>AI marketing assistant for listing creation</li>
                     </ul>
@@ -928,42 +998,19 @@ ul.two-column li {
                                 </a>
                         </h3>
                         <h5 class="italic pull-right">
+                                <span class="startDate">01/2024</span>
+                                <span class="endDate"> - Present</span>
                         </h5>
                     </div>
-                      <h4>
-                        Technical co-founder of fintech platform simplifying tax and financial compliance for NRIs in Switzerland.
-                      </h4>
         
-        
+                    <h4>Co-Founder &amp; Technical Lead</h4>
         
         
                     <ul>
-                        <li>Scalable SaaS architecture</li>
-                        <li>DTAA and FEMA compliance automation</li>
-                        <li>Cross-border financial optimization</li>
-                    </ul>
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                Obermatt - Fintech Product Development
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">07/2018</span>
-                                <span class="endDate"> - 01/2021</span>
-                        </h5>
-                    </div>
-                      <h4>
-                        Technical Product Manager bridging business objectives with scalable product development for fintech solutions.
-                      </h4>
-        
-        
-        
-        
-                    <ul>
-                        <li>Enhanced CI/CD pipelines with Docker implementation — reduced deployment times by 30%</li>
-                        <li>Introduced agile methodologies — increased team productivity by 20% and ensured timely delivery</li>
-                        <li>Developed strategic roadmaps that boosted customer satisfaction and retention rates</li>
+                        <li>Market Innovation: Identified untapped market need and launched first platform addressing complex cross-border financial challenges for Indian nationals in Switzerland</li>
+                        <li>Zero-to-One Product Development: Led development from concept to MVP in 3 months, acquiring early users through strategic partnerships with Swiss-Indian community organizations</li>
+                        <li>Compliance-First Design: Created solution addressing critical regulatory requirements across two complex financial jurisdictions (FEMA, DTAA, Swiss regulations)</li>
+                        <li>Customer-Driven Iteration: Established regular customer feedback loops driving product roadmap prioritization and 40% increase in user satisfaction</li>
                     </ul>
                 </section>
         </div>
@@ -1047,69 +1094,28 @@ ul.two-column li {
         
               </section>
         </div>
-        <div class="container certificates-container">
-            <div class="title">
-                <h3>Certificates</h3>
-                <div class="keyline"></div>
-            </div>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                Building Modern Java Applications
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-        
-                    <h5 class="issuer">AWS</h5>
-        
-        
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                Build LLM Apps with LangChain
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-        
-                    <h5 class="issuer">DeepLearning.AI</h5>
-        
-        
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                Microsoft Certified Professional (MCPS)
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-        
-                    <h5 class="issuer">Microsoft</h5>
-        
-        
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                MongoDB for Java Developers
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-        
-                    <h5 class="issuer">MongoDB University</h5>
-        
-        
-                </section>
-        </div>
         <div class="container publications-container">
             <div class="title">
                 <h3>Publications</h3>
                 <div class="keyline"></div>
             </div>
+            <section class="item">
+                <a href="https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent" target="_blank" rel="noopener noreferrer">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                Agentic AI: Simple ReAct Agent
+                        </h3>
+                        <h5 class="italic pull-right">
+                                04/2025
+                                </h5>
+                    </div>
+                </a>
+        
+                <h5 class="awarder">The Compounding Curiosity (Substack)</h5>
+        
+                <p class="summary">Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications.</p>
+        
+            </section>
             <section class="item">
                 <a href="https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d" target="_blank" rel="noopener noreferrer">
                     <div class="section-header clearfix">
@@ -1123,6 +1129,7 @@ ul.two-column li {
         
                 <h5 class="awarder">Front Conference (Talk)</h5>
         
+                <p class="summary">Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development.</p>
         
             </section>
             <section class="item">
@@ -1138,6 +1145,7 @@ ul.two-column li {
         
                 <h5 class="awarder">AI for the rest of Us, UK (Talk)</h5>
         
+                <p class="summary">Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design.</p>
         
             </section>
             <section class="item">
@@ -1147,13 +1155,14 @@ ul.two-column li {
                                 Microfrontends: Revolutionising Frontend Architecture
                         </h3>
                         <h5 class="italic pull-right">
-                                2023
+                                01/2023
                                 </h5>
                     </div>
                 </a>
         
                 <h5 class="awarder">Developer Week 2023, USA (Talk)</h5>
         
+                <p class="summary">Technical deep-dive presentation demonstrating how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications.</p>
         
             </section>
             <section class="item">
@@ -1163,13 +1172,14 @@ ul.two-column li {
                                 From Idea to Product
                         </h3>
                         <h5 class="italic pull-right">
-                                2022
+                                01/2022
                                 </h5>
                     </div>
                 </a>
         
                 <h5 class="awarder">Dev Innovation Summit 2022, USA (Talk)</h5>
         
+                <p class="summary">Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments.</p>
         
             </section>
             <section class="item">
@@ -1185,6 +1195,7 @@ ul.two-column li {
         
                 <h5 class="awarder">AWS Public Sector Blog</h5>
         
+                <p class="summary">Featured technical article showcasing breakthrough research in evolutionary robotics, demonstrating how AWS cloud infrastructure enables large-scale artificial evolution simulations for autonomous system design.</p>
         
             </section>
             <section class="item">
@@ -1200,6 +1211,7 @@ ul.two-column li {
         
                 <h5 class="awarder">Medium</h5>
         
+                <p class="summary">Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture.</p>
         
             </section>
             <section class="item">
@@ -1215,6 +1227,7 @@ ul.two-column li {
         
                 <h5 class="awarder">Medium / Terraform Registry</h5>
         
+                <p class="summary">Technical architecture guide demonstrating implementation of enterprise-grade URL shortening service using infrastructure-as-code principles and cloud-native scalability patterns.</p>
         
             </section>
             <section class="item">
@@ -1230,8 +1243,15 @@ ul.two-column li {
         
                 <h5 class="awarder">TowardsDev</h5>
         
+                <p class="summary">Data visualization methodology article presenting innovative techniques for interpreting high-dimensional AI embeddings through interactive heatmap visualizations for enhanced model interpretability.</p>
         
             </section>
+        
+            <div class="view-all-publications">
+                <a href="https://anand-creations.vercel.app/blog" target="_blank" rel="noopener noreferrer" style="color: #56817A; text-decoration: none;">
+                    <h3>View All Publications →</h3>
+                </a>
+            </div>
         </div>
       </div>
     </div>

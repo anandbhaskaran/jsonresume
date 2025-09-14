@@ -66,6 +66,7 @@ html {
 body {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-weight: 400;
+  font-size: 17px;
   background: white;
   margin: 50px 0 100px;
   letter-spacing: .3px;
@@ -149,7 +150,7 @@ a .fa-external-link {
 
 p,
 li {
-  font-size: 11px;
+  font-size: 12px;
 }
 
 blockquote {
@@ -165,12 +166,12 @@ em {
 }
 
 ul {
-  margin: 10px 0 0;
-  -webkit-padding-start: 25px;
+  margin: 6px 0 0;
+  -webkit-padding-start: 15px;
 }
 
 ul li {
-  padding-left: 10px;
+  padding-left: 0px;
 }
 
 ul.minimal {
@@ -235,7 +236,7 @@ ul.two-column li {
 }
 
 .summary {
-  margin: 5px 0 5px;
+  margin: 5px 0 3px;
 }
 
 .sublink {
@@ -452,6 +453,42 @@ ul.two-column li {
 }
 
 .certificates-container .certificate-url:hover {
+  text-decoration: underline;
+}
+
+/* Awards styling matching certificates */
+.awards-list {
+  margin-bottom: 15px;
+}
+
+.award-item {
+  margin-bottom: 8px;
+  line-height: 1.4;
+  font-size: 11px;
+}
+
+.award-item strong {
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.award-item:last-child {
+  margin-bottom: 0;
+}
+
+.awards-container .date {
+  font-size: 10px;
+  color: #666;
+  font-weight: normal;
+}
+
+.awards-container .award-url {
+  font-size: 10px;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.awards-container .award-url:hover {
   text-decoration: underline;
 }
 
