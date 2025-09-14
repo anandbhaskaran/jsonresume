@@ -218,8 +218,86 @@ async function buildCustomCV() {
   }
 }
 
+async function buildToGeneratedFolder(targetPath) {
+  try {
+    rl.close();
+
+    // Parse the target path to get company and job info
+    const pathParts = targetPath.split('/');
+    const fileName = pathParts[pathParts.length - 1];
+    const companyName = pathParts[pathParts.length - 2];
+    const baseName = fileName.replace('.json', '');
+
+    // Create the directory if it doesn't exist
+    const targetDir = path.dirname(targetPath);
+    if (!fs.existsSync(targetDir)) {
+      fs.mkdirSync(targetDir, { recursive: true });
+      // eslint-disable-next-line no-console
+      console.log(`Created directory: ${targetDir}`);
+    }
+
+    // Read the base resume file
+    const resumeFile = './resume.json';
+    if (!fs.existsSync(resumeFile)) {
+      throw new Error(`Base resume file not found: ${resumeFile}`);
+    }
+
+    const resume = JSON.parse(fs.readFileSync(resumeFile, 'utf-8'));
+    // eslint-disable-next-line no-console
+    console.log(`Using base resume file: ${resumeFile}`);
+
+    // Add metadata for the generated file
+    const customResume = {
+      ...resume,
+      _generatedFile: {
+        company: companyName,
+        baseName,
+        createdAt: new Date().toISOString(),
+        targetPath,
+      },
+    };
+
+    // Write the JSON file
+    fs.writeFileSync(targetPath, JSON.stringify(customResume, null, 2));
+    // eslint-disable-next-line no-console
+    console.log(`Created JSON file: ${targetPath}`);
+
+    // Generate HTML
+    const html = theme.render(customResume);
+    const htmlPath = targetPath.replace('.json', '.html');
+    fs.writeFileSync(htmlPath, html);
+    // eslint-disable-next-line no-console
+    console.log(`Generated HTML: ${htmlPath}`);
+
+    // Generate PDF
+    const pdfPath = targetPath.replace('.json', '.pdf');
+    await generatePDF(pdfPath, htmlPath);
+
+    // eslint-disable-next-line no-console
+    console.log('\nFiles created successfully:');
+    // eslint-disable-next-line no-console
+    console.log(`- JSON: ${targetPath}`);
+    // eslint-disable-next-line no-console
+    console.log(`- HTML: ${htmlPath}`);
+    // eslint-disable-next-line no-console
+    console.log(`- PDF: ${pdfPath}`);
+  } catch (error) {
+    // eslint-disable-next-line no-console
+    console.error('Build to generated folder failed:', error);
+    process.exit(1);
+  }
+}
+
 async function build() {
   try {
+    // Check if a specific target path is provided as a command line argument
+    const targetPath = process.argv[2];
+
+    if (targetPath && targetPath.startsWith('./generated/') && targetPath.endsWith('.json')) {
+      await buildToGeneratedFolder(targetPath);
+      return;
+    }
+
     // Check if user wants to build a custom CV for a job application
     const customCV = await prompt('Do you want to build a custom CV for a job application? (y/N): ');
 

@@ -6,7 +6,7 @@
     "email": "anandbaskaran3193@gmail.com",
     "phone": "+41763043193",
     "url": "https://anand-creations.web.app",
-    "summary": "Senior Software Engineer with over 10 years of experience in delivering JAVA-based web applications and implementing REST APIs. Proven track record in transforming systems for cloud readiness using Spring and microservices, while leading cross-functional teams. Experience in PostgreSQL, agile methodologies, and CI/CD practices, driving enhanced performance and reliability.",
+    "summary": "Results-driven Senior Software Engineer with over 10 years in enterprise-level Java applications, specializing in REST API development and Spring frameworks. Proven record of delivering scalable solutions, enhancing cloud readiness, and integrating modern UI technologies. Adept in driving architectural decisions and leading teams to achieve significant improvements in productivity and user engagement.",
     "location": {
       "address": "",
       "city": "Zurich",
@@ -35,55 +35,55 @@
       "name": "Beekeeper AG",
       "position": "Senior Software Engineer (Technical Lead)",
       "url": "https://www.beekeeper.io/",
-      "startDate": "2022-08",
+      "startDate": "2022-08-01",
       "endDate": "",
-      "summary": "Technical Lead driving innovation across scalable systems, AI-powered features, and platform reliability to ensure cloud readiness.",
+      "summary": "Technical Lead at Beekeeper AG, driving the adoption of new technology stacks and enhancing platform scalability and reliability.",
       "highlights": [
-        "High-Impact Product Development: Led architectural design and launch of Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR through agile methodologies.",
-        "Technical Vision & Product Innovation: Spearheaded development of Beekeeper's Templating Engine — reduced setup time by 90% and significantly enhanced user engagement, now powers 15% of all platform assets.",
-        "Scalable Systems Design: Engineered robust search interface accommodating 10M+ users — elevated user engagement and accelerated platform adoption.",
-        "Generative AI Expertise: Designed advanced, production-quality Generative AI translation systems using GitHub Actions — saved $337K and accelerated go-to-market since Jan 2024.",
-        "Cross-functional GTM Initiatives: Drove initiatives across Product and GTM including Seasonal Templates and Employee Lifecycle GTM, enhancing business functionality.",
-        "Architect & Full-Stack Contributor: Led the design and implementation for complex, scalable backend/frontend systems ensuring robustness and performance.",
-        "A/B Experimentation: Collaborated with product managers to run A/B tests that informed critical product decisions, driving continuous improvement."
+        "Led architectural design and launch of Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR through agile methodologies.",
+        "Spearheaded development of Beekeeper's Templating Engine — reduced setup time by 90%, significantly enhancing user engagement now powering 15% of all platform assets.",
+        "Engineered robust search interface accommodating 10M+ users, elevating user engagement and accelerating platform adoption rates.",
+        "Assembled and led high-performing remote engineering teams, fostering an environment for high-quality, maintainable code and customer-centric solutions.",
+        "Collaborated with product managers and data engineers to run A/B experiments for data-driven product iterations.",
+        "Designed and deployed advanced Generative AI translation systems using OpenAI APIs, translating 12K+ key-value pairs, saving $337K.",
+        "Acted as technical hiring manager for AI roles and deputy tech lead of FUEL, mentoring junior engineers while overseeing core module delivery."
       ]
     },
     {
       "name": "Tenity",
       "position": "Startup Mentor & Technology Evaluation Panelist",
       "url": "https://www.tenity.com/",
-      "startDate": "2024-06",
+      "startDate": "2024-06-01",
       "endDate": "",
-      "summary": "Guiding startups on technology evaluation, scalability, and innovation to ensure robust technical strategies.",
+      "summary": "Mentor and evaluator at Tenity, providing guidance to startups on scalable architectures and technological innovations.",
       "highlights": [
-        "Technology Evaluation Panel: Played crucial role in advising startups towards scalability and innovative practices, facilitating effective growth.",
-        "Technical Advisory: Mentored multiple startups on AI adoption and scalable solution development, enhancing their operational efficiency."
+        "Guided startups towards scalability by fostering innovative practices and developing core technical strategies tailored to unique goals.",
+        "Conducted evaluations of emerging technologies for seed-to-VC startups, enabling impactful and scalable solution development."
       ]
     },
     {
       "name": "Dronistics",
       "position": "Founding Software Application Developer",
       "url": "https://lis.epfl.ch/",
-      "startDate": "2016-08",
-      "endDate": "2020-03",
-      "summary": "Founding engineer for Dronistics, developing an autonomous drone delivery system improving logistics and efficiency.",
+      "startDate": "2016-08-01",
+      "endDate": "2020-03-01",
+      "summary": "Key engineer of Dronistics' autonomous drone delivery system, achieving substantial efficiency in last-mile deliveries.",
       "highlights": [
-        "Drone Delivery Innovation: Developed an autonomous drone delivery system used in over 500 last-mile deliveries, optimizing operational capabilities.",
-        "Performance Optimization: Engineered real-time flight control APIs, reducing delivery times by 40% while maintaining a 99.5% safety record.",
-        "Cloud Infrastructure: Delivered the full software/cloud stack, enabling seamless integration with enterprise partners enhancing scalability."
+        "Designed and delivered a cloud-based solution enabling over 500 successful last-mile drone deliveries.",
+        "Engineered real-time flight control APIs that reduced delivery times by 40% while maintaining a 99.5% safety record.",
+        "Built partnerships with firms like Unilever, showcasing systems at CES Las Vegas, demonstrating innovation in drone delivery."
       ]
     },
     {
       "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
       "position": "Research Software Developer",
       "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
-      "startDate": "2017-01",
-      "endDate": "2020-01",
-      "summary": "Led the engineering of Robogen, an open-source robotics platform that contributed to key advancements in artificial evolution.",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Developed an open-source platform for co-evolution of robotic systems, contributing to significant advancements in robotics research.",
       "highlights": [
-        "Robogen AI & Robotics Research Platform: Led engineering of platform enabling co-evolution of robot morphologies and control systems.",
-        "AWS Migration Leadership: Spearheaded migration to AWS, enhancing the platform's capabilities and securing AWS Research Credits.",
-        "Research Innovation: Contributed to significant advancements in robotics, resulting in industry recognition and features on prominent research platforms."
+        "Led engineering of the Robogen platform for co-evolution in robotics, enhancing AI methodologies.",
+        "Spearheaded migration to AWS, featuring on the AWS Research Blog, and securing research credits.",
+        "Supervised over 20 master's students in robotics projects, fostering the next generation of AI researchers."
       ]
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "High‑Performance, Scalable URL Shortener",
       "publisher": "Medium / Terraform Registry",
-      "url": "https://medium.com/@anandbaskaran3193/high-performance-scalable-url-shortener-a1b2c3d4e5f6",
+      "url": "https://aws.plainenglish.io/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
       "releaseDate": "",
       "summary": "Technical architecture guide demonstrating implementation of enterprise-grade URL shortening service using infrastructure-as-code principles and cloud-native scalability patterns."
     }
@@ -190,14 +190,14 @@
       "name": "Full Stack & Backend",
       "keywords": [
         "Java",
-        "Python",
         "Spring",
+        "Python",
+        "TypeScript",
+        "Vue.js",
         "Microservices",
-        "REST APIs",
-        "PostgreSQL",
         "API Development",
-        "JavaScript",
-        "Vue.js"
+        "PostgreSQL",
+        "Kafka"
       ]
     },
     {
@@ -219,8 +219,7 @@
         "Docker",
         "AWS",
         "Azure",
-        "Monitoring & Observability",
-        "Deployment Automation"
+        "Monitoring & Observability"
       ]
     },
     {
@@ -276,26 +275,13 @@
   ],
   "projects": [
     {
-      "name": "PulseView - AI Market Intelligence",
-      "position": "Founder & AI Product Builder",
-      "description": "",
-      "highlights": [
-        "AI-Powered Analysis: Built real-time stock market analysis platform using AI agents to generate and explain trading signals.",
-        "Technical & News Integration: Based on technical and news-based insights for comprehensive market analysis.",
-        "Focus Areas: Explainable AI, speed, and clarity in financial analysis."
-      ],
-      "url": "https://pulse-view.anand-creations.com",
-      "startDate": "2025-05-01",
-      "endDate": ""
-    },
-    {
       "name": "Obermatt - Fintech Product Development",
       "position": "Product Owner & Technical Lead",
       "description": "",
       "highlights": [
-        "Enhanced CI/CD pipelines with Docker implementation — reduced deployment times by 30%.",
-        "Introduced agile methodologies — increased team productivity by 20% and ensured timely delivery.",
-        "Developed strategic roadmaps that boosted customer satisfaction and retention rates."
+        "Enhanced CI/CD pipelines with Docker implementation — reduced deployment times by 30%",
+        "Introduced agile methodologies — increased team productivity by 20% and ensured timely delivery",
+        "Developed strategic roadmaps that boosted customer satisfaction and retention rates"
       ],
       "url": "https://obermatt.com/en/home.html",
       "startDate": "2018-07-01",
@@ -306,12 +292,25 @@
       "position": "Co-Founder & Technical Lead",
       "description": "",
       "highlights": [
-        "Market Innovation: Identified untapped market need and launched first platform addressing complex cross-border financial challenges for Indian nationals in Switzerland.",
-        "Zero-to-One Product Development: Led development from concept to MVP in 3 months.",
-        "Customer-Driven Iteration: Established regular customer feedback loops driving product roadmap prioritization and 40% increase in user satisfaction."
+        "Market Innovation: Identified untapped market need and launched first platform addressing complex cross-border financial challenges for Indian nationals in Switzerland",
+        "Zero-to-One Product Development: Led development from concept to MVP in 3 months, acquiring early users through strategic partnerships",
+        "Compliance-First Design: Created solution addressing critical regulatory requirements across two complex financial jurisdictions"
       ],
       "url": "https://www.swissnri.com",
       "startDate": "2024-01-01",
+      "endDate": ""
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "AI-Powered Analysis: Built real-time stock market analysis platform using AI agents to generate and explain trading signals",
+        "Technical & News Integration: Based on technical and news-based insights for comprehensive market analysis",
+        "Focus Areas: Explainable AI, speed, and clarity in financial analysis"
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
       "endDate": ""
     }
   ],
@@ -320,7 +319,7 @@
     "jobTitle": "Senior Full Stack Developer",
     "jobUrl": "https://www.epam.com/careers/job-listings/job.epamgdo_blt70111583fa638764_en-us_Zurich_Switzerland.senior-full-stack-developer_zurich_switzerland",
     "jobDescription": "Do you have an advanced level of knowledge of various coding methodologies, practices and tools? Are you an experienced Full Stack Developer with expertise in banking area and excellent communication and problem-solving skills?\n\nIf so, we are looking for someone just like you to join us in Zürich. The role requires a mix of remote and on-site work in a hybrid model.\n\nYou will be part of a dynamic team, currently focusing on couple of key initiatives like building the new ReactJS based UI, integrating it with backend, key business functionality implementation and transforming application to be cloud ready.\n\n\n#LI-DNI\nResponsibilities\nActively contribute to transform the application to adopt the new UI tech stack with REST endpoint implementation\nDeliver features end-to-end and take ownership for developed components\nImplement new business requirements\nContribute to decision making process of new architecture patterns for the application\nWork together with business stakeholders about the status of development and take feedbacks from them\nRequirements\nIdeally 7+ years of work experience in developing JAVA/JEE based web application at enterprise level\n3+ years of hands-on experience in implementing REST APIs\nExperience in Spring 3.x+ modules like Core, MVC, Security, JDBC & JPA\nGood understanding of RDBMS like Oracle, PostgreSQL\nGood understanding of ReactJs (or Angular), JavaScript, Servlet\nFair understanding on UNIX system\nExposure to GIT, Junit, Sonar, conceptual knowledge of CI/CD\nExperience of Agile Methodology\nFluent English skill is a must, German language skill is a significant advantage\nNice to have\nPublic cloud exposure like Azure, AWS\nMicroservice architecture pattern experience\nConcept knowledge of containerized (Docker) application development and deployment\nKubernetes knowledge",
-    "notes": "Highlight Spring and azure",
-    "createdAt": "2025-09-14T22:33:02.626Z"
+    "notes": "Please heighlight Spring and azure",
+    "createdAt": "2025-09-14T22:46:40.570Z"
   }
 }

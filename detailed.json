@@ -248,25 +248,25 @@
     {
       "name": "Designing Robots Through Artificial Evolution",
       "publisher": "AWS Public Sector Blog",
-      "url": "https://aws.amazon.com/blogs/publicsector/designing-robots-through-artificial-evolution/",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
       "summary": "Featured technical article showcasing breakthrough research in evolutionary robotics, demonstrating how AWS cloud infrastructure enables large-scale artificial evolution simulations for autonomous system design."
     },
     {
       "name": "The Blueprint for Building High‑Impact Teams",
       "publisher": "Medium",
-      "url": "https://medium.com/@anandbaskaran3193/the-blueprint-for-building-high-impact-teams-b8d5c5f5c5e5",
+      "url": "https://anandb3.medium.com/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
       "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
     },
     {
       "name": "High‑Performance, Scalable URL Shortener",
       "publisher": "Medium / Terraform Registry",
-      "url": "https://medium.com/@anandbaskaran3193/high-performance-scalable-url-shortener-a1b2c3d4e5f6",
+      "url": "https://aws.plainenglish.io/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
       "summary": "Technical architecture guide demonstrating implementation of enterprise-grade URL shortening service using infrastructure-as-code principles and cloud-native scalability patterns."
     },
     {
       "name": "Visualizing AI Embeddings with Heatmap",
       "publisher": "TowardsDev",
-      "url": "https://towardsdev.com/visualizing-ai-embeddings-with-heatmap-a1b2c3d4e5f6",
+      "url": "https://towardsdev.com/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
       "summary": "Data visualization methodology article presenting innovative techniques for interpreting high-dimensional AI embeddings through interactive heatmap visualizations for enhanced model interpretability."
     }
   ],
