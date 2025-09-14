@@ -1,18 +1,16 @@
 {
   "basics": {
     "name": "Anand Bhaskaran",
-    "label": "Senior Software Engineer (Technical Lead - Innovation Labs)",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
     "image": "",
     "email": "anandbaskaran3193@gmail.com",
-    "phone": "",
+    "phone": "+41763043193",
     "url": "https://anand-creations.web.app",
-    "summary": "Lead Full Stack Engineer with 10+ years building user-centric, scalable SaaS platforms and resilient distributed systems. Skilled in modern tech stacks, scalable architecture, driving innovation and fostering collaboration to deliver high-impact solutions. Passionate about mentoring, maintaining high coding standards, and delivering business value.",
+    "summary": "AI-focused software engineer with a proven track record of shipping high-impact, production-ready systems. I combine deep expertise in full-stack development with a pragmatic, product-driven mindset. Delivered $1.5M+ in revenue through scalable systems, led high-performing engineering teams, and drove innovation through GenAI integrations that generated $337K cost savings and accelerated go-to-market.",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": "Zurich",
+      "countryCode": "Switzerland"
     },
     "profiles": [
       {
@@ -35,73 +33,58 @@
   "work": [
     {
       "name": "Beekeeper AG",
-      "position": "Senior Software Engineer (Technical Lead - Innovation Labs)",
+      "position": "Senior Software Engineer (Technical Lead)",
       "url": "https://www.beekeeper.io/",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Led high-impact product and platform initiatives powering communications at scale. Owned architecture and execution across distributed systems, AI/ML integrations, and developer productivity.",
+      "startDate": "2022-08",
+      "summary": "Technical Lead driving innovation across scalable systems, AI-powered features, and platform reliability. Delivered high-impact features used by millions, while mentoring engineers and improving developer velocity.",
       "highlights": [
-        "Implemented an Employee Referral System with 99.99% SLA, driving ~$500K annual revenue",
-        "Designed and developed high-scale distributed systems for a templating engine; optimized search and data pipelines for 10M+ users",
-        "Built production-grade GenAI systems (product translations, hyper-personalized demos) to improve scalability, sales efficiency, and user engagement",
-        "Executed engineering roadmaps and architecture best practices in partnership with product, design, and sales",
-        "Led L1/L2 on-call rotations; improved reliability and reduced MTTR for mission‑critical services",
-        "Improved CI/CD pipelines and reduced tech debt to accelerate deployments",
-        "Mentored senior engineers; led design reviews and drove technical excellence"
+        "Architected Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR",
+        "Built LLM-powered template translations using GitHub Actions and OpenAI APIs — translated 12K+ key-value pairs, saved $337K and accelerated go-to-market",
+        "Designed distributed templating engine serving 10M+ users — reduced setup time by 90%, powers 15% of all platform assets",
+        "Led GenAI demo template system for sales team — auto-generates customized content from Salesforce data, boosting demo speed and personalization",
+        "Spearheaded Search Platform Revamp — led teams of 2-4 engineers delivering scalable architecture for enhanced user engagement",
+        "Acting technical hiring manager for AI roles and deputy tech lead — mentored engineers while owning end-to-end delivery of core modules",
+        "Drove cross-functional GTM initiatives — Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, resulting in streamlined sales pipeline"
       ]
-    },
-    {
-      "name": "Upgrid AG",
-      "position": "Fractional CTO",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Hands-on lead for software architecture, engineering strategy, and implementation for startup initiatives.",
-      "highlights": []
-    },
-    {
-      "name": "Opt Alpha",
-      "position": "Technical Advisor",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Advised on scaling algorithmic trading systems with a focus on performance, reliability, and operational efficiency for HFT.",
-      "highlights": []
     },
     {
       "name": "Tenity",
-      "position": "Startup Mentor",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Technology Evaluation Member, mentoring startups on scalable architecture and product engineering.",
-      "highlights": []
-    },
-    {
-      "name": "Obermatt",
-      "position": "Technical Program Manager",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Defined and executed multi-year engineering roadmaps aligned with a long-term product vision.",
-      "highlights": []
-    },
-    {
-      "name": "EPFL — Laboratory of Intelligent Systems",
-      "position": "Software Engineer",
-      "url": "https://lis.epfl.ch/",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Founding Software Engineer for Dronistics spin‑off and contributor to AI‑driven robotics platforms; supported research and mentored students.",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "summary": "Technology Evaluation Panel member and mentor guiding startups on scalability, technical strategy, and innovation practices.",
       "highlights": [
-        "Architected and developed a drone delivery system (Dronistics) with 500+ deliveries in collaboration with major corporations",
-        "Developed and maintained RoboGen, an AI-based robotic evolution platform; featured in a blog post and awarded AWS cloud credits",
-        "Led modular drone system development for the Swiss Army",
-        "Supervised 20+ master’s students at EPFL in robotics and AI research"
+        "Conducted thorough evaluations of emerging technologies for seed-to-VC startups",
+        "Advised multiple startups on technical hiring, AI adoption, and scalable solution development"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for Dronistics, an autonomous drone delivery system used in 500+ last-mile deliveries.",
+      "highlights": [
+        "Drone Delivery Innovation — Dronistics Spin-Off: Founding engineer for Dronistics, an autonomous drone delivery system used in 500+ last-mile deliveries",
+        "Delivered the full software/cloud stack and partnered with firms like Unilever; showcased at CES Las Vegas",
+        "Won 'AWS cloud credits for research' award for Robogen 2.0"
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Led engineering of Robogen, an open-source platform for the co-evolution of robot morphologies and control systems.",
+      "highlights": [
+        "Robogen — AI & Robotics Research Platform: Led engineering of Robogen, an open-source platform for the co-evolution of robot morphologies and control systems",
+        "Spearheaded its migration to AWS, securing AWS Research Credits, and featured on the AWS Research Blog",
+        "Teaching Assistant for Evolutionary Robotics, an AI-based system for Robotics",
+        "Supervised 20+ master's students at EPFL"
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "Quantic School of Business and Technology",
@@ -110,18 +93,15 @@
       "studyType": "MBA",
       "startDate": "2019",
       "endDate": "2020",
-      "score": "93.2%",
-      "courses": []
+      "score": "93.2%"
     },
     {
       "institution": "EIT Digital",
       "url": "https://www.eitdigital.eu/",
       "area": "Innovation & Entrepreneurship",
-      "studyType": "Master (programme)",
+      "studyType": "Master (Programme)",
       "startDate": "2014",
-      "endDate": "2016",
-      "score": "",
-      "courses": []
+      "endDate": "2016"
     },
     {
       "institution": "Eindhoven University of Technology (TU/e)",
@@ -130,8 +110,7 @@
       "studyType": "MSc (Netherlands)",
       "startDate": "2015",
       "endDate": "2016",
-      "score": "CGPA 8.01/10",
-      "courses": []
+      "score": "8.01/10"
     },
     {
       "institution": "KTH Royal Institute of Technology",
@@ -140,8 +119,7 @@
       "studyType": "MSc (Sweden)",
       "startDate": "2014",
       "endDate": "2015",
-      "score": "CGPA 9.10/10",
-      "courses": []
+      "score": "9.10/10"
     },
     {
       "institution": "Amrita Vishwa Vidyapeetham",
@@ -150,217 +128,161 @@
       "studyType": "Bachelor of Engineering",
       "startDate": "2010",
       "endDate": "2014",
-      "score": "CGPA 8.18/10",
-      "courses": []
+      "score": "8.18/10"
     }
   ],
-  "awards": [],
   "certificates": [
     {
-      "name": "Building modern Java Applications",
-      "date": "",
-      "issuer": "AWS",
-      "url": ""
-    },
-    {
-      "name": "Technology Specialist",
-      "date": "",
-      "issuer": "Microsoft (MCTS)",
-      "url": ""
-    },
-    {
-      "name": "for Java developers",
-      "date": "",
-      "issuer": "MongoDB University",
-      "url": ""
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
     },
     {
       "name": "Build LLM Apps with LangChain",
-      "date": "",
-      "issuer": "DeepLearning.AI",
-      "url": ""
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "Build a Data Science Web App with Streamlit and Python",
+      "issuer": "Coursera"
+    },
+    {
+      "name": "edX Honor Code Certificate for Circuits and Electronics",
+      "issuer": "edX"
     }
   ],
   "publications": [
     {
-      "name": "Designing robots through artificial evolution",
+      "name": "Designing Robots Through Artificial Evolution",
       "publisher": "AWS Public Sector Blog",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
+      "url": "https://aws.amazon.com/blogs/publicsector/"
     },
     {
       "name": "The Blueprint for Building High‑Impact Teams",
-      "publisher": "Medium",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
+      "publisher": "Medium"
     },
     {
       "name": "Visualizing AI Embeddings with Heatmap",
-      "publisher": "TowardsDev",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
+      "publisher": "TowardsDev"
     },
     {
       "name": "High‑Performance, Scalable URL Shortener",
-      "publisher": "Medium / Terraform Registry",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
+      "publisher": "Medium / Terraform Registry"
+    },
+    {
+      "name": "Efficient Charging of Battery and Production of Power from Solar Energy",
+      "publisher": "Academic Research"
+    },
+    {
+      "name": "Maximizing the Expected Utility in Search Algorithms",
+      "publisher": "Academic Research"
     }
   ],
   "skills": [
     {
-      "name": "System Design",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microservices",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Java",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "TypeScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Vue.js",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "API Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Kafka",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "ClickHouse",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "AWS (API GW, DynamoDB, S3, SNS)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Kubernetes",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Terraform",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CI/CD",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Monitoring & Observability",
-      "level": "",
-      "keywords": ["Grafana"]
-    },
-    {
-      "name": "Generative AI & RAG",
-      "level": "",
-      "keywords": ["AI Agents", "RAG Pipelines"]
-    },
-    {
       "name": "Technical Leadership",
-      "level": "",
-      "keywords": ["Mentoring", "Architecture", "Cross‑functional collaboration", "Stakeholder alignment"]
+      "keywords": ["System Architecture", "Team Leadership", "Technical Strategy", "Mentoring", "Cross-functional Collaboration", "Engineering Excellence"]
+    },
+    {
+      "name": "Full Stack & Backend",
+      "keywords": ["Java", "Python", "TypeScript", "Vue.js", "Microservices", "API Development", "PostgreSQL", "Kafka", "Elastic Search"]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "keywords": ["Generative AI", "LLM Applications", "RAG Pipelines", "AI Agents", "OpenAI APIs", "AI Product Design", "Translation Systems"]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": ["CI/CD", "Kubernetes", "Docker", "Terraform", "AWS", "Monitoring & Observability", "ClickHouse", "Deployment Automation"]
+    },
+    {
+      "name": "Product & Business",
+      "keywords": ["Product Ownership", "A/B Testing", "Revenue Generation", "Go-to-Market", "Stakeholder Management", "Strategic Roadmaps"]
     }
   ],
-  "languages": [],
   "interests": [
     {
-      "name": "AI & Creativity",
-      "keywords": []
+      "name": "AI & Creativity"
     },
     {
-      "name": "Microfrontends",
-      "keywords": []
+      "name": "Clean Architecture (TDD)"
     },
     {
-      "name": "Startup Mentoring",
-      "keywords": []
+      "name": "Microfrontends"
     },
     {
-      "name": "Clean Architecture (TDD)",
-      "keywords": []
+      "name": "Startup Mentoring"
     }
   ],
-  "references": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services",
+      "summary": "Received AWS cloud credits for Robogen 2.0 research project"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology",
+      "summary": "Funding for innovative projects and research initiatives"
+    },
+    {
+      "title": "Appreciation from John T Chambers",
+      "awarder": "Ex-CEO of Cisco Systems",
+      "summary": "Recognition for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "Students' Challenge Award Winner",
+      "summary": "Awarded for exceptional problem-solving skills and innovative thinking"
+    },
+    {
+      "title": "Texas Instruments India Analog Design Contest Winner",
+      "awarder": "Texas Instruments",
+      "summary": "Recognition for innovative analog circuit design and practical application"
+    }
+  ],
   "projects": [
     {
-      "name": "Employee Referral System",
-      "startDate": "",
-      "endDate": "",
-      "description": "High‑availability referral platform meeting 99.99% SLA and generating significant annual revenue.",
-      "highlights": ["~$500K annual revenue impact", "Owns end‑to‑end design, implementation, and iteration"],
-      "url": ""
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "description": "Technical co-founder of fintech platform simplifying tax and financial compliance for NRIs in Switzerland.",
+      "highlights": ["Scalable SaaS architecture", "DTAA and FEMA compliance automation", "Cross-border financial optimization"],
+      "url": "https://www.swissnri.com"
     },
     {
-      "name": "High‑scale Templating Engine",
-      "startDate": "",
-      "endDate": "",
-      "description": "Distributed templating platform bridging use‑cases and solutions with optimized search & data pipelines.",
-      "highlights": ["Supports 10M+ users"],
-      "url": ""
+      "name": "Proplab - AI Real Estate Tools",
+      "description": "AI-powered platform for small real estate teams with digitalized property inspection and marketing automation.",
+      "highlights": ["Image-backed inspection protocols", "AI marketing assistant for listing creation"],
+      "url": "https://proplab.io"
     },
     {
-      "name": "GenAI Platform: Translations & Hyper‑personalized Demos",
-      "startDate": "",
-      "endDate": "",
-      "description": "Production‑grade Generative AI systems to improve global scalability, sales efficiency and user engagement.",
-      "highlights": ["Shipped multiple GenAI features into production"],
-      "url": ""
+      "name": "PulseView - AI Market Intelligence",
+      "description": "Real-time stock market analysis platform using AI agents for trading signal generation and explanation.",
+      "highlights": ["Explainable AI for financial analysis", "Technical and news-based insights"],
+      "url": "https://pulse-view.anand-creations.com"
     },
+
     {
-      "name": "Dronistics — Drone Delivery System",
-      "startDate": "",
-      "endDate": "",
-      "description": "End‑to‑end drone delivery platform deployed with industry partners.",
-      "highlights": ["Completed 500+ deliveries"],
-      "url": ""
-    },
-    {
-      "name": "RoboGen — Robotic Evolution Platform",
-      "startDate": "",
-      "endDate": "",
-      "description": "AI‑based platform for robotic evolution, used in research and education.",
-      "highlights": ["Featured write‑up and AWS credits awarded"],
-      "url": ""
-    },
-    {
-      "name": "Modular Drone System",
-      "startDate": "",
-      "endDate": "",
-      "description": "Modular drone architecture developed for the Swiss Army.",
-      "highlights": [],
-      "url": ""
+      "name": "Obermatt - Fintech Product Development",
+      "description": "Technical Product Manager bridging business objectives with scalable product development for fintech solutions.",
+      "highlights": ["Enhanced CI/CD pipelines with Docker implementation — reduced deployment times by 30%", "Introduced agile methodologies — increased team productivity by 20% and ensured timely delivery", "Developed strategic roadmaps that boosted customer satisfaction and retention rates"],
+      "startDate": "2018-07",
+      "endDate": "2021-01"
     }
   ]
 }

@@ -412,6 +412,35 @@ ul.two-column li {
   flex-wrap: wrap;
 }
 
+.skills-container {
+  margin-bottom: 25px;
+}
+
+.skills-section {
+  margin-bottom: 20px;
+}
+
+.skills-flex {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+  margin-bottom: 8px;
+}
+
+.skill-pill {
+  font-size: 10px;
+  font-weight: 400;
+  color: #39424B;
+  padding: 4px 10px;
+  margin: 2px 0;
+  background: #f8f8f8;
+  border-radius: 12px;
+  border: 1px solid #e8e8e8;
+  white-space: nowrap;
+  display: inline-block;
+}
+
 .main-skill {
   font-size: 80%;
 }
