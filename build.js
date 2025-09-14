@@ -25,8 +25,8 @@ function normalizeJobTitle(jobTitle) {
 
 // Function to prompt user for input
 function prompt(question) {
-  return new Promise((resolve) => {
-    rl.question(question, (answer) => {
+  return new Promise(resolve => {
+    rl.question(question, answer => {
       resolve(answer.trim());
     });
   });
@@ -34,7 +34,7 @@ function prompt(question) {
 
 // Function to prompt user for multi-line input
 function promptMultiLine(question) {
-  return new Promise((resolve) => {
+  return new Promise(resolve => {
     // eslint-disable-next-line no-console
     console.log(question);
     // eslint-disable-next-line no-console
@@ -42,7 +42,7 @@ function promptMultiLine(question) {
 
     const lines = [];
 
-    const processLine = (line) => {
+    const processLine = line => {
       if (line.trim() === 'END') {
         rl.removeListener('line', processLine);
         resolve(lines.join('\n').trim());

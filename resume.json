@@ -46,7 +46,24 @@
         "Acting technical hiring manager for AI roles and deputy tech lead — mentored engineers while owning end-to-end delivery of core modules",
         "Drove cross-functional GTM initiatives — Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, resulting in streamlined sales pipeline"
       ],
-      "technologies": ["Java","Python", "Vue", "Kubernetes", "AWS", "OpenAI", "LangChain", "Kafka", "PostgreSQL", "Elastic Search", "Jenkins", "GitHub Actions", "ClickHouse", "Claude", "Langfuse", "CrewAI"]
+      "technologies": [
+        "Java",
+        "Python",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "LangChain",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "Jenkins",
+        "GitHub Actions",
+        "ClickHouse",
+        "Claude",
+        "Langfuse",
+        "CrewAI"
+      ]
     },
     {
       "name": "Tenity",

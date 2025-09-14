@@ -51,7 +51,31 @@
         "Cross-functional GTM Initiatives: Drove initiatives across Product and GTM including Seasonal Templates, Re-ignite Revenue, Tippspiel Analytics, Employee Lifecycle GTM, and Sentiment Analysis GTM",
         "Search Platform Revamp & Team Leadership: Led teams of 2-4 engineers delivering key features (Employee Referral, Home Widgets, Search Revamp) with focus on scalable architecture and pragmatic delivery"
       ],
-       "technologies": ["Java", "Python", "Vue", "Hybrid App", "Android", "iOS", "Module Federation", "Microfrontends", "Kubernetes", "AWS", "OpenAI", "LangChain", "Kafka", "PostgreSQL", "Elastic Search", "Jenkins", "GitHub Actions", "ClickHouse", "Claude", "Langfuse", "CrewAI", "Salesforce", "Solution Engineering"]
+      "technologies": [
+        "Java",
+        "Python",
+        "Vue",
+        "Hybrid App",
+        "Android",
+        "iOS",
+        "Module Federation",
+        "Microfrontends",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "LangChain",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "Jenkins",
+        "GitHub Actions",
+        "ClickHouse",
+        "Claude",
+        "Langfuse",
+        "CrewAI",
+        "Salesforce",
+        "Solution Engineering"
+      ]
     },
     {
       "name": "Tenity",
@@ -65,7 +89,14 @@
         "Technical Advisory: Advised multiple startups on technical hiring, AI adoption, and scalable solution development",
         "Opt Alpha (Tech Advisor): Mentoring engineering teams on scaling algorithmic trading systems, optimizing performance, reliability, and operational efficiency for high-frequency trading"
       ],
-      "technologies": ["Scalability", "Technical Strategy", "Innovation Practices", "AI Adoption", "Algorithmic Trading", "High-Frequency Trading"]
+      "technologies": [
+        "Scalability",
+        "Technical Strategy",
+        "Innovation Practices",
+        "AI Adoption",
+        "Algorithmic Trading",
+        "High-Frequency Trading"
+      ]
     },
     {
       "name": "Dronistics",
@@ -81,7 +112,17 @@
         "Enterprise Partnerships: Delivered complete cloud infrastructure and DevOps pipeline enabling scalable operations for enterprise partnerships",
         "Performance Optimization: Engineered real-time flight control APIs and logistics optimization algorithms — reduced delivery times by 40% while maintaining 99.5% safety record"
       ],
-      "technologies": ["Vue", "Java", "PostgreSQL", "AWS", "Cloud Infrastructure", "DevOps", "Flight Control APIs", "Logistics Optimization", "Real-time Systems"]
+      "technologies": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Cloud Infrastructure",
+        "DevOps",
+        "Flight Control APIs",
+        "Logistics Optimization",
+        "Real-time Systems"
+      ]
     },
     {
       "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
@@ -347,7 +388,16 @@
       ],
       "url": "https://pulse-view.anand-creations.com",
       "startDate": "2025-05-01",
-      "technologies": ["AI Agents", "Financial Analysis", "Technical Analysis", "News Processing", "Trading Signals", "Explainable AI", "React", "Automation"]
+      "technologies": [
+        "AI Agents",
+        "Financial Analysis",
+        "Technical Analysis",
+        "News Processing",
+        "Trading Signals",
+        "Explainable AI",
+        "React",
+        "Automation"
+      ]
     },
 
     {
