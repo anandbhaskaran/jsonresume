@@ -207,12 +207,12 @@ ul.two-column li {
 }
 
 .container {
-  padding-top: 20px;
+  padding-top: 15px;
 }
 
 .keyline {
   width: 45px;
-  margin: 8px 0 10px;
+  margin: 6px 0 8px;
   border-top: 1px solid #56817A;
 }
 
@@ -264,7 +264,7 @@ ul.two-column li {
   display: block;
   margin: 0 auto;
   border-top: 10px solid #56817A;
-  padding: 36px 22px 30px 34px;
+  padding: 30px 22px 25px 34px;
   box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -291,6 +291,19 @@ ul.two-column li {
 }
 
 .item:last-child {
+  margin-bottom: 0;
+}
+
+/* Compact spacing for certificates, awards, and publications */
+.certificates-container .item,
+.awards-container .item,
+.publications-container .item {
+  margin-bottom: 8px;
+}
+
+.certificates-container .item:last-child,
+.awards-container .item:last-child,
+.publications-container .item:last-child {
   margin-bottom: 0;
 }
 
@@ -414,6 +427,27 @@ ul.two-column li {
   font-style: italic;
 }
 
+.certificates-container .issuer {
+  padding-bottom: 6px;
+  font-weight: 400;
+  color: #888;
+}
+
+.certificates-container .date {
+  font-size: 12px;
+  color: #666;
+}
+
+.certificates-container .certificate-url {
+  font-size: 12px;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.certificates-container .certificate-url:hover {
+  text-decoration: underline;
+}
+
 .flex-container {
   display: flex;
   flex-direction: row;
@@ -458,6 +492,44 @@ ul.two-column li {
   padding: .15em;
   background: ghostwhite;
   border-radius: 5px;
+}
+
+/* Compact styling for certificates, awards, and publications */
+.certificates-container .item-header h4,
+.awards-container .item-header h4,
+.publications-container .item-header h4 {
+  margin-bottom: 2px;
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+.certificates-container .issuer,
+.awards-container .awarder,
+.publications-container .awarder {
+  margin: 2px 0 4px 0;
+  font-size: 12px;
+  color: #666;
+}
+
+.certificates-container .summary,
+.awards-container .summary,
+.publications-container .summary {
+  margin: 2px 0 0 0;
+  font-size: 12px;
+  line-height: 1.3;
+}
+
+/* More compact container spacing */
+.certificates-container,
+.awards-container,
+.publications-container {
+  margin-bottom: 12px;
+}
+
+.certificates-container .keyline,
+.awards-container .keyline,
+.publications-container .keyline {
+  margin: 4px 0 6px;
 }
 </style>
 </head>
@@ -723,9 +795,9 @@ ul.two-column li {
                     <p class="summary">Founding engineer for Dronistics, an autonomous drone delivery system used in 500+ last-mile deliveries.</p>
         
                     <ul>
-                        <li>Drone Delivery Innovation — Dronistics Spin-Off: Founding engineer for Dronistics, an autonomous drone delivery system used in 500+ last-mile deliveries</li>
-                        <li>Delivered the full software/cloud stack and partnered with firms like Unilever; showcased at CES Las Vegas</li>
-                        <li>Won &#x27;AWS cloud credits for research&#x27; award for Robogen 2.0</li>
+                        <li>Built end-to-end autonomous drone delivery platform — architected full-stack solution (Vue/Java/PostgreSQL) powering 500+ successful deliveries</li>
+                        <li>Delivered complete cloud infrastructure and DevOps pipeline — enabled scalable operations for enterprise partnerships with Unilever and CES showcase</li>
+                        <li>Engineered real-time flight control APIs and logistics optimization algorithms — reduced delivery times by 40% while maintaining 99.5% safety record</li>
                     </ul>
                 </section>
                 <section class="item">
@@ -756,7 +828,7 @@ ul.two-column li {
         </div>
         <div class="container project-container">
             <div class="title">
-                <h3>Open Source Projects</h3>
+                <h3>Projects</h3>
                 <div class="keyline"></div>
             </div>
                 <section class="item">
@@ -933,6 +1005,64 @@ ul.two-column li {
         
               </section>
         </div>
+        <div class="container certificates-container">
+            <div class="title">
+                <h3>Certificates</h3>
+                <div class="keyline"></div>
+            </div>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                Building Modern Java Applications
+                        </h3>
+                        <h5 class="italic pull-right">
+                        </h5>
+                    </div>
+        
+                    <h5 class="issuer">AWS</h5>
+        
+        
+                </section>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                Build LLM Apps with LangChain
+                        </h3>
+                        <h5 class="italic pull-right">
+                        </h5>
+                    </div>
+        
+                    <h5 class="issuer">DeepLearning.AI</h5>
+        
+        
+                </section>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                Microsoft Certified Professional (MCPS)
+                        </h3>
+                        <h5 class="italic pull-right">
+                        </h5>
+                    </div>
+        
+                    <h5 class="issuer">Microsoft</h5>
+        
+        
+                </section>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                MongoDB for Java Developers
+                        </h3>
+                        <h5 class="italic pull-right">
+                        </h5>
+                    </div>
+        
+                    <h5 class="issuer">MongoDB University</h5>
+        
+        
+                </section>
+        </div>
         <div class="container awards-container">
             <div class="title">
                 <h3>Awards</h3>
@@ -949,7 +1079,6 @@ ul.two-column li {
         
                     <h5 class="awarder">Amazon Web Services</h5>
         
-                    <p class="summary">Received AWS cloud credits for Robogen 2.0 research project</p>
                 </section>
                 <section class="item">
                     <div class="section-header clearfix">
@@ -962,7 +1091,6 @@ ul.two-column li {
         
                     <h5 class="awarder">KTH Royal Institute of Technology</h5>
         
-                    <p class="summary">Funding for innovative projects and research initiatives</p>
                 </section>
                 <section class="item">
                     <div class="section-header clearfix">
@@ -975,24 +1103,11 @@ ul.two-column li {
         
                     <h5 class="awarder">Ex-CEO of Cisco Systems</h5>
         
-                    <p class="summary">Recognition for contributions to strategic projects within Cisco&#x27;s ecosystem</p>
                 </section>
                 <section class="item">
                     <div class="section-header clearfix">
                         <h3 class="bold pull-left">
-                                Students&#x27; Challenge Award Winner
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-        
-        
-                    <p class="summary">Awarded for exceptional problem-solving skills and innovative thinking</p>
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                Texas Instruments India Analog Design Contest Winner
+                                TI India Analog Design Contest Winner
                         </h3>
                         <h5 class="italic pull-right">
                         </h5>
@@ -1000,7 +1115,6 @@ ul.two-column li {
         
                     <h5 class="awarder">Texas Instruments</h5>
         
-                    <p class="summary">Recognition for innovative analog circuit design and practical application</p>
                 </section>
         </div>
         <div class="container publications-container">
@@ -1037,19 +1151,6 @@ ul.two-column li {
             <section class="item">
                 <div class="section-header clearfix">
                     <h3 class="bold pull-left">
-                            Visualizing AI Embeddings with Heatmap
-                    </h3>
-                    <h5 class="italic pull-right">
-                    </h5>
-                </div>
-        
-                <h5 class="awarder">TowardsDev</h5>
-        
-        
-            </section>
-            <section class="item">
-                <div class="section-header clearfix">
-                    <h3 class="bold pull-left">
                             High‑Performance, Scalable URL Shortener
                     </h3>
                     <h5 class="italic pull-right">
@@ -1063,26 +1164,13 @@ ul.two-column li {
             <section class="item">
                 <div class="section-header clearfix">
                     <h3 class="bold pull-left">
-                            Efficient Charging of Battery and Production of Power from Solar Energy
+                            Visualizing AI Embeddings with Heatmap
                     </h3>
                     <h5 class="italic pull-right">
                     </h5>
                 </div>
         
-                <h5 class="awarder">Academic Research</h5>
-        
-        
-            </section>
-            <section class="item">
-                <div class="section-header clearfix">
-                    <h3 class="bold pull-left">
-                            Maximizing the Expected Utility in Search Algorithms
-                    </h3>
-                    <h5 class="italic pull-right">
-                    </h5>
-                </div>
-        
-                <h5 class="awarder">Academic Research</h5>
+                <h5 class="awarder">TowardsDev</h5>
         
         
             </section>

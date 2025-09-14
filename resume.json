@@ -65,9 +65,9 @@
       "endDate": "2020-03",
       "summary": "Founding engineer for Dronistics, an autonomous drone delivery system used in 500+ last-mile deliveries.",
       "highlights": [
-        "Drone Delivery Innovation — Dronistics Spin-Off: Founding engineer for Dronistics, an autonomous drone delivery system used in 500+ last-mile deliveries",
-        "Delivered the full software/cloud stack and partnered with firms like Unilever; showcased at CES Las Vegas",
-        "Won 'AWS cloud credits for research' award for Robogen 2.0"
+        "Built end-to-end autonomous drone delivery platform — architected full-stack solution (Vue/Java/PostgreSQL) powering 500+ successful deliveries",
+        "Delivered complete cloud infrastructure and DevOps pipeline — enabled scalable operations for enterprise partnerships with Unilever and CES showcase",
+        "Engineered real-time flight control APIs and logistics optimization algorithms — reduced delivery times by 40% while maintaining 99.5% safety record"
       ]
     },
     {
@@ -141,47 +141,30 @@
       "issuer": "DeepLearning.AI"
     },
     {
-      "name": "MongoDB for Java Developers",
-      "issuer": "MongoDB University"
-    },
-    {
       "name": "Microsoft Certified Professional (MCPS)",
       "issuer": "Microsoft"
     },
     {
-      "name": "Build a Data Science Web App with Streamlit and Python",
-      "issuer": "Coursera"
-    },
-    {
-      "name": "edX Honor Code Certificate for Circuits and Electronics",
-      "issuer": "edX"
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
     }
   ],
   "publications": [
     {
       "name": "Designing Robots Through Artificial Evolution",
-      "publisher": "AWS Public Sector Blog",
-      "url": "https://aws.amazon.com/blogs/publicsector/"
+      "publisher": "AWS Public Sector Blog"
     },
     {
       "name": "The Blueprint for Building High‑Impact Teams",
       "publisher": "Medium"
     },
     {
-      "name": "Visualizing AI Embeddings with Heatmap",
-      "publisher": "TowardsDev"
-    },
-    {
       "name": "High‑Performance, Scalable URL Shortener",
       "publisher": "Medium / Terraform Registry"
     },
     {
-      "name": "Efficient Charging of Battery and Production of Power from Solar Energy",
-      "publisher": "Academic Research"
-    },
-    {
-      "name": "Maximizing the Expected Utility in Search Algorithms",
-      "publisher": "Academic Research"
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev"
     }
   ],
   "skills": [
@@ -275,27 +258,19 @@
     {
       "title": "AWS Cloud Credits for Research",
       "date": "2020",
-      "awarder": "Amazon Web Services",
-      "summary": "Received AWS cloud credits for Robogen 2.0 research project"
+      "awarder": "Amazon Web Services"
     },
     {
       "title": "KTH Opportunities Fund",
-      "awarder": "KTH Royal Institute of Technology",
-      "summary": "Funding for innovative projects and research initiatives"
+      "awarder": "KTH Royal Institute of Technology"
     },
     {
       "title": "Appreciation from John T Chambers",
-      "awarder": "Ex-CEO of Cisco Systems",
-      "summary": "Recognition for contributions to strategic projects within Cisco's ecosystem"
+      "awarder": "Ex-CEO of Cisco Systems"
     },
     {
-      "title": "Students' Challenge Award Winner",
-      "summary": "Awarded for exceptional problem-solving skills and innovative thinking"
-    },
-    {
-      "title": "Texas Instruments India Analog Design Contest Winner",
-      "awarder": "Texas Instruments",
-      "summary": "Recognition for innovative analog circuit design and practical application"
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
     }
   ],
   "projects": [

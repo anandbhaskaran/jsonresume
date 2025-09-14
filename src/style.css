@@ -199,12 +199,12 @@ ul.two-column li {
 }
 
 .container {
-  padding-top: 20px;
+  padding-top: 15px;
 }
 
 .keyline {
   width: 45px;
-  margin: 8px 0 10px;
+  margin: 6px 0 8px;
   border-top: 1px solid #56817A;
 }
 
@@ -256,7 +256,7 @@ ul.two-column li {
   display: block;
   margin: 0 auto;
   border-top: 10px solid #56817A;
-  padding: 36px 22px 30px 34px;
+  padding: 30px 22px 25px 34px;
   box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -283,6 +283,19 @@ ul.two-column li {
 }
 
 .item:last-child {
+  margin-bottom: 0;
+}
+
+/* Compact spacing for certificates, awards, and publications */
+.certificates-container .item,
+.awards-container .item,
+.publications-container .item {
+  margin-bottom: 8px;
+}
+
+.certificates-container .item:last-child,
+.awards-container .item:last-child,
+.publications-container .item:last-child {
   margin-bottom: 0;
 }
 
@@ -406,6 +419,27 @@ ul.two-column li {
   font-style: italic;
 }
 
+.certificates-container .issuer {
+  padding-bottom: 6px;
+  font-weight: 400;
+  color: #888;
+}
+
+.certificates-container .date {
+  font-size: 12px;
+  color: #666;
+}
+
+.certificates-container .certificate-url {
+  font-size: 12px;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.certificates-container .certificate-url:hover {
+  text-decoration: underline;
+}
+
 .flex-container {
   display: flex;
   flex-direction: row;
@@ -450,4 +484,42 @@ ul.two-column li {
   padding: .15em;
   background: ghostwhite;
   border-radius: 5px;
+}
+
+/* Compact styling for certificates, awards, and publications */
+.certificates-container .item-header h4,
+.awards-container .item-header h4,
+.publications-container .item-header h4 {
+  margin-bottom: 2px;
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+.certificates-container .issuer,
+.awards-container .awarder,
+.publications-container .awarder {
+  margin: 2px 0 4px 0;
+  font-size: 12px;
+  color: #666;
+}
+
+.certificates-container .summary,
+.awards-container .summary,
+.publications-container .summary {
+  margin: 2px 0 0 0;
+  font-size: 12px;
+  line-height: 1.3;
+}
+
+/* More compact container spacing */
+.certificates-container,
+.awards-container,
+.publications-container {
+  margin-bottom: 12px;
+}
+
+.certificates-container .keyline,
+.awards-container .keyline,
+.publications-container .keyline {
+  margin: 4px 0 6px;
 }
