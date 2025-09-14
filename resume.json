@@ -187,23 +187,64 @@
   "skills": [
     {
       "name": "Technical Leadership",
-      "keywords": ["System Architecture", "Team Leadership", "Technical Strategy", "Mentoring", "Cross-functional Collaboration", "Engineering Excellence"]
+      "keywords": [
+        "System Architecture",
+        "Team Leadership",
+        "Technical Strategy",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Engineering Excellence"
+      ]
     },
     {
       "name": "Full Stack & Backend",
-      "keywords": ["Java", "Python", "TypeScript", "Vue.js", "Microservices", "API Development", "PostgreSQL", "Kafka", "Elastic Search"]
+      "keywords": [
+        "Java",
+        "Python",
+        "TypeScript",
+        "Vue.js",
+        "Microservices",
+        "API Development",
+        "PostgreSQL",
+        "Kafka",
+        "Elastic Search"
+      ]
     },
     {
       "name": "AI & Machine Learning",
-      "keywords": ["Generative AI", "LLM Applications", "RAG Pipelines", "AI Agents", "OpenAI APIs", "AI Product Design", "Translation Systems"]
+      "keywords": [
+        "Generative AI",
+        "LLM Applications",
+        "RAG Pipelines",
+        "AI Agents",
+        "OpenAI APIs",
+        "AI Product Design",
+        "Translation Systems"
+      ]
     },
     {
       "name": "DevOps & Infrastructure",
-      "keywords": ["CI/CD", "Kubernetes", "Docker", "Terraform", "AWS", "Monitoring & Observability", "ClickHouse", "Deployment Automation"]
+      "keywords": [
+        "CI/CD",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "AWS",
+        "Monitoring & Observability",
+        "ClickHouse",
+        "Deployment Automation"
+      ]
     },
     {
       "name": "Product & Business",
-      "keywords": ["Product Ownership", "A/B Testing", "Revenue Generation", "Go-to-Market", "Stakeholder Management", "Strategic Roadmaps"]
+      "keywords": [
+        "Product Ownership",
+        "A/B Testing",
+        "Revenue Generation",
+        "Go-to-Market",
+        "Stakeholder Management",
+        "Strategic Roadmaps"
+      ]
     }
   ],
   "interests": [
@@ -261,7 +302,11 @@
     {
       "name": "SwissNRI - Cross-border Fintech Platform",
       "description": "Technical co-founder of fintech platform simplifying tax and financial compliance for NRIs in Switzerland.",
-      "highlights": ["Scalable SaaS architecture", "DTAA and FEMA compliance automation", "Cross-border financial optimization"],
+      "highlights": [
+        "Scalable SaaS architecture",
+        "DTAA and FEMA compliance automation",
+        "Cross-border financial optimization"
+      ],
       "url": "https://www.swissnri.com"
     },
     {
@@ -280,7 +325,11 @@
     {
       "name": "Obermatt - Fintech Product Development",
       "description": "Technical Product Manager bridging business objectives with scalable product development for fintech solutions.",
-      "highlights": ["Enhanced CI/CD pipelines with Docker implementation — reduced deployment times by 30%", "Introduced agile methodologies — increased team productivity by 20% and ensured timely delivery", "Developed strategic roadmaps that boosted customer satisfaction and retention rates"],
+      "highlights": [
+        "Enhanced CI/CD pipelines with Docker implementation — reduced deployment times by 30%",
+        "Introduced agile methodologies — increased team productivity by 20% and ensured timely delivery",
+        "Developed strategic roadmaps that boosted customer satisfaction and retention rates"
+      ],
       "startDate": "2018-07",
       "endDate": "2021-01"
     }
