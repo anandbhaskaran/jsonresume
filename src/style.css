@@ -70,7 +70,7 @@ body {
   background: white;
   margin: 50px 0 100px;
   letter-spacing: .3px;
-  color: #39424B;
+  color: #4A5568;
 }
 
 h1,
@@ -92,14 +92,14 @@ h1 {
 
 h2 {
   font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 16px;
   letter-spacing: .5px;
 }
 
 h3 {
   font-family: "Lato", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 14px;
   letter-spacing: .4px;
 }
@@ -110,7 +110,7 @@ h3.bold {
 
 h4 {
   font-family: "Lato", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 12px;
 }
 
@@ -120,7 +120,7 @@ h4.bold {
 
 h5 {
   font-family: "Lato", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 11px;
 }
 
@@ -151,6 +151,8 @@ a .fa-external-link {
 p,
 li {
   font-size: 12px;
+  font-weight: 400;
+  opacity: 0.85;
 }
 
 blockquote {
@@ -162,7 +164,7 @@ blockquote {
 }
 
 em {
-  color: #999;
+  color: #718096;
 }
 
 ul {
@@ -242,7 +244,7 @@ ul.two-column li {
 .sublink {
   font-size: 70%;
   font-weight: 200;
-  color: dimgray;
+  color: #718096;
 }
 
 .capitalize {
@@ -442,13 +444,13 @@ ul.two-column li {
 
 .certificates-container .date {
   font-size: 10px;
-  color: #666;
+  color: #718096;
   font-weight: normal;
 }
 
 .certificates-container .certificate-url {
   font-size: 10px;
-  color: #0066cc;
+  color: #56817A;
   text-decoration: none;
 }
 
@@ -478,13 +480,13 @@ ul.two-column li {
 
 .awards-container .date {
   font-size: 10px;
-  color: #666;
+  color: #718096;
   font-weight: normal;
 }
 
 .awards-container .award-url {
   font-size: 10px;
-  color: #0066cc;
+  color: #56817A;
   text-decoration: none;
 }
 
@@ -517,7 +519,7 @@ ul.two-column li {
 .skill-pill {
   font-size: 10px;
   font-weight: 400;
-  color: #39424B;
+  color: #4A5568;
   padding: 4px 10px;
   margin: 2px;
   background: #f8f8f8;
@@ -552,7 +554,7 @@ ul.two-column li {
 .publications-container .awarder {
   margin: 2px 0 4px 0;
   font-size: 12px;
-  color: #666;
+  color: #718096;
 }
 
 .certificates-container .summary,

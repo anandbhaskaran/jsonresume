@@ -1,0 +1,321 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "AI-focused Senior Software Engineer with over 10 years of experience in building scalable machine learning systems and deploying generative AI solutions. Spearheaded projects that generated $1.5M+ in revenue and $337K in cost savings. Proven track record of mentoring teams, driving innovation, and transforming complex technical challenges into impactful business solutions.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2022-08",
+      "endDate": "",
+      "summary": "Technical Lead focusing on delivering scalable systems and AI-powered features, significantly enhancing platform reliability and user satisfaction.",
+      "highlights": [
+        "Led architectural design and launch of Employee Referral System, achieving 99.99% SLA and generating $1.5M+ in revenue with $500K ARR.",
+        "Conceptualized and developed Beekeeper's Templating Engine, reducing setup time by 90% and boosting user engagement to now power 15% of all platform assets.",
+        "Engineered a robust search interface for over 10M users, enhancing user engagement and accelerating platform adoption.",
+        "Mentored a high-performing remote engineering team, fostering high-quality code and a customer-centric approach, leading to improved developer velocity.",
+        "Collaborated in A/B testing on product hypotheses, delivering actionable insights that enhanced product iterations and user experience.",
+        "Built advanced, production-quality Generative AI translation systems, saving $337K and significantly improving time to market.",
+        "Led cross-functional initiatives across product and GTM, enhancing critical features like Employee Referral and Home Widgets."
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "Advising startups on technical strategy and scalability to ensure impactful and innovative solutions in technology development.",
+      "highlights": [
+        "Provided crucial guidance on scalability and innovation practices, aligning technical strategies with startup goals.",
+        "Conducted evaluations of emerging technologies for startups, facilitating scalable solution development and growth."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "summary": "Developed an autonomous drone delivery system successfully implemented in over 500 last-mile deliveries.",
+      "highlights": [
+        "Architected and built a complete autonomous drone delivery platform, enabling 500+ successful last-mile deliveries.",
+        "Delivered cloud infrastructure and DevOps pipeline, facilitating scalable operations and enterprise partnerships.",
+        "Engineered flight control APIs and logistics optimization algorithms, reducing delivery times by 40% while maintaining a 99.5% safety record."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01",
+      "endDate": "2020-01",
+      "summary": "Led the development of an open-source platform for co-evolving robot morphologies and control systems.",
+      "highlights": [
+        "Engineered an AI & Robotics research platform, contributing to significant advancements in evolutionary algorithms.",
+        "Spearheaded migration to AWS, securing research credits and enhancing platform capabilities.",
+        "Supervised over 20 master's students on robotics and AI projects, fostering innovative research and development."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "releaseDate": "",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "From Infinite posibilites to finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "releaseDate": "",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "System Architecture",
+        "Team Leadership",
+        "Technical Strategy",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Engineering Excellence"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "LLM Applications",
+        "AI Agents",
+        "OpenAI APIs",
+        "AI Product Design",
+        "Translation Systems"
+      ]
+    },
+    {
+      "name": "Full Stack & Backend",
+      "keywords": [
+        "Java",
+        "Python",
+        "PostgreSQL",
+        "Microservices",
+        "API Development",
+        "Kafka"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "CI/CD",
+        "Kubernetes",
+        "AWS",
+        "Monitoring & Observability",
+        "Deployment Automation",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Product & Business",
+      "keywords": [
+        "Product Ownership",
+        "Revenue Generation",
+        "Go-to-Market",
+        "Stakeholder Management",
+        "A/B Testing",
+        "Strategic Roadmaps"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Microfrontends"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "AI-Powered Analysis: Built real-time stock market analysis platform using AI agents to generate and explain trading signals",
+        "Focus on Explainable AI: Enhanced user understanding of financial decisions through clear and transparent AI-driven insights",
+        "Technical & News Integration: Developed a solution that combines technical indicators and news for comprehensive market insights"
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "MVP Development: Designed and built MVP for a fully digitalized property inventory inspection system, streamlining workflows through AI integration",
+        "AI Marketing Assistant: Leading development of an AI-powered marketing assistant to optimize property visibility and automate listing creation",
+        "Empowering Small Teams: Created intelligent tools that enhance efficiency for real estate professionals"
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Market Innovation: Launched the first platform addressing complex financial challenges for NRIs in Switzerland, showcasing AI-driven compliance solutions",
+        "Zero-to-One Product Development: Led development from concept to MVP in 3 months, meeting critical regulatory requirements",
+        "Customer-Driven Iteration: Established feedback loops that prioritized user satisfaction and drove product enhancements"
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Amazon",
+    "jobTitle": "Senior Delivery Consultant",
+    "jobUrl": "https://www.amazon.jobs/en/jobs/3059726/senior-delivery-consultant-machine-learning-genai-proserve-emea",
+    "jobDescription": "Are you looking to work at the forefront of Machine Learning and AI? Would you be excited to apply Generative AI algorithms to solve real world problems with significant impact? The AWS Industries Team at AWS helps AWS customers implement Generative AI solutions and realize transformational business opportunities for AWS customers in the most strategic industry verticals. This is a team of data scientists, engineers, and architects working step-by-step with customers to build bespoke solutions that harness the power of generative AI.\n\nThe team helps customers imagine and scope the use cases that will create the greatest value for their businesses, select and train and fine tune the right models, define paths to navigate technical or business challenges, develop proof-of-concepts, and build applications to launch these solutions at scale. The AWS Industries team provides guidance and implements best practices for applying generative AI responsibly and cost efficiently.\n\nYou will work directly with customers and innovate in a fast-paced organization that contributes to game-changing projects and technologies. You will design and run experiments, research new algorithms, and find new ways of optimizing risk, profitability, and customer experience.\n\nIn this role you will be capable of using GenAI and other techniques to design, evangelize, and implement and scale solutions for never-before-solved problems.\n\nKey job responsibilities\nCollaborate with AI/ML scientists, engineers, and architects to research, design, develop, and evaluate generative AI algorithms and build ML systems to address real-world challenges\n\nInteract with customers directly to understand the business problem, help and aid them in implementation of generative AI solutions, deliver briefing and deep dive sessions to customers and guide customer on adoption patterns and paths to production\n\nCreate and deliver best practice recommendations, tutorials, blog posts, publications, sample code, and presentations adapted to technical, business, and executive stakeholder\n\nAbout the team\nDiverse Experiences\nAmazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\n\nWhy AWS\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nWork/Life Balance\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nInclusive Team Culture\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences.\n\nMentorship and Career Growth\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nBASIC QUALIFICATIONS\nPhD, or Master's degree and 3+ years of applied research experience\n5+ years of building machine learning models for business application experience\nExperience with programming in Java, Python or related language\nExperience with neural deep learning methods and machine learning\n\nPREFERRED QUALIFICATIONS\nExperience with LLM pre-training, fine-tuning, and evaluations\nFamiliarity with distributed training and acceleration method/implementation/library for LLMs or large-scale ML in general, e.g., DeepSpeed, Nemo-Megatron, PyTorch Lightning.\nscience backgrounds demonstrated by degrees in fields such as:\nMathematics\nStatistics\nPhysics (various specializations)\nMolecular Biology\nNeuroscience\nExperience manipulating large datasets using RDBMS or SQL-on-Hadoop technologies, and be familiar with machine learning or statistical libraries like SparkML, scikit-learn, caret, mlr, and MLlib",
+    "createdAt": "2025-09-14T21:34:13.166Z"
+  }
+}

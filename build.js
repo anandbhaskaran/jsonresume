@@ -93,6 +93,7 @@ async function buildCustomCV() {
     const jobTitle = await prompt('Enter job title: ');
     const jobUrl = await prompt('Enter job URL (optional): ');
     const jobDescription = await promptMultiLine('Enter job description (optional):');
+    const notes = await promptMultiLine('Enter your specific notes for this application (optional):');
 
     // Normalize job title for file naming
     const normalizedJobTitle = normalizeJobTitle(jobTitle);
@@ -110,7 +111,10 @@ async function buildCustomCV() {
     console.log('Generating customized resume via API...');
 
     // Create temporary file for the JSON payload to handle multi-line content
-    const tempPayload = { job_description: jobDescription };
+    const tempPayload = {
+      job_description: jobDescription,
+      notes,
+    };
     const tempFile = './temp_payload.json';
     fs.writeFileSync(tempFile, JSON.stringify(tempPayload));
 
@@ -168,6 +172,7 @@ async function buildCustomCV() {
         jobTitle,
         jobUrl,
         jobDescription,
+        notes,
         createdAt: new Date().toISOString(),
       },
     };

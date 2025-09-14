@@ -1,0 +1,326 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Senior Software Engineer with over 10 years of experience in delivering JAVA-based web applications and implementing REST APIs. Proven track record in transforming systems for cloud readiness using Spring and microservices, while leading cross-functional teams. Experience in PostgreSQL, agile methodologies, and CI/CD practices, driving enhanced performance and reliability.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2022-08",
+      "endDate": "",
+      "summary": "Technical Lead driving innovation across scalable systems, AI-powered features, and platform reliability to ensure cloud readiness.",
+      "highlights": [
+        "High-Impact Product Development: Led architectural design and launch of Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR through agile methodologies.",
+        "Technical Vision & Product Innovation: Spearheaded development of Beekeeper's Templating Engine — reduced setup time by 90% and significantly enhanced user engagement, now powers 15% of all platform assets.",
+        "Scalable Systems Design: Engineered robust search interface accommodating 10M+ users — elevated user engagement and accelerated platform adoption.",
+        "Generative AI Expertise: Designed advanced, production-quality Generative AI translation systems using GitHub Actions — saved $337K and accelerated go-to-market since Jan 2024.",
+        "Cross-functional GTM Initiatives: Drove initiatives across Product and GTM including Seasonal Templates and Employee Lifecycle GTM, enhancing business functionality.",
+        "Architect & Full-Stack Contributor: Led the design and implementation for complex, scalable backend/frontend systems ensuring robustness and performance.",
+        "A/B Experimentation: Collaborated with product managers to run A/B tests that informed critical product decisions, driving continuous improvement."
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "Guiding startups on technology evaluation, scalability, and innovation to ensure robust technical strategies.",
+      "highlights": [
+        "Technology Evaluation Panel: Played crucial role in advising startups towards scalability and innovative practices, facilitating effective growth.",
+        "Technical Advisory: Mentored multiple startups on AI adoption and scalable solution development, enhancing their operational efficiency."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for Dronistics, developing an autonomous drone delivery system improving logistics and efficiency.",
+      "highlights": [
+        "Drone Delivery Innovation: Developed an autonomous drone delivery system used in over 500 last-mile deliveries, optimizing operational capabilities.",
+        "Performance Optimization: Engineered real-time flight control APIs, reducing delivery times by 40% while maintaining a 99.5% safety record.",
+        "Cloud Infrastructure: Delivered the full software/cloud stack, enabling seamless integration with enterprise partners enhancing scalability."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01",
+      "endDate": "2020-01",
+      "summary": "Led the engineering of Robogen, an open-source robotics platform that contributed to key advancements in artificial evolution.",
+      "highlights": [
+        "Robogen AI & Robotics Research Platform: Led engineering of platform enabling co-evolution of robot morphologies and control systems.",
+        "AWS Migration Leadership: Spearheaded migration to AWS, enhancing the platform's capabilities and securing AWS Research Credits.",
+        "Research Innovation: Contributed to significant advancements in robotics, resulting in industry recognition and features on prominent research platforms."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive presentation demonstrating how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "High‑Performance, Scalable URL Shortener",
+      "publisher": "Medium / Terraform Registry",
+      "url": "https://medium.com/@anandbaskaran3193/high-performance-scalable-url-shortener-a1b2c3d4e5f6",
+      "releaseDate": "",
+      "summary": "Technical architecture guide demonstrating implementation of enterprise-grade URL shortening service using infrastructure-as-code principles and cloud-native scalability patterns."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "System Architecture",
+        "Team Leadership",
+        "Technical Strategy",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Engineering Excellence"
+      ]
+    },
+    {
+      "name": "Full Stack & Backend",
+      "keywords": [
+        "Java",
+        "Python",
+        "Spring",
+        "Microservices",
+        "REST APIs",
+        "PostgreSQL",
+        "API Development",
+        "JavaScript",
+        "Vue.js"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "LLM Applications",
+        "AI Agents",
+        "OpenAI APIs",
+        "AI Product Design",
+        "Translation Systems"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "CI/CD",
+        "Kubernetes",
+        "Docker",
+        "AWS",
+        "Azure",
+        "Monitoring & Observability",
+        "Deployment Automation"
+      ]
+    },
+    {
+      "name": "Product & Business",
+      "keywords": [
+        "Product Ownership",
+        "A/B Testing",
+        "Revenue Generation",
+        "Go-to-Market",
+        "Stakeholder Management",
+        "Strategic Roadmaps"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Microfrontends"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "AI-Powered Analysis: Built real-time stock market analysis platform using AI agents to generate and explain trading signals.",
+        "Technical & News Integration: Based on technical and news-based insights for comprehensive market analysis.",
+        "Focus Areas: Explainable AI, speed, and clarity in financial analysis."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Obermatt - Fintech Product Development",
+      "position": "Product Owner & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Enhanced CI/CD pipelines with Docker implementation — reduced deployment times by 30%.",
+        "Introduced agile methodologies — increased team productivity by 20% and ensured timely delivery.",
+        "Developed strategic roadmaps that boosted customer satisfaction and retention rates."
+      ],
+      "url": "https://obermatt.com/en/home.html",
+      "startDate": "2018-07-01",
+      "endDate": "2021-01-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Market Innovation: Identified untapped market need and launched first platform addressing complex cross-border financial challenges for Indian nationals in Switzerland.",
+        "Zero-to-One Product Development: Led development from concept to MVP in 3 months.",
+        "Customer-Driven Iteration: Established regular customer feedback loops driving product roadmap prioritization and 40% increase in user satisfaction."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "EPAM",
+    "jobTitle": "Senior Full Stack Developer",
+    "jobUrl": "https://www.epam.com/careers/job-listings/job.epamgdo_blt70111583fa638764_en-us_Zurich_Switzerland.senior-full-stack-developer_zurich_switzerland",
+    "jobDescription": "Do you have an advanced level of knowledge of various coding methodologies, practices and tools? Are you an experienced Full Stack Developer with expertise in banking area and excellent communication and problem-solving skills?\n\nIf so, we are looking for someone just like you to join us in Zürich. The role requires a mix of remote and on-site work in a hybrid model.\n\nYou will be part of a dynamic team, currently focusing on couple of key initiatives like building the new ReactJS based UI, integrating it with backend, key business functionality implementation and transforming application to be cloud ready.\n\n\n#LI-DNI\nResponsibilities\nActively contribute to transform the application to adopt the new UI tech stack with REST endpoint implementation\nDeliver features end-to-end and take ownership for developed components\nImplement new business requirements\nContribute to decision making process of new architecture patterns for the application\nWork together with business stakeholders about the status of development and take feedbacks from them\nRequirements\nIdeally 7+ years of work experience in developing JAVA/JEE based web application at enterprise level\n3+ years of hands-on experience in implementing REST APIs\nExperience in Spring 3.x+ modules like Core, MVC, Security, JDBC & JPA\nGood understanding of RDBMS like Oracle, PostgreSQL\nGood understanding of ReactJs (or Angular), JavaScript, Servlet\nFair understanding on UNIX system\nExposure to GIT, Junit, Sonar, conceptual knowledge of CI/CD\nExperience of Agile Methodology\nFluent English skill is a must, German language skill is a significant advantage\nNice to have\nPublic cloud exposure like Azure, AWS\nMicroservice architecture pattern experience\nConcept knowledge of containerized (Docker) application development and deployment\nKubernetes knowledge",
+    "notes": "Highlight Spring and azure",
+    "createdAt": "2025-09-14T22:33:02.626Z"
+  }
+}

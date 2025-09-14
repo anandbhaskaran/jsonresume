@@ -1,0 +1,321 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "AI-focused software engineer with over 10 years of experience in full-stack development, delivering high-performance systems and SDKs. Successfully led projects generating $1.5M in revenue and saving $337K through AI innovations. Expertise in Java and scalable architectures, optimizing performance for millions of users while driving cross-functional collaboration and product development.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2022-08",
+      "endDate": "",
+      "summary": "Lead the development of innovative features and scalable systems, impacting millions of users while enhancing platform reliability and performance.",
+      "highlights": [
+        "Led architectural design and launch of Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR through agile methodologies and customer-focused iteration",
+        "Spearheaded conceptualization and development of Beekeeper's Templating Engine — reduced setup time by 90% and enhanced user engagement, now powers 15% of all platform assets",
+        "Engineered robust search interface accommodating 10M+ users — elevated user engagement and accelerated platform adoption rate",
+        "Assembled and led high-performing remote engineering teams, fostering a growth mindset and ensuring the delivery of high-quality, maintainable code",
+        "Collaborated on A/B experimentation to derive data-driven insights for product iterations, significantly improving engagement metrics",
+        "Designed and deployed advanced Generative AI translation systems — translated 12K+ key-value pairs, saving $337K and reducing time-to-market",
+        "Drove cross-functional initiatives and produced scalable architecture features enhancing overall product strategy"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "Guide startups on technical strategy and scalability, helping to shape innovative solutions and enhance operational effectiveness.",
+      "highlights": [
+        "Conducted evaluations of emerging technologies for seed-to-VC startups, facilitating growth and enabling impactful solution development",
+        "Advised multiple startups on technical hiring and AI adoption to boost their performance in competitive markets"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "summary": "Contributed as a founding engineer to a pioneering autonomous drone delivery system, achieving over 500 successful last-mile deliveries.",
+      "highlights": [
+        "Built a full software/cloud stack for autonomous drone delivery, showcased at CES Las Vegas",
+        "Architected delivery platform enabling scalable operations for enterprise partnerships, optimizing logistics to reduce delivery times by 40%",
+        "Developed real-time flight control APIs, maintaining a 99.5% safety record across deployments"
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01",
+      "endDate": "2020-01",
+      "summary": "Led the engineering of an open-source platform for robotics evolution, contributing to advancements in AI and robotics research.",
+      "highlights": [
+        "Spearheaded migration to AWS for the Robogen platform, securing AWS Research Credits and showcasing innovation on the AWS Research Blog",
+        "Supervised over 20 master's students on impactful robotics and AI research projects, enhancing educational outcomes and innovations",
+        "Contributed to pioneering research in artificial evolution, leading to industry recognition and enhancements to the Robogen platform"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "releaseDate": "",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive presentation demonstrating how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "keywords": [
+        "Java",
+        "Kotlin",
+        "C++",
+        "Object-Oriented Programming",
+        "Performance Optimization",
+        "Scalable Code"
+      ]
+    },
+    {
+      "name": "Augmented Reality Development",
+      "keywords": [
+        "AR Frameworks",
+        "SDK Development",
+        "3D Graphics",
+        "Immersive Experiences",
+        "User Interaction Design",
+        "Visual Messaging"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "Mentoring",
+        "Team Leadership",
+        "Technical Strategy",
+        "Cross-functional Collaboration",
+        "Engineering Excellence",
+        "Code Reviews"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "CI/CD",
+        "Kubernetes",
+        "AWS",
+        "Monitoring & Observability",
+        "Deployment Automation",
+        "Infrastructure Management"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "OpenAI APIs",
+        "AI Agents",
+        "Machine Learning",
+        "Data Science",
+        "AI Product Design"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Microfrontends"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Built real-time stock market analysis platform using AI agents to generate and explain trading signals.",
+        "Focused on explainable AI for clarity in financial analysis and decision-making.",
+        "Integrated technical and news-based insights for comprehensive market analysis."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Designed and developed MVP for a fully digitalized property inspection system, automating manual workflows.",
+        "Currently leading the creation of AI-powered marketing tools to enhance visibility for real estate listings.",
+        "Implemented structured protocols for property inspections using image processing technology."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Led the development of the first fintech platform addressing cross-border financial challenges for NRIs.",
+        "Achieved product development from concept to MVP in 3 months, enhancing user acquisition through community partnerships.",
+        "Implemented a compliance-first design, addressing regulatory needs across multiple jurisdictions."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Snaplabs",
+    "jobTitle": "Software Engineer, Augmented Reality",
+    "jobUrl": "https://careers.snap.com/job?id=R0038857&lang=de-DE",
+    "jobDescription": "Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. The Company’s three core products are Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; Lens Studio, an augmented reality platform that powers AR across Snapchat and other services; and its AR glasses, Spectacles.\n\nThe Spectacles team is pushing the boundaries of technology to bring people closer together in the real world. Our fifth-generation Spectacles, powered by Snap OS, showcase how standalone, see-through AR glasses make playing, learning, and working better together.\n \n\nWe’re looking for an Augmented Reality Software Engineer to join the Snap Lab team! \n\nWhat you’ll do:\n\nDesign, improve, and support reusable components, interactions, frameworks and SDKs that enable immersive experiences on Snap Spectacles Augmented Reality Glasses\n\nDevelop components of the operating system powering Spectacles, SnapOS\n\nParticipate in code and design reviews\n\nInteract with design, interactive engineering, and product teams to shape and launch products\n\nKnowledge, Skills, and Abilities:\n\nExperience in one or more object oriented languages like C++, Kotlin or Java\n\nExperience in delivering top quality, performant and scalable code with extensive unit / functional testing\n\nExcellent verbal and written communication skills, with high attention to detail\n\nMinimum Qualifications:\n\nBachelor’s degree in Computer Science, related degree or equivalent practical experience\n\n5+ years of software development experience\n\nPreferred Qualifications:\n\n7+ years of experience building and shipping high performance code\n\nExperience with operating systems, resource-constrained devices and 3d graphics\n\nPractice designing SDKs, APIs and Platforms",
+    "createdAt": "2025-09-14T21:40:39.052Z"
+  }
+}
