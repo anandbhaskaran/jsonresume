@@ -1,145 +1,366 @@
 {
   "basics": {
-    "name": "Richard Hendriks",
-    "label": "Programmer",
-    "picture": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette4.wikia.nocookie.net%2Fsilicon-valley%2Fimages%2F3%2F33%2FRichard_Hendricks.jpg%2Frevision%2Flatest%3Fcb%3D20150526104602&f=1&nofb=1",
-    "email": "richard.hendriks@mail.com",
-    "phone": "(912) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer (Technical Lead - Innovation Labs)",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "",
+    "url": "https://anand-creations.web.app",
+    "summary": "Lead Full Stack Engineer with 10+ years building user-centric, scalable SaaS platforms and resilient distributed systems. Skilled in modern tech stacks, scalable architecture, driving innovation and fostering collaboration to deliver high-impact solutions. Passionate about mentoring, maintaining high coding standards, and delivering business value.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "neutralthoughts",
-        "url": ""
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
       },
       {
         "network": "GitHub",
-        "username": "neutralthoughts",
-        "url": ""
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
       }
     ]
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead - Innovation Labs)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Led high-impact product and platform initiatives powering communications at scale. Owned architecture and execution across distributed systems, AI/ML integrations, and developer productivity.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Implemented an Employee Referral System with 99.99% SLA, driving ~$500K annual revenue",
+        "Designed and developed high-scale distributed systems for a templating engine; optimized search and data pipelines for 10M+ users",
+        "Built production-grade GenAI systems (product translations, hyper-personalized demos) to improve scalability, sales efficiency, and user engagement",
+        "Executed engineering roadmaps and architecture best practices in partnership with product, design, and sales",
+        "Led L1/L2 on-call rotations; improved reliability and reduced MTTR for mission‑critical services",
+        "Improved CI/CD pipelines and reduced tech debt to accelerate deployments",
+        "Mentored senior engineers; led design reviews and drove technical excellence"
+      ]
+    },
+    {
+      "name": "Upgrid AG",
+      "position": "Fractional CTO",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Hands-on lead for software architecture, engineering strategy, and implementation for startup initiatives.",
+      "highlights": []
+    },
+    {
+      "name": "Opt Alpha",
+      "position": "Technical Advisor",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Advised on scaling algorithmic trading systems with a focus on performance, reliability, and operational efficiency for HFT.",
+      "highlights": []
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Technology Evaluation Member, mentoring startups on scalable architecture and product engineering.",
+      "highlights": []
+    },
+    {
+      "name": "Obermatt",
+      "position": "Technical Program Manager",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Defined and executed multi-year engineering roadmaps aligned with a long-term product vision.",
+      "highlights": []
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems",
+      "position": "Software Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Founding Software Engineer for Dronistics spin‑off and contributor to AI‑driven robotics platforms; supported research and mentored students.",
+      "highlights": [
+        "Architected and developed a drone delivery system (Dronistics) with 500+ deliveries in collaboration with major corporations",
+        "Developed and maintained RoboGen, an AI-based robotic evolution platform; featured in a blog post and awarded AWS cloud credits",
+        "Led modular drone system development for the Swiss Army",
+        "Supervised 20+ master’s students at EPFL in robotics and AI research"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "flavor": "Coding",
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%",
+      "courses": []
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (programme)",
+      "startDate": "2014",
+      "endDate": "2016",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "CGPA 8.01/10",
+      "courses": []
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "CGPA 9.10/10",
+      "courses": []
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "CGPA 8.18/10",
+      "courses": []
     }
   ],
-  "awards": [
+  "awards": [],
+  "certificates": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "name": "Building modern Java Applications",
+      "date": "",
+      "issuer": "AWS",
+      "url": ""
+    },
+    {
+      "name": "Technology Specialist",
+      "date": "",
+      "issuer": "Microsoft (MCTS)",
+      "url": ""
+    },
+    {
+      "name": "for Java developers",
+      "date": "",
+      "issuer": "MongoDB University",
+      "url": ""
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "date": "",
+      "issuer": "DeepLearning.AI",
+      "url": ""
     }
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "Designing robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "The Blueprint for Building High‑Impact Teams",
+      "publisher": "Medium",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "High‑Performance, Scalable URL Shortener",
+      "publisher": "Medium / Terraform Registry",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "name": "System Design",
+      "level": "",
+      "keywords": []
     },
     {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": ["Mpeg", "MP4", "GIF"]
-    }
-  ],
-  "languages": [
+      "name": "Microservices",
+      "level": "",
+      "keywords": []
+    },
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vue.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "API Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kafka",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ClickHouse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AWS (API GW, DynamoDB, S3, SNS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Terraform",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CI/CD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Monitoring & Observability",
+      "level": "",
+      "keywords": ["Grafana"]
+    },
+    {
+      "name": "Generative AI & RAG",
+      "level": "",
+      "keywords": ["AI Agents", "RAG Pipelines"]
+    },
+    {
+      "name": "Technical Leadership",
+      "level": "",
+      "keywords": ["Mentoring", "Architecture", "Cross‑functional collaboration", "Stakeholder alignment"]
     }
   ],
+  "languages": [],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
-    }
-  ],
-  "references": [
+      "name": "AI & Creativity",
+      "keywords": []
+    },
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Microfrontends",
+      "keywords": []
+    },
+    {
+      "name": "Startup Mentoring",
+      "keywords": []
+    },
+    {
+      "name": "Clean Architecture (TDD)",
+      "keywords": []
     }
   ],
+  "references": [],
   "projects": [
     {
-      "name": "Miss Direction",
-      "summary": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "description": "Driving people crazy it's a lot of fun",
-      "keywords": ["GoogleMaps", "Chrome Extension", "Javascript"],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": ["Team lead", "Designer"],
-      "entity": "Smoogle",
-      "type": "application"
+      "name": "Employee Referral System",
+      "startDate": "",
+      "endDate": "",
+      "description": "High‑availability referral platform meeting 99.99% SLA and generating significant annual revenue.",
+      "highlights": ["~$500K annual revenue impact", "Owns end‑to‑end design, implementation, and iteration"],
+      "url": ""
+    },
+    {
+      "name": "High‑scale Templating Engine",
+      "startDate": "",
+      "endDate": "",
+      "description": "Distributed templating platform bridging use‑cases and solutions with optimized search & data pipelines.",
+      "highlights": ["Supports 10M+ users"],
+      "url": ""
+    },
+    {
+      "name": "GenAI Platform: Translations & Hyper‑personalized Demos",
+      "startDate": "",
+      "endDate": "",
+      "description": "Production‑grade Generative AI systems to improve global scalability, sales efficiency and user engagement.",
+      "highlights": ["Shipped multiple GenAI features into production"],
+      "url": ""
+    },
+    {
+      "name": "Dronistics — Drone Delivery System",
+      "startDate": "",
+      "endDate": "",
+      "description": "End‑to‑end drone delivery platform deployed with industry partners.",
+      "highlights": ["Completed 500+ deliveries"],
+      "url": ""
+    },
+    {
+      "name": "RoboGen — Robotic Evolution Platform",
+      "startDate": "",
+      "endDate": "",
+      "description": "AI‑based platform for robotic evolution, used in research and education.",
+      "highlights": ["Featured write‑up and AWS credits awarded"],
+      "url": ""
+    },
+    {
+      "name": "Modular Drone System",
+      "startDate": "",
+      "endDate": "",
+      "description": "Modular drone architecture developed for the Swiss Army.",
+      "highlights": [],
+      "url": ""
     }
-  ],
-  "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
-  }
+  ]
 }
