@@ -62,6 +62,7 @@ AI-focused software engineer with a proven track record of shipping high-impact,
 ```
 August 2022 - Present (2 years 10 months)
 Zurich, Switzerland
+https://www.beekeeper.io/
 ```
 
 - **High-Impact Product Development:** Led the architectural design and launch of an innovative, highly reliable Employee Referral System ensuring a 99.99% SLA. This was achieved through agile methodologies that expedited iteration, maintained a strong customer focus, and generated approximately $500,000 in annual revenue.
@@ -139,6 +140,7 @@ My responsibilities included:
 
 August 2016 - March 2020 (3 years 8 months)
 Lausanne Area, Switzerland
+https://lis.epfl.ch/
 
 • Drone Delivery Innovation – Dronistics Spin-Off: Founding engineer for Dronistics, an autonomous drone delivery system used in 500+ last-mile deliveries.
 • Delivered the full software/cloud stack and partnered with firms like Unilever; showcased at CES Las Vegas.
@@ -147,6 +149,7 @@ Lausanne Area, Switzerland
 #### Research Software Developer (Robogen)
 January 2017 - January 2020 (3 years 1 month)
 Lausanne Area, Switzerland
+https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/
 
 • Robogen – AI & Robotics Research Platform: Led engineering of Robogen, an open-source platform for the co-evolution of robot morphologies and control systems.
 • Spearheaded its migration to AWS, securing AWS Research Credits, and featured on the AWS Research Blog.
@@ -165,7 +168,7 @@ Zurich, Switzerland
 - Initiated various cross-functional collaborations to enhance efficiency using technologies
 
 #### Tenity
-
+https://www.tenity.com/
 ##### Startup Mentor (Technology)
 
 ```
@@ -182,6 +185,7 @@ Zurich, Switzerland
 ```
 July 2018 - January 2021 (2 years 7 months)
 Zürich Area, Switzerland
+https://obermatt.com/en/home.html
 ```
 - **Product Ownership:** Bridged the gap between business objectives and product development strategies to deliver solutions that were both reliable and scalable. Developed strategic roadmaps that heightened customer satisfaction and boosted retention rates.
 - **Team Leadership:** Directed a high-achieving remote engineering team, promoting a collaborative culture, accountability, and continual growth. Introduced agile methodologies, subsequently increasing team productivity by 20% and ensuring timely project completion.

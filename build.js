@@ -36,8 +36,18 @@ async function generatePDF() {
 
 async function build() {
   try {
-    // Read the resume.json file
-    const resume = JSON.parse(fs.readFileSync('./resume.json', 'utf-8'));
+    // Get the resume file path from command line arguments or use default
+    const resumeFile = process.argv[2] || './resume.json';
+
+    // Check if the file exists
+    if (!fs.existsSync(resumeFile)) {
+      throw new Error(`Resume file not found: ${resumeFile}`);
+    }
+
+    // Read the resume file
+    const resume = JSON.parse(fs.readFileSync(resumeFile, 'utf-8'));
+    // eslint-disable-next-line no-console
+    console.log(`Using resume file: ${resumeFile}`);
 
     // Generate the HTML
     const html = theme.render(resume);

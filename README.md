@@ -44,6 +44,25 @@ I also wanted I simple environment, so I used the boilerplate provided by JSON R
 
 ### PDF output
 
+#### Using the build script
+
+This theme includes a convenient `build.js` script that generates both HTML and PDF versions of your resume:
+
+```bash
+# Build using default resume.json file
+node build.js
+
+# Build using a custom resume file
+node build.js path/to/your/resume.json
+```
+
+The script will:
+1. Read your resume JSON file (defaults to `resume.json`)
+2. Generate an HTML file (`resume.html`)
+3. Generate a PDF file (`resume.pdf`)
+
+#### Manual PDF generation
+
 Probably you want a PDF version of your resume...
 
 JSONResume CLI should be able to make a PDF out of your JSON but I always struggled to get it to work,
