@@ -4,7 +4,13 @@
 
     {{#each resume.publications}}
     <section class="item">
+        {{#if url}}
+        <a href="{{url}}" target="_blank" rel="noopener noreferrer">
+            {{> section-header name=this.name}}
+        </a>
+        {{else}}
         {{> section-header name=this.name}}
+        {{/if}}
 
         {{#if publisher}}
         <h5 class="awarder">{{publisher}}</h5>
