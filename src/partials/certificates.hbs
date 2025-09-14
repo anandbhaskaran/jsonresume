@@ -2,22 +2,14 @@
 <div class="container certificates-container">
     {{> title value="Certificates"}}
 
-    {{#each resume.certificates}}
-        <section class="item">
-            {{> section-header name=this.name }}
-
-            {{#if issuer}}
-            <h5 class="issuer">{{issuer}}</h5>
-            {{/if}}
-
-            {{#if date}}
-            <h5 class="date">{{date}}</h5>
-            {{/if}}
-
-            {{#if url}}
-            <a href="{{url}}" class="certificate-url">View Certificate</a>
-            {{/if}}
-        </section>
-    {{/each}}
+    <div class="certificates-list">
+        {{#each resume.certificates}}
+        <div class="certificate-item">
+            <strong>{{name}}</strong>{{#if issuer}} - {{issuer}}{{/if}}
+            {{#if date}}<span class="date"> ({{date}})</span>{{/if}}
+            {{#if url}}<br><a href="{{url}}" class="certificate-url">View Certificate</a>{{/if}}
+        </div>
+        {{/each}}
+    </div>
 </div>
 {{/if}}

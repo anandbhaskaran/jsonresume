@@ -332,36 +332,73 @@
   "projects": [
     {
       "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
       "description": "Real-time stock market analysis platform using AI agents for trading signal generation and explanation.",
-      "highlights": ["Explainable AI for financial analysis", "Technical and news-based insights"],
-      "url": "https://pulse-view.anand-creations.com"
+      "highlights": [
+        "AI-Powered Analysis: Built real-time stock market analysis platform using AI agents to generate and explain trading signals",
+        "Technical & News Integration: Based on technical and news-based insights for comprehensive market analysis",
+        "Personal to Public: Initially designed as personal tool, now public for retail traders and investors",
+        "Focus Areas: Explainable AI, speed, and clarity in financial analysis",
+        "Explainable AI for financial analysis",
+        "Technical and news-based insights"
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "technologies": [
+        "AI Agents",
+        "Financial Analysis",
+        "Technical Analysis",
+        "News Processing",
+        "Trading Signals",
+        "Explainable AI",
+        "React",
+        "Automation"
+      ]
     },
+
     {
       "name": "Proplab - AI Real Estate Tools",
-      "description": "AI-powered platform for small real estate teams with digitalized property inspection and marketing automation.",
-      "highlights": ["Image-backed inspection protocols", "AI marketing assistant for listing creation"],
-      "url": "https://proplab.io"
-    },
-    {
-      "name": "SwissNRI - Cross-border Fintech Platform",
-      "description": "Technical co-founder of fintech platform simplifying tax and financial compliance for NRIs in Switzerland.",
+      "position": "Founder & AI Product Builder",
+      "description": "An indie AI-driven initiative focused on empowering small real estate teams through intelligent digital tools.",
       "highlights": [
-        "Scalable SaaS architecture",
-        "DTAA and FEMA compliance automation",
-        "Cross-border financial optimization"
+        "MVP Development: Designed and built MVP for fully digitalized property inventory inspection system, replacing manual workflows",
+        "Structured Protocols: Implemented structured, image-backed, and timestamped protocols for property inspection",
+        "AI Marketing Assistant: Currently leading development of AI-powered marketing assistant to automate listing creation and boost property visibility across marketplaces",
+        "Image-backed inspection protocols",
+        "AI marketing assistant for listing creation"
       ],
-      "url": "https://www.swissnri.com"
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "technologies": ["AI", "Real Estate Tech", "Image Processing", "Marketing Automation", "Property Management"]
     },
+
     {
       "name": "Obermatt - Fintech Product Development",
-      "description": "Technical Product Manager bridging business objectives with scalable product development for fintech solutions.",
+      "position": "Product Owner & Technical Lead",
+      "url": "https://obermatt.com/en/home.html",
+      "description": "Bridging business objectives with scalable product development for fintech solutions.",
       "highlights": [
         "Enhanced CI/CD pipelines with Docker implementation — reduced deployment times by 30%",
         "Introduced agile methodologies — increased team productivity by 20% and ensured timely delivery",
         "Developed strategic roadmaps that boosted customer satisfaction and retention rates"
       ],
-      "startDate": "2018-07",
-      "endDate": "2021-01"
+      "startDate": "2018-07-01",
+      "endDate": "2021-01-01",
+      "technologies": ["Docker", "CI/CD", "Fintech Solutions", "Product Management", "Agile Methodologies"]
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Fintech platform simplifying cross-border tax and financial compliance for NRIs living in Switzerland.",
+      "highlights": [
+        "Market Innovation: Identified untapped market need and launched first platform addressing complex cross-border financial challenges for Indian nationals in Switzerland",
+        "Zero-to-One Product Development: Led development from concept to MVP in 3 months, acquiring early users through strategic partnerships with Swiss-Indian community organizations",
+        "Compliance-First Design: Created solution addressing critical regulatory requirements across two complex financial jurisdictions (FEMA, DTAA, Swiss regulations)",
+        "Customer-Driven Iteration: Established regular customer feedback loops driving product roadmap prioritization and 40% increase in user satisfaction"
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "technologies": ["SaaS Architecture", "Fintech", "Compliance Systems", "Tax Automation", "DTAA", "FEMA"]
     }
   ]
 }

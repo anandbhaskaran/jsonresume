@@ -419,19 +419,34 @@ ul.two-column li {
   font-style: italic;
 }
 
-.certificates-container .issuer {
-  padding-bottom: 6px;
-  font-weight: 400;
-  color: #888;
+/* Simplified certificates styling */
+.certificates-list {
+  margin-bottom: 15px;
+}
+
+.certificate-item {
+  margin-bottom: 8px;
+  line-height: 1.4;
+  font-size: 11px;
+}
+
+.certificate-item strong {
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.certificate-item:last-child {
+  margin-bottom: 0;
 }
 
 .certificates-container .date {
-  font-size: 12px;
+  font-size: 10px;
   color: #666;
+  font-weight: normal;
 }
 
 .certificates-container .certificate-url {
-  font-size: 12px;
+  font-size: 10px;
   color: #0066cc;
   text-decoration: none;
 }

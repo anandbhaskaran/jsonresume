@@ -6,20 +6,20 @@
         <section class="item">
             {{> section-header name=this.name website=this.url showWebsite=true}}
 
-            {{#if role}}
-                <h5>{{role}}</h5>
+            {{#if position}}
+            <h4>{{position}}</h4>
             {{/if}}
 
-            {{#if keywords.length}}
+            {{#if technologies.length}}
             <div class="flex-container">
-                {{#each keywords}}
+                {{#each technologies}}
                     <h6 class="skill">{{.}}</h6>
                 {{/each}}
             </div>
             {{/if}}
 
-            {{#if summary}}
-            <p class="summary">{{summary}}</p>
+            {{#if description}}
+            <p class="summary">{{description}}</p>
             {{/if}}
 
             {{#if highlights.length}}
