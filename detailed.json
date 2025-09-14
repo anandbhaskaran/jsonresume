@@ -35,56 +35,69 @@
       "name": "Beekeeper AG",
       "position": "Senior Software Engineer (Technical Lead)",
       "url": "https://www.beekeeper.io/",
-      "startDate": "2022-08",
+      "startDate": "2022-08-01",
       "summary": "Technical Lead driving innovation across scalable systems, AI-powered features, and platform reliability. Delivered high-impact features used by millions, while mentoring engineers and improving developer velocity.",
       "highlights": [
-        "Architected Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR",
-        "Built LLM-powered template translations using GitHub Actions and OpenAI APIs — translated 12K+ key-value pairs, saved $337K and accelerated go-to-market",
-        "Designed distributed templating engine serving 10M+ users — reduced setup time by 90%, powers 15% of all platform assets",
-        "Led GenAI demo template system for sales team — auto-generates customized content from Salesforce data, boosting demo speed and personalization",
-        "Spearheaded Search Platform Revamp — led teams of 2-4 engineers delivering scalable architecture for enhanced user engagement",
-        "Acting technical hiring manager for AI roles and deputy tech lead — mentored engineers while owning end-to-end delivery of core modules",
-        "Drove cross-functional GTM initiatives — Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, resulting in streamlined sales pipeline"
+        "High-Impact Product Development: Led architectural design and launch of Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR through agile methodologies and customer-focused iteration",
+        "Technical Vision & Product Innovation: Spearheaded conceptualization, design, and development of Beekeeper's Templating Engine — reduced setup time by 90% and significantly enhanced user engagement, now powers 15% of all platform assets",
+        "Scalable Systems Design: Engineered robust search interface accommodating 10M+ users — substantially elevated user engagement and accelerated platform adoption rate",
+        "Team Leadership: Assembled and led high-performing remote engineering teams, fostering environment for high-quality, maintainable code and customer-centric solutions while cultivating growth mindset",
+        "A/B Experimentation & Hypothesis Testing: Collaborated with product managers and data engineers in creating hypotheses, running A/B experiments to derive insightful data for product iterations",
+        "Greenfield Challenges: Engaged in algorithmic and scalability challenges of unprecedented greenfield projects, delivering sophisticated, inventive solutions",
+        "Generative AI Expertise: Designed and deployed advanced, production-quality Generative AI translation systems using GitHub Actions and OpenAI APIs — translated 12K+ key-value pairs, saved $337K and accelerated go-to-market since Jan 2024",
+        "GenAI Demo Templates: Built AI-driven stream template system for sales team auto-generating customized content from Salesforce data — boosting demo speed and personalization",
+        "AI Hiring, Leadership & Feature Ownership: Acting technical hiring manager for AI roles and deputy tech lead of FUEL, mentoring junior engineers while owning end-to-end delivery of core modules (Templater, Manager Hub, Forms)",
+        "Architect & Full-Stack Contributor: Led architectural design and implementation for complex, scalable backend/frontend systems including Artifacts, Forms, Employee Referral, and Templater — ensuring robustness, modularity, and performance",
+        "Cross-functional GTM Initiatives: Drove initiatives across Product and GTM including Seasonal Templates, Re-ignite Revenue, Tippspiel Analytics, Employee Lifecycle GTM, and Sentiment Analysis GTM",
+        "Search Platform Revamp & Team Leadership: Led teams of 2-4 engineers delivering key features (Employee Referral, Home Widgets, Search Revamp) with focus on scalable architecture and pragmatic delivery"
       ],
-      "technologies": ["Java","Python", "Vue", "Kubernetes", "AWS", "OpenAI", "LangChain", "Kafka", "PostgreSQL", "Elastic Search", "Jenkins", "GitHub Actions", "ClickHouse", "Claude", "Langfuse", "CrewAI"]
+       "technologies": ["Java", "Python", "Vue", "Hybrid App", "Android", "iOS", "Module Federation", "Microfrontends", "Kubernetes", "AWS", "OpenAI", "LangChain", "Kafka", "PostgreSQL", "Elastic Search", "Jenkins", "GitHub Actions", "ClickHouse", "Claude", "Langfuse", "CrewAI", "Salesforce", "Solution Engineering"]
     },
     {
       "name": "Tenity",
       "position": "Startup Mentor & Technology Evaluation Panelist",
-      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06-01",
       "summary": "Technology Evaluation Panel member and mentor guiding startups on scalability, technical strategy, and innovation practices.",
       "highlights": [
-        "Conducted thorough evaluations of emerging technologies for seed-to-VC startups",
-        "Advised multiple startups on technical hiring, AI adoption, and scalable solution development",
+        "Technology Evaluation Panel: Play crucial role in guiding startups towards scalability, fostering innovative practices, and developing core technical strategies aligned with each startup's unique goals",
+        "Thorough Technology Evaluations: Conducted evaluations of emerging technologies for seed-to-VC startups, facilitating growth and enabling startups to devise impactful and scalable solutions",
+        "Technical Advisory: Advised multiple startups on technical hiring, AI adoption, and scalable solution development",
         "Opt Alpha (Tech Advisor): Mentoring engineering teams on scaling algorithmic trading systems, optimizing performance, reliability, and operational efficiency for high-frequency trading"
-      ]
+      ],
+      "technologies": ["Scalability", "Technical Strategy", "Innovation Practices", "AI Adoption", "Algorithmic Trading", "High-Frequency Trading"]
     },
     {
       "name": "Dronistics",
-      "position": "Founding Engineer",
+      "position": "Founding Software Application Developer",
       "url": "https://lis.epfl.ch/",
-      "startDate": "2018-08",
-      "endDate": "2020-03",
+      "startDate": "2016-08-01",
+      "endDate": "2020-03-01",
       "summary": "Founding engineer for Dronistics, an autonomous drone delivery system used in 500+ last-mile deliveries.",
       "highlights": [
-        "Built end-to-end autonomous drone delivery platform — architected full-stack solution (Vue/Java/PostgreSQL) powering 500+ successful deliveries",
-        "Delivered complete cloud infrastructure and DevOps pipeline — enabled scalable operations for enterprise partnerships with Unilever and CES showcase",
-        "Engineered real-time flight control APIs and logistics optimization algorithms — reduced delivery times by 40% while maintaining 99.5% safety record"
-      ]
+        "Drone Delivery Innovation: Founding engineer for Dronistics autonomous drone delivery system used in 500+ last-mile deliveries",
+        "Full Software/Cloud Stack: Delivered complete software/cloud stack and partnered with firms like Unilever, showcased at CES Las Vegas",
+        "End-to-end Platform: Built autonomous drone delivery platform — architected full-stack solution powering 500+ successful deliveries",
+        "Enterprise Partnerships: Delivered complete cloud infrastructure and DevOps pipeline enabling scalable operations for enterprise partnerships",
+        "Performance Optimization: Engineered real-time flight control APIs and logistics optimization algorithms — reduced delivery times by 40% while maintaining 99.5% safety record"
+      ],
+      "technologies": ["Vue", "Java", "PostgreSQL", "AWS", "Cloud Infrastructure", "DevOps", "Flight Control APIs", "Logistics Optimization", "Real-time Systems"]
     },
     {
       "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
-      "position": "Research Engineer",
+      "position": "Research Software Developer",
       "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
-      "startDate": "2016-08",
-      "endDate": "2018-07",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
       "summary": "Led engineering of Robogen, an open-source platform for the co-evolution of robot morphologies and control systems.",
       "highlights": [
-        "Robogen — AI & Robotics Research Platform: Led engineering of Robogen, an open-source platform for the co-evolution of robot morphologies and control systems",
-        "Spearheaded its migration to AWS, securing AWS Research Credits, and featured on the AWS Research Blog",
-        "Teaching Assistant for Evolutionary Robotics, an AI-based system for Robotics",
-        "Supervised 20+ master's students at EPFL"
-      ]
+        "Robogen AI & Robotics Research Platform: Led engineering of open-source platform for co-evolution of robot morphologies and control systems",
+        "AWS Migration Leadership: Spearheaded migration to AWS, securing AWS Research Credits, and featured on the AWS Research Blog",
+        "Teaching Assistant: Served as Teaching Assistant for Evolutionary Robotics, an AI-based system for Robotics",
+        "Student Supervision: Supervised 20+ master's students at EPFL in robotics and AI research projects",
+        "Research Innovation: Contributed to groundbreaking research in artificial evolution and robotics, leading to AWS blog feature and industry recognition"
+      ],
+      "technologies": ["AWS", "Robotics", "AI", "Evolutionary Algorithms", "Research Platforms", "Open Source"]
     }
   ],
   "education": [
@@ -93,8 +106,8 @@
       "url": "https://quantic.edu/",
       "area": "Business Administration",
       "studyType": "MBA",
-      "startDate": "2019",
-      "endDate": "2020",
+      "startDate": "2019-01-01",
+      "endDate": "2020-01-01",
       "score": "93.2%"
     },
     {
@@ -102,16 +115,16 @@
       "url": "https://www.eitdigital.eu/",
       "area": "Innovation & Entrepreneurship",
       "studyType": "Master (Programme)",
-      "startDate": "2014",
-      "endDate": "2016"
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01"
     },
     {
       "institution": "Eindhoven University of Technology (TU/e)",
       "url": "https://www.tue.nl/",
       "area": "Embedded Networking",
       "studyType": "MSc (Netherlands)",
-      "startDate": "2015",
-      "endDate": "2016",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
       "score": "8.01/10"
     },
     {
@@ -119,8 +132,8 @@
       "url": "https://www.kth.se/",
       "area": "Embedded Systems",
       "studyType": "MSc (Sweden)",
-      "startDate": "2014",
-      "endDate": "2015",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01",
       "score": "9.10/10"
     },
     {
@@ -128,23 +141,29 @@
       "url": "https://www.amrita.edu/",
       "area": "Electronics and Communication",
       "studyType": "Bachelor of Engineering",
-      "startDate": "2010",
-      "endDate": "2014",
+      "startDate": "2010-01-01",
+      "endDate": "2014-01-01",
       "score": "8.18/10"
     }
   ],
   "certificates": [
     {
-      "name": "Building Modern Java Applications",
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft",
+      "summary": "Recognized for demonstrating expertise in Microsoft technologies, validating skills in implementing Microsoft-based solutions"
+    },
+    {
+      "name": "Build a Data Science Web App with Streamlit and Python",
+      "issuer": "Educational Platform",
+      "summary": "Specialized in creating interactive web applications utilizing Python and Streamlit to deliver data-driven insights"
+    },
+    {
+      "name": "Building Modern Java Cloud Applications",
       "issuer": "AWS"
     },
     {
       "name": "Build LLM Apps with LangChain",
       "issuer": "DeepLearning.AI"
-    },
-    {
-      "name": "Microsoft Certified Professional (MCPS)",
-      "issuer": "Microsoft"
     },
     {
       "name": "MongoDB for Java Developers",
@@ -299,42 +318,53 @@
   ],
   "awards": [
     {
-      "title": "AWS Cloud Credits for Research",
-      "date": "2020",
-      "awarder": "Amazon Web Services"
-    },
-    {
       "title": "KTH Opportunities Fund",
-      "awarder": "KTH Royal Institute of Technology"
+      "awarder": "KTH Royal Institute of Technology",
+      "summary": "Received funding dedicated to supporting innovative projects and research initiatives, enabling advancements in field of interest"
     },
     {
-      "title": "TI India Analog Design Contest Winner",
-      "awarder": "Texas Instruments"
+      "title": "Appreciation from John T Chambers, ex-CEO of Cisco Systems",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem, impacting company operations and innovation pathways"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020-01-01",
+      "awarder": "Amazon Web Services"
     }
   ],
   "projects": [
     {
       "name": "PulseView - AI Market Intelligence",
       "description": "Real-time stock market analysis platform using AI agents for trading signal generation and explanation.",
-      "highlights": ["Explainable AI for financial analysis", "Technical and news-based insights"],
-      "url": "https://pulse-view.anand-creations.com"
+      "highlights": [
+        "AI-Powered Analysis: Built real-time stock market analysis platform using AI agents to generate and explain trading signals",
+        "Technical & News Integration: Based on technical and news-based insights for comprehensive market analysis",
+        "Personal to Public: Initially designed as personal tool, now public for retail traders and investors",
+        "Focus Areas: Explainable AI, speed, and clarity in financial analysis",
+        "Explainable AI for financial analysis",
+        "Technical and news-based insights"
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "technologies": ["AI Agents", "Financial Analysis", "Technical Analysis", "News Processing", "Trading Signals", "Explainable AI", "React", "Automation"]
     },
+
     {
       "name": "Proplab - AI Real Estate Tools",
-      "description": "AI-powered platform for small real estate teams with digitalized property inspection and marketing automation.",
-      "highlights": ["Image-backed inspection protocols", "AI marketing assistant for listing creation"],
-      "url": "https://proplab.io"
-    },
-    {
-      "name": "SwissNRI - Cross-border Fintech Platform",
-      "description": "Technical co-founder of fintech platform simplifying tax and financial compliance for NRIs in Switzerland.",
+      "description": "Founder & AI Product Builder of indie AI-driven initiative focused on empowering small real estate teams through intelligent digital tools.",
       "highlights": [
-        "Scalable SaaS architecture",
-        "DTAA and FEMA compliance automation",
-        "Cross-border financial optimization"
+        "MVP Development: Designed and built MVP for fully digitalized property inventory inspection system, replacing manual workflows",
+        "Structured Protocols: Implemented structured, image-backed, and timestamped protocols for property inspection",
+        "AI Marketing Assistant: Currently leading development of AI-powered marketing assistant to automate listing creation and boost property visibility across marketplaces",
+        "Image-backed inspection protocols",
+        "AI marketing assistant for listing creation"
       ],
-      "url": "https://www.swissnri.com"
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "technologies": ["AI", "Real Estate Tech", "Image Processing", "Marketing Automation", "Property Management"]
     },
+
     {
       "name": "Obermatt - Fintech Product Development",
       "description": "Technical Product Manager bridging business objectives with scalable product development for fintech solutions.",
@@ -343,8 +373,22 @@
         "Introduced agile methodologies — increased team productivity by 20% and ensured timely delivery",
         "Developed strategic roadmaps that boosted customer satisfaction and retention rates"
       ],
-      "startDate": "2018-07",
-      "endDate": "2021-01"
+      "startDate": "2018-07-01",
+      "endDate": "2021-01-01",
+      "technologies": ["Docker", "CI/CD", "Fintech Solutions", "Product Management", "Agile Methodologies"]
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "description": "Co-Founder & Technical Lead of fintech platform simplifying cross-border tax and financial compliance for NRIs living in Switzerland.",
+      "highlights": [
+        "Market Innovation: Identified untapped market need and launched first platform addressing complex cross-border financial challenges for Indian nationals in Switzerland",
+        "Zero-to-One Product Development: Led development from concept to MVP in 3 months, acquiring early users through strategic partnerships with Swiss-Indian community organizations",
+        "Compliance-First Design: Created solution addressing critical regulatory requirements across two complex financial jurisdictions (FEMA, DTAA, Swiss regulations)",
+        "Customer-Driven Iteration: Established regular customer feedback loops driving product roadmap prioritization and 40% increase in user satisfaction"
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "technologies": ["SaaS Architecture", "Fintech", "Compliance Systems", "Tax Automation", "DTAA", "FEMA"]
     }
   ]
 }

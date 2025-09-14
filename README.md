@@ -61,6 +61,81 @@ The script will:
 2. Generate an HTML file (`resume.html`)
 3. Generate a PDF file (`resume.pdf`)
 
+#### Custom CV for Job Applications
+
+The build script also supports creating customized CVs for specific job applications:
+
+```bash
+node build.js
+# When prompted, choose 'y' for custom CV
+# Enter company name, job title, job URL
+# For job description: Enter multiple lines and type "END" when finished
+```
+
+**📝 Multi-line Job Description Support:**
+When entering the job description, you can provide detailed, multi-line content:
+- Paste the full job posting
+- Include requirements, responsibilities, and company details
+- Type "END" on a new line when you're finished
+- The AI will analyze the entire description for better customization
+
+When you choose the custom CV option, the script will:
+1. Ask for job application details (company name, job title, URL, description)
+2. Call AI API to generate a customized resume based on the job description
+3. Fallback to local resume.json if API is unavailable
+4. Create a company folder (if it doesn't exist)
+5. Add job application metadata to the resume
+6. Generate customized HTML and PDF files with normalized filenames
+7. Store all files in the company folder
+
+**Example structure after creating custom CVs:**
+```
+./
+├── resume.json (your base resume)
+├── generated/
+│   ├── Google/
+│   │   ├── senior-software-engineer.json
+│   │   ├── senior-software-engineer.html
+│   │   └── senior-software-engineer.pdf
+│   └── Microsoft/
+│       ├── frontend-developer.json
+│       ├── frontend-developer.html
+│       └── frontend-developer.pdf
+```
+
+**🤖 AI-Powered Customization:**
+The script uses an AI API to automatically customize your resume content based on the job description you provide. This includes:
+- Tailoring your summary to match the role requirements
+- Highlighting relevant skills and experience
+- Optimizing keywords for the specific position
+- If the API is unavailable, it gracefully falls back to your local resume.json
+
+**Example multi-line job description input:**
+```
+Enter job description (optional):
+(Enter your job description. Type "END" on a new line when finished)
+We are seeking a Senior Software Engineer to join our team.
+
+Requirements:
+- 5+ years of React.js experience
+- Strong Node.js background
+- AWS cloud platform expertise
+- Leadership and mentoring skills
+
+Responsibilities:
+- Design scalable web applications
+- Lead cross-functional teams
+- Code reviews and best practices
+END
+```
+
+This helps you:
+- Keep track of applications for different companies
+- Maintain version history of customized resumes
+- Organize your job search materials efficiently
+2. Generate an HTML file (`resume.html`)
+3. Generate a PDF file (`resume.pdf`)
+
 #### Manual PDF generation
 
 Probably you want a PDF version of your resume...
