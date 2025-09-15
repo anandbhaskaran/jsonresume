@@ -1,0 +1,322 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Experienced AI Software Engineer with over 10 years in full-stack development and architectural design, specializing in AI agents and cloud solutions. Led teams to implement scalable systems on AWS, achieving $1.5M+ in revenue and significant cost savings. Proficient in Python, CI/CD, and containerization, fostering quality-driven, collaborative environments.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03-15",
+      "endDate": "",
+      "summary": "Technical Lead specializing in AI-powered features and scalable system architectures, responsible for high-impact projects that enhanced platform reliability and user engagement.",
+      "highlights": [
+        "Led architectural design and launch of Employee Referral System, achieving 99.99% SLA and generating $1.5M+ revenue including $500K ARR through agile methodologies.",
+        "Spearheaded development of Beekeeper's Templating Engine, reducing setup time by 90% and enhancing user engagement, now powering 15% of all platform assets.",
+        "Engineered a robust search interface handling 10M+ users, significantly improving user engagement and accelerating platform adoption rates.",
+        "Mentored junior engineers, creating a growth-focused environment that improved developer velocity and code quality.",
+        "Designed and deployed an advanced Generative AI translation system, saving $337K and accelerating go-to-market efforts for new features.",
+        "Drove cross-functional initiatives across Product and GTM, leading projects that included AI-driven solutions and customer-centric features."
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06-01",
+      "endDate": "",
+      "summary": "Mentor and evaluator for startups, focusing on scalable AI strategies and innovation practices, helping them to refine technical directions.",
+      "highlights": [
+        "Provided critical guidance on scalability and innovative practices to seed-to-VC startups, facilitating their growth trajectories.",
+        "Conducted thorough evaluations of emerging technologies, enabling startups to develop impactful and scalable AI solutions."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08-01",
+      "endDate": "2020-03-01",
+      "summary": "Founding engineer for an autonomous drone delivery system, pioneering technology used in over 500 last-mile deliveries.",
+      "highlights": [
+        "Developed a full software/cloud stack for Dronistics, partnering with firms such as Unilever, enhancing operational capabilities.",
+        "Architected robust APIs for real-time flight control and logistics optimization, reducing delivery times by 40% while maintaining a 99.5% safety record."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Key contributor to an open-source AI platform for evolving robot morphologies and control systems, enhancing research capabilities in robotics.",
+      "highlights": [
+        "Led the engineering of the Robogen platform, driving advancements in AI and robotics research recognized in industry publications.",
+        "Spearheaded AWS migration efforts, resulting in enhanced capabilities and exposure for the project."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "releaseDate": "",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "From Infinite posibilites to finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "releaseDate": "",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "AI Agents",
+        "LLM Applications",
+        "OpenAI APIs",
+        "AI Product Design",
+        "Translation Systems"
+      ]
+    },
+    {
+      "name": "Cloud Infrastructure & DevOps",
+      "keywords": [
+        "AWS",
+        "Containerization",
+        "Terraform",
+        "CI/CD",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "System Architecture",
+        "Team Leadership",
+        "Technical Strategy",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Engineering Excellence"
+      ]
+    },
+    {
+      "name": "Full Stack Development",
+      "keywords": [
+        "Java",
+        "Python",
+        "Microservices",
+        "API Development",
+        "PostgreSQL",
+        "Kafka"
+      ]
+    },
+    {
+      "name": "Product & Business",
+      "keywords": [
+        "Product Ownership",
+        "Revenue Generation",
+        "Go-to-Market",
+        "A/B Testing",
+        "Stakeholder Management",
+        "Strategic Roadmaps"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "AI Agents"
+    },
+    {
+      "name": "Cloud Infrastructure"
+    },
+    {
+      "name": "Scalable Systems"
+    },
+    {
+      "name": "Startup Innovation"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Built a real-time stock market analysis platform leveraging AI agents to generate and explain trading signals.",
+        "Implemented explainable AI for financial analysis, focusing on speed and clarity.",
+        "Transformed a personal tool into a public resource for retail traders and investors."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Designed and built an MVP for a digital property inspection system, streamlining workflows with AI technology.",
+        "Currently leading the development of an AI-powered marketing assistant to automate real estate listings.",
+        "Established structured inspection protocols utilizing image processing and AI."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Launched the first platform addressing cross-border financial challenges for Indian nationals in Switzerland.",
+        "Led development from concept to MVP in 3 months, driving high user acquisition through strategic partnerships.",
+        "Created compliance-first solution addressing critical regulations across multiple jurisdictions."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Copebit",
+    "jobTitle": "AWS Senior Software Development Engineer",
+    "jobUrl": "https://www.copebit.ch/en/careers/",
+    "jobDescription": "What we’re looking for:\n\nWe are looking for an experienced AI Software Development Engineer with solid architectural skills and a gravitation towards AI agents and systems. You enjoy working in a team on projects and have relevant consulting and implementation skills.\n\nYou will actively accompany and support our customers on their AWS journey while driving our internal development processes to the next maturity level.\n\nDay to day:\n\nPlan, design, and implement (hands-on) AWS software projects (customer consulting, PoCs incl. implementation and migrations and Day2 operation)\nArchitecture, design and implementation incl. hands-on development of cloud infrastructures for modern applications\nDevelop IaC on AWS (CloudFormation, Terraform & CICD infrastructure) leveraging modern security tooling\nContainerize applications and build container solutions for our clients\nDevelop toolings and frameworks around AWS development processes\nWrite automation scripts and auto-scaling mechanisms\nDevelop modern applications based on AWS Serverless & container environments\nWork in a team but also independently on projects\nResearch and evaluate new technologies that will improve the quality of our products\nProactively contribute to a team culture that values quality, robustness, and knowledge sharing\nWhat you’ll get:\n\nStart-up atmosphere (open culture, agile)\nWorking for one of the first Swiss AWS Advanced Consulting partners\nA combination of remote/home office, customer-onsite (Zurich/Bern) and office-based work in Zurich (10min walk from the main train station)\nEstablished customer & partner network\nWork with the latest technologies in today’s most exciting domains: container technologies, IaC on AWS, software development for FaaS\nIndividual development planning and continuous learning opportunities\nCompetitive salary & bonus system\n25 days of annual leave\nPrivate accident insurance\nHardware (BYOD) & mobile subscription budget\nNeed to have:\n\nSeveral years of experience in software development and associated tooling and processes \nStrong knowledge of AI and AI agents\nA deep curiosity about software engineering and development processes with a never ending thirst for knowledge and improvement\nVery good knowledge in Python, node.js\nA good sense of humor combined with empathy, interpersonal skills, and ability to work as part of a team\nMinimum one AWS associate-level certification\nSolid DevSecOps background, familiarity with cloud system architectures (load balancing, clustering on web and database server level, cloud infrastructures, security)\nSolid practical experience in automation, continuous integration, and continuous delivery & deployment (SCM processes, CICD tools, deployment and configuration management tools such as Cloudformation, Terraform or Ansible)\nExperience in working with and implementing of PaaS technologies (Docker, Kubernetes)\nA keen eye for detail and quality, which should be reflected in your outputs\nYou will bring the joy and enthusiasm to co-create the AWS journey with our customers.\nExcellent written and verbal communication skills\nBachelor’s or Master’s Degree in Computer Science or a related field\n\n\nNice to have:\n\nAWS certifications (Pro Level)\nYou are familiar with database design and REST interfaces.\nExperience developing cloud native and Serverless systems on AWS\nExperience writing and testing production-grade infrastructure software\nEvidence of contribution to a personal or open source project",
+    "notes": "Focus on AI and AI agents.",
+    "createdAt": "2025-09-15T07:10:43.420Z"
+  }
+}

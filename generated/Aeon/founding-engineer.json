@@ -1,0 +1,324 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Accomplished software engineer with 10+ years of experience in full-stack development and technical leadership. Proven track record in driving impactful teams and delivering high-quality solutions, including AI-driven systems generating $1.5M+ revenue. Passionate about mentoring engineers and creating streamlined processes that enhance user experience and operational efficiency in health technology.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03-15",
+      "endDate": "",
+      "summary": "Leading the engineering team to innovate and build solutions that empower users with actionable insights through scalable systems and AI-driven features.",
+      "highlights": [
+        "Led architectural design of Employee Referral System, generating $1.5M+ revenue including $500K ARR with a 99.99% SLA.",
+        "Drove development of Beekeeper's Templating Engine, reducing setup time by 90% and increasing engagement across 15% of platform assets.",
+        "Engineered a search interface for over 10M users, boosting user engagement and platform adoption significantly.",
+        "Assembled and cultivated high-performing remote teams, enhancing code quality and customer-centric solutions while improving team velocity.",
+        "Designed and deployed advanced Generative AI translation system that saved $337K and expedited go-to-market last year.",
+        "Mentored junior engineers while owning end-to-end delivery of key features, nurturing the engineering culture and fostering growth mindset.",
+        "Led cross-functional initiatives with Product to align delivery with business goals, including analytics and sentiment analysis projects."
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06-01",
+      "endDate": "",
+      "summary": "Guiding startups through technical strategy and innovations, focusing on scalable solutions that drive growth.",
+      "highlights": [
+        "Conducted comprehensive technology evaluations for emerging startups, enabling impactful and scalable solution development.",
+        "Advised on technical hiring and AI integration, helping startups optimize their operational performance."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08-01",
+      "endDate": "2020-03-01",
+      "summary": "Contributed to the development of an autonomous drone delivery platform, facilitating efficient logistics and operational scalability.",
+      "highlights": [
+        "Delivered complete software/cloud stack for an autonomous drone system utilized in over 500 last-mile deliveries.",
+        "Engineered APIs and optimization algorithms, reducing delivery times by 40% while maintaining a 99.5% safety record.",
+        "Collaborated with major firms like Unilever to showcase the technology at CES Las Vegas, enhancing brand visibility."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Led the engineering of an innovative open-source platform for the co-evolution of robotic systems, contributing to significant research advancements.",
+      "highlights": [
+        "Spearheaded migration to AWS, securing credits and improving computational capabilities showcased in AWS research publications.",
+        "Supervised over 20 master's students, guiding robotics and AI projects that received industry recognition.",
+        "Developed groundbreaking research impacting evolutionary robotics, enhancing academic partnerships and visibility."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "The Blueprint for Building High‑Impact Teams",
+      "publisher": "Medium",
+      "url": "https://anandb3.medium.com/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "releaseDate": "",
+      "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive presentation demonstrating how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "Mentoring",
+        "Team Leadership",
+        "Cross-functional Collaboration",
+        "Technical Strategy",
+        "Engineering Excellence",
+        "Product Innovation"
+      ]
+    },
+    {
+      "name": "Full Stack & Backend",
+      "keywords": [
+        "Java",
+        "Python",
+        "Vue.js",
+        "Node.js",
+        "Microservices",
+        "API Development",
+        "PostgreSQL",
+        "Elastic Search"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "AI Agents",
+        "AI Product Design",
+        "OpenAI APIs",
+        "Translation Systems",
+        "RAG Pipelines"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "CI/CD",
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Monitoring & Observability",
+        "Deployment Automation"
+      ]
+    },
+    {
+      "name": "Product & Business",
+      "keywords": [
+        "Product Ownership",
+        "Revenue Generation",
+        "Go-to-Market",
+        "A/B Testing",
+        "Stakeholder Management",
+        "Strategic Roadmaps"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Health Technology"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "User Experience Design"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "AI-Powered Analysis: Built real-time stock market analysis platform using AI agents to generate and explain trading signals",
+        "Technical & News Integration: Based on technical and news-based insights for comprehensive market analysis",
+        "Focus Areas: Explainable AI, speed, and clarity in financial analysis"
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "MVP Development: Designed and built MVP for fully digitalized property inventory inspection system, replacing manual workflows",
+        "AI Marketing Assistant: Currently leading development of AI-powered marketing assistant to automate listing creation",
+        "Structured Protocols: Implemented structured, image-backed protocols for property inspection"
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Market Innovation: Launched first platform addressing complex cross-border financial challenges for Indian nationals in Switzerland",
+        "Zero-to-One Product Development: Led development from concept to MVP in 3 months, acquiring early users",
+        "Customer-Driven Iteration: Established regular customer feedback loops driving product roadmap prioritization"
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Aeon",
+    "jobTitle": "Founding Engineer",
+    "jobUrl": "https://join.com/companies/aeon400/14784287-founding-engineer",
+    "jobDescription": "At Aeon, we believe that everyone should be given the chance to take full ownership over their health in order to lead a long, fulfilling and healthy life. we do this by providing our customers with deep, actionable insights into their health, utilising whole body MRI scans, blood tests and advanced machine learning driven processing and diagnosis of health data.\n\nAs onf of our first in-house Software Engineers, you will lay the foundation for an outstanding engineering team that delivers a groundbreaking health product to our users, empowering them to take ownership of their health and allowing them to lead healthier, longer lives.\n\nYou will have a strong impact on the engineering culture we build at aeon as well as the foundational architecture of our products.\n\nTasks\nLead the development of our customer application end-to-end.\nImplement a truly delightful user experience\nDevelop and execute on our vision of building a highly effective end-to-end pipeline from raw health data (imaging, lab data and more) to actionable insights\nDrive technical decisions and architecture choices\nCollaborate directly with the company leadership to develop and translate product vision into technical reality\nMentor future team members and help build our engineering culture\nTake full ownership of large and complex features from conception to deployment\nRequirements\n8+ years of experience with full-stack software engineering\nSubstantial experience working with the technologies in our tech stack: frontend development with react.js and/or vue.js, backend development with node.js (Express) and - a big plus - Go, hosting on AWS\nOverall strong expertise in modern web technologies and frameworks\nA strong interest in the way our users perceive the software you ship and how it performs at addressing their needs and pain points\nA mindset of feeling comfortable in ambiguity, in a place with quickly shifting priorities quickly while maintaining a high degree of organization\nExperience with cloud infrastructure and DevOps\nA track record of leading technical initiatives and mentoring others\nA passion for health technology and improving people's lives\nIt is a big plus if you have worked in the space of medical software or other highly regulated areas before\nProficiency in English\nLocated in the European Union, UK or Switzerland\nBenefits\nJoin a small team in the early days, with the opportunity to fundamentally shape our culture, strategy, product, and software architecture\nMake a real impact on people's health, developing groundbreaking medical solutions\nCompetitive salary and equity package\nA modern tech stack that you can also still shape substantially\nWork from anywhere a few weeks a year\nEnhance your own well-being by joining a company dedicated to becoming Europe's healthiest workplace.\nIf you're excited about building technology that helps people live healthier lives and want to work for a company that values professional growth and personal well-being, we'd love to hear from you.\n\nWe value diversity and welcome applications from candidates of all backgrounds.\n\nOur process looks like this: Short screening call → technical interview → cultural fit interview → Meet the team → offer.",
+    "notes": "Highlight passion for simplicty to enhance fast delivery\nHighlight mentoring and driving impactful team",
+    "createdAt": "2025-09-15T06:24:08.730Z"
+  }
+}
