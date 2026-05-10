@@ -1,0 +1,326 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "AI-focused technical leader with over 10 years of experience driving product innovation and developer tools. Proven track record in shipping high-impact features, enhancing developer experiences, and aligning product roadmaps with strategic goals. Successfully led teams to achieve $1.5M+ in revenue and implemented solutions that improved user engagement by 90%.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03-15",
+      "endDate": "",
+      "summary": "As a Technical Lead, I drove innovation across scalable systems and AI-powered features, significantly enhancing platform reliability and developer velocity.",
+      "highlights": [
+        "Led architectural design and launch of Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR through agile methodologies and customer-focused iteration",
+        "Spearheaded the design and development of Beekeeper's Templating Engine — reduced setup time by 90% and enhanced user engagement, now powers 15% of all platform assets",
+        "Engineered robust search interface accommodating 10M+ users — elevated user engagement and accelerated platform adoption rate",
+        "Assembled and led high-performing remote engineering teams, fostering an environment for maintainable code and customer-centric solutions",
+        "Collaborated with product managers and data engineers in A/B experimentation to derive insightful data for product iterations",
+        "Designed and deployed advanced Generative AI systems saving $337K and accelerating go-to-market since Jan 2024",
+        "Acting technical hiring manager for AI roles, mentoring junior engineers while owning end-to-end delivery of core modules"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06-01",
+      "endDate": "",
+      "summary": "Mentor and technology evaluation panel member guiding startups on scalability and technical strategy to enhance their innovations.",
+      "highlights": [
+        "Conducted thorough evaluations of emerging technologies for seed-to-VC startups, enabling impactful solutions and growth",
+        "Advised multiple startups on technical hiring, AI adoption, and developing scalable solutions aligned with unique goals"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08-01",
+      "endDate": "2020-03-01",
+      "summary": "Founding engineer for Dronistics, developing an autonomous drone delivery system utilized in over 500 last-mile deliveries.",
+      "highlights": [
+        "Delivered a complete software/cloud stack for autonomous drone delivery, showcased at CES Las Vegas with partnerships like Unilever",
+        "Built an end-to-end platform that powered successful operations for enterprise partnerships, achieving a 40% reduction in delivery times",
+        "Engineered real-time flight control APIs maintaining a 99.5% safety record, optimizing logistics and operational efficiency"
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Led the engineering of Robogen, an open-source platform for co-evolving robot morphologies and control systems.",
+      "highlights": [
+        "Spearheaded migration of the Robogen platform to AWS, securing research credits and achieving recognition on the AWS Research Blog",
+        "Supervised over 20 master’s students in robotics and AI projects, fostering innovation and research in artificial evolution",
+        "Contributed to groundbreaking research efforts in robotics, significantly advancing the field's academic and practical applications"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive presentation demonstrating how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications."
+    },
+    {
+      "name": "The Blueprint for Building High‑Impact Teams",
+      "publisher": "Medium",
+      "url": "https://anandb3.medium.com/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "releaseDate": "",
+      "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "Mentoring",
+        "Team Leadership",
+        "Cross-functional Collaboration",
+        "Engineering Excellence",
+        "Technical Strategy",
+        "System Architecture"
+      ]
+    },
+    {
+      "name": "Full Stack & Backend",
+      "keywords": [
+        "Java",
+        "Python",
+        "TypeScript",
+        "Vue.js",
+        "API Development",
+        "PostgreSQL",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "LLM Applications",
+        "AI Product Design",
+        "OpenAI APIs",
+        "Translation Systems",
+        "AI Agents"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "CI/CD",
+        "Kubernetes",
+        "Docker",
+        "AWS",
+        "Deployment Automation",
+        "Monitoring & Observability"
+      ]
+    },
+    {
+      "name": "Product & Business",
+      "keywords": [
+        "Product Ownership",
+        "Customer Insights",
+        "Stakeholder Management",
+        "A/B Testing",
+        "Go-to-Market",
+        "Strategic Roadmaps"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Developer Tools"
+    },
+    {
+      "name": "Scalability"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "Product Management"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "AI-Powered Analysis: Built real-time stock market analysis platform using AI agents to generate and explain trading signals",
+        "Focus Areas: Explainable AI, speed, and clarity in financial analysis",
+        "Technical & News Integration: Based on technical and news-based insights for comprehensive market analysis"
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "MVP Development: Designed and built MVP for fully digitalized property inventory inspection system, replacing manual workflows",
+        "AI Marketing Assistant: Currently leading development of AI-powered marketing assistant to automate listing creation and boost property visibility",
+        "Structured Protocols: Implemented structured, image-backed, and timestamped protocols for property inspection"
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Market Innovation: Identified untapped market need and launched first platform addressing complex cross-border financial challenges for Indian nationals in Switzerland",
+        "Zero-to-One Product Development: Led development from concept to MVP in 3 months, acquiring early users through strategic partnerships",
+        "Compliance-First Design: Created solution addressing critical regulatory requirements across two complex financial jurisdictions"
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Supabase",
+    "jobTitle": "Technical Product Manager",
+    "jobUrl": "https://jobs.ashbyhq.com/supabase/74542052-f648-48fb-a8fe-a8c5cd14a74e",
+    "jobDescription": "Supabase is an open-source Firebase alternative that provides all the backend services you need to build a scalable and robust application: Database, Storage, Auth, Edge Functions, Realtime. Our products are used and loved by millions of developers around the world and our mission is to continue to empower developers to create extraordinary products with simplicity and speed.\n\nSupabase is a fully remote company and we work asynchronously across many time zones.\n\nWe are looking for an experienced technical product manager with a passion for working on developer tools. In this role, you will be diving into the technical details while also maintaining a 30,000-foot view to drive decisions.\n\nWhat you’ll work on:\nHelp product teams with prioritization: each product team should be aware of the top three priorities they need to work on at any given time\n\nWork closely with the customers, Sales, Success, and Support teams to identify key customer problems and address them from a product perspective\n\nBuild tooling to triage and distill feedback from various sources, including the dashboard, CLI, support tickets, GitHub, and Twitter\n\nAlign the product roadmap with company goals\n\nPartner with product teams on developing and tracking Metrics:\n\nto track the acquisition, activation, and retention of different features\n\nDive into data to understand common use cases, identify the most and least used features, and pinpoint potential bottlenecks\n\nWork with the Product Marketing team to communicate the value of the features being built and the roadmap to the rest of the team\n\nWhat you bring:\n6+ years of experience as a product manager for a developer tools product, or as a developer with a keen sense of product\n\nProven track record of working in a fast-paced environment and shipping developer-facing products from ideation to launch\n\nExcellent communication skills, both with engineers and external stakeholders\n\nCustomer-obsessed, with a track record of gathering insights and translating them into action\n\nComfortable diving deep into a wide array of highly technical product. For instance, you might investigate how Realtime handles connection pooling one day and explore the implications of Postgres running in a browser the next\n\nDeep knowledge about how Supabase products work\n\nAlignment with our Product Principles\n\nDeveloper empathy and a drive to improve developer experience\n\nProduct principles: Everything works in isolation, Everything is integrated, Everything is extensible, Everything is portable, Play the long game, Build for developers, Support existing tools",
+    "notes": "",
+    "createdAt": "2025-09-15T07:53:29.655Z"
+  }
+}

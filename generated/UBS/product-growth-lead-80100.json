@@ -1,0 +1,329 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Accomplished product leader with over 10 years in software engineering and development, driving innovation in digital platforms. Successfully led cross-functional teams to enhance user experiences, generating $1.5M+ in revenue and achieving 99.99% SLA. Expert in data-driven optimization and customer-centric solutions within agile environments, fostering collaboration and delivering impactful results.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03-15",
+      "endDate": "",
+      "summary": "As Technical Lead, I drive product-led growth through innovative digital solutions that enhance user engagement and optimize development processes.",
+      "highlights": [
+        "Led architectural design and launch of Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR through agile methodologies and customer-focused iteration",
+        "Spearheaded conceptualization, design, and development of Beekeeper's Templating Engine — reduced setup time by 90% and significantly enhanced user engagement, now powers 15% of all platform assets",
+        "Engineered robust search interface accommodating 10M+ users — substantially elevated user engagement and accelerated platform adoption rate",
+        "Assembled and led high-performing remote engineering teams, fostering environment for high-quality, maintainable code and customer-centric solutions",
+        "Collaborated with product managers and data engineers in creating hypotheses and running A/B experiments to derive insightful data for product iterations",
+        "Designed and deployed advanced, production-quality Generative AI translation systems using GitHub Actions and OpenAI APIs — saved $337K and accelerated go-to-market since Jan 2024",
+        "Led key initiatives across Product and GTM including Employee Lifecycle GTM and Sentiment Analysis GTM"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06-01",
+      "endDate": "",
+      "summary": "Mentoring startups in technical strategy and scalable solutions, leveraging my industry expertise to enhance product growth.",
+      "highlights": [
+        "Guided startups towards scalability and innovative practices, fostering alignment with unique technical strategies",
+        "Conducted thorough evaluations of emerging technologies for seed-to-VC startups, facilitating impactful growth and solution development"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08-01",
+      "endDate": "2020-03-01",
+      "summary": "Developed an autonomous drone delivery system, driving innovation in logistics and enhancing operational efficiencies.",
+      "highlights": [
+        "Built autonomous drone delivery platform — architected full-stack solution powering 500+ successful deliveries",
+        "Engineered real-time flight control APIs and logistics optimization algorithms — reduced delivery times by 40% while maintaining 99.5% safety record",
+        "Enabled scalable operations for enterprise partnerships by delivering complete cloud infrastructure and DevOps pipeline"
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Led the engineering of an AI and robotics research platform, contributing to groundbreaking advancements in evolving robotic systems.",
+      "highlights": [
+        "Spearheaded migration to AWS, securing research credits and enhancing platform accessibility",
+        "Supervised 20+ master's students in robotics and AI research projects, fostering innovation and learning",
+        "Contributed to open-source platform for co-evolution of robot morphologies and control systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "releaseDate": "",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    },
+    {
+      "name": "From Infinite posibilites to finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "releaseDate": "",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "The Blueprint for Building High‑Impact Teams",
+      "publisher": "Medium",
+      "url": "https://anandb3.medium.com/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "releaseDate": "",
+      "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "Team Leadership",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Stakeholder Management",
+        "Vision Communication",
+        "Engineering Excellence"
+      ]
+    },
+    {
+      "name": "Product Management",
+      "keywords": [
+        "Product Ownership",
+        "Agile Methodologies",
+        "Roadmap Development",
+        "Customer-Centric Design",
+        "User Journey Optimization",
+        "A/B Testing"
+      ]
+    },
+    {
+      "name": "Full Stack & Backend",
+      "keywords": [
+        "Java",
+        "Python",
+        "Vue.js",
+        "API Development",
+        "Microservices",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Data Analysis & Strategy",
+      "keywords": [
+        "ROI-Based Prioritization",
+        "Data-Driven Decision Making",
+        "Customer Feedback Analysis",
+        "Performance Metrics",
+        "Agile Iteration",
+        "Engagement Metrics"
+      ]
+    },
+    {
+      "name": "Digital Experience Optimization",
+      "keywords": [
+        "User Experience Design",
+        "Mobile Development",
+        "Engagement Enhancements",
+        "Digital Product Development",
+        "Customer Lifecycle Optimization",
+        "Scalable Solutions"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Product Growth Strategies"
+    },
+    {
+      "name": "Digital Banking Innovations"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Built a real-time stock market analysis platform using AI agents, enhancing decision-making for users.",
+        "Integrated technical and news-based insights for comprehensive market analysis.",
+        "Transitioned from a personal tool to a public platform, broadening access for retail traders."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Led the development of a platform addressing complex cross-border financial challenges, directly improving user engagement.",
+        "Achieved a 40% increase in user satisfaction by establishing regular customer feedback loops.",
+        "Navigated regulatory challenges across multiple jurisdictions, enhancing compliance and user trust."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    },
+    {
+      "name": "Obermatt - Fintech Product Development",
+      "position": "Product Owner & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Enhanced CI/CD pipelines resulting in a 30% reduction in deployment times, optimizing product delivery.",
+        "Introduced agile methodologies increasing team productivity by 20%, ensuring timely project updates.",
+        "Developed strategic roadmaps boosting customer satisfaction and fostering lasting retention."
+      ],
+      "url": "https://obermatt.com/en/home.html",
+      "startDate": "2018-07-01",
+      "endDate": "2021-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "UBS",
+    "jobTitle": "Product Growth Lead, 80-100%",
+    "jobUrl": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&siteid=5012&jobid=330975&codes=ILINKEDIN#jobDetails=330975_5012",
+    "jobDescription": "Product Growth Lead, 80-100%\nSwitzerland - Zürich\n\nProduct Management and Development\n\nPersonal & Corporate Banking\n\nJob Reference #324162BR\nCity\n\nZürich\n\nJob TypeFull Time, Part Time\nYour role\n\nAs the Product Growth Lead, you will be at the helm of a nimble team dedicated to supercharging our digital banking channels. You will lead a talented team consisting of a UX designer, data analyst and front-end and back-end developers, all focused on making our digital banking channels the best it can be. In this role, your goal is to optimise the banking experience across mobile, tablet and web, working across multiple product verticals and customer segments.\n\nYour mission:\n\n• set the direction for the Product Growth team incl. defining and communicating the vision, objectives, and roadmap to key stakeholders\n• drive the optimisation of features and user journeys to boost key customer lifecycle metrics: acquisition, activation, engagement, and retention\n• act as a flexible, data-driven unit, constantly identifying and tackling the most pressing areas guided by ROI-based prioritisation\n• work across all customer segments – personal, wealth management, and corporate banking – to deliver a seamless and engaging mobile experience\n• collaborate closely with segment and product leads and teams to align on strategic goals and deliver impactful results together\n• embrace a test-and-learn approach to continuously refine and enhance the digital banking experience.\n\nYour Career Comeback\n\nWe are open to applications from career returners. Find out more about our program on ubs.com/careercomeback.\n\nYour team\n\nYou will be working in the Digital Banking team within the Personal & Corporate Chief Operations Office in Zurich, who is responsible for several areas such as transformation, integration, and product development.\n\nYour expertise\n\nWe are looking for a seasoned product leader with a knack for driving product-led growth, solving customer problems and leading cross-functional teams. Here is what we are looking for:\n\n• a minimum of 5 years of experience as a product manager, with a proven background in digital product development at a leading tech company\n• proven ability to lead cross-functional teams, fostering a collaborative and inspiring environment\n• sharp analytical skills, with the ability to collect and interpret data and customer feedback to identify key pain points and develop effective solutions\n• strong communication and stakeholder management skills, with the ability to articulate a clear vision and drive alignment across the organisation\n• a passion for creating exceptional user experiences and a deep understanding of customer needs and behaviors\n• while banking experience is not a must, familiarity with the financial services industry is appreciated.\n\nThe role is based in Zurich and reports into the Head of Digital Banking Platform.\n\nJoin us in revolutionising digital banking and delivering unparalleled value to our customers. If you’re a visionary thinker with a hands-on approach and a passion for product growth, we want to hear from you!",
+    "notes": "",
+    "createdAt": "2025-10-23T09:44:28.392Z"
+  }
+}

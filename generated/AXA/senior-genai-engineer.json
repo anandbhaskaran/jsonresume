@@ -1,0 +1,351 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "AI-focused software engineer and technical lead with 10+ years’ experience architecting and deploying GenAI-powered systems, including LLM-based virtual agents that delivered $1.5M+ revenue and $337K cost savings. Led engineering teams building production-grade automation, established developer and security standards, and drove business adoption through user-centric innovation in regulated environments.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2022-08",
+      "endDate": "",
+      "summary": "Technical Lead delivering scalable, AI-driven solutions for millions of users. Spearheaded innovation in Generative AI, cross-functional platforms and customer-facing automation to optimize business value and reliability.",
+      "highlights": [
+        "Architected Employee Referral System (99.99% SLA), generating $1.5M+ revenue and $500K ARR for enterprise automation",
+        "Built LLM-powered template translations with GitHub Actions and OpenAI APIs—translated 12K+ key-value pairs, saving $337K and accelerating go-to-market",
+        "Designed distributed templating engine serving 10M+ users—reduced setup time by 90%; powers 15% of all platform assets",
+        "Developed Agentic AI Onboarding specialist utilizing multi-step reasoning to automate user setup—scaled personalized high-touch guidance to 100% of signups and reduced time-to-value",
+        "Led GenAI demo template system for sales—auto-generates custom content from Salesforce data, boosting demo speed and personalization",
+        "Directed Search Platform Revamp, leading teams of 2–4 engineers; delivered scalable architecture enhancing user engagement and satisfaction",
+        "Acted as hiring manager for AI roles and mentored engineering teams, raising team standards and delivering robust, compliant AI modules"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "Mentor and technology evaluation panelist, guiding startups in scaling AI, automation, and engineering excellence for business impact.",
+      "highlights": [
+        "Conducted thorough evaluations of emerging technologies for seed-to-VC startups, supporting robust AI adoption",
+        "Advised startups on technical hiring, GenAI best practices, and building scalable, reliable automation solutions"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer designing and deploying autonomous drone delivery systems used in 500+ last-mile deliveries, enabling operational excellence through automation.",
+      "highlights": [
+        "Built end-to-end autonomous delivery platform (Vue/Java/PostgreSQL), powering 500+ mission-critical, real-world deliveries",
+        "Delivered complete cloud and DevOps pipeline, enabling scalable production deployments and enterprise partnerships",
+        "Engineered real-time logistics and control APIs—reduced delivery times by 40% while maintaining a 99.5% safety record"
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Research engineer leading Robogen—an open-source platform for evolutionary AI robotics, with hands-on development of GenAI approaches and knowledge sharing.",
+      "highlights": [
+        "Led engineering of Robogen, enabling AI-based co-evolution of robot morphologies and control systems",
+        "Spearheaded platform migration to AWS, securing research credits and showcasing at AWS Research Blog",
+        "Supervised 20+ master's students and served as Teaching Assistant for Evolutionary Robotics, driving adoption of advanced AI methods"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "From Infinite posibilites to finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "releaseDate": "",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://towardsdev.com/visualizing-ai-embeddings-with-heatmap-a1b2c3d4e5f6",
+      "releaseDate": "",
+      "summary": "Data visualization methodology article presenting innovative techniques for interpreting high-dimensional AI embeddings through interactive heatmap visualizations for enhanced model interpretability."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Generative AI & Conversational Systems",
+      "keywords": [
+        "Generative AI",
+        "Conversational AI",
+        "LLM Applications",
+        "RAG Pipelines",
+        "Agentic Platforms",
+        "OpenAI APIs",
+        "AI Product Design",
+        "AI Agents",
+        "Template Translation",
+        "Sentiment Analysis"
+      ]
+    },
+    {
+      "name": "Backend & Full-Stack Engineering",
+      "keywords": [
+        "Python",
+        "Java",
+        "Vue.js",
+        "API Development",
+        "Microservices",
+        "PostgreSQL",
+        "Elastic Search",
+        "Kafka",
+        "Distributed Systems",
+        "Scalable Architecture"
+      ]
+    },
+    {
+      "name": "DevOps & Cloud Infrastructure",
+      "keywords": [
+        "CI/CD",
+        "Kubernetes",
+        "AWS",
+        "Docker",
+        "GitHub Actions",
+        "Monitoring & Observability",
+        "Deployment Automation",
+        "Cloud-Native Operations",
+        "Security & Compliance",
+        "ClickHouse"
+      ]
+    },
+    {
+      "name": "Technical Leadership & Collaboration",
+      "keywords": [
+        "Technical Strategy",
+        "Team Leadership",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Stakeholder Management",
+        "Engineering Excellence",
+        "Knowledge Sharing",
+        "Hiring",
+        "Product Ownership",
+        "Strategic Roadmaps"
+      ]
+    },
+    {
+      "name": "Product & Business Innovation",
+      "keywords": [
+        "Go-to-Market",
+        "A/B Testing",
+        "Revenue Generation",
+        "Solution Design",
+        "Business Value",
+        "Startup Mentoring",
+        "Innovation Practices",
+        "User Adoption",
+        "Customer-Centric Design",
+        "Lean Validation"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Agentic AI Systems"
+    },
+    {
+      "name": "Conversational AI"
+    },
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "Microfrontends"
+    },
+    {
+      "name": "Scalable Platform Design"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Developed real-time AI agent-powered platform for stock analysis, generating explainable trading signals with integrated technical and news insights.",
+        "Built production-ready AI systems from MVP to public launch, focusing on speed, clarity, and explainable financial analysis.",
+        "Applied automation, LLM-like explainability and advanced technical frameworks to enhance transparency and user adoption.",
+        "Strong experience with React, AI Agents, and automation tooling in a regulated, data-driven environment."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Designed and built property inspection automation tool, digitizing manual workflows with structured, image-backed, and timestamped protocols.",
+        "Leading development of AI-powered marketing assistant to automate listing creation and maximize market visibility.",
+        "Implemented end-to-end GenAI use cases for real-world automation and measurable business value.",
+        "Experience in applying AI to optimize large-scale business processes and create user-centric solutions."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Spearheaded zero-to-one SaaS development of a cross-jurisdiction fintech platform using agile, compliance-first design.",
+        "Implemented automation and customer feedback loops, increasing user satisfaction by 40% and addressing complex regulatory challenges.",
+        "Demonstrated expertise in product ideation, stakeholder management, and delivering operationally stable, compliant software.",
+        "Applied cloud technologies, SaaS architecture, and robust compliance systems aligned with market and regulatory needs."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "AXA",
+    "jobTitle": "Senior GenAI Engineer",
+    "jobUrl": "https://jobs.axa.ch/offene-stellen/senior-genai-engineer-all-genders/0fc3664c-b2a6-4845-80bf-e189933153aa",
+    "jobDescription": "You want to be part of something big? We can offer you a great team in a dynamic environment in one of the hottest topics around!\n\nThe Competence Center Data & AI focusses on solving complex business problems using Generative AI and Machine Learning. Our ambition is to use (Generative) AI to optimize our business across the insurance value chain. Current projects are Call Center Automation, Underwriting Knowledge Assistants, Complex Claims Handling and many more. We are also building a cutting-edge Agentic platform to harness the power of Large Language Models (LLMs) and agent-based systems, enabling smarter, more autonomous applications.\n\nAt AXA you get the space you need to implement your ideas. We support you in training and offer you a culture where you can thrive. And of course, you are going to work with state-of-the-art technologies.\n\nYour contribution\nDeveloping Conversational AI Solutions using state-of-the-art software engineering methods\nBuilding virtual agents (voice/chat bots) to automate customer interactions in production environments\nUse GenAI to augment the contact center workplace\nYou have a can-do mindset with a great curiosity for new concepts and ideas\nSetting developer standards and providing stable operations incl. standards, security and regulatory compliance\nAnalyze technical trends in the field and drive innovation and make sure the application is eventually running smoothly\nParticipate in or lead knowledge exchanges within the local AXA (Gen)AI Community\nEffective communication with different stakeholders to understand their needs and drive user adoption\nYour capabilities and talents\nExperience in GenAI project and in particular with automation of customer contact workflows.\nExperience in understanding a business challenge, designing solution approaches, and transforming them into tangible, measurable value together with a team\nExperience in GenAI principles (e.g. RAG, CoT, Agents) and GenAI Frameworks (e.g. Langchain/Langsmith, Vector Stores)\nMinimum 4-5 years of experience in DevOps (Git Flow)\nBasic experience in at least one Web UI Framework, preferably React\nHigh proficiency in Python & working with cloud technologies, preferably Google Cloud Platform\nCollaborative, creative, product and user focused\nPassionate about generating business value and drive the user adoption\nMaster or Ph.D. degree in Computer Science, Data Science, Machine Learning, or related quantitative field.",
+    "notes": "Make my profile to be a best fit for this role",
+    "createdAt": "2026-03-10T08:51:01.165Z"
+  }
+}

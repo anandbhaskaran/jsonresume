@@ -1,0 +1,327 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "AI-focused Senior Software Engineer with over 10 years of experience delivering scalable, high-impact solutions. Spearheaded architectural innovations leading to $1.5M revenue, enhanced user experiences using React and Typescript, and developed complex systems for 10M+ users. Proven team leader, driving product iterations through effective collaboration and data-driven decision-making.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03-15",
+      "endDate": "",
+      "summary": "Technical Lead enhancing platform reliability and driving innovation through scalable systems and AI-powered features, used by millions of users.",
+      "highlights": [
+        "Led architectural design and launch of Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR through agile methodologies and customer-focused iteration",
+        "Spearheaded Beekeeper's Templating Engine — reduced setup time by 90% and enhanced user engagement significantly, now powers 15% of all platform assets",
+        "Engineered robust search interface accommodating 10M+ users, elevating user engagement and accelerating platform adoption rate",
+        "Assembled and led remote engineering teams, fostering an environment for high-quality code and customer-centric solutions",
+        "Collaborated with product managers on A/B experiments to derive insightful data for product iterations",
+        "Designed and deployed production-quality Generative AI translation systems — translated 12K+ key-value pairs, saved $337K and accelerated go-to-market",
+        "Built AI-driven stream template system for the sales team, boosting demo speed and personalization"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06-01",
+      "endDate": "",
+      "summary": "Contributed as a mentor and evaluator, fostering scalability and technical innovation among startups.",
+      "highlights": [
+        "Guided startups in developing core technical strategies aligned with unique goals, enhancing their scalability and innovation practices",
+        "Conducted thorough evaluations of emerging technologies for startups, facilitating growth and enabling impactful solutions"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08-01",
+      "endDate": "2020-03-01",
+      "summary": "Founding engineer for an autonomous drone delivery system, executing over 500 last-mile deliveries.",
+      "highlights": [
+        "Engineered the autonomous drone delivery platform — architected complete software/cloud stack powering 500+ successful deliveries",
+        "Delivered cloud infrastructure enabling scalable operations for enterprise partnerships",
+        "Engineered real-time flight control APIs, optimizing delivery times by 40% and maintaining a 99.5% safety record"
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Led the development of an open-source platform for robot co-evolution, significantly contributing to advancements in AI and robotics.",
+      "highlights": [
+        "Spearheaded AWS migration for Robogen, securing AWS Research Credits and featured on the AWS Research Blog",
+        "Supervised 20+ master's students in robotics and AI research, fostering innovation and hands-on experience",
+        "Contributed to groundbreaking research leading to industry recognition in artificial evolution and robotics"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive presentation demonstrating how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "releaseDate": "",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Full Stack Development",
+      "keywords": [
+        "Java",
+        "Python",
+        "React",
+        "Next.js",
+        "Typescript",
+        "Vue",
+        "Microservices",
+        "API Development"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "System Architecture",
+        "Team Leadership",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Technical Strategy",
+        "Engineering Excellence"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "LLM Applications",
+        "AI Agents",
+        "OpenAI APIs",
+        "AI Product Design",
+        "Translation Systems"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Docker",
+        "Monitoring & Observability",
+        "Deployment Automation"
+      ]
+    },
+    {
+      "name": "User Experience Design",
+      "keywords": [
+        "UI/UX Design",
+        "WYSIWYG Components",
+        "Performance Profiling",
+        "Scalable Solutions",
+        "Customer Experience",
+        "Product Development"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Scalability & Innovations"
+    },
+    {
+      "name": "User Experience"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "Microfrontends"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Built a real-time stock market analysis platform using AI agents, generating and explaining trading signals.",
+        "Focused on explainable AI for clarity in financial analysis, enhancing user experience.",
+        "Transitioned from a personal tool to a public platform for retail traders and investors."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Developed an MVP for a fully digitalized property inspection system, replacing manual workflows.",
+        "Currently leading an AI-powered marketing assistant project to automate listing creation, improving property visibility.",
+        "Implemented structured, image-backed protocols to enhance data integrity."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Launched the first platform for cross-border financial challenges for Indian nationals in Switzerland, addressing a significant market need.",
+        "Developed the MVP in just 3 months, focusing on customer feedback for iterative improvements.",
+        "Designed the solution with compliance in mind, navigating multiple complex financial regulations."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Mintlify",
+    "jobTitle": "Product Engineer",
+    "jobUrl": "https://jobs.ashbyhq.com/mintlify/e132acd4-ec23-41bb-b33a-9e694fc63f99?utm_source=posthog",
+    "jobDescription": "Why Mintlify?\nWe're on a mission to empower builders.\n\nMassive reach: Our docs platform serves 100 million+ developers every year and powers documentation for 10,000+ companies, including Anthropic, Cursor, PayPal, Coinbase, X, and over 20% of the last YC batch.\n\nSmall team, huge impact: We’re only 28 people today, backed by $22 million in funding, each new hire shapes the company’s trajectory.\n\nCulture of slope over y-intercept: We value learning velocity, grit, and unapologetically unique personalities.\n\nWe grew in value faster than headcount and we’re looking to align the two quickly.\n\nWhat you'll work on here\nCollaborating closely with backend, frontend, and design to build customer-facing functionality\n\nContributing to smooth user experience through well-thought-out UI/UX design, utilizing Next.js, React, and Typescript\n\nImproving application performance by profiling\n\nArchitecting and implementing performant, scalable, and reliable solutions in the content and knowledge management space\n\nImplementing complex React components from WYSIWYG to the virtualized rendering of large data collections\n\nWhat you bring to the table\nYou have full-stack experience with relevant technologies (Next.js, React, Typescript)\n\nYou know how to go from 0-to-1\n\nYou have strong communication skills\n\nYou thrive in a collaborative team setting\n\nWhy you should join our engineering team\nEngineers at Mintlify appreciate a high degree of ownership, are passionate about a tasteful user experience, and come to work ready to contribute to a small-but-mighty team.\n\nYou’ll have plenty of heads down builder time. We believe in the power of strong teams to drive change - and have created an environment where the best ideas win and we can acknowledge when we’re wrong.\n\nWe’re all about finding the intersection between what excites you and business priorities. You’ll jump into new territory and learn something new. You’ll own projects and features. You’ll ship.",
+    "notes": "",
+    "createdAt": "2025-09-15T14:45:58.798Z"
+  }
+}

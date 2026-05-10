@@ -1,0 +1,322 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Accomplished senior software engineer and technical lead with 10+ years in high-impact software architecture and development. Proven expertise in designing scalable cloud solutions, leading teams, and driving innovation in microservices and AI. Delivered $1.5M+ in revenue and $337K in cost savings through strategic implementation and agile methodologies in complex environments.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03-15",
+      "endDate": "",
+      "summary": "As a Technical Lead, drive innovation in scalable systems and AI-powered features, enhancing platform reliability and user engagement.",
+      "highlights": [
+        "Led architectural design of Employee Referral System, achieving 99.99% SLA and generating $1.5M+ revenue, including $500K ARR.",
+        "Spearheaded development of Beekeeper's Templating Engine, reducing setup time by 90% and increasing user engagement, powering 15% of platform assets.",
+        "Engineered robust search interface for 10M+ users, significantly elevating user engagement and adoption rate.",
+        "Assembled and led high-performing remote engineering teams, ensuring high-quality, maintainable code while cultivating a growth mindset.",
+        "Collaborated in A/B testing to derive data-driven insights for product iterations and improvements.",
+        "Designed advanced Generative AI translation systems, translating 12K+ key-value pairs, saving $337K in costs and accelerating the GTM process.",
+        "Acted as technical hiring manager for AI roles, mentoring junior engineers while owning core module deliveries."
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06-01",
+      "endDate": "",
+      "summary": "Provide strategic mentorship and technology evaluations for startups, enhancing their scalability and innovation strategies.",
+      "highlights": [
+        "Guided startups towards scalability, fostering technical strategies aligned with unique business goals.",
+        "Advised multiple startups on AI adoption and technical hiring, facilitating impactful solution development."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08-01",
+      "endDate": "2020-03-01",
+      "summary": "As a founding engineer, developed an autonomous drone delivery system that successfully handled over 500 last-mile deliveries.",
+      "highlights": [
+        "Built a full-stack solution for an autonomous drone delivery platform, driving 500+ successful deliveries.",
+        "Engineered real-time flight control APIs, optimizing delivery performance and reducing times by 40% while maintaining a 99.5% safety record.",
+        "Established robust cloud infrastructure and DevOps pipelines, facilitating scalable operations with enterprise partners."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Led the engineering of Robogen, an innovative platform for co-evolving robot designs, enhancing AI and robotics research capabilities.",
+      "highlights": [
+        "Spearheaded migration of Robogen to AWS, securing research credits and increasing platform capabilities.",
+        "Supervised 20+ master's students in robotics and AI projects, contributing to educational and research advancements.",
+        "Contributed to significant research in artificial evolution, resulting in industry recognition and an AWS blog feature."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive presentation demonstrating how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "The Blueprint for Building High‑Impact Teams",
+      "publisher": "Medium",
+      "url": "https://anandb3.medium.com/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "releaseDate": "",
+      "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "System Architecture",
+        "Team Leadership",
+        "Technical Strategy",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Engineering Excellence"
+      ]
+    },
+    {
+      "name": "Full Stack & Backend",
+      "keywords": [
+        "Java",
+        "Python",
+        "Microservices",
+        "API Development",
+        "PostgreSQL",
+        "Kafka"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "OpenAI APIs",
+        "AI Product Design",
+        "Translation Systems",
+        "AI Agents",
+        "RAG Pipelines"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "CI/CD",
+        "Kubernetes",
+        "Docker",
+        "AWS",
+        "Monitoring & Observability",
+        "Deployment Automation"
+      ]
+    },
+    {
+      "name": "Product & Business",
+      "keywords": [
+        "Product Ownership",
+        "A/B Testing",
+        "Revenue Generation",
+        "Go-to-Market",
+        "Stakeholder Management",
+        "Strategic Roadmaps"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "Scalability & Innovation"
+    },
+    {
+      "name": "Technical Strategy"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Built a real-time stock market analysis platform using AI agents to generate and explain trading signals.",
+        "Integrates technical and news-based insights for comprehensive market analysis.",
+        "Focused on explainable AI to enhance clarity in financial analysis."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Obermatt - Fintech Product Development",
+      "position": "Product Owner & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Enhanced CI/CD pipelines with Docker implementation, reducing deployment times by 30%.",
+        "Implemented agile methodologies, increasing team productivity by 20%.",
+        "Developed strategic roadmaps that boosted customer satisfaction and retention rates."
+      ],
+      "url": "https://obermatt.com/en/home.html",
+      "startDate": "2018-07-01",
+      "endDate": "2021-01-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Identified market need and launched the first platform addressing cross-border financial challenges for Indian nationals in Switzerland.",
+        "Led product development from concept to MVP, acquiring early users through strategic partnerships.",
+        "Established customer feedback loops driving a 40% increase in user satisfaction."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Zühlke",
+    "jobTitle": "Lead Software Architect (Java)",
+    "jobUrl": "https://zuehlke.wd3.myworkdayjobs.com/Zuhlke-Careers/job/Schlieren/Lead-Software-Architect_JR100108?utm_campaign=2025_sponsored_inbox_message_leadsoftwarearchitect_zch_eb_09&li_fat_id=ea6a6992-9acf-4879-8361-9c792f6f26d9&utm_medium=paid.social&utm_source=linkedin",
+    "jobDescription": "Lead Software Architect (Java)\nApply\nlocations\nSchlieren\nBern\ntime type\nFull time\nposted on\nPosted 30+ Days Ago\njob requisition id\nJR100108\nFounded in Switzerland in 1968, Zühlke is owned by its partners and located across Europe and Asia. We are a global transformation partner, with engineering and innovation in our DNA. We're trusted to help clients envision and build their businesses for the future – to run smarter today while adapting for tomorrow’s markets, customers, and communities. Our multidisciplinary teams specialise in tech strategy and business innovation, digital solutions and applications, and device and systems engineering. We excel in complex, regulated spaces including health and finance, connecting strategy, tech implementation, and operational services to help clients become more effective, resilient businesses.\n\n \n\nIf you share our values and want to do the best work, for the right reasons, we can offer you the chance to do it on a global scale and play a real role in shaping our exciting journey.\n\nImportant: To ensure a smooth review process, please submit all application documents (CV, cover letter) in English only.\n\nThe role \n\nWe are on the lookout for an experienced and motivated Lead Software Architect. In this role you will be responsible for the overall design and technical success of software projects from initial concept through to delivery, ensuring alignment with business goals and technical requirements. This includes defining the system architecture, guiding development teams on implementation, and making key decisions on tools, frameworks, and technologies. You will also play a crucial role in ensuring scalability, security, and performance, while collaborating with stakeholders, steering the project’s technical direction, and ensuring overall client satisfaction and project success..\n\nHow you’ll make impact\n\nYou will be responsible for the development of complex IT architectures in innovative software solutions and for providing strategic-technological advice to our customers.\n\nYou will manage teams from a technical perspective from kick-off to roll-out and will be in close contact with the project management team.\n\nWith your leadership skills, you will win over, inspire and mobilize your project team and our customers for ideas.\n\nBy coaching your team members in Software Engineering and Architecture and in the application of agile principles, you will make a decisive contribution to the success of a wide range of projects.\n\nWith your skills and experience, you will further develop our Zühlke network of experts and work on group-wide initiatives for the continuous improvement of software development.\n\nWhat’s important to us\n\nYou have a degree (FH, Uni, ETH or similar) in Computer Science, Software Engineering, or a related field. \n\nYou have at least five years of experience as a Software Engineer and/or Architect  \n\nYou have knowledge in the development of highly available and secure cloud solutions as well as expertise in software architectures and documentation (especially in microservices and domain-driven design as well as with tools such as UML and Arc42)\n\nYou are very experienced in the Backend (e.g. Java, Spring Boot, SQL/NoSQL databases and Apache Kafka) and ideally also in the Frontend (e.g. Angular or React)\n\nYou have knowledge of DevOps/GitOps, in particular CI/CD, Docker, Kubernetes and monitoring as well as security (e.g. OAuth2, OIDC and authentication and authorization)\n\nYou bring convincing leadership qualities and a coaching and mentoring mentality as well as a growth mindset and the willingness to learn continuously\n\nYou are an excellent communicator and are fluent in German and English (at least C1 level) \n\nWhat we offer\n\nWork life blend: we offer a safe & healthy workplace, with flexible working hours and the possibility to work from home\n\nProfit share scheme: In addition to your annual salary, you may receive a profit share defined by the company’s success in the previous year \n\nGlobal and Diverse Zühlke community: witness how colleagues from all our 17 offices across the globe come together to create a unique, positive and inclusive work culture, learning from one another at annual team camps, and celebrating year-end parties and other local festivities.\n\nCommitted to development: we are committed to the growth of our people and are investing in your development. We’re empowering you to build the skills you need to make a positive impact, both personally and for our clients, today and in the future.\n\nTo dive deeper into local benefits of working in Zühlke follow the link \n\nHow to Apply\n\nPlease remember all applications must be submitted in English only to be considered\n\n \n\nIf you feel you don't meet all the requirements, we are still happy to get to know you, learn more about your ambitions and ideas and look forward to receiving your application!  \n\n\nWe welcome people from all backgrounds, regardless of their gender, personality, national origin, race, religion, colour, sexual orientation, gender identity, age, marital status, disability or veteran status.",
+    "notes": "",
+    "createdAt": "2025-10-23T07:56:04.685Z"
+  }
+}

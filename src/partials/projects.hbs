@@ -14,6 +14,14 @@
             <p class="summary">{{description}}</p>
             {{/if}}
 
+            {{#if keywords.length}}
+            <div class="flex-container">
+                {{#each keywords}}
+                    <h6 class="skill">{{.}}</h6>
+                {{/each}}
+            </div>
+            {{/if}}
+
             {{#if highlights.length}}
             <ul>
                 {{#each highlights}}

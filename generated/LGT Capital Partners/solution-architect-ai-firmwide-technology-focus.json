@@ -1,0 +1,351 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Proven technical leader with 10+ years’ experience architecting and delivering AI-powered, cloud-native enterprise platforms. Led end-to-end solutions serving millions, drove $1.5M+ in revenue, delivered scalable systems with >99.99% reliability, and mentored teams on strategy, adoption, and innovation while enabling measurable business value, automation, and sustainable technology evolution.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2022-08",
+      "endDate": "",
+      "summary": "Technical Lead owning full lifecycle architectural design and delivery of enterprise-scale, AI-powered platforms, driving sustainable adoption of modern technologies and measurable business value for a platform serving millions.",
+      "highlights": [
+        "Architected Employee Referral System with 99.99% SLA, generating $1.5M+ revenue and $500K ARR through reusable, business-critical capabilities.",
+        "Designed and delivered LLM-driven template translation system leveraging GitHub Actions and OpenAI APIs, translating 12K+ assets and saving $337K while accelerating global go-to-market.",
+        "Led architecture for distributed templating engine serving 10M+ users, reducing customer setup time by 90% and enabling scalable, reusable platform assets.",
+        "Drove GenAI demo template system design and implementation, automating personalized content from Salesforce data to boost demo efficiency and stakeholder engagement.",
+        "Revamped Search Platform, leading cross-functional teams to deliver scalable architecture that enhanced reliability, user engagement, and platform adoption.",
+        "Acted as deputy tech lead and technical hiring manager for AI, mentoring engineers, ensuring delivery of core modules, and driving architectural alignment.",
+        "Developed Agentic AI Onboarding specialist integrating multi-step reasoning for automated, scalable onboarding—providing personalized guidance to all users and significantly reducing time-to-value."
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "Panelist and technology mentor guiding startup founders on technical strategy, scalable architecture, and high-impact adoption of cloud and AI technologies.",
+      "highlights": [
+        "Evaluated deep tech solutions for seed-to-VC startups, driving adoption of scalable technologies and enterprise-grade practices.",
+        "Mentored engineering teams at Opt Alpha to architect and scale high-frequency trading systems, optimizing platform performance and operational reliability."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding Engineer responsible for end-to-end design and delivery of an autonomous, cloud-based drone delivery system used in over 500 last-mile deliveries.",
+      "highlights": [
+        "Architected autonomous drone platform (Vue/Java/PostgreSQL), scaling to 500+ deliveries and enabling enterprise cloud deployments.",
+        "Delivered robust DevOps pipelines and cloud infrastructure powering enterprise partnerships and CES showcase operations.",
+        "Engineered real-time APIs and logistics algorithms, reducing delivery times by 40% and achieving a 99.5% safety record."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Led engineering for Robogen, delivering open-source innovation in AI-driven, cloud-enabled robotics, and supporting research and teaching at EPFL.",
+      "highlights": [
+        "Led architecture and engineering of Robogen, an AI robotics research platform enabling co-evolution of robot morphologies and control systems.",
+        "Directed AWS cloud migration, secured AWS Research Credits, and achieved global recognition via the AWS Research Blog.",
+        "Supervised 20+ master's students and contributed to curriculum as Teaching Assistant for Evolutionary Robotics."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "From Infinite posibilites to finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "releaseDate": "",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "Designing Robots Through Artificial Evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/designing-robots-through-artificial-evolution/",
+      "releaseDate": "",
+      "summary": "Featured technical article showcasing breakthrough research in evolutionary robotics, demonstrating how AWS cloud infrastructure enables large-scale artificial evolution simulations for autonomous system design."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Solution Architecture",
+      "keywords": [
+        "Enterprise Architecture",
+        "System Design",
+        "End-to-End Delivery",
+        "Cloud Architecture",
+        "Scalability",
+        "Integration",
+        "Architecture Governance",
+        "Operational Readiness",
+        "Reusable Platforms",
+        "Reliability Engineering"
+      ]
+    },
+    {
+      "name": "AI & Automation",
+      "keywords": [
+        "Artificial Intelligence",
+        "LLM Integration",
+        "AI Product Design",
+        "AI Agents",
+        "Automation",
+        "Generative AI",
+        "RAG Pipelines",
+        "OpenAI APIs",
+        "Translation Systems",
+        "AI-Powered Solutions"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "keywords": [
+        "AWS",
+        "Kubernetes",
+        "CI/CD",
+        "Docker",
+        "Terraform",
+        "Monitoring & Observability",
+        "Jenkins",
+        "GitHub Actions",
+        "Cloud-Native",
+        "Deployment Automation"
+      ]
+    },
+    {
+      "name": "Leadership & Collaboration",
+      "keywords": [
+        "Technical Leadership",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Stakeholder Management",
+        "Team Leadership",
+        "Technical Strategy",
+        "Communication",
+        "Change Management",
+        "Hiring",
+        "Product Ownership"
+      ]
+    },
+    {
+      "name": "Full Stack & Platform Engineering",
+      "keywords": [
+        "Java",
+        "Python",
+        "Vue.js",
+        "TypeScript",
+        "Microservices",
+        "API Development",
+        "PostgreSQL",
+        "Kafka",
+        "Elastic Search",
+        "Distributed Systems"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Enterprise Architecture"
+    },
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Platform Scalability"
+    },
+    {
+      "name": "Automation"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "Microfrontends"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Developed and launched a real-time stock market analysis platform leveraging AI agents for explainable, reliable trading signals.",
+        "Integrated technical and news-based insights to deliver comprehensive, automated market intelligence for diverse stakeholders.",
+        "Took full ownership from concept to operationalization, scaling the platform from a personal tool to a public solution for retail investors.",
+        "Emphasized explainable AI, speed, and clarity to drive adoption and measurable business value in financial analysis workflows."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Designed and delivered an MVP digitizing property inventory inspections, replacing manual, inefficient workflows with structured, image-backed, timestamped protocols.",
+        "Led architectural and technical strategy for building scalable, AI-driven tools such as an AI-powered marketing assistant automating listing creation and marketplace visibility.",
+        "Implemented automation and integration to optimize operational efficiency across business processes.",
+        "Demonstrated hands-on leadership and agile iteration from concept through deployment in a complex, multi-stakeholder environment."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Identified critical regulatory and market needs, architected and built the first cross-border fintech SaaS platform for complex financial challenges facing Indian nationals in Switzerland.",
+        "Drove end-to-end, zero-to-one product development from concept through to MVP launch in 3 months, establishing scalable architecture and early user adoption.",
+        "Enabled compliance, automation, and secure integration across complex regulatory systems (FEMA, DTAA, Swiss financial regulations).",
+        "Set up continuous feedback loops and platform iteration, leading to a 40% increase in user satisfaction and demonstrable business value."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "LGT Capital Partners",
+    "jobTitle": "Solution Architect – AI & firm-wide technology focus",
+    "jobUrl": "https://lgtcp.wd502.myworkdayjobs.com/lgtcpcurrentvacancies/job/Pfffikon-Switzerland/Solution-Architect---AI---firm-wide-technology-focus_JR1834-2?source=LinkedIn",
+    "jobDescription": "This role offers the opportunity to make a tangible, firm-wide impact, with real ownership to take responsibility for solutions and directly influence how technology is used across the organization. It spans the full lifecycle from concept and architectural design through to hands-on delivery and operationalization,\nwith a strong focus on building reusable, enterprise-grade capabilities.\n\n\nThe Solution Architect will play a key role in enabling business-critical initiatives and in driving the smart, sustainable adoption of technology to deliver measurable business value at scale, increased efficiency, and long-term evolution of our architectural and technology landscape.\n\n\nThe key tasks include:\n\nDesign, implement, and continuously evolve the firm’s software and technology landscape, applying deep expertise in key enabling technologies such as AI, cloud, and shared platforms. Actively guide their effective adoption across projects and business lines in close collaboration with internal teams, partners, and stakeholders;\n\nTake end-to-end ownership of complex initiatives, being accountable for architectural and technology decisions and driving them through to successful, scalable, and sustainable implementation and adoption;\n\nDefine and drive the technical enterprise AI strategy and adoption of shared, scalable platforms, ensuring solutions are designed for reliability, reusability, and long-term impact;\n\nContinuously explore and assess emerging technologies, tools, and architectural approaches, identifying opportunities to drive innovation, enhance efficiency, and enable scalable adoption of strategic capabilities;\n\nDesign and drive technical solutions that enable integration, optimization, and automation of business processes, working closely with business and platform management;\n\nCo-steer the demand and prioritization process together with other Solution Architects and Business Owners, ensuring alignment with the target architecture, technology strategy, and business value objectives.\n\nRequirements\n\nDegree in Computer Science, or a related field (Master’s degree preferred);\n\nProven experience as a Senior Solution Architect and/or Lead Software Engineer, with a strong track record of hands-on design and delivery of enterprise-scale software ecosystems;\n\nDemonstrated, practical expertise in key enabling technologies such as AI, cloud architecture, and shared platforms, including experience implementing and scaling solutions in complex enterprise environments;\n\nDeep understanding of modern software development lifecycles and enterprise engineering practices, including architecture governance, DevOps, CI/CD, QA, and operational readiness;\n\nStrong hands-on mindset combined with a proactive curiosity to learn, experiment, and explore new technologies, particularly in fast-evolving areas such as AI and automation;\n\nExcellent collaboration and stakeholder management skills, with the ability to work effectively across business lines and influence senior stakeholders to drive aligned, firm-wide outcomes;\n\nClear and confident communicator, able to translate complex technical concepts into concise, audience-appropriate messages for both technical and non-technical stakeholders;\n\nExperience in financial services and/or asset management is an advantage;\n\nExcellent English oral and written communication skills; German is a plus.\n\nWhat you can expect\n\nWe provide modern working conditions, including work-from-home options, flexible hours and a home office allowance to ensure staff members have a work environment equipped with the latest technology;\n\nA diverse culture founded on mutual respect, teamwork and appreciation awaits you at LGT Capital Partners. We go the extra mile to generate impact;\n\nWe empower and invest in you: your professional development and personal growth are our priorities. We offer various internal and external training opportunities that are aligned with your ambitions and our business needs. If you are interested, you can also enhance your German or English language skills;\n\nWe are proud to be owned by the Princely Family of Liechtenstein and our company is inspired by its entrepreneurial spirit;\n\nCommitment to ESG: our approach to business is influenced by the Princely Family’s long-term perspective. Sustainability is key for us and has shaped our actions since 2002;\n\nYou benefit from favorable terms and conditions if you wish to participate in LGT Capital Partners’ investment programs or to use LGT banking products and services.",
+    "notes": "Make me a strong fit",
+    "createdAt": "2026-03-11T11:10:55.055Z"
+  }
+}

@@ -1,0 +1,1154 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+  <title>Anand Bhaskaran</title>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <style>/* Utils */
+/*----- Colors -----*/
+/*----- Fonts -----*/
+/*----- Dimensions and sizes -----*/
+/* Base */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Josefin Sans Light'), local('JosefinSans-Light'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ecpl5te10k.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Josefin Sans Bold'), local('JosefinSans-Bold'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ectllte10k.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHjxsAXC-v.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh7USSwiPHA.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v16/S6uyw4BMUTPHjx4wWw.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh6UVSwiPHA.ttf) format('truetype');
+}
+
+html {
+  background: white;
+}
+
+body {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  background: white;
+  margin: 50px 0 100px;
+  letter-spacing: .3px;
+  color: #4A5568;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: none;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: .5px;
+}
+
+h3 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: .4px;
+}
+
+h3.bold {
+  font-weight: 700;
+}
+
+h4 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+h4.bold {
+  font-weight: 700;
+}
+
+h5 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+}
+
+h5.italic {
+  font-style: italic;
+}
+
+h6 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 10px;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: #2895F1;
+}
+
+a .fa-external-link {
+  font-size: 10px;
+  vertical-align: text-top;
+}
+
+p,
+li {
+  font-size: 12px;
+  font-weight: 400;
+  opacity: 0.8;
+}
+
+blockquote {
+  font-size: 11px;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  margin: 10px 25px;
+}
+
+em {
+  color: #718096;
+}
+
+ul {
+  margin: 6px 0 0;
+  -webkit-padding-start: 15px;
+}
+
+ul li {
+  padding-left: 0px;
+}
+
+ul.minimal {
+  list-style: none;
+  padding: 0;
+}
+
+ul.minimal li {
+  margin-bottom: 3px;
+  padding-left: 0;
+}
+
+ul.two-column {
+  -webkit-column-count: 2;
+  -webkit-column-gap: 28px;
+  column-count: 2;
+  column-gap: 28px;
+}
+
+ul.two-column li {
+  padding-left: 0;
+}
+
+@page {
+  size: A4;
+}
+
+.container {
+  padding-top: 15px;
+}
+
+.keyline {
+  width: 45px;
+  margin: 6px 0 8px;
+  border-top: 1px solid #56817A;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.profile-pic {
+  margin-top: -5px;
+  margin-right: 18px;
+}
+
+.profile-pic img {
+  height: 52px;
+  width: 52px;
+  border-radius: 50%;
+  border: 2px solid #56817A;
+}
+
+.summary {
+  margin: 5px 0 3px;
+}
+
+.sublink {
+  font-size: 70%;
+  font-weight: 200;
+  color: #718096;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+/* Layouts */
+.page {
+  background: white;
+  width: 612px;
+  min-height: 792px;
+  display: block;
+  margin: 0 auto;
+  border-top: 10px solid #56817A;
+  padding: 30px 22px 25px 34px;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
+}
+
+.page:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.left-column {
+  float: left;
+  width: 160px;
+  margin-right: 20px;
+  word-wrap: break-word;
+}
+
+.right-column {
+  width: auto;
+  overflow: hidden;
+}
+
+.item {
+  margin-bottom: 15px;
+}
+
+.item:last-child {
+  margin-bottom: 0;
+}
+
+/* Compact spacing for certificates, awards, and publications */
+.certificates-container .item,
+.awards-container .item,
+.publications-container .item {
+  margin-bottom: 8px;
+}
+
+.certificates-container .item:last-child,
+.awards-container .item:last-child,
+.publications-container .item:last-child {
+  margin-bottom: 0;
+}
+
+@media print {
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  body {
+    margin: 0;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .page {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 36px 0 30px !important;
+    box-shadow: none !important;
+  }
+
+  .page:after {
+    display: none !important;
+  }
+
+  .page .resume-header,
+  .page .resume-content {
+    padding: 0 22px 0 34px !important;
+  }
+
+  .resume-content {
+    display: grid !important;
+    grid-template-columns: 160px 1fr !important;
+    grid-gap: 20px !important;
+    align-items: start !important;
+  }
+
+  .left-column {
+    grid-column: 1 !important;
+    float: none !important;
+    width: auto !important;
+    margin-right: 0 !important;
+    word-wrap: break-word !important;
+  }
+
+  .right-column {
+    grid-column: 2 !important;
+    width: auto !important;
+    overflow: visible !important;
+  }
+
+  .container {
+    page-break-inside: avoid;
+  }
+
+  .work-container .item {
+    page-break-inside: avoid;
+  }
+
+  .fa-external-link {
+    display: none;
+  }
+}
+
+/* Components */
+.info-tag-container {
+  margin-bottom: 5px;
+}
+
+.info-tag-container .fa {
+  font-size: 14px;
+  width: 12px;
+  margin-right: 5px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.info-tag-container .fa.fa-map-marker {
+  font-size: 16px;
+}
+
+.info-tag-container .fa.fa-mobile {
+  font-size: 18px;
+}
+
+.info-tag-container .fa.fa-envelope-o {
+  font-size: 12px;
+}
+
+.info-tag-container .fa.fa-desktop {
+  font-size: 11px;
+}
+
+.info-tag-container .fa.fa-external-link {
+  width: auto;
+  font-size: inherit;
+  vertical-align: text-top;
+}
+
+.info-tag-container .info-text {
+  font-size: 12px;
+  text-transform: none;
+  display: inline-block;
+  vertical-align: middle;
+  width: 139px;
+}
+
+.references-container .fa {
+  font-size: 14px;
+}
+
+.education-container .location {
+  padding-bottom: 6px;
+  font-weight: 400;
+}
+
+.education-container .specialization {
+  text-transform: none;
+  font-style: italic;
+}
+
+/* Simplified certificates styling */
+.certificates-list {
+  margin-bottom: 15px;
+}
+
+.certificate-item {
+  margin-bottom: 8px;
+  line-height: 1.4;
+  font-size: 11px;
+}
+
+.certificate-item strong {
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.certificate-item:last-child {
+  margin-bottom: 0;
+}
+
+.certificates-container .date {
+  font-size: 10px;
+  color: #718096;
+  font-weight: normal;
+}
+
+.certificates-container .certificate-url {
+  font-size: 10px;
+  color: #56817A;
+  text-decoration: none;
+}
+
+.certificates-container .certificate-url:hover {
+  text-decoration: underline;
+}
+
+/* Awards styling matching certificates */
+.awards-list {
+  margin-bottom: 15px;
+}
+
+.award-item {
+  margin-bottom: 8px;
+  line-height: 1.4;
+  font-size: 11px;
+}
+
+.award-item strong {
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.award-item:last-child {
+  margin-bottom: 0;
+}
+
+.awards-container .date {
+  font-size: 10px;
+  color: #718096;
+  font-weight: normal;
+}
+
+.awards-container .award-url {
+  font-size: 10px;
+  color: #56817A;
+  text-decoration: none;
+}
+
+.awards-container .award-url:hover {
+  text-decoration: underline;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.skills-container {
+  margin-bottom: 25px;
+}
+
+.skills-section {
+  margin-bottom: 20px;
+}
+
+.skills-flex {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+  margin-bottom: 8px;
+}
+
+.skill-pill {
+  font-size: 10px;
+  font-weight: 400;
+  color: #4A5568;
+  padding: 4px 10px;
+  margin: 2px;
+  background: #f8f8f8;
+  border-radius: 12px;
+  border: 1px solid #e8e8e8;
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.main-skill {
+  font-size: 80%;
+}
+
+.skill {
+  margin: .15em;
+  padding: .15em;
+  background: ghostwhite;
+  border-radius: 5px;
+}
+
+/* Compact styling for certificates, awards, and publications */
+.certificates-container .item-header h4,
+.awards-container .item-header h4,
+.publications-container .item-header h4 {
+  margin-bottom: 2px;
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+.certificates-container .issuer,
+.awards-container .awarder,
+.publications-container .awarder {
+  margin: 2px 0 4px 0;
+  font-size: 12px;
+  color: #718096;
+}
+
+.certificates-container .summary,
+.awards-container .summary,
+.publications-container .summary {
+  margin: 2px 0 0 0;
+  font-size: 12px;
+  line-height: 1.3;
+}
+
+/* More compact container spacing */
+.certificates-container,
+.awards-container,
+.publications-container {
+  margin-bottom: 12px;
+}
+
+.certificates-container .keyline,
+.awards-container .keyline,
+.publications-container .keyline {
+  margin: 4px 0 6px;
+}
+</style>
+</head>
+
+<body>
+  <main id="resume" class="page">
+    <header class="resume-header clearfix">
+        <div class="profile-header pull-left">
+            <h1>Anand Bhaskaran</h1>
+            <h2>Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI</h2>
+        </div>
+        <div class="profile-pic pull-right">
+        </div>
+    </header>
+    <div class="resume-content">
+      <aside class="left-column">
+        <div class="container about-container">
+            <div class="title">
+                <h3>About</h3>
+                <div class="keyline"></div>
+            </div>
+                <div class="info-tag-container">
+                    <i class="fa fa-map-marker"></i>
+                
+                        <h6 class="info-text"> Zurich   Switzerland</h6>
+                </div>
+        
+        
+                <div class="info-tag-container">
+                    <i class="fa fa-envelope-o"></i>
+                
+                        <h6 class="info-text">
+                            <a href="mailto:anandbaskaran3193@gmail.com" target="_blank">
+                                anandbaskaran3193@gmail.com
+                            </a>
+                        </h6>
+                </div>
+        
+                <div class="info-tag-container">
+                    <i class="fa fa-mobile"></i>
+                
+                        <h6 class="info-text">
+                            <a href="https://anand-creations.web.app" target="_blank">
+                                +41763043193
+                            </a>
+                        </h6>
+                </div>
+        
+        
+                                <div class="info-tag-container">
+                                    <i class="fa fa-linkedin-square"></i>
+                                
+                                        <h6 class="info-text">
+                                            <a href="https://ch.linkedin.com/in/anandb3" target="_blank">
+                                                anandb3
+                                            </a>
+                                        </h6>
+                                </div>
+                                 <div class="info-tag-container">
+                                     <i class="fa fa-github"></i>
+                                 
+                                         <h6 class="info-text">
+                                             <a href="https://github.com/anandbhaskaran" target="_blank">
+                                                 anandbhaskaran
+                                             </a>
+                                         </h6>
+                                 </div>
+                                 <div class="info-tag-container">
+                                     <i class="fa fa-website"></i>
+                                 
+                                         <h6 class="info-text">
+                                             <a href="https://anand-creations.web.app" target="_blank">
+                                                 anand-creations
+                                             </a>
+                                         </h6>
+                                 </div>
+        </section>
+            <div class="skills-container">
+                    <section class="container skills-section">
+                            <div class="title">
+                                <h3>Product Management</h3>
+                                <div class="keyline"></div>
+                            </div>                    <div class="skills-flex">
+                                    <span class="skill-pill">Product Ownership</span>
+                                    <span class="skill-pill">Roadmap Development</span>
+                                    <span class="skill-pill">Stakeholder Collaboration</span>
+                                    <span class="skill-pill">Project Planning</span>
+                                    <span class="skill-pill">Resource Allocation</span>
+                                    <span class="skill-pill">Business Impact</span>
+                            </div>
+                    </section>
+                    <section class="container skills-section">
+                            <div class="title">
+                                <h3>AI &amp; Machine Learning</h3>
+                                <div class="keyline"></div>
+                            </div>                    <div class="skills-flex">
+                                    <span class="skill-pill">Generative AI</span>
+                                    <span class="skill-pill">Conversational AI</span>
+                                    <span class="skill-pill">Natural Language Processing</span>
+                                    <span class="skill-pill">AI Product Design</span>
+                                    <span class="skill-pill">OpenAI APIs</span>
+                                    <span class="skill-pill">Translation Systems</span>
+                            </div>
+                    </section>
+                    <section class="container skills-section">
+                            <div class="title">
+                                <h3>Technical Leadership</h3>
+                                <div class="keyline"></div>
+                            </div>                    <div class="skills-flex">
+                                    <span class="skill-pill">Team Leadership</span>
+                                    <span class="skill-pill">Mentoring</span>
+                                    <span class="skill-pill">Cross-functional Collaboration</span>
+                                    <span class="skill-pill">Innovation Practices</span>
+                                    <span class="skill-pill">Agile Methodologies</span>
+                                    <span class="skill-pill">Engineering Excellence</span>
+                            </div>
+                    </section>
+                    <section class="container skills-section">
+                            <div class="title">
+                                <h3>Full Stack &amp; Backend Development</h3>
+                                <div class="keyline"></div>
+                            </div>                    <div class="skills-flex">
+                                    <span class="skill-pill">Java</span>
+                                    <span class="skill-pill">Python</span>
+                                    <span class="skill-pill">API Development</span>
+                                    <span class="skill-pill">Microservices</span>
+                                    <span class="skill-pill">PostgreSQL</span>
+                                    <span class="skill-pill">Elastic Search</span>
+                            </div>
+                    </section>
+                    <section class="container skills-section">
+                            <div class="title">
+                                <h3>DevOps &amp; Infrastructure</h3>
+                                <div class="keyline"></div>
+                            </div>                    <div class="skills-flex">
+                                    <span class="skill-pill">CI/CD</span>
+                                    <span class="skill-pill">Kubernetes</span>
+                                    <span class="skill-pill">AWS</span>
+                                    <span class="skill-pill">Monitoring &amp; Observability</span>
+                                    <span class="skill-pill">Docker</span>
+                                    <span class="skill-pill">Deployment Automation</span>
+                            </div>
+                    </section>
+            </div>
+            <div class="container languages-container">
+                <div class="title">
+                    <h3>Languages</h3>
+                    <div class="keyline"></div>
+                </div>
+                <ul class="minimal">
+                        <li>
+                            <h6>English <em>(Professional Working)</em></h6>
+                        </li>
+                        <li>
+                            <h6>German <em>(Beginner)</em></h6>
+                        </li>
+                </ul>
+            </div>
+        <div class="container certificates-container">
+            <div class="title">
+                <h3>Certificates</h3>
+                <div class="keyline"></div>
+            </div>
+            <div class="certificates-list">
+                <div class="certificate-item">
+                    <strong>Building Modern Java Applications</strong> - AWS
+                    
+                    
+                </div>
+                <div class="certificate-item">
+                    <strong>Build LLM Apps with LangChain</strong> - DeepLearning.AI
+                    
+                    
+                </div>
+                <div class="certificate-item">
+                    <strong>Microsoft Certified Professional (MCPS)</strong> - Microsoft
+                    
+                    
+                </div>
+                <div class="certificate-item">
+                    <strong>MongoDB for Java Developers</strong> - MongoDB University
+                    
+                    
+                </div>
+            </div>
+        </div>
+            <div class="container interests-container">
+                <div class="title">
+                    <h3>Interests</h3>
+                    <div class="keyline"></div>
+                </div>
+                    <section class="item">
+                            <h4 class="bold">AI &amp; Creativity</h4>
+                    </section>
+                    <section class="item">
+                            <h4 class="bold">Startup Mentoring</h4>
+                    </section>
+                    <section class="item">
+                            <h4 class="bold">Conversational AI</h4>
+                    </section>
+                    <section class="item">
+                            <h4 class="bold">Product Innovation</h4>
+                    </section>
+                    <section class="item">
+                            <h4 class="bold">Scalable Solutions</h4>
+                    </section>
+            </div>
+        <div class="container awards-container">
+            <div class="title">
+                <h3>Awards</h3>
+                <div class="keyline"></div>
+            </div>
+            <div class="awards-list">
+                <div class="award-item">
+                    <strong>AWS Cloud Credits for Research</strong> - Amazon Web Services
+                    <span class="date"> (2020)</span>
+                    
+                    
+                </div>
+                <div class="award-item">
+                    <strong>KTH Opportunities Fund</strong> - KTH Royal Institute of Technology
+                    
+                    
+                    
+                </div>
+                <div class="award-item">
+                    <strong>TI India Analog Design Contest Winner</strong> - Texas Instruments
+                    
+                    
+                    
+                </div>
+            </div>
+        </div>
+      </aside>
+      <div class="right-column">
+                <div class="container summary-container">
+                    <div class="title">
+                        <h3>Summary</h3>
+                        <div class="keyline"></div>
+                    </div>            <p class="summary">
+                        AI-focused Product Owner with 10+ years in software development and a proven track record of delivering high-impact AI solutions. Successfully led cross-functional teams in launching scalable systems, driving $1.5M+ in revenue, and enhancing user experiences. Expertise in generative AI and NLP, aligning product strategies with business goals for transformative outcomes.
+                    </p>
+                </div>
+        <div class="container work-container">
+            <div class="title">
+                <h3>Work Experience</h3>
+                <div class="keyline"></div>
+            </div>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                <a href="https://www.beekeeper.io/" target="_blank">
+                                    Beekeeper AG
+                                </a>
+                        </h3>
+                        <h5 class="italic pull-right">
+                                <span class="startDate">03/2020</span>
+                                <span class="endDate"> - Present</span>
+                        </h5>
+                    </div>
+        
+                    <h4>Senior Software Engineer (Technical Lead)</h4>
+        
+        
+                    <p class="summary">Technical Lead focused on delivering an AI-powered assistant that improves workplace collaboration and productivity, driving substantial revenue growth and innovation.</p>
+        
+                    <ul>
+                        <li>Led architectural design and launch of Employee Referral System, generating $1.5M+ revenue including $500K ARR through agile methodologies and customer-focused iteration.</li>
+                        <li>Spearheaded development of Templating Engine, reducing setup time by 90% and increasing user engagement, now powering 15% of all platform assets.</li>
+                        <li>Engineered robust search interface accommodating 10M+ users, significantly enhancing user engagement and platform adoption.</li>
+                        <li>Assembled and mentored high-performing remote engineering teams, improving code quality and fostering a growth mindset.</li>
+                        <li>Collaborated on A/B experiments, deriving insightful data to inform product iterations and user needs.</li>
+                        <li>Designed and deployed advanced Generative AI translation systems, saving $337K and accelerating go-to-market by translating 12K+ key-value pairs.</li>
+                    </ul>
+                </section>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                <a href="https://www.tenity.com/" target="_blank">
+                                    Tenity
+                                </a>
+                        </h3>
+                        <h5 class="italic pull-right">
+                                <span class="startDate">06/2024</span>
+                                <span class="endDate"> - Present</span>
+                        </h5>
+                    </div>
+        
+                    <h4>Startup Mentor &amp; Technology Evaluation Panelist</h4>
+        
+        
+                    <p class="summary">Mentor for startups focusing on AI and technology strategy to foster innovation and ensure scalable development.</p>
+        
+                    <ul>
+                        <li>Guided startups on scalability and core technical strategies, enhancing their potential for impactful, scalable solutions.</li>
+                        <li>Conducted thorough evaluations of emerging technologies, facilitating growth and strategic direction for seed-to-VC startups.</li>
+                    </ul>
+                </section>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                <a href="https://lis.epfl.ch/" target="_blank">
+                                    Dronistics
+                                </a>
+                        </h3>
+                        <h5 class="italic pull-right">
+                                <span class="startDate">08/2016</span>
+                                <span class="endDate"> - 03/2020</span>
+                        </h5>
+                    </div>
+        
+                    <h4>Founding Software Application Developer</h4>
+        
+        
+                    <p class="summary">Founding engineer behind Dronistics, focusing on autonomous drone delivery systems that increased operational efficiency in last-mile logistics.</p>
+        
+                    <ul>
+                        <li>Engineered a full-stack autonomous drone delivery platform, successfully powering 500+ deliveries.</li>
+                        <li>Optimized real-time flight control APIs, reducing delivery times by 40% while ensuring a 99.5% safety record.</li>
+                        <li>Established cloud infrastructure enabling scalable operations for enterprise partnerships.</li>
+                    </ul>
+                </section>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                <a href="https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/" target="_blank">
+                                    EPFL — Laboratory of Intelligent Systems (Robogen)
+                                </a>
+                        </h3>
+                        <h5 class="italic pull-right">
+                                <span class="startDate">01/2017</span>
+                                <span class="endDate"> - 01/2020</span>
+                        </h5>
+                    </div>
+        
+                    <h4>Research Software Developer</h4>
+        
+        
+                    <p class="summary">Led development of the Robogen platform, advancing research in robotics through artificial evolution methodologies.</p>
+        
+                    <ul>
+                        <li>Pioneered engineering of an open-source platform for co-evolution of robot morphologies, enhancing AI robotics research.</li>
+                        <li>Spearheaded migration to AWS, improving research capabilities and securing industry recognition.</li>
+                        <li>Supervised 20+ master&#x27;s students in robotics and AI projects, fostering academic growth and innovation.</li>
+                    </ul>
+                </section>
+        </div>
+        <div class="container project-container">
+            <div class="title">
+                <h3>Entrepreneurial Projects</h3>
+                <div class="keyline"></div>
+            </div>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                <a href="https://pulse-view.anand-creations.com" target="_blank">
+                                    PulseView - AI Market Intelligence
+                                        <span class="sublink">∙ <a href="https://pulse-view.anand-creations.com" target="_blank" class="sublink">https://pulse-view.anand-creations.com</a></span>
+                                </a>
+                        </h3>
+                        <h5 class="italic pull-right">
+                                <span class="startDate">05/2025</span>
+                                <span class="endDate"> - Present</span>
+                        </h5>
+                    </div>
+        
+                    <h4>Founder &amp; AI Product Builder</h4>
+        
+        
+                    <ul>
+                        <li>Built a real-time stock market analysis platform using AI agents, enhancing decision-making for traders.</li>
+                        <li>Integration of technical and news insights for comprehensive market analysis, driving engagement and value.</li>
+                        <li>Transitioned from personal use to a public tool, broadening its impact across retail investors.</li>
+                    </ul>
+                </section>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                <a href="https://proplab.io" target="_blank">
+                                    Proplab - AI Real Estate Tools
+                                        <span class="sublink">∙ <a href="https://proplab.io" target="_blank" class="sublink">https://proplab.io</a></span>
+                                </a>
+                        </h3>
+                        <h5 class="italic pull-right">
+                                <span class="startDate">09/2025</span>
+                                <span class="endDate"> - Present</span>
+                        </h5>
+                    </div>
+        
+                    <h4>Founder &amp; AI Product Builder</h4>
+        
+        
+                    <ul>
+                        <li>Developed an MVP for a digital property inspection system, replacing outdated manual workflows.</li>
+                        <li>Led the creation of an AI-powered marketing assistant to automate listing processes and enhance visibility.</li>
+                    </ul>
+                </section>
+                <section class="item">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                <a href="https://www.swissnri.com" target="_blank">
+                                    SwissNRI - Cross-border Fintech Platform
+                                        <span class="sublink">∙ <a href="https://www.swissnri.com" target="_blank" class="sublink">https://www.swissnri.com</a></span>
+                                </a>
+                        </h3>
+                        <h5 class="italic pull-right">
+                                <span class="startDate">01/2024</span>
+                                <span class="endDate"> - Present</span>
+                        </h5>
+                    </div>
+        
+                    <h4>Co-Founder &amp; Technical Lead</h4>
+        
+        
+                    <ul>
+                        <li>Launched a platform addressing financial challenges for Indian nationals in Switzerland, meeting a critical market need.</li>
+                        <li>Developed the product from concept to MVP in 3 months, leveraging strategic partnerships to drive adoption.</li>
+                        <li>Focused on compliance across multiple jurisdictions, ensuring the product met stringent regulatory requirements.</li>
+                    </ul>
+                </section>
+        </div>
+        <div class="container education-container">
+            <div class="title">
+            <h3>Education</h3>
+            <div class="keyline"></div>
+        </div> 
+            <section class="item">
+                <div class="section-header clearfix">
+            <h3 class="bold pull-left">
+                    Quantic School of Business and Technology
+            </h3>
+            <h5 class="italic pull-right">
+                    <span class="startDate">2019</span>
+                    <span class="endDate"> - 2020</span>
+            </h5>
+        </div>
+         
+                <h4>MBA Business Administration</h4>
+        
+              </section>
+        
+            <section class="item">
+                <div class="section-header clearfix">
+            <h3 class="bold pull-left">
+                    EIT Digital
+            </h3>
+            <h5 class="italic pull-right">
+                    <span class="startDate">2014</span>
+                    <span class="endDate"> - 2016</span>
+            </h5>
+        </div>
+         
+                <h4>Master (Programme) Innovation &amp; Entrepreneurship</h4>
+        
+              </section>
+        
+            <section class="item">
+                <div class="section-header clearfix">
+            <h3 class="bold pull-left">
+                    Eindhoven University of Technology (TU/e)
+            </h3>
+            <h5 class="italic pull-right">
+                    <span class="startDate">2015</span>
+                    <span class="endDate"> - 2016</span>
+            </h5>
+        </div>
+         
+                <h4>MSc (Netherlands) Embedded Networking</h4>
+        
+              </section>
+        
+            <section class="item">
+                <div class="section-header clearfix">
+            <h3 class="bold pull-left">
+                    KTH Royal Institute of Technology
+            </h3>
+            <h5 class="italic pull-right">
+                    <span class="startDate">2014</span>
+                    <span class="endDate"> - 2015</span>
+            </h5>
+        </div>
+         
+                <h4>MSc (Sweden) Embedded Systems</h4>
+        
+              </section>
+        
+            <section class="item">
+                <div class="section-header clearfix">
+            <h3 class="bold pull-left">
+                    Amrita Vishwa Vidyapeetham
+            </h3>
+            <h5 class="italic pull-right">
+                    <span class="startDate">2010</span>
+                    <span class="endDate"> - 2014</span>
+            </h5>
+        </div>
+         
+                <h4>Bachelor of Engineering Electronics and Communication</h4>
+        
+              </section>
+        </div>
+        <div class="container publications-container">
+            <div class="title">
+                <h3>Blog Posts &amp; Talks</h3>
+                <div class="keyline"></div>
+            </div>
+            <section class="item">
+                <a href="https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d" target="_blank" rel="noopener noreferrer">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                AI and creativity
+                        </h3>
+                        <h5 class="italic pull-right">
+                        </h5>
+                    </div>
+                </a>
+        
+                <h5 class="awarder">Front Conference (Talk)</h5>
+        
+                <p class="summary">Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development.</p>
+        
+            </section>
+            <section class="item">
+                <a href="https://pitch.com/v/ai-for-the-rest-of-us-p2tejg" target="_blank" rel="noopener noreferrer">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                From Infinite posibilites to finite Results
+                        </h3>
+                        <h5 class="italic pull-right">
+                        </h5>
+                    </div>
+                </a>
+        
+                <h5 class="awarder">AI for the rest of Us, UK (Talk)</h5>
+        
+                <p class="summary">Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design.</p>
+        
+            </section>
+            <section class="item">
+                <a href="https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df" target="_blank" rel="noopener noreferrer">
+                    <div class="section-header clearfix">
+                        <h3 class="bold pull-left">
+                                From Idea to Product
+                        </h3>
+                        <h5 class="italic pull-right">
+                                01/2022
+                                </h5>
+                    </div>
+                </a>
+        
+                <h5 class="awarder">Dev Innovation Summit 2022, USA (Talk)</h5>
+        
+                <p class="summary">Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments.</p>
+        
+            </section>
+        
+            <div class="view-all-publications">
+                <a href="https://anand-creations.vercel.app/blog" target="_blank" rel="noopener noreferrer" style="color: #56817A; text-decoration: none;">
+                    <h3>View All Publications →</h3>
+                </a>
+            </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</body>
+
+</html>

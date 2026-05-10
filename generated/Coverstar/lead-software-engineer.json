@@ -1,0 +1,327 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Results-driven Senior Software Engineer with 10+ years of experience leading high-impact projects. Spearheaded scalable features for B2B platforms reaching 10M+ users, drove $1.5M+ in revenue, and ensured 99.99% reliability. Proven expertise in mentoring teams, optimizing infrastructure, and integrating AI technologies to enhance product efficiency and performance.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2022-08",
+      "endDate": "",
+      "summary": "As Technical Lead at Beekeeper, I drive the development of core features for a B2B social media platform that serves over 10M users, focusing on scalability and reliability.",
+      "highlights": [
+        "Architected Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR",
+        "Built LLM-powered template translations using GitHub Actions and OpenAI APIs — translated 12K+ key-value pairs, saved $337K and accelerated go-to-market",
+        "Designed distributed templating engine serving 10M+ users — reduced setup time by 90%, powers 15% of all platform assets",
+        "Led GenAI demo template system for sales team — auto-generates customized content from Salesforce data, boosting demo speed and personalization",
+        "Spearheaded Search Platform Revamp — led teams of 2-4 engineers delivering scalable architecture for enhanced user engagement",
+        "Acting technical hiring manager for AI roles and deputy tech lead — mentored engineers while owning end-to-end delivery of core modules",
+        "Drove cross-functional GTM initiatives — Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, resulting in streamlined sales pipeline"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "As a mentor and panelist at Tenity, I guide startups on technical strategy and innovation, ensuring their solutions are scalable and impactful.",
+      "highlights": [
+        "Conducted thorough evaluations of emerging technologies for seed-to-VC startups.",
+        "Advised multiple startups on technical hiring, AI adoption, and scalable solution development."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "At Dronistics, I was responsible for the entire technology stack of an autonomous drone delivery system, ensuring high reliability in over 500 last-mile deliveries.",
+      "highlights": [
+        "Built end-to-end autonomous drone delivery platform — architected full-stack solution (Vue/Java/PostgreSQL) powering 500+ successful deliveries.",
+        "Delivered complete cloud infrastructure and DevOps pipeline — enabled scalable operations for enterprise partnerships with Unilever and CES showcase.",
+        "Engineered real-time flight control APIs and logistics optimization algorithms — reduced delivery times by 40% while maintaining 99.5% safety record."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Led engineering of Robogen, an open-source platform for co-evolving robot designs, which enhanced AI and robotics research capabilities.",
+      "highlights": [
+        "Robogen — AI & Robotics Research Platform: Led engineering of an open-source platform for co-evolution of robot morphologies and control systems.",
+        "Spearheaded its migration to AWS, securing AWS Research Credits and being featured on the AWS Research Blog.",
+        "Supervised 20+ master's students at EPFL, fostering the next generation of engineering talent."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive presentation demonstrating how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "releaseDate": "",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "System Architecture",
+        "Team Leadership",
+        "Technical Strategy",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Engineering Excellence"
+      ]
+    },
+    {
+      "name": "Backend & Cloud Expertise",
+      "keywords": [
+        "Java",
+        "Python",
+        "AWS",
+        "Node.js",
+        "PostgreSQL",
+        "Microservices",
+        "API Development",
+        "Cloud Infrastructure"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "LLM Applications",
+        "Machine Learning Pipelines",
+        "AI Product Design",
+        "Model Integration",
+        "OpenAI APIs"
+      ]
+    },
+    {
+      "name": "Full Stack Development",
+      "keywords": [
+        "React",
+        "Vue.js",
+        "API Development",
+        "Microfrontends",
+        "UI Prototyping",
+        "Frontend Engineering"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "CI/CD",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Monitoring & Observability",
+        "Deployment Automation"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Scalable Systems"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "Product Development"
+    },
+    {
+      "name": "Cloud Infrastructure"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Developed a real-time stock market analysis platform leveraging AI agents for trading signals.",
+        "Integrated technical and news-based insights for comprehensive financial analysis.",
+        "Transitioned from a personal tool to a public platform serving retail traders and investors."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Designed and built MVP for a digital property inspection system, automating workflows with AI.",
+        "Currently developing an AI-powered marketing assistant to enhance property visibility on marketplaces.",
+        "Implemented structured, image-backed protocols for reliable property inspection."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Launched a platform addressing complex cross-border financial challenges for Indian nationals in Switzerland.",
+        "Led MVP development within 3 months, driving user acquisition through strategic community partnerships.",
+        "Focused on compliance with critical regulatory requirements across multiple jurisdictions."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Coverstar",
+    "jobTitle": "Lead Software Engineer",
+    "jobUrl": "https://coverstar.notion.site/coverstar-job-board?p=2e1c71de4272800ca511cecee236c615&pm=s",
+    "jobDescription": "# **Lead Software Engineer**\n\n**Location:** Zurich, Switzerland\n\n**Type:** Full-time\n\n---\n\n## About Coverstar\n\nCoverstar is building the first safe, creative, AI-native social platform for Gen Alpha. We’ve built a COPPA-compliant community where kids can create, collaborate, and grow safely.\n\nWe’re backed by top investors like a16z, moving fast, and hiring a mission-aligned **Engineering Lead** to help us power the next generation of personalized content and community.\n\n---\n\n## The Role\n\nWe're looking for an allrounder, someone who can serve as the right hand of the CTO. You're senior enough to engage in architectural design discussions and make meaningful technical decisions, but you also thrive when rolling up your sleeves and diving into the details of the codebase. This role sits at the intersection of technical leadership and hands-on engineering, with significant ownership over code quality, project execution, and engineering processes.\n\nYou'll work side-by-side with the CTO in our Zurich office, helping to scale our platform, mentor the team, and ship features that directly impact our users.\n\n---\n\n## What You'll Do\n\n**Technical Leadership & Code Quality**\n\n- Lead code reviews across the engineering team, ensuring high standards for quality, security, and maintainability\n- Establish and evolve coding standards, best practices, and architectural patterns\n- Mentor engineers and provide technical guidance on complex implementation challenges\n\n**Project Management & Delivery**\n\n- Drive engineering projects from planning through delivery, coordinating across team members and stakeholders\n- Break down complex initiatives into actionable milestones and keep work on track\n- Identify risks early and proactively communicate status and blockers\n\n**Process Improvement**\n\n- Continuously evaluate and improve our development workflows, CI/CD pipelines, and team processes\n- Leverage AI tools to accelerate development cycles and automate repetitive tasks\n- Build a culture of iteration, measurement, and continuous improvement\n\n**AI/ML Infrastructure Support**\n\n- Partner with AI/ML engineers to build and scale model training and inference pipelines\n- Design and maintain data pipelines for preprocessing, labeling automation, and model integration\n- Optimize compute and storage architecture for efficient training and deployment\n\n**Infrastructure Management**\n\n- Drive proactive capacity planning and long-term infrastructure improvements\n- Ensure reliability, scalability, and cost-efficiency across our AWS environment\n\n---\n\n## What We're Looking For\n\n**Backend & Cloud Expertise**\n\n- 6+ years of hands-on backend development experience, with deep proficiency in AWS services (EC2, Lambda, S3, ECS, RDS, DynamoDB, SQS, and more)\n- Strong command of Node.js and Python for production systems; ideally familiarity with C/C++ or Rust for performance-critical components\n- Expert-level SQL skills with experience in both relational databases (PostgreSQL) and NoSQL solutions (DynamoDB, Redis), including performance optimization and scaling strategies\n\n**AI/ML Experience**\n\n- 2+ years of hands-on ML/AI experience, ideally in computer vision (image/video classification, object detection) and transformer architectures\n- Familiarity with LLMs, vLLMs, multimodal ML systems; bonus points for fine-tuning experience\n- Comfortable building and maintaining ML pipelines for training, evaluation, and production deployment\n\n**Full-Stack Capability**\n\n- Experience building web and app based frontends, you can prototype a UI when needed and collaborate effectively with frontend engineers\n- Proficiency with modern development tools, including Claude Code and AI-assisted coding workflows\n\n**Mindset & Working Style**\n\n- Genuinely curious about how systems work under the hood, you dig into problems until you understand them\n- Comfortable context-switching between strategic discussions and tactical implementation\n- Thrive in fast-moving environments where ownership, autonomy, and impact are the norm\n\n---\n\n## Why Join Coverstar?\n\n- **Mission that matters:** Help build a platform that genuinely protects kids while empowering their creativity\n- **High ownership:** Shape not just the product but also our engineering culture and processes\n- **Small, elite team:** Work as part of a \"special forces\" engineering group where every contribution is visible and valued\n- **Direct CTO collaboration:** Learn and grow while working closely with technical leadership\n- **Zurich office:** Beautiful location, great work environment, and the chance to build something meaningful",
+    "notes": "Position Dronistics as a startup enviroinment where I took responsibility of entire technology of the company and also ensuring high reliability\nPosition Beekeper as a B2B social media platform where I am responsible for maultiple core features, scalability, reliablilty. We have about 10M+ users in the platform",
+    "createdAt": "2026-02-12T12:43:46.747Z"
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Hands-on AI Strategist and Technical Lead with 10+ years of high-impact engineering. Delivered $1.5M+ revenue and $337K savings via Generative AI integrations (LLMs, RAG). Expert in full-stack solution architecture, AI Governance and leading teams. I mentor startups and invest in disruptive companies (including OpenAI, Anthropic) ready to drive AI innovation for your portfolio.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2022-08",
+      "endDate": "",
+      "summary": "Technical Lead focusing on AI-driven features and systems optimization, enhancing platform performance and developer efficiency in a high-impact environment.",
+      "highlights": [
+        "Architected AI-driven Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K in recurring annual revenue by automating candidate-job matching using LLMs and RAG",
+        "Built LLM-powered translator using GitHub Actions and OpenAI APIs — translated 12K+ key-value pairs, saved $337K and accelerated go-to-market",
+        "Designed and implemented templating engine serving 10M+ users — reduced setup time by 90%, powers 15% of all platform assets",
+        "Led GenAI demo template system for sales team — auto-generates customized content from Salesforce data, boosting demo speed and personalization",
+        "Spearheaded Search Platform Revamp — led team of engineers delivering scalable architecture for enhanced user engagement",
+        "Technical hiring manager for AI roles and deputy tech lead — mentored engineers while owning end-to-end delivery of core modules",
+        "Drove cross-functional GTM initiatives — Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, resulting in streamlined sales pipeline"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "AI Strategist and Technical Panelist guiding FinTech startups; evaluating emerging companies in Generative AI and LLM technologies for strategic adoption, scalability, and fostering innovation across investment domains.",
+      "highlights": [
+        "Conducted thorough technical and business evaluations of emerging AI Fintech companies for potential investment and strategic partnership.",
+        "Advised C-suite founders on cutting-edge AI strategies, Responsible AI Governance, and scalable solution development to optimize operations and accelerate market entry."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding Engineer and Architect for an autonomous delivery platform, leveraging advanced algorithms and full-stack engineering to drive operational efficiency and high-stakes innovation.",
+      "highlights": [
+        "Architected and built the end-to-end full-stack solution (Vue/Java/PostgreSQL) for the autonomous drone delivery platform, powering 500+ successful, real-world deployments.",
+        "Engineered logistics optimization algorithms and real-time flight control APIs that directly reduced delivery times by 40% while ensuring a 99.5% safety record.",
+        "Delivered complete cloud infrastructure and DevOps pipeline, enabling scalable operations for enterprise partnerships and major technology showcases (e.g., Unilever, CES)."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Led the engineering and platform architecture for Robogen, an innovative robotics platform central to artificial evolution research, demonstrating expertise in scalable cloud solutions and academic leadership.",
+      "highlights": [
+        "Spearheaded the engineering and architectural design of Robogen, creating a robust open-source platform that enhanced robot morphology co-evolution research capabilities.",
+        "Successfully migrated the Robogen platform to AWS, securing credits and achieving exposure on the AWS Research Blog, proving ability to drive scalable cloud adoption.",
+        "Acted as a Technical Supervisor, fostering educational growth and hands-on experience by mentoring over 20 master's students at EPFL in cutting-edge research."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "releaseDate": "",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "Large Language Models",
+        "Retrieval-Augmented Generation",
+        "Fine-Tuning",
+        "AI Adoption",
+        "OpenAI APIs",
+        "AI Product Design"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "Team Leadership",
+        "Project Management",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Technical Strategy",
+        "Innovation Initiatives"
+      ]
+    },
+    {
+      "name": "Full Stack & Backend",
+      "keywords": [
+        "Java",
+        "Python",
+        "API Development",
+        "Microservices",
+        "Vue.js",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "CI/CD",
+        "AWS",
+        "Kubernetes",
+        "Deployment Automation",
+        "Monitoring & Observability",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Product & Business",
+      "keywords": [
+        "Product Ownership",
+        "Go-to-Market",
+        "Revenue Generation",
+        "Stakeholder Management",
+        "Strategic Roadmaps",
+        "Market Research"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Investment Strategies"
+    },
+    {
+      "name": "Blockchain Innovation"
+    },
+    {
+      "name": "Tech Startups"
+    },
+    {
+      "name": "Scalable Systems"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Built a real-time stock market analysis platform using AI agents to enhance trading signals and insights.",
+        "Integrated technical and news-based insights for comprehensive market analysis, significantly improving trading decision-making.",
+        "Expanded the tool from personal use to a public platform utilized by retail traders and investors."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Launched the first platform addressing cross-border financial challenges for Indian nationals in Switzerland.",
+        "Developed the solution from concept to MVP in 3 months, facilitating regulatory compliance across multiple jurisdictions.",
+        "Implemented customer-driven feedback processes, leading to a 40% increase in user satisfaction and adoption."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Designed and built an MVP for a digitalized property inventory inspection system, automating traditional workflows.",
+        "Developing an AI-powered marketing assistant to automate listing creation, greatly enhancing property visibility.",
+        "Implemented image-backed protocols for property inspections, improving accuracy and efficiency."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Saidler & Co",
+    "jobTitle": "Lead AI Engineer",
+    "jobUrl": "",
+    "jobDescription": "across Saidler & Co and our portfolio companies. In this multifaceted role, you will combine\nstrategic foresight with hands-on execution – staying at the forefront of AI developments,\nintroducing AI tools and systems organization-wide, developing proprietary AI models on\ninternal data, and ensuring these systems drive efficiency gains in our media, finance,\nblockchain and investment operations.\nYou will work closely with company leadership and portfolio stakeholders to envision and\nimplement AI solutions (from custom GPT-powered models to intelligent automation\nworkflows) that transform how we do research, write reports, automate processes, and deliver\ninsights. This role is equal parts AI strategist, project manager, and builder – ideal for a\ncandidate who can identify high-impact AI use cases and roll up their sleeves to build and\ndeploy those solutions.\nThe position is partially on-site in Zug, Switzerland, and will report directly to a Partner.\nResponsibilities\n• AI Strategy & Trend Scouting: Continuously monitor and analyze emerging\ndevelopments in AI/ML (e.g. new LLM capabilities, generative AI tools, etc.),\nidentifying promising technologies (such as advances in NLP, multi-modal models,\nor recommendation systems) that could drive innovation and efficiency across our\nbusinesses. Provide periodic briefings to leadership on relevant AI trends and their\npotential applications.\n• AI Adoption & Training: Lead the introduction and integration of AI tools across\ninternal teams and portfolio companies. This includes conducting workshops,\ntraining sessions, and creating documentation to enable staff to confidently and\nresponsibly adopt AI tools in their workflows.\n• Model Development, Fine-Tuning & Customization: Develop and fine-tune\nproprietary AI models and agents using internal company data, applying principles\nlike MCP (Model Context Protocol) to structure the data layer. Leverage techniques\nincluding Retrieval-Augmented Generation (RAG) and fine-tuning to create domainspecific\nLLMs that deliver high-quality, context-aware outputs tailored to our\nneeds. Continuously evaluate and optimize model performance, and oversee the\ncuration of training datasets for in-house AI applications.\n• Operational Efficiency Improvements: Identify high-impact opportunities for AI to\ndrastically improve operational efficiency and accuracy across the firm. Examples\ninclude automating routine analytical tasks, AI-driven market research, writing of\nreports, accounting automation or personalized content delivery in media assets.\nLead end-to-end implementation of these AI solutions and establish KPIs to\nmeasure their impact on productivity.\n• AI Governance: Develop and enforce guidelines for the secure and ethical use of AI\nwithin the organization. Ensure all AI systems comply with data privacy regulations\nand copyrights as well as address considerations like model bias, transparency, and\nrobustness. Educate teams on best practices for responsible AI (e.g. human-in-theloop\noversight, validation of model outputs) and maintain oversight of AI tool usage\nto uphold trust and compliance.\nQualifications\n• Education & Experience: Bachelor’s degree in Computer Science, Data Science,\nEngineering, or a related field. 5+ years of experience in AI/ML roles (e.g. AI project\nmanager, data scientist, ML engineer) delivering AI-driven solutions from concept\nto production. Demonstrated ability to apply AI/ML to solve complex business\nproblems and drive innovation, preferably in a fast-paced or startup environment.\n• AI/ML Knowledge: Solid understanding of machine learning and artificial\nintelligence fundamentals – including familiarity with modern ML algorithms,\ntransformer-based models, and deep learning techniques (especially NLP and\ngenerative AI). Hands-on experience with large language models (LLMs) and a track\nrecord of staying current with the latest AI research and tools.\n• Technical Skills: Proficiency in Python programming and experience building AI\napplications. Familiarity with LLM orchestration frameworks and libraries such as\nLangChain, and with AI platforms/APIs (OpenAI, Anthropic, etc.) and open-source\nlibraries like Hugging Face Transformers.\n• Model Customization: Proven ability to fine-tune or customize LLMs and other AI\nmodels for domain-specific needs. Experience with techniques to adapt pre-trained\nmodels to proprietary datasets is highly valued.\n• Project Leadership: Proven experience leading AI/ML projects or pilots end-to-end\n– from requirements gathering and prototyping to deployment and iteration – with\nsuccessful outcomes in either internal process improvements or customer-facing\napplications.\n• Industry Domain Expertise: Knowledge of or experience in the media, finance or\ninvestment domains is a plus. Understanding of industry-specific processes and\ndata (e.g. digital content or finance operations) to better tailor AI solutions would\nbe ideal.\n• Innovation Mindset: A curious, proactive mindset with a passion for experimenting\nwith new AI tools and frameworks. Active participation in the AI community,\nhackathons, or research is welcome. Demonstrated ability to think creatively about\napplying AI in novel ways to create business value.\n• Communication & Collaboration: Excellent communication and interpersonal skills.\nAbility to articulate complex AI concepts and insights to both technical and nontechnical\naudiences. Experience working in cross-functional teams and\ncollaborating with stakeholders at various levels (engineers, analysts, executives) to\ndrive change.",
+    "notes": "AI Strategy & Trend Scouting: I advice tenity in examining and selecting  AI companies that have stong moat and personally I am a early investor in AI companies including OpenAI, Anthropic, Groq, etc.. \nI have stong experies in AI Adoption & Training, RAG, finetuning, etc.. \nHighlight my passion towards investments and finance",
+    "createdAt": "2025-11-02T20:50:54.440Z"
+  },
+  "_generatedFile": {
+    "company": "SaidlerAndCo",
+    "baseName": "lead-ai-engineer",
+    "createdAt": "2025-11-02T21:27:32.511Z",
+    "targetPath": "./generated/SaidlerAndCo/lead-ai-engineer.json"
+  }
+}

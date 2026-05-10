@@ -1,0 +1,351 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Seasoned technical leader with 10+ years delivering scalable, production-grade systems and AI-powered solutions across startups and enterprise settings. Expert in Java/Python, distributed architectures, and cloud-native automation. Drove $1.5M+ revenue, architected customer-centric integrations, reduced operational costs by $337K, and regularly translated real-world deployment insights into robust platform improvements.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2022-08",
+      "endDate": "",
+      "summary": "Technical Lead steering deployment of scalable, production-grade solutions for millions of users and driving customer-centric platform innovation. Owned delivery of high-impact AI-powered integrations while mentoring engineers and translating customer needs into robust software architecture.",
+      "highlights": [
+        "Architected Employee Referral System (99.99% SLA), enabling customer-specific integrations and generating $1.5M+ revenue, including $500K ARR",
+        "Built LLM-powered template translation pipeline leveraging OpenAI APIs and GitHub Actions—automated 12K+ translations, saving $337K and accelerating delivery for customer requirements",
+        "Designed distributed templating engine serving 10M+ users—reduced customer onboarding and setup time by 90%, adapting platform assets to diverse workflows",
+        "Led GenAI demo template system that auto-generates personalized content from Salesforce data for sales teams, boosting demo speed, accuracy, and customer relevance",
+        "Spearheaded Search Platform Revamp, guiding teams of 2-4 engineers in delivering scalable, production-ready architectures optimized for real-time user engagement",
+        "Developed Agentic AI onboarding specialist with multi-step reasoning to automate customer setup, scaling personalized guidance to 100% of signups and reducing time-to-value",
+        "Acted as technical hiring manager for AI roles and deputy tech lead—mentored engineers, advanced developer velocity, and ensured high-quality production code in evolving requirements"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "Mentor and Technology Evaluation Panelist supporting deep-tech startups in prototyping, scalability, and technical roadmap planning. Advised early-stage teams on architecting production-ready software and effective technical execution.",
+      "highlights": [
+        "Conducted technical evaluations and feedback sessions for seed-to-VC startups, helping shape product–market fit and engineering best practices",
+        "Mentored multiple teams—including Opt Alpha—on scalable system design, AI adoption, and building robust, production-grade APIs"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding Engineer building and deploying an autonomous drone delivery platform used in 500+ live last-mile deployments with enterprise and research partners.",
+      "highlights": [
+        "Built and shipped full-stack autonomous drone delivery system (Vue/Java/PostgreSQL), powering 500+ real-world deliveries",
+        "Delivered scalable cloud infrastructure and CI/CD pipeline—enabled enterprise partnerships and field deployment for Unilever and CES showcases",
+        "Engineered real-time flight control APIs and optimization algorithms, reducing delivery times by 40% and achieving a 99.5% operational safety record"
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Engineering lead for Robogen, creating open-source AI and automation tools for evolutionary robotics, and supporting real-world research and student projects.",
+      "highlights": [
+        "Led migration and deployment of the Robogen platform to AWS, improving scalability and reliability for applied robotics research",
+        "Collaborated directly with student researchers and supervised 20+ master's projects on production-quality robotics code and cloud-based automation",
+        "Spearheaded open-source platform engineering—featured on AWS Research Blog for impact in real-world research environments"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "From Infinite posibilites to finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "releaseDate": "",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "keywords": [
+        "Java",
+        "Python",
+        "API Development",
+        "TypeScript",
+        "Go",
+        "Production Code",
+        "System Architecture",
+        "Testing",
+        "Microservices",
+        "Code Quality"
+      ]
+    },
+    {
+      "name": "Distributed & Cloud Systems",
+      "keywords": [
+        "Distributed Systems",
+        "Cloud Platforms",
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "CI/CD",
+        "Jenkins",
+        "GitHub Actions",
+        "Monitoring",
+        "Elastic Search"
+      ]
+    },
+    {
+      "name": "AI & Automation",
+      "keywords": [
+        "AI-enabled Applications",
+        "LLM Applications",
+        "Generative AI",
+        "AI Agents",
+        "OpenAI APIs",
+        "Intelligent Automation",
+        "RAG Pipelines",
+        "Translation Systems",
+        "Data Pipelines",
+        "Automation Workflows"
+      ]
+    },
+    {
+      "name": "Customer & Stakeholder Collaboration",
+      "keywords": [
+        "Customer Solutions",
+        "Technical Integrations",
+        "Product Ownership",
+        "Stakeholder Management",
+        "Cross-functional Collaboration",
+        "Mentoring",
+        "Requirement Analysis",
+        "Technical Strategy"
+      ]
+    },
+    {
+      "name": "Leadership & Innovation",
+      "keywords": [
+        "Technical Leadership",
+        "Team Leadership",
+        "Startup Mentoring",
+        "Innovation Practices",
+        "Product Roadmaps",
+        "Problem Solving",
+        "Prototyping",
+        "Go-to-Market",
+        "Revenue Generation",
+        "Strategic Decision Making"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Distributed Systems"
+    },
+    {
+      "name": "Intelligent Automation"
+    },
+    {
+      "name": "Customer-Facing Engineering"
+    },
+    {
+      "name": "Cloud-Native Platforms"
+    },
+    {
+      "name": "Product Innovation"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Built a real-time stock market analysis platform leveraging AI agents to generate and explain trading signals.",
+        "Integrated technical and news-based data pipelines for comprehensive, automated market insights.",
+        "Developed explainable AI features to provide clarity and speed in financial analysis, improving user decision-making.",
+        "Launched public-facing platform benefiting retail traders and investors with transparent analytics."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Designed and deployed MVP for a fully digitalized property inspection system, automating manual workflows through structured, image-backed protocols.",
+        "Currently leading development of an AI-powered marketing assistant to automate listing creation and optimize multichannel property visibility.",
+        "Built production-grade systems integrating AI, image processing, and marketing automation for real-world property workflows."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Launched an innovative SaaS platform solving complex cross-border financial challenges for Indian nationals in Switzerland.",
+        "Led end-to-end product development from concept to MVP in under 3 months with early customer adoption via strategic partnerships.",
+        "Built compliance-first infrastructure addressing dual-jurisdiction financial regulations (FEMA, DTAA, Swiss laws).",
+        "Drove product iteration based on customer feedback, resulting in a 40% increase in user satisfaction."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Adobe",
+    "jobTitle": "Senior Cloud AI Engineer",
+    "jobUrl": "https://careers.adobe.com/us/en/job/R165244/Senior-Cloud-AI-Engineer",
+    "jobDescription": "What You'll Do:\n\nLead technical deployments from early prototypes to stable, production-grade solutions in customer environments\n\nDesign and build custom integrations, APIs, and data pipelines to adapt the platform to customer-specific workflows and constraints\n\nWrite production-quality code and take ownership of solving complex, open-ended technical problems\n\nWork closely with customers to understand their goals, challenges, and operating context\n\nFeed insights from real-world deployments back into product and engineering teams to shape roadmap and platform direction\n\nWhat You'll Need to Succeed:\n\nBachelor's degree or equivalent practical experience\n\nExperience writing production code in Java, Python, or Go\n\nFamiliarity with distributed systems, cloud platforms, and automation concepts\n\nComfort working in fast-moving environments with evolving requirements\n\nStrong written and spoken English\n\nBonus Skills/Experience:\n\nExperience building or deploying AI-enabled applications or systems\n\nFamiliarity with LLMs, data pipelines, or intelligent automation workflows\n\nExperience with cloud-native technologies (e.g. containers, orchestration platforms)\n\nExperience working directly with customers or external stakeholders on technical solutions\n\nOpen source contributions or hands-on prototyping experience\n\nPersonality:\n\nCreative problem solver who enjoys operating in high-ambiguity environments\n\nSelf-directed and comfortable taking ownership with a \"builder\" mindset\n\nStrong collaborator who can bridge customer needs and engineering execution\n\nCurious and motivated to learn and apply new technologies\n\nEnergized by working on real problems with visible customer impact",
+    "notes": "Make my profile a great fit for this role",
+    "createdAt": "2026-03-11T10:53:42.013Z"
+  }
+}

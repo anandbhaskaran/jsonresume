@@ -1,0 +1,334 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "AI engineer with 10+ years’ experience building and operating production-scale systems, combining deep technical proficiency in Software Systems, GenAI and cloud infrastructure. Delivered $1.5M+ in business value, led cross-functional teams, and drove GenAI innovations that cut costs, accelerated delivery, and fostered high-performing systems through hands-on mentorship and technical ownership.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2022-08",
+      "endDate": "",
+      "summary": "Technical Lead overseeing AI engineering excellence, scalable platforms, and team growth for products serving 10M+ users. Championed hands-on architecture, delivery, and mentoring to accelerate product innovation and operational reliability.",
+      "highlights": [
+        "Architected Employee Referral System (99.99% SLA) — generated $1.5M+ revenue and $500K ARR through robust backend and scalable cloud-native design",
+        "Designed and delivered LLM-powered template translation system using GitHub Actions and OpenAI APIs — translated 12K+ key-value pairs, saving $337K and expediting global product launch",
+        "Built distributed templating engine serving 10M+ users — reduced initial setup time by 90% and scaled platform adoption across clients",
+        "Drove Search Platform Revamp — led teams of 2–4 engineers to modernize search architecture, boosting user engagement and system resilience",
+        "Developed agentic AI onboarding specialist utilizing multi-step reasoning — automated onboarding for 100% of signups, reducing time-to-value by integrating advanced GenAI techniques",
+        "Led GenAI demo template system for sales — enabled auto-generated, data-driven content from Salesforce to accelerate sales cycles and boost demo personalization",
+        "Acted as technical hiring manager and deputy tech lead for AI talent — mentored engineers, instituted code standards, and elevated delivery quality through hands-on leadership"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "Mentored engineering teams and evaluated technical strategy for AI-driven startups, with a focus on scalable systems and innovation best practices.",
+      "highlights": [
+        "Evaluated emerging technologies and scalability for seed-to-VC startups, ensuring technical soundness and business alignment",
+        "Provided technical guidance on hiring, AI adoption, and operational reliability, including hands-on mentorship for algorithmic trading teams"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Led full-stack engineering for autonomous drone delivery platform, powering 500+ last-mile deliveries with robust AI and cloud-native architecture.",
+      "highlights": [
+        "Engineered autonomous drone delivery platform (Vue/Java/PostgreSQL) — supported 500+ successful real-world deliveries",
+        "Developed scalable cloud infrastructure and DevOps pipelines — enabled secure enterprise deployments and accelerated product iteration",
+        "Implemented real-time flight control APIs and logistics optimization — cut delivery times by 40% while achieving 99.5% operational safety"
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Drove engineering for Robogen, an open-source platform advancing AI robotics research and co-evolution of robot morphologies and controllers.",
+      "highlights": [
+        "Led Robogen engineering to support AI-driven co-evolution of robot morphologies and control systems",
+        "Migrated platform to AWS Cloud, securing AWS Research Credits and enhancing scalability featured by AWS",
+        "Supervised 20+ master's students in AI and robotics, promoting knowledge sharing and upskilling within the lab"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "releaseDate": "",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    },
+    {
+      "name": "The Blueprint for Building High‑Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandbaskaran3193/the-blueprint-for-building-high-impact-teams-b8d5c5f5c5e5",
+      "releaseDate": "",
+      "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "Mentoring",
+        "Team Leadership",
+        "Engineering Excellence",
+        "Technical Strategy",
+        "Stakeholder Management",
+        "Technical Standards",
+        "Cross-functional Collaboration",
+        "End-to-End Delivery",
+        "Knowledge Sharing",
+        "Hiring"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "LLM Applications",
+        "AI Agents",
+        "MLOps",
+        "Model Monitoring",
+        "RAG Pipelines",
+        "NLP"
+      ]
+    },
+    {
+      "name": "Software Engineering & Architecture",
+      "keywords": [
+        "System Architecture",
+        "API Development",
+        "Microservices",
+        "Clean Architecture",
+        "Distributed Systems",
+        "Code Review",
+        "Testing",
+        "TDD",
+        "Prototyping"
+      ]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "keywords": [
+        "AWS",
+        "Kubernetes",
+        "CI/CD",
+        "Docker",
+        "Terraform",
+        "Scalable Systems",
+        "Deployment Automation",
+        "Monitoring & Observability"
+      ]
+    },
+    {
+      "name": "Data Engineering & Product Delivery",
+      "keywords": [
+        "Data Pipelines",
+        "PostgreSQL",
+        "Kafka",
+        "Elastic Search",
+        "Versioning",
+        "A/B Testing",
+        "Product Ownership",
+        "Revenue Generation",
+        "Go-to-Market",
+        "Strategic Roadmaps"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Generative AI Systems"
+    },
+    {
+      "name": "Technical Leadership"
+    },
+    {
+      "name": "Scalable Architecture"
+    },
+    {
+      "name": "MLOps & Model Monitoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Developed a scalable, production-grade AI platform for real-time stock market analysis leveraging AI agents to generate and explain trading signals.",
+        "Integrated technical and news-based data sources to deliver comprehensive, explainable financial insights for retail traders and investors.",
+        "Prioritized explainable AI, robustness, and speed to support high-stakes financial decision-making.",
+        "Built and deployed end-to-end workflows using automation and modern technologies, demonstrating hands-on capability in AI solutions architecture."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Architected and delivered the MVP for a fully digitalized, AI-powered property inspection platform, automating previously manual workflows.",
+        "Implemented structured, image-backed, timestamped protocols for reliable, auditable data capture in real estate processes.",
+        "Demonstrated leadership in product strategy, technical delivery, and iterative improvement cycles."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Led the zero-to-one development and launch of an innovative fintech platform solving complex cross-border financial challenges for Indian nationals in Switzerland.",
+        "Architected SaaS and compliance-first systems addressing regulatory requirements across multiple jurisdictions (FEMA, DTAA, Swiss regulations).",
+        "Drove rapid MVP execution, established feedback loops with early adopters, and directed technical teams to deliver product iterations with measurable increases in user satisfaction.",
+        "Demonstrated hands-on technical leadership and excellence in building scalable, regulated cloud-native platforms."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "SwissRe",
+    "jobTitle": "AI Engineering Lead",
+    "jobUrl": "https://careers.swissre.com/job/Zurich-AI-Engineering-Lead-Zuri/1365970833/",
+    "jobDescription": "As an AI Engineering Lead, you will be responsible for the technical excellence, technical delivery quality, and professional growth of AI engineers working on production-grade AI systems. You will work closely with AI Product Leads and business partners to translate strategic objectives into robust, scalable solutions.\n\n \nIf you join us, you will for example:\n\nLead and mentor a team of senior engineers, setting clear technical standards and fostering a culture of engineering excellence, learning, and ownership\nAct as a hands-on technical authority for AI systems, with the ability to review, challenge, and contribute to architecture, code, and implementation decisions\nDrive the design and implementation of scalable AI and ML platforms, including MLOps, data pipelines, and cloud-native infrastructure\nPartner with AI Delivery Leads and product or functional stakeholders to ensure solutions are technically sound, deliver business value, and can be operated reliably at scale\nOversee the end-to-end delivery lifecycle of the products, from experimentation and prototyping through deployment, monitoring, and continuous improvement\nGuide teams in applying modern AI techniques, including Generative AI, while ensuring robustness, security, explainability, and compliance\n \nWe are a highly skilled and diverse team working on global initiatives across Swiss Re. Our passion for learning connects us: we actively invest in upskilling, knowledge sharing, and continuous improvement, and we expect our leaders to role-model this mindset.\n\n \nAbout you\n\nNobody is perfect and meets 100% of requirements. If you meet many of the criteria below and are motivated by building and leading high-performing AI engineering teams, we would be happy to meet you.\n\n \nIn order to be successful in the role, you bring:\n\nA degree in Computer Science, Software Engineering, Applied Mathematics, or a related quantitative field, or equivalent practical experience\nExtensive experience designing, building, and operating production-grade AI or ML systems\nStrong proficiency in Python (or similar languages) and a deep understanding of good software engineering principles\nSolid hands-on knowledge of MLOps practices, including CI/CD for ML, model monitoring, versioning, and lifecycle management\nDeep understanding of cloud-native architectures, distributed systems, and large-scale data processing\nProven experience in technical leadership roles, including mentoring engineers and guiding complex technical decisions\n \nIt is a strong plus if you also have:\n\nExperience leading AI or data engineering teams in a large, complex organization\nExperience with Generative AI, NLP, or other advanced AI techniques applied in real-world products\nExperience in the Insurance or Re-insurance industry\n \nEven if you do not tick every box, but are eager to grow into this role and take on significant technical and leadership responsibility, we encourage you to apply.\n\nThank you for taking the time to read our job advertisement. We look forward to getting to know you.\n\n \nFor Switzerland, the base salary range for this position is between CHF 128,000 and CHF 192,000 (for a full-time role). The specific salary offered considers: ​\n\n          · the requirements, scope, complexity and responsibilities of the role,​\n\n          · the applicant's own profile including education/qualifications, expertise, specialisation, skills and experience.​\n\nIn addition to your base salary, Swiss Re offers an attractive performance-based variable compensation component, designed to recognise your achievements. Further you will enjoy a variety of global and location specific benefits.​\n\nEligibility may vary depending on the terms of Swiss Re policies and your employment contract.​",
+    "notes": "Adapt my cv to best fit for the role. I like this job a lot, please do the best",
+    "createdAt": "2026-02-24T08:48:29.242Z"
+  },
+  "_generatedFile": {
+    "company": "SwissRe",
+    "baseName": "ai-engineering-lead",
+    "createdAt": "2026-02-24T08:57:03.333Z",
+    "targetPath": "./generated/SwissRe/ai-engineering-lead.json"
+  }
+}

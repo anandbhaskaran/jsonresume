@@ -1,0 +1,323 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "AI-focused Product Owner with 10+ years in software development and a proven track record of delivering high-impact AI solutions. Successfully led cross-functional teams in launching scalable systems, driving $1.5M+ in revenue, and enhancing user experiences. Expertise in generative AI and NLP, aligning product strategies with business goals for transformative outcomes.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03-15",
+      "endDate": "",
+      "summary": "Technical Lead focused on delivering an AI-powered assistant that improves workplace collaboration and productivity, driving substantial revenue growth and innovation.",
+      "highlights": [
+        "Led architectural design and launch of Employee Referral System, generating $1.5M+ revenue including $500K ARR through agile methodologies and customer-focused iteration.",
+        "Spearheaded development of Templating Engine, reducing setup time by 90% and increasing user engagement, now powering 15% of all platform assets.",
+        "Engineered robust search interface accommodating 10M+ users, significantly enhancing user engagement and platform adoption.",
+        "Assembled and mentored high-performing remote engineering teams, improving code quality and fostering a growth mindset.",
+        "Collaborated on A/B experiments, deriving insightful data to inform product iterations and user needs.",
+        "Designed and deployed advanced Generative AI translation systems, saving $337K and accelerating go-to-market by translating 12K+ key-value pairs."
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06-01",
+      "endDate": "",
+      "summary": "Mentor for startups focusing on AI and technology strategy to foster innovation and ensure scalable development.",
+      "highlights": [
+        "Guided startups on scalability and core technical strategies, enhancing their potential for impactful, scalable solutions.",
+        "Conducted thorough evaluations of emerging technologies, facilitating growth and strategic direction for seed-to-VC startups."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08-01",
+      "endDate": "2020-03-01",
+      "summary": "Founding engineer behind Dronistics, focusing on autonomous drone delivery systems that increased operational efficiency in last-mile logistics.",
+      "highlights": [
+        "Engineered a full-stack autonomous drone delivery platform, successfully powering 500+ deliveries.",
+        "Optimized real-time flight control APIs, reducing delivery times by 40% while ensuring a 99.5% safety record.",
+        "Established cloud infrastructure enabling scalable operations for enterprise partnerships."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Led development of the Robogen platform, advancing research in robotics through artificial evolution methodologies.",
+      "highlights": [
+        "Pioneered engineering of an open-source platform for co-evolution of robot morphologies, enhancing AI robotics research.",
+        "Spearheaded migration to AWS, improving research capabilities and securing industry recognition.",
+        "Supervised 20+ master's students in robotics and AI projects, fostering academic growth and innovation."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "releaseDate": "",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    },
+    {
+      "name": "From Infinite posibilites to finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "releaseDate": "",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Product Management",
+      "keywords": [
+        "Product Ownership",
+        "Roadmap Development",
+        "Stakeholder Collaboration",
+        "Project Planning",
+        "Resource Allocation",
+        "Business Impact"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "Conversational AI",
+        "Natural Language Processing",
+        "AI Product Design",
+        "OpenAI APIs",
+        "Translation Systems"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "Team Leadership",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Innovation Practices",
+        "Agile Methodologies",
+        "Engineering Excellence"
+      ]
+    },
+    {
+      "name": "Full Stack & Backend Development",
+      "keywords": [
+        "Java",
+        "Python",
+        "API Development",
+        "Microservices",
+        "PostgreSQL",
+        "Elastic Search"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "CI/CD",
+        "Kubernetes",
+        "AWS",
+        "Monitoring & Observability",
+        "Docker",
+        "Deployment Automation"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "Conversational AI"
+    },
+    {
+      "name": "Product Innovation"
+    },
+    {
+      "name": "Scalable Solutions"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Built a real-time stock market analysis platform using AI agents, enhancing decision-making for traders.",
+        "Integration of technical and news insights for comprehensive market analysis, driving engagement and value.",
+        "Transitioned from personal use to a public tool, broadening its impact across retail investors."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Developed an MVP for a digital property inspection system, replacing outdated manual workflows.",
+        "Led the creation of an AI-powered marketing assistant to automate listing processes and enhance visibility."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Launched a platform addressing financial challenges for Indian nationals in Switzerland, meeting a critical market need.",
+        "Developed the product from concept to MVP in 3 months, leveraging strategic partnerships to drive adoption.",
+        "Focused on compliance across multiple jurisdictions, ensuring the product met stringent regulatory requirements."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "UBS",
+    "jobTitle": "Product Owner, Red – Your UBS AI Assistant, 80-100%",
+    "jobUrl": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=334579#jobDetails=334579_5012",
+    "jobDescription": "Product Owner, Red – Your UBS AI Assistant, 80-100%\nSwitzerland - Zürich\n\nProduct Management and Development\n\nPersonal & Corporate Banking\n\nJob Reference #327680BR\nCity\n\nZürich\n\nJob TypeFull Time, Part Time\nYour role\n\nAre you ready to lead the charge in revolutionizing workplace technology? Do you have the vision, expertise, and drive to deliver an AI assistant that transforms how UBS employees work, collaborate, and innovate?\n\nWe’re looking for a Product Owner to take \"Red, your UBS AI Assistant,\" to the next level and:\n\n• own the strategy, roadmap, and OKRs (Objectives and Key Results) as the business Product Owner of one of the newly established Red Pods\n• be the voice of UBS employees, deeply understanding their needs and translating them into prioritized epics and user stories that deliver real business impact.\n• create meaningful change by delivering a cutting-edge AI assistant that combines high quality, compliance, and security with an exceptional user experience.\n• break down barriers to success, align with other pods, crews, and business units, and represent your pod to internal stakeholders and users across the organization.\n• inspire and energize your pod, fostering a culture of collaboration, innovation, and high performance while supporting the growth and well-being of your team members.\n• define the skills and competencies needed in your pod, working closely with crew and chapter leads, and provide regular feedback to drive continuous improvement.\n• stay ahead of the curve by keeping up with the latest advancements in Generative AI, natural language processing, and chatbot technologies, applying innovative ideas to enhance \"Red's\" conversational capabilities and user experience.\n• tackle challenges head-on during product development, implementation, or deployment, ensuring smooth operations and alignment with stakeholders.\n\nYour Career Comeback\n\nWe are open to applications from career returners. Find out more about our program on ubs.com/careercomeback.\n\nYour team\n\nYou’ll join the Conversational Banking Crew in Zurich, working within the Red product cluster. Our agile operating model thrives on collaboration across autonomous pods, empowering teams to deliver innovative solutions that redefine how UBS employees work and succeed.\n\nYour expertise\n\n• a minimum of 5+ years of experience in product management, with a focus on technology-driven or software products. Proven ability to define global product roadmaps, prioritize features, and deliver successful outcomes in alignment with business goals.\n• proven experience in leading and managing the end-to-end development of software products as a Product Owner, including project planning, resource allocation, risk management, and stakeholder collaboration. This includes working in corporate, multicultural environments, with a preference for experience in highly regulated industries.\n• demonstrated success in managing the development and rollout of AI-powered solutions, such as virtual assistants or chatbots. Familiarity with the lifecycle of AI development, from data collection and model training to deployment and monitoring and a solid understanding of conversational AI technologies, natural language processing (NLP), large language models, and conversational design is essential, along with the ability to align AI initiatives with broader product strategies.\n• exceptional active listening and communication skills in English, with the ability to build strong networks and partnerships at all levels of the organization. German language skills are a plus.\n• strong collaboration and stakeholder management skills to coordinate across functions and align priorities with senior management.\n• analytical and creative problem-solving skills, with the ability to propose bold and innovative solutions to complex challenges.\n• a hands-on mentality with a proactive approach to problem-solving, collaboration, and driving results in a fast-paced environment.\n• the ability to quickly grasp complex technical topics and processes, turning them into actionable insights.\n• a passion for AI and emerging technologies, with a focus on conversational AI and its potential to transform workplace interactions.\n\nIf you’re excited about the opportunity to lead the development of a world-class AI assistant and make a lasting impact on how UBS employees work, we’d love to hear from you! Let’s shape the future of workplace technology together.",
+    "notes": "",
+    "createdAt": "2025-10-23T09:50:46.038Z"
+  }
+}

@@ -1,0 +1,10 @@
+{{#if resume.basics.metrics.length}}
+<div class="metrics-bar">
+    {{#each resume.basics.metrics}}
+    <div class="metric-item">
+        <span class="metric-value">{{value}}</span>
+        <span class="metric-label">{{label}}</span>
+    </div>
+    {{/each}}
+</div>
+{{/if}}

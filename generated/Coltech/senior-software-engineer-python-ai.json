@@ -1,0 +1,326 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "AI-focused Python Engineer with 10+ years of experience in developing scalable applications using FastAPI and asynchronous programming. Led teams in deploying Generative AI solutions that improved user engagement and reduced costs. Proven track record in system design, code quality, and collaborating with cross-functional teams to deliver high-impact software solutions.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "",
+      "summary": "Technical Lead responsible for driving innovation across scalable systems and AI-powered features, significantly contributing to platform reliability and user engagement.",
+      "highlights": [
+        "Led architectural design and launch of Employee Referral System with 99.99% SLA — generating $1.5M+ revenue and $500K ARR through agile methodologies.",
+        "Spearheaded design and development of Beekeeper's Templating Engine, reducing setup time by 90% and enhancing user engagement, now powering 15% of platform assets.",
+        "Engineered a robust search interface accommodating 10M+ users, elevating user engagement and accelerating platform adoption rate.",
+        "Assembled and led high-performing remote engineering teams, fostering an environment for high-quality and maintainable code.",
+        "Collaborated with product managers in running A/B experiments to derive data-driven insights for product enhancements.",
+        "Designed and deployed advanced Generative AI translation systems, translating 12K+ key-value pairs, saving $337K and expediting go-to-market.",
+        "Built AI-driven stream template systems for sales, boosting demo speed and personalization."
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "Mentoring startups on scalability and technical strategy, facilitating the development of innovative and impactful technology solutions.",
+      "highlights": [
+        "Provided critical guidance to startups on technical strategies, aligning them with unique business goals to foster innovative practices.",
+        "Conducted thorough evaluations of emerging technologies for startups, enabling scalable solutions and promoting effective growth."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "summary": "As a founding engineer, developed an autonomous drone delivery system facilitating over 500 last-mile deliveries, optimizing logistics in real-time.",
+      "highlights": [
+        "Architected the complete software/cloud stack for Dronistics, showcasing the solution at CES Las Vegas and enabling 500+ successful deliveries.",
+        "Engineered real-time flight control APIs and logistics optimization algorithms, reducing delivery times by 40% while maintaining a 99.5% safety record.",
+        "Delivered complete cloud infrastructure and DevOps pipeline, enabling scalable operations for enterprise partnerships."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01",
+      "endDate": "2020-01",
+      "summary": "Led engineering of Robogen, an open-source platform advancing research in the co-evolution of robot morphologies and control systems.",
+      "highlights": [
+        "Pioneered the engineering of an open-source platform for robot morphology co-evolution, contributing to significant advancements in robotics.",
+        "Spearheaded AWS migration for the lab, securing AWS Research Credits and featuring the migration success on the AWS Research Blog.",
+        "Supervised 20+ master's students in AI and robotics research, fostering a rich educational environment."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "releaseDate": "",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "From Infinite posibilidades to finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "releaseDate": "",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python & AI Development",
+      "keywords": [
+        "Python",
+        "FastAPI",
+        "Generative AI",
+        "Large Language Models",
+        "Asynchronous Programming",
+        "OpenAI APIs",
+        "Pydantic",
+        "AI Product Design"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "System Architecture",
+        "Team Leadership",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Technical Strategy",
+        "Engineering Excellence"
+      ]
+    },
+    {
+      "name": "Scalable Systems Design",
+      "keywords": [
+        "Microservices",
+        "Cloud Infrastructure",
+        "Kubernetes",
+        "Docker",
+        "CI/CD",
+        "Performance Optimization",
+        "Robust Search Interfaces"
+      ]
+    },
+    {
+      "name": "Full Stack Development",
+      "keywords": [
+        "Java",
+        "Python",
+        "Vue.js",
+        "API Development",
+        "PostgreSQL",
+        "Elastic Search",
+        "Microfrontends"
+      ]
+    },
+    {
+      "name": "Product Management",
+      "keywords": [
+        "Product Ownership",
+        "A/B Testing",
+        "Revenue Generation",
+        "Go-to-Market",
+        "Stakeholder Management",
+        "Strategic Roadmaps"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Scalable Solutions"
+    },
+    {
+      "name": "Startup Mentorship"
+    },
+    {
+      "name": "Generative AI Applications"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Built real-time stock market analysis platform utilizing AI agents to generate and explain trading signals.",
+        "Focused on explainable AI, ensuring clarity in financial analysis for retail traders and investors.",
+        "Integrated technical and news insights for comprehensive market assessments."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Developed an MVP for a digital property inspection system, streamlining workflows through AI.",
+        "Leading the creation of an AI-powered marketing assistant to automate property listing processes.",
+        "Implemented structured protocols for property inspections using image processing and automation."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Launched the first platform addressing cross-border financial challenges for Indian nationals in Switzerland.",
+        "Led product development from concept to MVP in 3 months, establishing key strategic partnerships.",
+        "Designed compliance-first solutions navigating complex regulatory frameworks (FEMA, DTAA, Swiss regulations)."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Coltech",
+    "jobTitle": "Senior Software Engineer - Python + AI",
+    "jobUrl": "https://www.linkedin.com/jobs/view/4299562085/?alternateChannel=search&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=cNPGIZ0%2Fz7oO0jZ46nASLw%3D%3D&trackingId=UIm4NXyuEPIrYynfDZShFg%3D%3D&trk=d_flagship3_search_srp_jobs",
+    "jobDescription": "Job Title: Python AI Engineer \n\nLocation: EMEA - Fully Remote\nStart Date: As soon as possible\nJob Type: 12 month contract (b2b) - will renew\n\n\nResponsibilities: \n\nProviding requirements analysis, system design, Python and AI development, troubleshooting, performance optimisation, and technical support\nDesigning, developing, and maintaining scalable Python applications using FastAPI and Pydantic\nImplementing asynchronous and parallel programming solutions with asyncio\nConducting thorough code reviews to ensure adherence to established guidelines and maintain high code quality\nIntegrating and experimenting with multi-modal GenAI models (text-to-image, text-to-audio, etc.)\nWorking both independently and collaboratively within the team\nProviding clear instructions to team members and helping coordinate day-to-day operations\nCommunicating with the client regularly\nProviding technical leadership for the team \n\n\nRequired Skills/Experience \n\nStrong background in Python, FastAPI\nExperience with Pydantic for data validation and schema definition in Python applications\nHands on experience with asyncio, asynchronous/parallel programming\nExperience with Generative AI and Large Language Models (LLMs) to solve real-world problems and in developing agentic AI applications to enhance AI interaction\nUnderstanding of RAG pipelines and hybrid search with vector databases\nStrong analytical and problem-solving abilities with a detail-oriented mindset\nPragmatic approach to balancing process against flexibility in achieving objectives\n\n\nNice to have\n\nExperience working with Azure Cloud services, including a range of SaaS offerings such as Service Bus, Data Lake, Blob Storage, Redis, and more.\nFamiliarity with agentic protocols such as MCP and A2A is a strong plus.\nHands on experience with the LangGraph stack, including long-term memory, human-in-the-loop workflows, and state management, is highly desirable.\nFamiliarity with .NET is considered a plus.\nHands on experience with containerization and orchestration tools such as Docker and Kubernetes.\nSolid understanding of microservices architecture and its implementation in scalable systems.\n\n\nApply now for immediate consideration",
+    "notes": "",
+    "createdAt": "2025-09-17T12:58:44.699Z"
+  }
+}

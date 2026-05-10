@@ -6,219 +6,439 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
   <title>Anand Bhaskaran</title>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-  <style>/* Utils */
-/*----- Colors -----*/
-/*----- Fonts -----*/
-/*----- Dimensions and sizes -----*/
-/* Base */
-@font-face {
-  font-family: 'Josefin Sans';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Josefin Sans Light'), local('JosefinSans-Light'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ecpl5te10k.ttf) format('truetype');
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@1,400;1,500&display=swap" rel="stylesheet">
+  <style>/* Fonts loaded via <link> in resume.hbs (Google Fonts CSS2 — all weights handled correctly) */
+
+/* ─── Design tokens ─── */
+:root {
+  --bg: #FAF9F6;
+  --surface: #FFFFFF;
+  --ink: #1A1A1A;
+  --ink-2: #2E2E2E;
+  --muted: #6B6B6B;
+  --faint: #9B9B9B;
+  --line: #EAE7E1;
+  --line-soft: #F1EEE8;
+  --accent: #7C5BCC;
+  --accent-deep: #5E3FB0;
+  --accent-soft: #F2EDFB;
+  --accent-border: #DCD2F4;
+  --pill-bg: #F4F2EC;
+  --pill-border: #E5E1D8;
+  --green: #047857;
+  --green-soft: #ECFDF5;
 }
 
-@font-face {
-  font-family: 'Josefin Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Josefin Sans Bold'), local('JosefinSans-Bold'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ectllte10k.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 300;
-  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHjxsAXC-v.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Lato Light'), local('Lato-Light'), url(https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh7USSwiPHA.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v16/S6uyw4BMUTPHjx4wWw.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh6UVSwiPHA.ttf) format('truetype');
-}
-
+/* ─── Base ─── */
 html {
-  background: white;
+  background: var(--bg);
 }
 
 body {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 17px;
-  background: white;
-  margin: 50px 0 100px;
-  letter-spacing: .3px;
-  color: #4A5568;
+  background: var(--bg);
+  margin: 40px 0 80px;
+  letter-spacing: -0.005em;
+  color: var(--ink-2);
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+/* ─── Type scale ─── */
+h1, h2, h3, h4, h5, h6 {
   text-transform: none;
   margin: 0;
 }
 
+/* Name */
 h1 {
-  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 700;
-  font-size: 40px;
-  letter-spacing: 1px;
+  font-size: 32px;
+  letter-spacing: -0.025em;
+  color: var(--ink);
+  line-height: 1.05;
 }
 
+/* Label / subtitle (italic serif, editorial) */
 h2 {
-  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-family: "Newsreader", Georgia, serif;
+  font-style: italic;
   font-weight: 400;
   font-size: 16px;
-  letter-spacing: .5px;
+  letter-spacing: -0.005em;
+  text-transform: none;
+  color: var(--muted);
+  margin-top: 4px;
+  line-height: 1.3;
 }
 
 h3 {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  font-size: 14px;
-  letter-spacing: .4px;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: -0.005em;
+  color: var(--ink);
 }
 
 h3.bold {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 h4 {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 12px;
+  color: var(--ink-2);
 }
 
 h4.bold {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 h5 {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
-  font-size: 11px;
+  font-size: 10px;
+  color: var(--faint);
+  letter-spacing: 0;
 }
 
 h5.italic {
-  font-style: italic;
+  font-style: normal;
 }
 
 h6 {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 10px;
+  color: var(--ink-2);
 }
 
 a {
   color: inherit;
-  text-decoration: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .15s ease, color .15s ease;
 }
 
 a:hover {
-  color: #2895F1;
+  color: var(--accent);
+  border-bottom-color: var(--accent);
 }
 
-a .fa-external-link {
-  font-size: 10px;
-  vertical-align: text-top;
-}
-
-p,
-li {
-  font-size: 12px;
+p, li {
+  font-size: 11.5px;
   font-weight: 400;
-  opacity: 0.8;
-}
-
-blockquote {
-  font-size: 11px;
-  font-family: "Lato", Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  font-style: italic;
-  margin: 10px 25px;
+  color: var(--ink-2);
+  line-height: 1.55;
 }
 
 em {
-  color: #718096;
+  color: var(--muted);
+  font-family: "Newsreader", Georgia, serif;
+  font-style: italic;
 }
 
 ul {
-  margin: 6px 0 0;
-  -webkit-padding-start: 15px;
+  margin: 4px 0 0;
+  padding-left: 14px;
 }
 
 ul li {
-  padding-left: 0px;
+  padding-left: 2px;
+  margin-bottom: 2px;
 }
 
-ul.minimal {
-  list-style: none;
-  padding: 0;
+ul li::marker {
+  color: var(--accent);
+  font-size: 0.85em;
 }
 
-ul.minimal li {
-  margin-bottom: 3px;
-  padding-left: 0;
-}
-
-ul.two-column {
-  -webkit-column-count: 2;
-  -webkit-column-gap: 28px;
-  column-count: 2;
-  column-gap: 28px;
-}
-
-ul.two-column li {
-  padding-left: 0;
+ul li:last-child {
+  margin-bottom: 0;
 }
 
 @page {
   size: A4;
+  margin: 0;
 }
 
+/* ─── Page shell (A4: 210mm × 297mm) ─── */
+.page {
+  background: var(--surface);
+  width: 210mm;
+  min-height: 297mm;
+  display: block;
+  margin: 0 auto;
+  padding: 12mm 14mm 10mm;
+  box-shadow: 0 8px 40px rgba(17, 17, 17, .07), 0 1px 3px rgba(17, 17, 17, .04);
+  border-radius: 2px;
+  box-sizing: border-box;
+}
+
+.page:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* ─── Header ─── */
+.resume-header {
+  padding-bottom: 14px;
+  margin-bottom: 0;
+  position: relative;
+}
+
+.profile-header {
+  flex: 1;
+  min-width: 0;
+}
+
+.resume-header.clearfix {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.resume-header h1 {
+  margin-bottom: 2px;
+}
+
+/* Status pill (open to opportunities) */
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 10px;
+  background: var(--green-soft);
+  border: 1px solid #BBF7D0;
+  border-radius: 999px;
+  font-size: 9.5px;
+  font-weight: 500;
+  color: var(--green);
+  margin-bottom: 8px;
+  letter-spacing: 0;
+}
+
+.status-pill .dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--green);
+}
+
+/* Contact strip */
+.contact-strip {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 10px;
+  margin-top: 10px;
+  font-size: 10.5px;
+  color: var(--muted);
+}
+
+.contact-strip .contact-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.contact-strip .contact-item + .contact-item::before {
+  content: "·";
+  color: var(--faint);
+  margin-right: 6px;
+  font-weight: 600;
+}
+
+.contact-strip .fa {
+  font-size: 10px;
+  color: var(--faint);
+  width: 11px;
+  text-align: center;
+}
+
+.contact-strip a {
+  color: var(--ink-2);
+}
+
+.contact-strip a:hover {
+  color: var(--accent);
+}
+
+/* ─── Metrics bar ─── */
+.metrics-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 0 14px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  margin-top: 4px;
+}
+
+.metric-item {
+  text-align: left;
+  flex: 1;
+  padding: 0 6px;
+  position: relative;
+}
+
+.metric-item:first-child {
+  padding-left: 0;
+}
+
+.metric-item:last-child {
+  padding-right: 0;
+}
+
+.metric-item + .metric-item::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 15%;
+  height: 70%;
+  width: 1px;
+  background: var(--line);
+}
+
+.metric-value {
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--ink);
+  display: block;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+.metric-label {
+  font-family: "Inter", sans-serif;
+  font-size: 8.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--faint);
+  display: block;
+  margin-top: 4px;
+  font-weight: 500;
+}
+
+/* ─── Summary strip ─── */
+.summary-container {
+  padding: 14px 0 16px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 0;
+}
+
+.summary-text {
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--ink-2);
+  line-height: 1.65;
+  margin: 0;
+}
+
+/* ─── Single-column flow ─── */
+.resume-content {
+  display: block;
+}
+
+.left-column,
+.right-column {
+  float: none;
+  width: 100%;
+  margin: 0;
+  overflow: visible;
+}
+
+/* ─── Containers ─── */
 .container {
-  padding-top: 15px;
+  padding-top: 14px;
+}
+
+.item {
+  margin-bottom: 12px;
+}
+
+.item:last-child {
+  margin-bottom: 0;
+}
+
+/* ─── Section titles ─── */
+.title h3 {
+  font-family: "Inter", sans-serif;
+  font-size: 9px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--ink);
 }
 
 .keyline {
-  width: 45px;
-  margin: 6px 0 8px;
-  border-top: 1px solid #56817A;
+  width: 100%;
+  margin: 5px 0 10px;
+  border-top: 1px solid var(--line);
+  opacity: 1;
 }
 
+/* ─── Section header (company name + dates) ─── */
+.section-header {
+  margin-bottom: 2px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.section-header.clearfix::before,
+.section-header.clearfix::after {
+  display: none;
+}
+
+.section-header h3.bold {
+  color: var(--ink);
+  font-size: 13px;
+  font-weight: 600;
+  float: none !important;
+}
+
+.section-header h5 {
+  color: var(--faint);
+  font-size: 10px;
+  font-style: normal;
+  letter-spacing: 0;
+  margin-top: 0;
+  white-space: nowrap;
+  float: none !important;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ─── Position / role title ─── */
+.work-container .item > h4,
+.project-container .item > h4 {
+  font-size: 11.5px;
+  font-weight: 500;
+  color: var(--accent);
+  margin: 2px 0 4px;
+  letter-spacing: 0;
+}
+
+.education-container .item > h4 {
+  font-size: 11.5px;
+  font-weight: 400;
+  font-style: italic;
+  font-family: "Newsreader", Georgia, serif;
+  color: var(--muted);
+  margin: 2px 0 3px;
+}
+
+/* ─── Profile pic ─── */
 .pull-left {
   float: left;
 }
@@ -234,195 +454,99 @@ ul.two-column li {
 }
 
 .profile-pic {
-  margin-top: -5px;
-  margin-right: 18px;
+  flex-shrink: 0;
+  margin: 0;
 }
 
 .profile-pic img {
-  height: 52px;
-  width: 52px;
+  height: 56px;
+  width: 56px;
   border-radius: 50%;
-  border: 2px solid #56817A;
+  border: 1px solid var(--line);
+  object-fit: cover;
 }
 
-.summary {
-  margin: 5px 0 3px;
-}
-
-.sublink {
-  font-size: 70%;
-  font-weight: 200;
-  color: #718096;
-}
-
-.capitalize {
-  text-transform: capitalize;
-}
-
-/* Layouts */
-.page {
-  background: white;
-  width: 612px;
-  min-height: 792px;
-  display: block;
-  margin: 0 auto;
-  border-top: 10px solid #56817A;
-  padding: 30px 22px 25px 34px;
-  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
-}
-
-.page:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.left-column {
-  float: left;
-  width: 160px;
-  margin-right: 20px;
-  word-wrap: break-word;
-}
-
-.right-column {
-  width: auto;
-  overflow: hidden;
-}
-
-.item {
-  margin-bottom: 15px;
-}
-
-.item:last-child {
+/* ─── Skills (label-prefix rows) ─── */
+.skills-container {
   margin-bottom: 0;
 }
 
-/* Compact spacing for certificates, awards, and publications */
-.certificates-container .item,
-.awards-container .item,
-.publications-container .item {
-  margin-bottom: 8px;
+.skills-section {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 14px;
+  align-items: baseline;
+  padding: 6px 0;
+  border-bottom: 1px dotted var(--line-soft);
+  margin: 0;
 }
 
-.certificates-container .item:last-child,
-.awards-container .item:last-child,
-.publications-container .item:last-child {
-  margin-bottom: 0;
+.skills-section:last-child {
+  border-bottom: none;
 }
 
-@media print {
-  * {
-    -webkit-print-color-adjust: exact !important;
-    print-color-adjust: exact !important;
-  }
-
-  body {
-    margin: 0;
-    -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
-  }
-
-  .page {
-    width: 100% !important;
-    height: 100% !important;
-    margin: 0 !important;
-    padding: 36px 0 30px !important;
-    box-shadow: none !important;
-  }
-
-  .page:after {
-    display: none !important;
-  }
-
-  .page .resume-header,
-  .page .resume-content {
-    padding: 0 22px 0 34px !important;
-  }
-
-  .resume-content {
-    display: grid !important;
-    grid-template-columns: 160px 1fr !important;
-    grid-gap: 20px !important;
-    align-items: start !important;
-  }
-
-  .left-column {
-    grid-column: 1 !important;
-    float: none !important;
-    width: auto !important;
-    margin-right: 0 !important;
-    word-wrap: break-word !important;
-  }
-
-  .right-column {
-    grid-column: 2 !important;
-    width: auto !important;
-    overflow: visible !important;
-  }
-
-  .container {
-    page-break-inside: avoid;
-  }
-
-  .work-container .item {
-    page-break-inside: avoid;
-  }
-
-  .fa-external-link {
-    display: none;
-  }
+.skills-section .title {
+  margin: 0;
 }
 
-/* Components */
-.info-tag-container {
-  margin-bottom: 5px;
+.skills-section .title h3 {
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  text-transform: uppercase;
 }
 
-.info-tag-container .fa {
-  font-size: 14px;
-  width: 12px;
-  margin-right: 5px;
-  text-align: center;
-  vertical-align: middle;
+.skills-section .keyline {
+  display: none;
 }
 
-.info-tag-container .fa.fa-map-marker {
-  font-size: 16px;
+.skills-flex {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 8px;
+  margin: 0;
 }
 
-.info-tag-container .fa.fa-mobile {
-  font-size: 18px;
-}
-
-.info-tag-container .fa.fa-envelope-o {
-  font-size: 12px;
-}
-
-.info-tag-container .fa.fa-desktop {
-  font-size: 11px;
-}
-
-.info-tag-container .fa.fa-external-link {
-  width: auto;
-  font-size: inherit;
-  vertical-align: text-top;
-}
-
-.info-tag-container .info-text {
-  font-size: 12px;
-  text-transform: none;
-  display: inline-block;
-  vertical-align: middle;
-  width: 139px;
-}
-
-.references-container .fa {
-  font-size: 14px;
-}
-
-.education-container .location {
-  padding-bottom: 6px;
+.skill-pill {
+  font-size: 10px;
   font-weight: 400;
+  color: var(--ink-2);
+  padding: 1px 8px;
+  background: var(--pill-bg);
+  border-radius: 3px;
+  border: 1px solid var(--pill-border);
+  white-space: nowrap;
+  display: inline-block;
+  letter-spacing: 0;
+}
+
+/* ─── Work keywords (inline tech tags) ─── */
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 5px 6px;
+  margin-top: 7px;
+}
+
+.skill {
+  font-size: 9px;
+  font-weight: 500;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-border);
+  border-radius: 3px;
+  padding: 1px 6px;
+  margin: 0;
+  letter-spacing: 0;
+}
+
+/* ─── Education ─── */
+.education-container .location {
+  padding-bottom: 4px;
+  font-weight: 400;
+  color: var(--muted);
 }
 
 .education-container .specialization {
@@ -430,20 +554,53 @@ ul.two-column li {
   font-style: italic;
 }
 
-/* Simplified certificates styling */
+/* ─── Bottom row: education + certs + awards in 3 columns ─── */
+.bottom-row {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr 1fr;
+  gap: 24px;
+  padding-top: 14px;
+  align-items: start;
+}
+
+.bottom-row > .container {
+  padding-top: 0;
+  margin-bottom: 0;
+}
+
+.bottom-row .item {
+  margin-bottom: 8px;
+}
+
+.bottom-row .education-container .item > h4 {
+  font-size: 10.5px;
+  margin: 1px 0 0;
+}
+
+.bottom-row .section-header h3.bold {
+  font-size: 11.5px;
+}
+
+.bottom-row .section-header h5 {
+  font-size: 9.5px;
+}
+
+/* ─── Certificates ─── */
 .certificates-list {
-  margin-bottom: 15px;
+  margin-bottom: 0;
 }
 
 .certificate-item {
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   line-height: 1.4;
-  font-size: 11px;
+  font-size: 10.5px;
+  color: var(--ink-2);
 }
 
 .certificate-item strong {
-  font-size: 11px;
-  font-weight: 700;
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--ink);
 }
 
 .certificate-item:last-child {
@@ -451,35 +608,32 @@ ul.two-column li {
 }
 
 .certificates-container .date {
-  font-size: 10px;
-  color: #718096;
+  font-size: 9.5px;
+  color: var(--faint);
   font-weight: normal;
 }
 
 .certificates-container .certificate-url {
-  font-size: 10px;
-  color: #56817A;
-  text-decoration: none;
+  font-size: 9.5px;
+  color: var(--accent);
 }
 
-.certificates-container .certificate-url:hover {
-  text-decoration: underline;
-}
-
-/* Awards styling matching certificates */
+/* ─── Awards ─── */
 .awards-list {
-  margin-bottom: 15px;
+  margin-bottom: 0;
 }
 
 .award-item {
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   line-height: 1.4;
-  font-size: 11px;
+  font-size: 10.5px;
+  color: var(--ink-2);
 }
 
 .award-item strong {
-  font-size: 11px;
-  font-weight: 700;
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--ink);
 }
 
 .award-item:last-child {
@@ -487,103 +641,180 @@ ul.two-column li {
 }
 
 .awards-container .date {
-  font-size: 10px;
-  color: #718096;
+  font-size: 9.5px;
+  color: var(--faint);
   font-weight: normal;
 }
 
-.awards-container .award-url {
-  font-size: 10px;
-  color: #56817A;
-  text-decoration: none;
-}
-
-.awards-container .award-url:hover {
-  text-decoration: underline;
-}
-
-.flex-container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-
-.skills-container {
-  margin-bottom: 25px;
-}
-
-.skills-section {
-  margin-bottom: 20px;
-}
-
-.skills-flex {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 10px;
-  margin-bottom: 8px;
-}
-
-.skill-pill {
-  font-size: 10px;
-  font-weight: 400;
-  color: #4A5568;
-  padding: 4px 10px;
-  margin: 2px;
-  background: #f8f8f8;
-  border-radius: 12px;
-  border: 1px solid #e8e8e8;
-  white-space: nowrap;
-  display: inline-block;
-}
-
-.main-skill {
-  font-size: 80%;
-}
-
-.skill {
-  margin: .15em;
-  padding: .15em;
-  background: ghostwhite;
-  border-radius: 5px;
-}
-
-/* Compact styling for certificates, awards, and publications */
-.certificates-container .item-header h4,
-.awards-container .item-header h4,
-.publications-container .item-header h4 {
-  margin-bottom: 2px;
-  font-size: 14px;
-  line-height: 1.2;
-}
-
-.certificates-container .issuer,
-.awards-container .awarder,
-.publications-container .awarder {
-  margin: 2px 0 4px 0;
-  font-size: 12px;
-  color: #718096;
-}
-
-.certificates-container .summary,
-.awards-container .summary,
-.publications-container .summary {
-  margin: 2px 0 0 0;
-  font-size: 12px;
-  line-height: 1.3;
-}
-
-/* More compact container spacing */
+/* ─── Compact section spacing ─── */
 .certificates-container,
 .awards-container,
 .publications-container {
-  margin-bottom: 12px;
+  margin-bottom: 0;
 }
 
-.certificates-container .keyline,
-.awards-container .keyline,
-.publications-container .keyline {
-  margin: 4px 0 6px;
+/* ─── Publications (compact 2-col) ─── */
+.publications-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 18px;
+}
+
+.pub-item {
+  width: auto;
+  margin: 0;
+}
+
+.pub-item:nth-child(odd) {
+  margin-right: 0;
+}
+
+.pub-title {
+  font-size: 10.5px;
+  font-weight: 500;
+  color: var(--ink);
+  display: block;
+  line-height: 1.3;
+  border-bottom: none !important;
+}
+
+.pub-title:hover {
+  color: var(--accent);
+}
+
+.pub-venue {
+  font-size: 9px;
+  color: var(--faint);
+  display: block;
+  margin-top: 1px;
+  letter-spacing: 0;
+}
+
+.view-all-wrap {
+  margin-top: 9px;
+}
+
+.view-all-link {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--accent);
+  letter-spacing: 0;
+  text-decoration: none;
+  border-bottom: 1px solid var(--accent-border);
+}
+
+.view-all-link:hover {
+  border-bottom-color: var(--accent);
+}
+
+/* ─── Project sublink ─── */
+.sublink {
+  font-size: 68%;
+  font-weight: 400;
+  color: var(--faint);
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+/* ─── References ─── */
+.references-container .fa {
+  font-size: 14px;
+  color: var(--faint);
+}
+
+/* ─── Print ─── */
+@media print {
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: var(--bg) !important;
+  }
+
+  .page {
+    width: 210mm !important;
+    min-height: 297mm !important;
+    height: auto !important;
+    margin: 0 auto !important;
+    padding: 12mm 14mm 10mm !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    background: var(--surface) !important;
+    box-sizing: border-box !important;
+  }
+
+  .page:after {
+    display: none !important;
+  }
+
+  .resume-content {
+    display: block !important;
+  }
+
+  .left-column,
+  .right-column {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 !important;
+    overflow: visible !important;
+  }
+
+  /* Keep header, metrics, summary together at top */
+  .resume-header,
+  .metrics-bar,
+  .summary-container {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Avoid breaking within an entry */
+  .work-container .item,
+  .project-container .item,
+  .education-container .item,
+  .skills-section,
+  .certificate-item,
+  .award-item,
+  .pub-item {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Don't orphan a section title at page bottom */
+  .container > .title,
+  .section-header {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  /* Bullet list orphan/widow control */
+  ul {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .bottom-row {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .publications-container {
+    page-break-inside: auto !important;
+    break-inside: auto !important;
+  }
+
+  .fa-external-link {
+    display: none;
+  }
 }
 </style>
 </head>
@@ -591,431 +822,347 @@ ul.two-column li {
 <body>
   <main id="resume" class="page">
     <header class="resume-header clearfix">
-        <div class="profile-header pull-left">
+        <div class="profile-header">
             <h1>Anand Bhaskaran</h1>
-            <h2>Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI</h2>
+            <h2>Senior Software Engineer | AI Product Builder | Technical Lead | Startup Founder | MBA</h2>
+    
+            <div class="contact-strip">
+                <span class="contact-item"><i class="fa fa-map-marker"></i>Zurich, Switzerland</span>
+    
+                <span class="contact-item"><i class="fa fa-envelope-o"></i><a href="mailto:anandbaskaran3193@gmail.com">anandbaskaran3193@gmail.com</a></span>
+    
+                <span class="contact-item"><i class="fa fa-mobile"></i>+41763043193</span>
+    
+                        <span class="contact-item">
+                            <i class="fa fa-linkedin"></i>
+                            <a href="https://ch.linkedin.com/in/anandb3" target="_blank" rel="noopener">anandb3</a>
+                        </span>
+                        <span class="contact-item">
+                            <i class="fa fa-github"></i>
+                            <a href="https://github.com/anandbhaskaran" target="_blank" rel="noopener">anandbhaskaran</a>
+                        </span>
+                        <span class="contact-item">
+                            <i class="fa fa-globe"></i>
+                            <a href="https://anand-creations.web.app" target="_blank" rel="noopener">anand-creations</a>
+                        </span>
+    
+            </div>
         </div>
-        <div class="profile-pic pull-right">
-        </div>
+    
     </header>
+    <div class="metrics-bar">
+        <div class="metric-item">
+            <span class="metric-value">$1.5M+</span>
+            <span class="metric-label">Revenue Shipped</span>
+        </div>
+        <div class="metric-item">
+            <span class="metric-value">$337K</span>
+            <span class="metric-label">Costs Eliminated</span>
+        </div>
+        <div class="metric-item">
+            <span class="metric-value">10M+</span>
+            <span class="metric-label">Users Served</span>
+        </div>
+        <div class="metric-item">
+            <span class="metric-value">3</span>
+            <span class="metric-label">Companies Founded</span>
+        </div>
+    </div>
+            <div class="summary-container">
+                <p class="summary-text">Engineer who builds from the customer backward. Shipped AI products to millions at Beekeeper, founded three companies, and co-evolved robot bodies at EPFL — each chapter driven by the same question: what does the person on the other side actually need? Track record: $1.5M+ in revenue generated, $337K in vendor costs eliminated, 90% reduction in customer setup friction. I bring the systems rigour of an architect, the urgency of a founder, and an MBA-calibrated eye for what makes a feature worth shipping.</p>
+            </div>
     <div class="resume-content">
-      <aside class="left-column">
-        <div class="container about-container">
-            <div class="title">
-                <h3>About</h3>
-                <div class="keyline"></div>
-            </div>
-                <div class="info-tag-container">
-                    <i class="fa fa-map-marker"></i>
-                
-                        <h6 class="info-text"> Zurich   Switzerland</h6>
-                </div>
-        
-        
-                <div class="info-tag-container">
-                    <i class="fa fa-envelope-o"></i>
-                
-                        <h6 class="info-text">
-                            <a href="mailto:anandbaskaran3193@gmail.com" target="_blank">
-                                anandbaskaran3193@gmail.com
-                            </a>
-                        </h6>
-                </div>
-        
-                <div class="info-tag-container">
-                    <i class="fa fa-mobile"></i>
-                
-                        <h6 class="info-text">
-                            <a href="https://anand-creations.web.app" target="_blank">
-                                +41763043193
-                            </a>
-                        </h6>
-                </div>
-        
-        
-                                <div class="info-tag-container">
-                                    <i class="fa fa-linkedin-square"></i>
-                                
-                                        <h6 class="info-text">
-                                            <a href="https://ch.linkedin.com/in/anandb3" target="_blank">
-                                                anandb3
-                                            </a>
-                                        </h6>
-                                </div>
-                                 <div class="info-tag-container">
-                                     <i class="fa fa-github"></i>
-                                 
-                                         <h6 class="info-text">
-                                             <a href="https://github.com/anandbhaskaran" target="_blank">
-                                                 anandbhaskaran
-                                             </a>
-                                         </h6>
-                                 </div>
-                                 <div class="info-tag-container">
-                                     <i class="fa fa-website"></i>
-                                 
-                                         <h6 class="info-text">
-                                             <a href="https://anand-creations.web.app" target="_blank">
-                                                 anand-creations
-                                             </a>
-                                         </h6>
-                                 </div>
-        </section>
-            <div class="skills-container">
-                    <section class="container skills-section">
-                            <div class="title">
-                                <h3>Technical Leadership</h3>
-                                <div class="keyline"></div>
-                            </div>                    <div class="skills-flex">
-                                    <span class="skill-pill">System Architecture</span>
-                                    <span class="skill-pill">Team Leadership</span>
-                                    <span class="skill-pill">Technical Strategy</span>
-                                    <span class="skill-pill">Mentoring</span>
-                                    <span class="skill-pill">Cross-functional Collaboration</span>
-                                    <span class="skill-pill">Engineering Excellence</span>
-                            </div>
-                    </section>
-                    <section class="container skills-section">
-                            <div class="title">
-                                <h3>Full Stack &amp; Backend</h3>
-                                <div class="keyline"></div>
-                            </div>                    <div class="skills-flex">
-                                    <span class="skill-pill">Java</span>
-                                    <span class="skill-pill">Python</span>
-                                    <span class="skill-pill">TypeScript</span>
-                                    <span class="skill-pill">Vue.js</span>
-                                    <span class="skill-pill">Microservices</span>
-                                    <span class="skill-pill">API Development</span>
-                                    <span class="skill-pill">PostgreSQL</span>
-                                    <span class="skill-pill">Kafka</span>
-                                    <span class="skill-pill">Elastic Search</span>
-                            </div>
-                    </section>
-                    <section class="container skills-section">
-                            <div class="title">
-                                <h3>AI &amp; Machine Learning</h3>
-                                <div class="keyline"></div>
-                            </div>                    <div class="skills-flex">
-                                    <span class="skill-pill">Generative AI</span>
-                                    <span class="skill-pill">LLM Applications</span>
-                                    <span class="skill-pill">RAG Pipelines</span>
-                                    <span class="skill-pill">AI Agents</span>
-                                    <span class="skill-pill">OpenAI APIs</span>
-                                    <span class="skill-pill">AI Product Design</span>
-                                    <span class="skill-pill">Translation Systems</span>
-                            </div>
-                    </section>
-                    <section class="container skills-section">
-                            <div class="title">
-                                <h3>DevOps &amp; Infrastructure</h3>
-                                <div class="keyline"></div>
-                            </div>                    <div class="skills-flex">
-                                    <span class="skill-pill">CI/CD</span>
-                                    <span class="skill-pill">Kubernetes</span>
-                                    <span class="skill-pill">Docker</span>
-                                    <span class="skill-pill">Terraform</span>
-                                    <span class="skill-pill">AWS</span>
-                                    <span class="skill-pill">Monitoring &amp; Observability</span>
-                                    <span class="skill-pill">ClickHouse</span>
-                                    <span class="skill-pill">Deployment Automation</span>
-                            </div>
-                    </section>
-                    <section class="container skills-section">
-                            <div class="title">
-                                <h3>Product &amp; Business</h3>
-                                <div class="keyline"></div>
-                            </div>                    <div class="skills-flex">
-                                    <span class="skill-pill">Product Ownership</span>
-                                    <span class="skill-pill">A/B Testing</span>
-                                    <span class="skill-pill">Revenue Generation</span>
-                                    <span class="skill-pill">Go-to-Market</span>
-                                    <span class="skill-pill">Stakeholder Management</span>
-                                    <span class="skill-pill">Strategic Roadmaps</span>
-                            </div>
-                    </section>
-            </div>
-            <div class="container languages-container">
-                <div class="title">
-                    <h3>Languages</h3>
-                    <div class="keyline"></div>
-                </div>
-                <ul class="minimal">
-                        <li>
-                            <h6>English <em>(Professional Working)</em></h6>
-                        </li>
-                        <li>
-                            <h6>German <em>(Beginner)</em></h6>
-                        </li>
-                </ul>
-            </div>
-        <div class="container certificates-container">
-            <div class="title">
-                <h3>Certificates</h3>
-                <div class="keyline"></div>
-            </div>
-            <div class="certificates-list">
-                <div class="certificate-item">
-                    <strong>Building Modern Java Applications</strong> - AWS
-                    
-                    
-                </div>
-                <div class="certificate-item">
-                    <strong>Build LLM Apps with LangChain</strong> - DeepLearning.AI
-                    
-                    
-                </div>
-                <div class="certificate-item">
-                    <strong>Microsoft Certified Professional (MCPS)</strong> - Microsoft
-                    
-                    
-                </div>
-                <div class="certificate-item">
-                    <strong>MongoDB for Java Developers</strong> - MongoDB University
-                    
-                    
-                </div>
-            </div>
-        </div>
-            <div class="container interests-container">
-                <div class="title">
-                    <h3>Interests</h3>
-                    <div class="keyline"></div>
-                </div>
-                    <section class="item">
-                            <h4 class="bold">AI &amp; Creativity</h4>
-                    </section>
-                    <section class="item">
-                            <h4 class="bold">Clean Architecture (TDD)</h4>
-                    </section>
-                    <section class="item">
-                            <h4 class="bold">Microfrontends</h4>
-                    </section>
-                    <section class="item">
-                            <h4 class="bold">Startup Mentoring</h4>
-                    </section>
-            </div>
-        <div class="container awards-container">
-            <div class="title">
-                <h3>Awards</h3>
-                <div class="keyline"></div>
-            </div>
-            <div class="awards-list">
-                <div class="award-item">
-                    <strong>AWS Cloud Credits for Research</strong> - Amazon Web Services
-                    <span class="date"> (2020)</span>
-                    
-                    
-                </div>
-                <div class="award-item">
-                    <strong>KTH Opportunities Fund</strong> - KTH Royal Institute of Technology
-                    
-                    
-                    
-                </div>
-                <div class="award-item">
-                    <strong>TI India Analog Design Contest Winner</strong> - Texas Instruments
-                    
-                    
-                    
-                </div>
-            </div>
-        </div>
-      </aside>
-      <div class="right-column">
-                <div class="container summary-container">
-                    <div class="title">
-                        <h3>Summary</h3>
-                        <div class="keyline"></div>
-                    </div>            <p class="summary">
-                        AI-focused software engineer with a proven track record of shipping high-impact, production-ready systems. I combine deep expertise in full-stack development with a pragmatic, product-driven mindset. Delivered $1.5M+ in revenue through scalable systems, led high-performing engineering teams, and drove innovation through GenAI integrations that generated $337K cost savings and accelerated go-to-market.
-                    </p>
-                </div>
-        <div class="container work-container">
-            <div class="title">
-                <h3>Work Experience</h3>
-                <div class="keyline"></div>
-            </div>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://www.beekeeper.io/" target="_blank">
-                                    Beekeeper AG
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">08/2022</span>
-                                <span class="endDate"> - Present</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Senior Software Engineer (Technical Lead)</h4>
-        
-        
-                    <p class="summary">Technical Lead driving innovation across scalable systems, AI-powered features, and platform reliability. Delivered high-impact features used by millions, while mentoring engineers and improving developer velocity.</p>
-        
-                    <ul>
-                        <li>Architected Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR</li>
-                        <li>Built LLM-powered template translations using GitHub Actions and OpenAI APIs — translated 12K+ key-value pairs, saved $337K and accelerated go-to-market</li>
-                        <li>Designed distributed templating engine serving 10M+ users — reduced setup time by 90%, powers 15% of all platform assets</li>
-                        <li>Led GenAI demo template system for sales team — auto-generates customized content from Salesforce data, boosting demo speed and personalization</li>
-                        <li>Spearheaded Search Platform Revamp — led teams of 2-4 engineers delivering scalable architecture for enhanced user engagement</li>
-                        <li>Acting technical hiring manager for AI roles and deputy tech lead — mentored engineers while owning end-to-end delivery of core modules</li>
-                        <li>Drove cross-functional GTM initiatives — Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, resulting in streamlined sales pipeline</li>
-                    </ul>
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                Tenity
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">06/2024</span>
-                                <span class="endDate"> - Present</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Startup Mentor &amp; Technology Evaluation Panelist</h4>
-        
-        
-                    <p class="summary">Technology Evaluation Panel member and mentor guiding startups on scalability, technical strategy, and innovation practices.</p>
-        
-                    <ul>
-                        <li>Conducted thorough evaluations of emerging technologies for seed-to-VC startups</li>
-                        <li>Advised multiple startups on technical hiring, AI adoption, and scalable solution development</li>
-                        <li>Opt Alpha (Tech Advisor): Mentoring engineering teams on scaling algorithmic trading systems, optimizing performance, reliability, and operational efficiency for high-frequency trading</li>
-                    </ul>
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://lis.epfl.ch/" target="_blank">
-                                    Dronistics
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">08/2018</span>
-                                <span class="endDate"> - 03/2020</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Founding Engineer</h4>
-        
-        
-                    <p class="summary">Founding engineer for Dronistics, an autonomous drone delivery system used in 500+ last-mile deliveries.</p>
-        
-                    <ul>
-                        <li>Built end-to-end autonomous drone delivery platform — architected full-stack solution (Vue/Java/PostgreSQL) powering 500+ successful deliveries</li>
-                        <li>Delivered complete cloud infrastructure and DevOps pipeline — enabled scalable operations for enterprise partnerships with Unilever and CES showcase</li>
-                        <li>Engineered real-time flight control APIs and logistics optimization algorithms — reduced delivery times by 40% while maintaining 99.5% safety record</li>
-                    </ul>
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/" target="_blank">
-                                    EPFL — Laboratory of Intelligent Systems (Robogen)
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">08/2016</span>
-                                <span class="endDate"> - 07/2018</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Research Engineer</h4>
-        
-        
-                    <p class="summary">Led engineering of Robogen, an open-source platform for the co-evolution of robot morphologies and control systems.</p>
-        
-                    <ul>
-                        <li>Robogen — AI &amp; Robotics Research Platform: Led engineering of Robogen, an open-source platform for the co-evolution of robot morphologies and control systems</li>
-                        <li>Spearheaded its migration to AWS, securing AWS Research Credits, and featured on the AWS Research Blog</li>
-                        <li>Teaching Assistant for Evolutionary Robotics, an AI-based system for Robotics</li>
-                        <li>Supervised 20+ master&#x27;s students at EPFL</li>
-                    </ul>
-                </section>
-        </div>
-        <div class="container project-container">
-            <div class="title">
-                <h3>Entrepreneurial Projects</h3>
-                <div class="keyline"></div>
-            </div>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://pulse-view.anand-creations.com" target="_blank">
-                                    PulseView - AI Market Intelligence
-                                        <span class="sublink">∙ <a href="https://pulse-view.anand-creations.com" target="_blank" class="sublink">https://pulse-view.anand-creations.com</a></span>
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">05/2025</span>
-                                <span class="endDate"> - Present</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Founder &amp; AI Product Builder</h4>
-        
-        
-                    <ul>
-                        <li>AI-Powered Analysis: Built real-time stock market analysis platform using AI agents to generate and explain trading signals</li>
-                        <li>Technical &amp; News Integration: Based on technical and news-based insights for comprehensive market analysis</li>
-                        <li>Personal to Public: Initially designed as personal tool, now public for retail traders and investors</li>
-                        <li>Focus Areas: Explainable AI, speed, and clarity in financial analysis</li>
-                        <li>Explainable AI for financial analysis</li>
-                        <li>Technical and news-based insights</li>
-                    </ul>
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://proplab.io" target="_blank">
-                                    Proplab - AI Real Estate Tools
-                                        <span class="sublink">∙ <a href="https://proplab.io" target="_blank" class="sublink">https://proplab.io</a></span>
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">09/2025</span>
-                                <span class="endDate"> - Present</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Founder &amp; AI Product Builder</h4>
-        
-        
-                    <ul>
-                        <li>MVP Development: Designed and built MVP for fully digitalized property inventory inspection system, replacing manual workflows</li>
-                        <li>Structured Protocols: Implemented structured, image-backed, and timestamped protocols for property inspection</li>
-                        <li>AI Marketing Assistant: Currently leading development of AI-powered marketing assistant to automate listing creation and boost property visibility across marketplaces</li>
-                        <li>Image-backed inspection protocols</li>
-                        <li>AI marketing assistant for listing creation</li>
-                    </ul>
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://www.swissnri.com" target="_blank">
-                                    SwissNRI - Cross-border Fintech Platform
-                                        <span class="sublink">∙ <a href="https://www.swissnri.com" target="_blank" class="sublink">https://www.swissnri.com</a></span>
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">01/2024</span>
-                                <span class="endDate"> - Present</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Co-Founder &amp; Technical Lead</h4>
-        
-        
-                    <ul>
-                        <li>Market Innovation: Identified untapped market need and launched first platform addressing complex cross-border financial challenges for Indian nationals in Switzerland</li>
-                        <li>Zero-to-One Product Development: Led development from concept to MVP in 3 months, acquiring early users through strategic partnerships with Swiss-Indian community organizations</li>
-                        <li>Compliance-First Design: Created solution addressing critical regulatory requirements across two complex financial jurisdictions (FEMA, DTAA, Swiss regulations)</li>
-                        <li>Customer-Driven Iteration: Established regular customer feedback loops driving product roadmap prioritization and 40% increase in user satisfaction</li>
-                    </ul>
-                </section>
-        </div>
+      <div class="container work-container">
+          <div class="title">
+              <h3>Work Experience</h3>
+              <div class="keyline"></div>
+          </div>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                              <a href="https://www.beekeeper.io/" target="_blank">
+                                  Beekeeper AG
+                              </a>
+                      </h3>
+                      <h5 class="italic pull-right">
+                              <span class="startDate">08/2022</span>
+                              <span class="endDate"> - Present</span>
+                      </h5>
+                  </div>
+      
+                  <h4>Senior Software Engineer (Technical Lead)</h4>
+      
+                  <div class="flex-container">
+                          <h6 class="skill">Java</h6>
+                          <h6 class="skill">Python</h6>
+                          <h6 class="skill">Vue</h6>
+                          <h6 class="skill">Kubernetes</h6>
+                          <h6 class="skill">AWS</h6>
+                          <h6 class="skill">OpenAI</h6>
+                          <h6 class="skill">LangChain</h6>
+                          <h6 class="skill">Kafka</h6>
+                          <h6 class="skill">PostgreSQL</h6>
+                          <h6 class="skill">Elastic Search</h6>
+                          <h6 class="skill">Jenkins</h6>
+                          <h6 class="skill">GitHub Actions</h6>
+                          <h6 class="skill">ClickHouse</h6>
+                          <h6 class="skill">Claude</h6>
+                          <h6 class="skill">Langfuse</h6>
+                          <h6 class="skill">CrewAI</h6>
+                          <h6 class="skill">Strands Agents</h6>
+                  </div>
+      
+                  <ul>
+                      <li>Architected Employee Referral System end-to-end — became the platform&#x27;s top revenue channel ($1.5M+ generated, $500K ARR); designed for 99.99% SLA because customer trust is measured in uptime</li>
+                      <li>Replaced $337K in annual vendor translation costs with an LLM pipeline built in 6 weeks — 12K+ assets translated, product team now iterates without external gatekeepers</li>
+                      <li>Built AI Onboarding Specialist giving every new signup personalized, high-touch guidance at scale — 100% of customers guided through setup; reduced time-to-first-value without adding headcount</li>
+                      <li>Designed distributed templating engine that cut customer setup time 90% — powers 15% of all platform assets for 10M+ users; customers go from zero to live in minutes, not days</li>
+                      <li>Built GenAI demo system for sales — auto-generates personalized content from Salesforce data so every pitch feels custom-built for that customer; improved demo speed and close rates</li>
+                      <li>Led Search Platform revamp across 3 teams — redesigned indexing and ranking to surface what users mean to find, not just what they typed; measurably improved user engagement</li>
+                      <li>Built and mentored the AI engineering cohort — hired for craft and curiosity, grew engineers who now lead features independently</li>
+                      <li>Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis) — each shipped with instrumentation so we knew within a week if it moved the needle</li>
+                  </ul>
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                              <a href="https://www.tenity.com/" target="_blank">
+                                  Tenity
+                              </a>
+                      </h3>
+                      <h5 class="italic pull-right">
+                              <span class="startDate">06/2024</span>
+                              <span class="endDate"> - Present</span>
+                      </h5>
+                  </div>
+      
+                  <h4>Startup Mentor &amp; Technology Evaluation Panelist</h4>
+      
+      
+                  <ul>
+                      <li>Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions</li>
+                      <li>Mentored Opt Alpha on scaling algorithmic trading systems — optimized reliability and performance for high-frequency production workloads</li>
+                      <li>Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that actually ship</li>
+                  </ul>
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                              <a href="https://lis.epfl.ch/" target="_blank">
+                                  Dronistics
+                              </a>
+                      </h3>
+                      <h5 class="italic pull-right">
+                              <span class="startDate">08/2018</span>
+                              <span class="endDate"> - 03/2020</span>
+                      </h5>
+                  </div>
+      
+                  <h4>Founding Engineer</h4>
+      
+      
+                  <ul>
+                      <li>Shipped end-to-end autonomous drone delivery platform (Vue/Java/PostgreSQL) — 500+ successful deliveries; every flight was a live UX test for autonomous systems in the real world</li>
+                      <li>Built cloud infrastructure and DevOps pipeline from scratch — enterprise-grade reliability that enabled partnerships with Unilever and a CES showcase</li>
+                      <li>Engineered real-time flight control APIs and logistics optimization algorithms — 40% faster deliveries, 99.5% safety record, zero incidents</li>
+                  </ul>
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                              <a href="https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/" target="_blank">
+                                  EPFL — Laboratory of Intelligent Systems (Robogen)
+                              </a>
+                      </h3>
+                      <h5 class="italic pull-right">
+                              <span class="startDate">08/2016</span>
+                              <span class="endDate"> - 07/2018</span>
+                      </h5>
+                  </div>
+      
+                  <h4>Research Engineer</h4>
+      
+      
+                  <ul>
+                      <li>Migrated Robogen to AWS and secured AWS Research Credits — work featured on the AWS Public Sector Blog</li>
+                      <li>Teaching Assistant for Evolutionary Robotics at EPFL — supervised 20+ master&#x27;s students through hands-on AI and robotics research</li>
+                  </ul>
+              </section>
+      </div>
+      <div class="container project-container">
+          <div class="title">
+              <h3>Entrepreneurial Projects</h3>
+              <div class="keyline"></div>
+          </div>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                              <a href="https://pulse-view.anand-creations.com" target="_blank">
+                                  PulseView - AI Market Intelligence
+                                      <span class="sublink">∙ <a href="https://pulse-view.anand-creations.com" target="_blank" class="sublink">https://pulse-view.anand-creations.com</a></span>
+                              </a>
+                      </h3>
+                      <h5 class="italic pull-right">
+                              <span class="startDate">05/2025</span>
+                              <span class="endDate"> - Present</span>
+                      </h5>
+                  </div>
+      
+                  <h4>Founder &amp; Builder</h4>
+      
+                  <p class="summary">Built for my own trading portfolio first: a platform that explains its signals, not just shows them. Retail traders deserve the same explainable analysis that institutions pay for.</p>
+      
+                  <div class="flex-container">
+                          <h6 class="skill">AI Agents</h6>
+                          <h6 class="skill">Financial Analysis</h6>
+                          <h6 class="skill">Technical Analysis</h6>
+                          <h6 class="skill">News Processing</h6>
+                          <h6 class="skill">Trading Signals</h6>
+                          <h6 class="skill">Explainable AI</h6>
+                          <h6 class="skill">React</h6>
+                          <h6 class="skill">Automation</h6>
+                  </div>
+      
+                  <ul>
+                      <li>Real-time market analysis via AI agents that generate and justify trading signals using technical and news-based data</li>
+                      <li>Core product principle: if the model can&#x27;t explain the signal, it doesn&#x27;t ship — explainability over complexity</li>
+                      <li>Opened to retail traders after self-validating; now serving live users with real-time market feeds</li>
+                  </ul>
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                              <a href="https://proplab.io" target="_blank">
+                                  Proplab - AI Real Estate Tools
+                                      <span class="sublink">∙ <a href="https://proplab.io" target="_blank" class="sublink">https://proplab.io</a></span>
+                              </a>
+                      </h3>
+                      <h5 class="italic pull-right">
+                              <span class="startDate">09/2025</span>
+                              <span class="endDate"> - Present</span>
+                      </h5>
+                  </div>
+      
+                  <h4>Founder &amp; Builder</h4>
+      
+                  <p class="summary">Property inspections run on paper, clipboards, and WhatsApp photos. Built MVP for a fully digital, image-backed, timestamped inspection protocol that replaces the entire manual workflow.</p>
+      
+                  <div class="flex-container">
+                          <h6 class="skill">AI</h6>
+                          <h6 class="skill">Real Estate Tech</h6>
+                          <h6 class="skill">Image Processing</h6>
+                          <h6 class="skill">Marketing Automation</h6>
+                          <h6 class="skill">Property Management</h6>
+                  </div>
+      
+                  <ul>
+                      <li>Shipped MVP replacing paper-based inspection workflows with structured, image-backed, timestamped records</li>
+                      <li>Building AI marketing assistant that auto-generates property listings from inspection data — one workflow, zero copy-paste</li>
+                  </ul>
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                              <a href="https://www.swissnri.com" target="_blank">
+                                  SwissNRI - Cross-border Fintech Platform
+                                      <span class="sublink">∙ <a href="https://www.swissnri.com" target="_blank" class="sublink">https://www.swissnri.com</a></span>
+                              </a>
+                      </h3>
+                      <h5 class="italic pull-right">
+                              <span class="startDate">01/2024</span>
+                              <span class="endDate"> - Present</span>
+                      </h5>
+                  </div>
+      
+                  <h4>Co-Founder &amp; Technical Lead</h4>
+      
+                  <p class="summary">Swiss-Indian families navigating FEMA, DTAA, and Swiss regulations had zero digital help — just spreadsheets and expensive advisors. Built the first platform addressing this.</p>
+      
+                  <div class="flex-container">
+                          <h6 class="skill">SaaS Architecture</h6>
+                          <h6 class="skill">Fintech</h6>
+                          <h6 class="skill">Compliance Systems</h6>
+                          <h6 class="skill">Tax Automation</h6>
+                          <h6 class="skill">DTAA</h6>
+                          <h6 class="skill">FEMA</h6>
+                  </div>
+      
+                  <ul>
+                      <li>Zero-to-MVP in 3 months; early users acquired through Swiss-Indian community partnerships</li>
+                      <li>Compliance-first design: regulatory guardrails for both jurisdictions built before features</li>
+                      <li>Customer feedback loops drove 40% uplift in satisfaction — roadmap owned by what users actually asked for</li>
+                  </ul>
+              </section>
+      </div>
+      <div class="container skills-wrap">
+          <div class="title">
+              <h3>Skills</h3>
+              <div class="keyline"></div>
+          </div>    <div class="skills-container">
+                  <section class="skills-section">
+                          <div class="title"><h3>Technical Leadership</h3></div>
+                          <div class="skills-flex">
+                                  <span class="skill-pill">System Architecture</span>
+                                  <span class="skill-pill">Team Leadership</span>
+                                  <span class="skill-pill">Technical Strategy</span>
+                                  <span class="skill-pill">Mentoring</span>
+                                  <span class="skill-pill">Cross-functional Collaboration</span>
+                                  <span class="skill-pill">Engineering Excellence</span>
+                          </div>
+                  </section>
+                  <section class="skills-section">
+                          <div class="title"><h3>Full Stack &amp; Backend</h3></div>
+                          <div class="skills-flex">
+                                  <span class="skill-pill">Java</span>
+                                  <span class="skill-pill">Python</span>
+                                  <span class="skill-pill">TypeScript</span>
+                                  <span class="skill-pill">Vue.js</span>
+                                  <span class="skill-pill">Microservices</span>
+                                  <span class="skill-pill">API Development</span>
+                                  <span class="skill-pill">PostgreSQL</span>
+                                  <span class="skill-pill">Kafka</span>
+                                  <span class="skill-pill">Elastic Search</span>
+                          </div>
+                  </section>
+                  <section class="skills-section">
+                          <div class="title"><h3>AI &amp; Machine Learning</h3></div>
+                          <div class="skills-flex">
+                                  <span class="skill-pill">Generative AI</span>
+                                  <span class="skill-pill">LLM Applications</span>
+                                  <span class="skill-pill">RAG Pipelines</span>
+                                  <span class="skill-pill">AI Agents</span>
+                                  <span class="skill-pill">OpenAI APIs</span>
+                                  <span class="skill-pill">AI Product Design</span>
+                                  <span class="skill-pill">Translation Systems</span>
+                          </div>
+                  </section>
+                  <section class="skills-section">
+                          <div class="title"><h3>DevOps &amp; Infrastructure</h3></div>
+                          <div class="skills-flex">
+                                  <span class="skill-pill">CI/CD</span>
+                                  <span class="skill-pill">Kubernetes</span>
+                                  <span class="skill-pill">Docker</span>
+                                  <span class="skill-pill">Terraform</span>
+                                  <span class="skill-pill">AWS</span>
+                                  <span class="skill-pill">Monitoring &amp; Observability</span>
+                                  <span class="skill-pill">ClickHouse</span>
+                                  <span class="skill-pill">Deployment Automation</span>
+                          </div>
+                  </section>
+                  <section class="skills-section">
+                          <div class="title"><h3>Product &amp; Business</h3></div>
+                          <div class="skills-flex">
+                                  <span class="skill-pill">Product Ownership</span>
+                                  <span class="skill-pill">A/B Testing</span>
+                                  <span class="skill-pill">Revenue Generation</span>
+                                  <span class="skill-pill">Go-to-Market</span>
+                                  <span class="skill-pill">Stakeholder Management</span>
+                                  <span class="skill-pill">Strategic Roadmaps</span>
+                          </div>
+                  </section>
+          </div>
+      </div>
+      <div class="bottom-row">
         <div class="container education-container">
             <div class="title">
             <h3>Education</h3>
@@ -1096,165 +1243,134 @@ ul.two-column li {
         
               </section>
         </div>
-        <div class="container publications-container">
+        <div class="container certificates-container">
             <div class="title">
-                <h3>Blog Posts &amp; Talks</h3>
+                <h3>Certificates</h3>
                 <div class="keyline"></div>
             </div>
-            <section class="item">
-                <a href="https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent" target="_blank" rel="noopener noreferrer">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                Agentic AI: Simple ReAct Agent
-                        </h3>
-                        <h5 class="italic pull-right">
-                                04/2025
-                                </h5>
-                    </div>
-                </a>
-        
-                <h5 class="awarder">The Compounding Curiosity (Substack)</h5>
-        
-                <p class="summary">Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications.</p>
-        
-            </section>
-            <section class="item">
-                <a href="https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d" target="_blank" rel="noopener noreferrer">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                AI and creativity
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-                </a>
-        
-                <h5 class="awarder">Front Conference (Talk)</h5>
-        
-                <p class="summary">Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development.</p>
-        
-            </section>
-            <section class="item">
-                <a href="https://pitch.com/v/ai-for-the-rest-of-us-p2tejg" target="_blank" rel="noopener noreferrer">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                From Infinite posibilites to finite Results
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-                </a>
-        
-                <h5 class="awarder">AI for the rest of Us, UK (Talk)</h5>
-        
-                <p class="summary">Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design.</p>
-        
-            </section>
-            <section class="item">
-                <a href="https://pitch.com/v/microfrontends-kpc3n7" target="_blank" rel="noopener noreferrer">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                Microfrontends: Revolutionising Frontend Architecture
-                        </h3>
-                        <h5 class="italic pull-right">
-                                01/2023
-                                </h5>
-                    </div>
-                </a>
-        
-                <h5 class="awarder">Developer Week 2023, USA (Talk)</h5>
-        
-                <p class="summary">Technical deep-dive presentation demonstrating how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications.</p>
-        
-            </section>
-            <section class="item">
-                <a href="https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df" target="_blank" rel="noopener noreferrer">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                From Idea to Product
-                        </h3>
-                        <h5 class="italic pull-right">
-                                01/2022
-                                </h5>
-                    </div>
-                </a>
-        
-                <h5 class="awarder">Dev Innovation Summit 2022, USA (Talk)</h5>
-        
-                <p class="summary">Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments.</p>
-        
-            </section>
-            <section class="item">
-                <a href="https://aws.amazon.com/blogs/publicsector/designing-robots-through-artificial-evolution/" target="_blank" rel="noopener noreferrer">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                Designing Robots Through Artificial Evolution
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-                </a>
-        
-                <h5 class="awarder">AWS Public Sector Blog</h5>
-        
-                <p class="summary">Featured technical article showcasing breakthrough research in evolutionary robotics, demonstrating how AWS cloud infrastructure enables large-scale artificial evolution simulations for autonomous system design.</p>
-        
-            </section>
-            <section class="item">
-                <a href="https://medium.com/@anandbaskaran3193/the-blueprint-for-building-high-impact-teams-b8d5c5f5c5e5" target="_blank" rel="noopener noreferrer">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                The Blueprint for Building High‑Impact Teams
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-                </a>
-        
-                <h5 class="awarder">Medium</h5>
-        
-                <p class="summary">Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture.</p>
-        
-            </section>
-            <section class="item">
-                <a href="https://medium.com/@anandbaskaran3193/high-performance-scalable-url-shortener-a1b2c3d4e5f6" target="_blank" rel="noopener noreferrer">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                High‑Performance, Scalable URL Shortener
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-                </a>
-        
-                <h5 class="awarder">Medium / Terraform Registry</h5>
-        
-                <p class="summary">Technical architecture guide demonstrating implementation of enterprise-grade URL shortening service using infrastructure-as-code principles and cloud-native scalability patterns.</p>
-        
-            </section>
-            <section class="item">
-                <a href="https://towardsdev.com/visualizing-ai-embeddings-with-heatmap-a1b2c3d4e5f6" target="_blank" rel="noopener noreferrer">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                Visualizing AI Embeddings with Heatmap
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-                </a>
-        
-                <h5 class="awarder">TowardsDev</h5>
-        
-                <p class="summary">Data visualization methodology article presenting innovative techniques for interpreting high-dimensional AI embeddings through interactive heatmap visualizations for enhanced model interpretability.</p>
-        
-            </section>
-        
-            <div class="view-all-publications">
-                <a href="https://anand-creations.vercel.app/blog" target="_blank" rel="noopener noreferrer" style="color: #56817A; text-decoration: none;">
-                    <h3>View All Publications →</h3>
-                </a>
+            <div class="certificates-list">
+                <div class="certificate-item">
+                    <strong>Building Modern Java Applications</strong> - AWS
+                    
+                    
+                </div>
+                <div class="certificate-item">
+                    <strong>Build LLM Apps with LangChain</strong> - DeepLearning.AI
+                    
+                    
+                </div>
+                <div class="certificate-item">
+                    <strong>Microsoft Certified Professional (MCPS)</strong> - Microsoft
+                    
+                    
+                </div>
+                <div class="certificate-item">
+                    <strong>MongoDB for Java Developers</strong> - MongoDB University
+                    
+                    
+                </div>
             </div>
         </div>
+        <div class="container awards-container">
+            <div class="title">
+                <h3>Awards</h3>
+                <div class="keyline"></div>
+            </div>
+            <div class="awards-list">
+                <div class="award-item">
+                    <strong>AWS Cloud Credits for Research</strong> - Amazon Web Services
+                    <span class="date"> (2020)</span>
+                    
+                    
+                </div>
+                <div class="award-item">
+                    <strong>KTH Opportunities Fund</strong> - KTH Royal Institute of Technology
+                    
+                    
+                    
+                </div>
+                <div class="award-item">
+                    <strong>TI India Analog Design Contest Winner</strong> - Texas Instruments
+                    
+                    
+                    
+                </div>
+            </div>
+        </div>
+      </div>
+      <div class="container publications-container">
+          <div class="title">
+              <h3>Blog Posts &amp; Talks</h3>
+              <div class="keyline"></div>
+          </div>
+          <ul class="publications-list">
+              <li class="pub-item">
+                  <a href="https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">EPFL designs robots through artificial evolution</span>
+                  </a>
+                  <span class="pub-venue">AWS Public Sector Blog</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">Agentic AI: Simple ReAct Agent</span>
+                  </a>
+                  <span class="pub-venue">The Compounding Curiosity (Substack)</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">AI and creativity</span>
+                  </a>
+                  <span class="pub-venue">Front Conference (Talk)</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://pitch.com/v/ai-for-the-rest-of-us-p2tejg" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">From Infinite Possibilities to Finite Results</span>
+                  </a>
+                  <span class="pub-venue">AI for the rest of Us, UK (Talk)</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://pitch.com/v/microfrontends-kpc3n7" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">Microfrontends: Revolutionising Frontend Architecture</span>
+                  </a>
+                  <span class="pub-venue">Developer Week 2023, USA (Talk)</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">From Idea to Product</span>
+                  </a>
+                  <span class="pub-venue">Dev Innovation Summit 2022, USA (Talk)</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://aws.amazon.com/blogs/publicsector/designing-robots-through-artificial-evolution/" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">Designing Robots Through Artificial Evolution</span>
+                  </a>
+                  <span class="pub-venue">AWS Public Sector Blog</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://medium.com/@anandbaskaran3193/the-blueprint-for-building-high-impact-teams-b8d5c5f5c5e5" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">The Blueprint for Building High-Impact Teams</span>
+                  </a>
+                  <span class="pub-venue">Medium</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://medium.com/@anandbaskaran3193/high-performance-scalable-url-shortener-a1b2c3d4e5f6" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">High-Performance, Scalable URL Shortener</span>
+                  </a>
+                  <span class="pub-venue">Medium / Terraform Registry</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://towardsdev.com/visualizing-ai-embeddings-with-heatmap-a1b2c3d4e5f6" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">Visualizing AI Embeddings with Heatmap</span>
+                  </a>
+                  <span class="pub-venue">TowardsDev</span>
+              </li>
+          </ul>
+      
+          <div class="view-all-wrap">
+              <a href="https://anand-creations.vercel.app/blog" target="_blank" rel="noopener noreferrer" class="view-all-link">
+                  View All Publications →
+              </a>
+          </div>
       </div>
     </div>
   </main>

@@ -2,30 +2,26 @@
 <div class="container publications-container">
     {{> title value="Blog Posts & Talks"}}
 
+    <ul class="publications-list">
     {{#each resume.publications}}
-    <section class="item">
-        {{#if url}}
-        <a href="{{url}}" target="_blank" rel="noopener noreferrer">
-            {{> section-header name=this.name}}
-        </a>
-        {{else}}
-        {{> section-header name=this.name}}
-        {{/if}}
-
-        {{#if publisher}}
-        <h5 class="awarder">{{publisher}}</h5>
-        {{/if}}
-
-        {{#if summary}}
-        <p class="summary">{{summary}}</p>
-        {{/if}}
-
-    </section>
+        <li class="pub-item">
+            {{#if url}}
+            <a href="{{url}}" target="_blank" rel="noopener noreferrer">
+                <span class="pub-title">{{name}}</span>
+            </a>
+            {{else}}
+            <span class="pub-title">{{name}}</span>
+            {{/if}}
+            {{#if publisher}}
+            <span class="pub-venue">{{publisher}}</span>
+            {{/if}}
+        </li>
     {{/each}}
+    </ul>
 
-    <div class="view-all-publications">
-        <a href="https://anand-creations.vercel.app/blog" target="_blank" rel="noopener noreferrer" style="color: #56817A; text-decoration: none;">
-            <h3>View All Publications →</h3>
+    <div class="view-all-wrap">
+        <a href="https://anand-creations.vercel.app/blog" target="_blank" rel="noopener noreferrer" class="view-all-link">
+            View All Publications →
         </a>
     </div>
 </div>

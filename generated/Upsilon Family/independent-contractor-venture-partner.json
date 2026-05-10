@@ -1,0 +1,322 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Experienced entrepreneur, technical leader, and startup mentor with a proven record in venture development, driving $1.5M+ revenue and leading high-impact AI-enabled products. Extensive cross-functional collaboration, mentoring, and global advisory roles supporting founders and investors. Adept at leveraging AI for strategic analysis and opportunity development across diverse innovation ecosystems.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2022-08",
+      "endDate": "",
+      "summary": "Technical Lead responsible for architecting scalable systems, driving AI adoption, and delivering platform features utilized by millions globally. Mentored engineering teams, led mission-critical initiatives, and supported go-to-market strategy to accelerate business growth.",
+      "highlights": [
+        "Architected Employee Referral System meeting 99.99% SLA — generated $1.5M+ in revenue, including $500K ARR onboarding enterprise clients",
+        "Built LLM-powered template translation workflows with OpenAI and GitHub Actions — translated 12K+ key-value pairs, saving $337K and accelerating international rollouts",
+        "Designed a distributed templating engine serving 10M+ users — reduced asset setup time by 90%, now powering 15% of all platform assets",
+        "Led GenAI demo content automation for sales — auto-generated tailored templates from Salesforce data, increasing demo personalization and speed",
+        "Directed Search Platform Revamp — managed teams of 2-4 engineers in delivering scalable architectures that improved user engagement",
+        "Acted as technical hiring manager for AI roles and deputy tech lead — mentored engineers and ensured timely, high-quality delivery of core modules",
+        "Developed Agentic AI Onboarding specialist leveraging multi-step LLMs — automated user setup, scaling personalized guidance to 100% of signups, reducing time-to-value"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "Panelist and mentor providing strategic evaluation and technical guidance to growth-stage startups, with a focus on scalability, innovation, and operational excellence.",
+      "highlights": [
+        "Conducted in-depth technology assessments for seed-to-VC backed startups, identifying strategic opportunities and risks",
+        "Advised Opt Alpha on optimizing algorithmic trading system performance, reliability, and tech team scaling to enhance operational efficiency"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer delivering an autonomous drone delivery platform, leading development from concept to deployment for enterprise and research use cases.",
+      "highlights": [
+        "Built end-to-end autonomous delivery solution (Vue/Java/PostgreSQL) — powered 500+ successful last-mile drone deliveries",
+        "Engineered real-time flight control APIs and logistics algorithms — reduced delivery times by 40% and maintained 99.5% safety record",
+        "Led cloud infrastructure and DevOps rollout — enabled scalable enterprise deployments and showcased at CES"
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Led engineering of Robogen, an open-source AI-enabled robotics research platform, contributing to pioneering academic and industry collaborations.",
+      "highlights": [
+        "Directed Robogen platform migration to AWS, securing AWS Research Credits and recognition on AWS Research Blog",
+        "Supervised over 20 master's students and facilitated industry-academic research at EPFL",
+        "Served as Teaching Assistant for Evolutionary Robotics, advancing foundational AI and robotics education"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Infinite posibilites to finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "releaseDate": "",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "The Blueprint for Building High‑Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandbaskaran3193/the-blueprint-for-building-high-impact-teams-b8d5c5f5c5e5",
+      "releaseDate": "",
+      "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Strategic Leadership",
+      "keywords": [
+        "Venture Development",
+        "Advisory Engagements",
+        "Stakeholder Management",
+        "Go-to-Market",
+        "AI systems",
+        "Strategic Roadmaps"
+      ]
+    },
+    {
+      "name": "AI & Advanced Technologies",
+      "keywords": [
+        "Generative AI",
+        "AI Agents",
+        "OpenAI APIs",
+        "LLM Applications",
+        "AI Product Design",
+        "RAG Pipelines",
+        "AI-Enabled Tools"
+      ]
+    },
+    {
+      "name": "Venture & Investment Management",
+      "keywords": [
+        "Startup Mentoring",
+        "Technical Evaluation",
+        "Venture Building",
+        "Market Analysis",
+        "Alternative Investments",
+        "Revenue Generation",
+        "Portfolio Oversight",
+        "Opportunity Sourcing",
+        "Scalable Solution Development",
+        "Stakeholder Relationships"
+      ]
+    },
+    {
+      "name": "Technical Architecture & Scalability",
+      "keywords": [
+        "System Architecture",
+        "Scalable Systems",
+        "Microservices",
+        "API Development",
+        "Cloud Infrastructure",
+        "Kubernetes",
+        "CI/CD",
+        "AWS",
+        "DevOps",
+        "Distributed Systems"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Venture Building"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "Scalable Systems"
+    },
+    {
+      "name": "Alternative Investments"
+    },
+    {
+      "name": "Corporate Strategy"
+    },
+    {
+      "name": "Distributed Cloud Platforms"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Built an AI-driven platform for real-time stock market analysis, leveraging AI agents to generate and explain trading signals for investors.",
+        "Integrated technical and news-based insights, focusing on explainability, automation, and actionable financial analysis.",
+        "Transitioned platform from personal research tool to a public service for retail traders, reinforcing technical leadership and product scalability."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Developed MVP for digital property inventory inspection, streamlining manual workflows with image-backed, timestamped protocols.",
+        "Currently leading build of AI-powered marketing assistant, automating listing creation and increasing property visibility across key marketplaces.",
+        "Showcased expertise in AI-driven automation and the delivery of technology solutions for asset and property management."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Launched first platform addressing cross-border financial challenges for Indian nationals in Switzerland, targeting a complex niche market.",
+        "Led zero-to-one product development from concept to MVP in 3 months, establishing strategic partnerships with community organizations.",
+        "Designed compliance-first fintech solutions, aligning with regulatory frameworks (FEMA, DTAA, Swiss law) and achieving a 40% increase in user satisfaction through customer-driven iteration."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Upsilon Family",
+    "jobTitle": "Independent Contractor — Venture Partner",
+    "jobUrl": "Kevin (+60 19-317 3707)",
+    "jobDescription": "WHO WE ARE:\n\nUpsilon Family is a global Multi-Family Office providing integrated Business Advisory and Asset Management solutions, with hubs in New York, London, and Kuala Lumpur, serving an international client base across the Americas, EMEA, and Asia.\n\nOur Business Advisory practice delivers strategic guidance across Corporate Finance, Legal advisory, Marketing strategy, Venture Building, and related initiatives designed to support long-term value creation.\n\nOur Asset Management offering comprises two core areas: (I) Single-Family-Office solutions, providing tailored asset management, governance, and portfolio oversight for individual families; and (II) Alternative Investments, spanning private markets, real assets, hedge fund strategies, opportunistic investments, and digital assets.\nPROGRAMME DESCRIPTION:\nThe Venture Partner Programme provides a framework through which Upsilon Family collaborates with experienced professionals to support the development of client relationships, advisory engagements, and investment opportunities aligned with the firm’s strategic activities.\n\nVenture Partners contribute strategic insight, professional networks, and market expertise to the Upsilon Family platform. Their involvement may include identifying and developing opportunities, fostering relationships with relevant stakeholders, and contributing perspectives that support the firm’s broader advisory, venture development, and investment initiatives.\n\nParticipation in the Programme is non-exclusive and opportunity-driven. Venture Partners may collaborate on specific initiatives, engagements, or transactions depending on mutual interest, strategic alignment, and organisational priorities.\n\nIDEAL CANDIDATE:\nThe ideal candidate will possess substantial professional experience, sound commercial judgement, and a well-established professional network relevant to Upsilon Family’s advisory or investment activities. Relevant backgrounds may include entrepreneurship, venture capital, private equity, investment banking, management consulting, corporate strategy, family office advisory, or senior leadership roles within growth-oriented organisations. Candidates should demonstrate intellectual curiosity, strategic thinking, and a collaborative approach to venture development, advisory engagements, and investment opportunities.\n\nKEY REQUIREMENTS:\nEXPERIENCE: Professional experience in entrepreneurship, venture capital, private equity, investment banking, consulting, corporate strategy, family office advisory, or relevant leadership roles.\nNETWORK: Established professional network across founders, investors, entrepreneurial families, corporate leaders, or relevant industry ecosystems.\nSTRATEGIC CAPABILITIES: Ability to contribute strategic insight across venture development, investment opportunities, corporate finance initiatives, or advisory engagements.\nSKILLS (AI): Familiarity with AI-enabled tools and large language models (LLMs) applied to research, strategic analysis, and professional workflows.\nSKILLS (IT): Proficiency in Google Workspace, Slack, and Zoom.\nLANGUAGES: Fluent in English; additional languages are advantageous.\n\nKEY DETAILS:\nPOSITION: Independent Contractor — Venture Partner\nENGAGEMENT STRUCTURE: Flexible, opportunity-based collaboration aligned with specific initiatives, transactions, or advisory mandates.\nWORK SETTING: Remote-based with global collaboration.\nCOMPENSATION: Compensation, where applicable, may arise in connection with specific engagements, introductions, transactions, or investment opportunities and will be determined separately in accordance with applicable agreements.\nRELATIONSHIP STRUCTURE: Venture Partners participate strictly as independent contractors and have no authority to bind Upsilon Family unless expressly authorised in writing.",
+    "notes": "Make myself a strong fit for this role",
+    "createdAt": "2026-03-17T08:13:57.161Z"
+  },
+  "_generatedFile": {
+    "company": "Upsilon Family",
+    "baseName": "independent-contractor-venture-partner",
+    "createdAt": "2026-03-17T08:17:17.629Z",
+    "targetPath": "./generated/Upsilon Family/independent-contractor-venture-partner.json"
+  }
+}

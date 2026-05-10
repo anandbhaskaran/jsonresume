@@ -1,0 +1,326 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Proven Senior Software Engineer with over 10 years of experience in developing robust, scalable backend systems using Java and Spring Boot. Led initiatives that automated builds and deployments, enhancing efficiency and reducing delivery times by 30%. Expertise in DevOps practices and continuous delivery, fostering high-performing teams and innovative solutions.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03-15",
+      "endDate": "",
+      "summary": "As Technical Lead, I drive the innovation of scalable systems and AI-powered features while enhancing platform reliability for millions of users.",
+      "highlights": [
+        "Led architectural design and launch of Employee Referral System (99.99% SLA) — generated $1.5M+ revenue including $500K ARR through agile methodologies.",
+        "Spearheaded design and development of Beekeeper's Templating Engine — reduced setup time by 90% and enhanced user engagement, now powering 15% of platform assets.",
+        "Engineered robust search interface accommodating 10M+ users — significantly elevated user engagement and accelerated platform adoption rate.",
+        "Assembled and led high-performing remote teams, fostering a culture of maintainable code and customer-centric solutions.",
+        "Collaborated with product managers and data engineers on A/B experiments, deriving data-driven insights for product iterations.",
+        "Designed and deployed Generative AI translation systems, translating 12K+ key-value pairs, saving $337K in costs.",
+        "Built AI-driven stream template system for sales to auto-generate customized content, boosting demo speed and personalization."
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06-01",
+      "endDate": "",
+      "summary": "I guide startups on technical strategy and scalability, ensuring they develop impactful solutions.",
+      "highlights": [
+        "Conducted thorough evaluations of emerging technologies for startups, fostering growth and enabling their scalability.",
+        "Advised multiple startups on technical hiring and AI adoption, optimizing their operational efficiency."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08-01",
+      "endDate": "2020-03-01",
+      "summary": "As a founding engineer, I developed an autonomous drone delivery system successfully utilized in 500+ last-mile deliveries.",
+      "highlights": [
+        "Architected and delivered complete software/cloud stack, enabling seamless integration with partners like Unilever, showcased at CES Las Vegas.",
+        "Built autonomous delivery platform powering 500+ successful drone deliveries while ensuring operational scalability.",
+        "Engineered real-time flight control APIs and optimization algorithms — reducing delivery times by 40% with a 99.5% safety record."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
+      "summary": "I led the engineering of Robogen, an innovative platform for robot morphology and control system co-evolution.",
+      "highlights": [
+        "Spearheaded migration to AWS, securing research credits and gaining recognition on the AWS Research Blog.",
+        "Supervised 20+ master's students in AI and robotics projects, contributing to impactful research.",
+        "Led the development of an open-source platform, enhancing collaboration in AI and robotics research."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive presentation demonstrating how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "The Blueprint for Building High‑Impact Teams",
+      "publisher": "Medium",
+      "url": "https://anandb3.medium.com/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "releaseDate": "",
+      "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "keywords": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST",
+        "API Development",
+        "PostgreSQL",
+        "Linux",
+        "Bash"
+      ]
+    },
+    {
+      "name": "DevOps & Automation",
+      "keywords": [
+        "CI/CD",
+        "GitLab",
+        "ArgoCD",
+        "Helm",
+        "OpenShift",
+        "Deployment Automation",
+        "Monitoring & Observability"
+      ]
+    },
+    {
+      "name": "Scalable Systems & Architecture",
+      "keywords": [
+        "System Architecture",
+        "Scalable Solutions",
+        "Cloud Solutions",
+        "Performance Optimization",
+        "Robustness",
+        "Reliability",
+        "Technical Strategy"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "Team Leadership",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Agile Methodologies",
+        "Engineering Excellence",
+        "Product Management"
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "AI Product Design",
+        "OpenAI APIs",
+        "AI Integration",
+        "Machine Learning Algorithms",
+        "Data Management"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Scalable Solutions"
+    },
+    {
+      "name": "DevOps Practices"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Built a real-time stock market analysis platform utilizing AI agents to generate and explain trading signals.",
+        "Transitioned from a personal tool to a public offering for retail traders and investors.",
+        "Focused on explainable AI to enhance clarity in financial analysis."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Obermatt - Fintech Product Development",
+      "position": "Product Owner & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Enhanced CI/CD pipelines with Docker implementation, reducing deployment times by 30%.",
+        "Introduced agile methodologies, increasing team productivity by 20%.",
+        "Developed strategic roadmaps that boosted customer satisfaction."
+      ],
+      "url": "https://obermatt.com/en/home.html",
+      "startDate": "2018-07-01",
+      "endDate": "2021-01-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Launched the first platform addressing complex cross-border financial challenges for Indian nationals in Switzerland.",
+        "Led product development from concept to MVP in 3 months, establishing key partnerships.",
+        "Implemented a compliance-first design to meet critical regulatory requirements."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "SIX",
+    "jobTitle": "Senior Application Engineer",
+    "jobUrl": "https://jobs.six-group.com/job/Zurich-Senior-Application-Engineer-%2880-100/1234805001/",
+    "jobDescription": "Du arbeitest gerne in einem dynamischen Team und agilen Umfeld und bringst Leidenschaft für performante Backend-Systeme und automatisierte Infrastruktur mit? Dann werde Senior Application Engineer bei Terravis und gestalte aktiv mit, wie wir intelligente, skalierbare Lösungen entwickeln.\n\nAls führende digitale Plattform setzt Terravis Massstäbe in der domänenübergreifenden digitalen Abwicklung von Grundstückgeschäften und vernetzt Finanzindustrie, Notariats- und Grundbuchwesen für sichere, effiziente und rechtskonforme Immobilienprozesse.\n\nIn deiner Rolle als Senior Application Engineer entwickelst du robuste und skalierbare Backend-Komponenten. Automatisierte Builds und Deployments auf OpenShift gehören zu deinem Alltag. Du trägst massgeblich dazu bei, Infrastruktur zu automatisieren, Services zu optimieren und Continuous Delivery-Prozesse zu stärken – für maximale Stabilität, Sicherheit und Effizienz.\n\n \n \n\nDas sind deine Aufgaben \nEntwicklung und Betreuung des Terravis-Web-Services\nKonzipieren und gestalten von neuen Features für das Terravis-Backend\n3rd Level  Support: Untersuchen von Produktionsproblemen und Durchführen von Ursachenanalysen\nDev Ops: Erstellen und Warten von automatisierten Software Builds (Gitlab) und Deployment (ArgoCD, Helm) auf eine OpenShift-Umgebung\n \nDas bringst du mit \nAbgeschlossene Informatikausbildung und mehrere Jahre Erfahrung in der Entwicklung von Java-Anwendungen mit Spring-Boot\nWeb-Services ( Spring-WS, REST) sowie Data Management (MS SQL, Spring Data)\nSicherer Umgang mit Entwicklungswerkzeugen (IntelliJ, Maven,  Git, Gitlab, ArgoCD, Helm, Openshift , Linux, Bash)\nSehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift",
+    "notes": "All the output should be in English",
+    "createdAt": "2025-10-23T09:55:18.626Z"
+  }
+}

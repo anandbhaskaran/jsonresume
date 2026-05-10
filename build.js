@@ -64,8 +64,15 @@ async function generatePDF(outputPath = 'resume.pdf', htmlPath = './resume.html'
     waitUntil: 'networkidle0',
   });
 
-  // Wait a bit more to ensure fonts and layout are fully loaded
-  await page.waitFor(2000);
+  // Wait for web fonts to finish loading before snapshotting
+  await page.evaluate(async () => {
+    if (document.fonts && document.fonts.ready) {
+      await document.fonts.ready;
+    }
+  });
+
+  // Small extra buffer for layout stabilization
+  await page.waitFor(500);
 
   // Generate PDF with specific options
   await page.pdf({
@@ -237,7 +244,7 @@ async function buildToGeneratedFolder(targetPath) {
     }
 
     // Read the base resume file
-    const resumeFile = './resume.json';
+    const resumeFile = targetPath;
     if (!fs.existsSync(resumeFile)) {
       throw new Error(`Base resume file not found: ${resumeFile}`);
     }
@@ -313,7 +320,10 @@ async function build() {
     const resumeFile = process.argv[2] || './resume.json';
 
     // Check if the file exists
-    if (!fs.existsSync(resumeFile)) {
+    if (fs.existsSync(resumeFile)) {
+      // eslint-disable-next-line no-console
+      console.log(`Using resume file: ${resumeFile}`);
+    } else {
       throw new Error(`Resume file not found: ${resumeFile}`);
     }
 

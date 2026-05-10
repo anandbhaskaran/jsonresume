@@ -6,30 +6,30 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
   <title>{{#resume.basics}}{{name}}{{/resume.basics}}</title>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@1,400;1,500&display=swap" rel="stylesheet">
   {{{ style }}}
 </head>
 
 <body>
   <main id="resume" class="page">
     {{> resume-header}}
+    {{> metrics}}
+    {{> summary}}
     <div class="resume-content">
-      <aside class="left-column">
-        {{> about }}
-        {{> skills }}
-        {{> languages }}
-        {{> certificates }}
-        {{> interests }}
-        {{> awards }}
-      </aside>
-      <div class="right-column">
-        {{> summary}}
-        {{> work }}
-        {{> projects }}
-        {{> education }}
-        {{> volunteer }}
-        {{> publications }}
-        {{> references }}
+      {{> work}}
+      {{> projects}}
+      {{> skills}}
+      {{> languages}}
+      <div class="bottom-row">
+        {{> education}}
+        {{> certificates}}
+        {{> awards}}
       </div>
+      {{> volunteer}}
+      {{> publications}}
+      {{> references}}
     </div>
   </main>
 </body>

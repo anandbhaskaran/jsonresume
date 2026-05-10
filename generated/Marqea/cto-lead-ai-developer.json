@@ -1,0 +1,322 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Innovative technology leader with over 10 years in AI and full-stack development, successfully driving architecture and product vision. Spearheaded high-impact AI solutions generating $1.5M+ in revenue while mentoring and scaling high-performing engineering teams. Expertise in LLMs, automation, and cloud platforms, combined with entrepreneurial mindset to thrive in fast-paced startup environments.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03-15",
+      "endDate": "",
+      "summary": "Led technical innovation and AI-driven features for Beekeeper's platform, enhancing reliability and user engagement while mentoring engineers.",
+      "highlights": [
+        "Delivered Employee Referral System (99.99% SLA), generating $1.5M+ in revenue including $500K ARR through customer-focused iteration.",
+        "Designed and implemented Beekeeper's Templating Engine, reducing setup time by 90% and boosting user engagement to 15% of all platform assets.",
+        "Engineered robust search interface for 10M+ users, significantly accelerating platform adoption rate and enhancing user experience.",
+        "Mentored junior engineers while leading high-performing remote teams, fostering a culture of high-quality and maintainable code.",
+        "Collaborated on A/B experiments, driving insightful data for product iterations and improvements.",
+        "Developed Generative AI translation systems, translating 12K+ key-value pairs and saving $337K, expediting go-to-market efforts.",
+        "Built an AI-driven template system for sales, enhancing demo speed and personalization through automation."
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06-01",
+      "endDate": "",
+      "summary": "Mentor and evaluator guiding startups on technical strategies and scalability, ensuring alignment with innovative practices.",
+      "highlights": [
+        "Evaluated emerging technologies for startups, enabling scalable solutions and impactful growth.",
+        "Advised startups on AI adoption and technical hiring to enhance operational efficiency and innovation."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Software Application Developer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2016-08-01",
+      "endDate": "2020-03-01",
+      "summary": "Contributed as a founding engineer to the Dronistics autonomous drone delivery system, achieving significant operational milestones.",
+      "highlights": [
+        "Architected full-stack solution for drone delivery, completing over 500 last-mile successful deliveries.",
+        "Engineered real-time flight control APIs, resulting in a 40% reduction in delivery times and maintaining a 99.5% safety record.",
+        "Delivered complete cloud infrastructure and DevOps pipeline, facilitating scalable operations for enterprise partnerships."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Software Developer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Led the engineering of Robogen, an influential open-source platform for robotic systems, managing significant research initiatives.",
+      "highlights": [
+        "Directed migration to AWS, securing research credits and enhancing platform capabilities.",
+        "Supervised over 20 master's students on robotics and AI projects, fostering the next generation of engineers.",
+        "Contributed to award-winning research in artificial evolution, recognized through features on major industry blogs."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "releaseDate": "",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    },
+    {
+      "name": "From Infinite posibilites to finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "releaseDate": "",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "The Blueprint for Building High‑Impact Teams",
+      "publisher": "Medium",
+      "url": "https://anandb3.medium.com/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "releaseDate": "",
+      "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "LLM Applications",
+        "AI Agents",
+        "OpenAI APIs",
+        "NLP",
+        "Automation Frameworks"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "System Architecture",
+        "Team Leadership",
+        "Mentoring",
+        "Cross-functional Collaboration",
+        "Technical Strategy",
+        "Product Vision"
+      ]
+    },
+    {
+      "name": "Full Stack & Backend",
+      "keywords": [
+        "Python",
+        "Java",
+        "API Development",
+        "Microservices",
+        "PostgreSQL",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "CI/CD",
+        "Kubernetes",
+        "AWS",
+        "Monitoring & Observability",
+        "Deployment Automation",
+        "Cloud Platforms"
+      ]
+    },
+    {
+      "name": "Product & Business",
+      "keywords": [
+        "Product Ownership",
+        "Go-to-Market",
+        "Revenue Generation",
+        "Strategic Roadmaps",
+        "Customer-Centric Solutions",
+        "Startup Environment"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "SaaS Development"
+    },
+    {
+      "name": "Marketing Automation"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Built real-time stock market analysis platform using AI agents to generate and explain trading signals",
+        "Focus on explainable AI for financial analysis, enhancing trader decision-making",
+        "Technical and news-based insights for comprehensive market analysis"
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Designed and built MVP for fully digitalized property inventory inspection system, replacing manual workflows",
+        "Developing an AI-powered marketing assistant to automate listing creation and boost property visibility",
+        "Implemented structured and image-backed protocols for enhanced property inspection efficiency"
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "endDate": ""
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "",
+      "highlights": [
+        "Launched first platform addressing complex cross-border financial challenges for Indian nationals in Switzerland",
+        "Led zero-to-one product development from concept to MVP in just 3 months with early user acquisition",
+        "Established customer feedback loops driving product roadmap prioritization and improved user satisfaction"
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "Marqea",
+    "jobTitle": "CTO & Lead AI Developer",
+    "jobUrl": "https://join.com/companies/marqeacom/14827947/apply/cv",
+    "jobDescription": "Marqea is building the world’s first AI-CMO engine, giving every business a marketing team at their fingertips. As we scale our AI platform, we’re looking for a technology leader who can own and drive all technical aspects of the company, from hands-on AI development to long-term product vision\nTasks\n\nAI Developer: You’ll be the lead engineer building and refining our AI-driven marketing engine, working with cutting-edge LLMs, automation frameworks, and data systems.\n\nCTO: You’ll set the technology vision, own the architecture, recruit and mentor engineers, and work closely with the founders on strategy, fundraising, and scaling.\n\n\nThis role is for someone who is excited to code but also ready to lead a company’s technical future.\n\n\nRequirements\nStrong background in AI/ML engineering (LLMs, NLP, automation, API integrations).\n\nHands-on coding ability (Python, Node.js, cloud platforms, vector databases, etc.).\n\nPrevious leadership or senior engineering experience (CTO, Lead Engineer, or comparable).\n\nEntrepreneurial mindset: comfort in a startup environment where speed, adaptability, and creativity matter.\n\nAbility to balance short-term builds with long-term vision. \n\n\nNice to Have\n\n\nExperience scaling SaaS or AI startups.\n\nKnowledge of martech/marketing automation tools.\n\nFamiliarity with fundraising and investor interactions.\n\n\nBenefits\n\nCore leadership position at a Swiss AI startup.\n\nCompetitive salary (negotiable based on experience).\n\nEquity",
+    "notes": "",
+    "createdAt": "2025-09-17T14:23:58.719Z"
+  }
+}

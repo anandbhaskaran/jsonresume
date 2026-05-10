@@ -1,0 +1,331 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "AI-focused Senior Software Engineer with 10+ years of experience developing and deploying large-scale systems in production. Architected revenue-generating, AI-powered features and optimized workflows, achieving $1.5M+ in revenue. Proven experience in startup engagement, mentoring teams, supporting tech initiatives, and driving cloud-based solutions.",
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2022-08",
+      "endDate": "",
+      "summary": "As a Technical Lead, I drive innovations with GenAI implementations and scalable systems that enhance platform reliability and user engagement.",
+      "highlights": [
+        "Architected Employee Referral System (99.99% SLA) primarily in AWS — generated $1.5M+ revenue including $500K ARR",
+        "Built LLM-powered template translations using GitHub Actions and Sagemaker APIs — translated 12K+ key-value pairs, saved $337K and accelerated go-to-market",
+        "Designed distributed templating engine serving 10M+ users — reduced setup time by 90%, powers 15% of all platform assets",
+        "Led GenAI template system for sales team — auto-generates customized content from Salesforce data, boosting demo speed and personalization",
+        "Spearheaded Search Platform Revamp — led teams of 2-4 engineers delivering scalable architecture for enhanced user engagement",
+        "Technical hiring manager for AI roles and deputy tech lead — mentored engineers while owning end-to-end delivery of core modules",
+        "Drove cross-functional GTM initiatives — Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, resulting in streamlined sales pipeline"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "url": "https://www.tenity.com/",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "Guiding startups through technical strategy and innovation, enabling impactful adoption of GenAI models and cloud technologies.",
+      "highlights": [
+        "Conducted thorough evaluations of emerging technologies for seed-to-VC startups, enhancing their competitive approach to innovation.",
+        "Advised multiple startups on technical hiring, AI adoption, and scalable solution development using AWS Activate credits, fostering growth and efficiency."
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "As a founding engineer, I developed an autonomous drone delivery system, optimizing logistics with real-time data processing.",
+      "highlights": [
+        "Built end-to-end autonomous drone delivery platform — architected full-stack solution (AWS/Vue/Java/PostgreSQL) powering 500+ successful deliveries.",
+        "Delivered complete cloud infrastructure and DevOps pipeline in AWS — enabled scalable operations for enterprise partnerships with Unilever and CES showcase.",
+        "Engineered real-time flight control APIs and logistics optimization algorithms — reduced delivery times by 40% while maintaining 99.5% safety record."
+      ]
+    },
+    {
+      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Led the development of an open-source AI & robotics platform, harnessing evolving algorithms to improve machine learning effectiveness.",
+      "highlights": [
+        "Robogen — AI & Robotics Research Platform: Led engineering of Robogen, an open-source platform for the co-evolution of robot morphologies and control systems.",
+        "Spearheaded its migration to AWS, securing AWS Research Credits, and featured on the AWS Research Blog.",
+        "Supervised 20+ master's students at EPFL, enhancing their understanding of AI implementation in robotics."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "RoboGen, an open-source platform from EPFL, use AWS and artificial evolution (AI) to co-evolve robot bodies and brains. To power its demanding, distributed experiments, the project relies on AWS Cloud for dynamic scaling. This allows researchers and students to rapidly design, test, and manufacture the unique, evolved robots in the real world."
+    },
+    {
+      "name": "From Infinite possibilities to finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "releaseDate": "",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI & Machine Learning",
+      "keywords": [
+        "Generative AI",
+        "LLM Applications",
+        "RAG Pipelines",
+        "Langchain",
+        "Machine Learning Deployment",
+        "Scikit-Learn",
+        "AI Agents"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "keywords": [
+        "System Architecture",
+        "Technical Strategy",
+        "Startup Mentoring",
+        "Cross-functional Collaboration",
+        "Trusted Advisor",
+        "Customer Engagement"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "AWS",
+        "Kubernetes",
+        "CI/CD",
+        "Deployment Automation",
+        "Amazon SageMaker",
+        "Monitoring & Observability"
+      ]
+    },
+    {
+      "name": "Full Stack & Backend",
+      "keywords": [
+        "Java",
+        "Python",
+        "API Development",
+        "Microservices",
+        "PostgreSQL",
+        "Kafka"
+      ]
+    },
+    {
+      "name": "Product & Business",
+      "keywords": [
+        "Product Ownership",
+        "Revenue Generation",
+        "Go-to-Market",
+        "Strategic Roadmaps",
+        "Stakeholder Management",
+        "Innovation Practices"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "MLOps"
+    },
+    {
+      "name": "Generative AI"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Developed a real-time stock market analysis platform leveraging AI agents for trading signals.",
+        "Implemented Explainable AI to enhance transparency in financial decision-making.",
+        "Transitioned the platform from a personal tool to a public offering for retail traders and investors.",
+        "Utilized technologies such as React and automation to optimize user experience."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01",
+      "endDate": ""
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & AI Product Builder",
+      "description": "",
+      "highlights": [
+        "Spearheaded the development of an MVP for a fully digital property inventory inspection system.",
+        "Introduced AI-driven marketing tools to automate property listing creation, enhancing visibility.",
+        "Implemented structured image-backed protocols for efficient property inspections.",
+        "Leveraged AI capabilities to streamline real estate processes and improve operational efficiency."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01",
+      "endDate": ""
+    }
+  ],
+  "_jobApplication": {
+    "company": "AWS",
+    "jobTitle": "Senior Solutions Architect, Generative AI, Startups, AWS",
+    "jobUrl": "https://www.amazon.jobs/en/jobs/3108132/senior-solutions-architect-generative-ai-startups-aws?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid",
+    "jobDescription": "AWS Sales, Marketing, and Global Services (SMGS) is responsible for driving revenue, adoption, and growth from the largest and fastest growing small- and mid-market accounts to enterprise-level customers including public sector.\nKey job responsibilities\n* As a Solutions Architect, you will work directly with customers to accelerate their challenging projects and recommend best-practice architectures in line with their long-term business outcomes.\n* You operate as a trusted advisor for startups. The best interests of the customer will shape the guidance you provide. You work backwards from their priorities and find inventive ways to add value with solutions utilizing AWS and its Partners’ technology.\n* You capture and share the voice of the customer to influence the roadmap of new features and services for AWS. You use your customer understanding to participate in the creation or updates of technical content and reference architectures (e.g. white papers, code samples, blog posts).\n* Evangelize and educate about AWS technology (e.g. workshops, user groups, meetups, public speaking, online videos or conferences).\nBasic Qualifications\n- Experience with building, validating and deploying GenAI models and applications on cloud infrastructure.\n- Sound knowledge of machine learning fundamentals, with working knowledge of frameworks such as Pytorch, TensorFlow, JAX or MXNet.\n- Knowledge of MLOps tools and workflows for model development, validation, and deployment.\n- High level of communicating effectively across internal and external organizations, with both technical and non-technical audiences.\n- Fluent written and verbal communications skills in English (Swiss-German is a plus) with demonstrated ability to communicate technical choices to business and technology stakeholders\n\nPreferred Qualifications\n- Professional experience architecting/operating solutions built on AWS and/or AWS certification (e.g. AWS Solutions Architect Associate or Professional).\n- Hands-on experience benchmarking and optimizing performance of models on accelerated computing (GPUs, Trainium/Inferentia, TPU and/or AI ASICs) clusters with high-speed networking.\n- Understanding of technical details and techniques used in tuning generative AI foundation models using techniques like RAG, PEFT, RLHF, DPO.\n- Experience scaling model training and inference using technologies like Slurm, ParallelCluster, Amazon SageMaker.\n- Experience in developing and deploying large scale machine learning or deep learning models and/or systems into production, including batch and real-time data processing.",
+    "notes": "Focus on GenAI models, Pytorch, TensorFlow, scikit learn, RAG, Amazon SageMaker and Experience in developing and deploying large scale machine learning or deep learning models and/or systems into production, including batch and real-time data processing.",
+    "createdAt": "2025-10-24T08:11:33.170Z"
+  },
+  "_generatedFile": {
+    "company": "AWS",
+    "baseName": "senior-solutions-architect-generative-ai-startups-aws",
+    "createdAt": "2025-10-24T08:23:21.551Z",
+    "targetPath": "./generated/AWS/senior-solutions-architect-generative-ai-startups-aws.json"
+  }
+}

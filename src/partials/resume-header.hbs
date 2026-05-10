@@ -1,13 +1,60 @@
 {{#resume.basics}}
 <header class="resume-header clearfix">
-    <div class="profile-header pull-left">
-        <h1>{{name}}</h1>
-        <h2>{{label}}</h2>
-    </div>
-    <div class="profile-pic pull-right">
-        {{#if picture}}
-        <img src="{{picture}}" alt="profile-pic">
+    <div class="profile-header">
+        {{#if openTo}}
+        <span class="status-pill"><span class="dot"></span>{{openTo}}</span>
         {{/if}}
+        <h1>{{name}}</h1>
+        {{#if label}}<h2>{{label}}</h2>{{/if}}
+
+        <div class="contact-strip">
+            {{#if location}}
+            {{#location}}
+            <span class="contact-item"><i class="fa fa-map-marker"></i>{{city}}{{#if countryCode}}, {{countryCode}}{{/if}}</span>
+            {{/location}}
+            {{/if}}
+
+            {{#if email}}
+            <span class="contact-item"><i class="fa fa-envelope-o"></i><a href="mailto:{{email}}">{{email}}</a></span>
+            {{/if}}
+
+            {{#if phone}}
+            <span class="contact-item"><i class="fa fa-mobile"></i>{{phone}}</span>
+            {{/if}}
+
+            {{#if profiles}}
+                {{#each profiles}}
+                    {{#if username}}
+                    <span class="contact-item">
+                        {{#if (eq (lowercase network) "website")}}
+                        <i class="fa fa-globe"></i>
+                        {{else if (eq (lowercase network) "linkedin")}}
+                        <i class="fa fa-linkedin"></i>
+                        {{else if (eq (lowercase network) "github")}}
+                        <i class="fa fa-github"></i>
+                        {{else if (eq (lowercase network) "twitter")}}
+                        <i class="fa fa-twitter"></i>
+                        {{else}}
+                        <i class="fa fa-link"></i>
+                        {{/if}}
+                        <a href="{{url}}" target="_blank" rel="noopener">{{username}}</a>
+                    </span>
+                    {{/if}}
+                {{/each}}
+            {{/if}}
+
+            {{#if url}}
+            {{#unless profiles}}
+            <span class="contact-item"><i class="fa fa-globe"></i><a href="{{url}}" target="_blank" rel="noopener">{{removeProtocol url}}</a></span>
+            {{/unless}}
+            {{/if}}
+        </div>
     </div>
+
+    {{#if picture}}
+    <div class="profile-pic">
+        <img src="{{picture}}" alt="{{name}}">
+    </div>
+    {{/if}}
 </header>
 {{/resume.basics}}
