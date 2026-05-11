@@ -1,0 +1,357 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Staff Software Engineer | Event-Driven Architecture | Kafka | Technical Lead",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Staff-level engineer with 10+ years designing and operating event-driven systems in production. At Beekeeper (10M+ users), owned Kafka-based data pipelines, led a 3-team Search Platform revamp, and architected distributed streaming infrastructure adopted as platform standards. Strong AI and data engineering fundamentals with production LLM pipelines and real-time data systems shipped. Experienced technical mentor who grows engineers into independent feature leads and shapes technical direction at the organizational level.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns AI transformation end-to-end, from production agent architecture to company-wide governance and sales enablement strategy. Reports directly to C-level on outcomes.",
+      "highlights": [
+        "Built and deployed production AI agents for outbound sales. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day across SDR and AE teams.",
+        "Led end-to-end from architecture (LangChain, FastAPI, GCP) through rollout. Reported directly to C-level on outcomes, not progress.",
+        "Expanded scope to own company-wide AI transformation strategy, governance, and sales enablement."
+      ],
+      "keywords": [
+        "Python",
+        "LangChain",
+        "FastAPI",
+        "GCP",
+        "AI Agents",
+        "OpenAI",
+        "RAG",
+        "Sales Enablement"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who operates like a founding engineer. Owned event-driven data pipelines on Kafka, led multi-team architectural initiatives, and set streaming standards across the platform. Built AI-powered products used by millions while growing the engineering team.",
+      "highlights": [
+        "Designed distributed data pipeline and templating engine on Kafka (Java) that cut customer setup time 90%. Powers 15% of all platform assets for 10M+ users. Established event-driven architecture standards across teams.",
+        "Led Search Platform revamp across 3 teams. Redesigned indexing and ranking pipeline, owned reliability and observability throughout, delivered measurable engagement lift.",
+        "Replaced $337K in annual vendor translation costs with an in-house LLM pipeline in 6 weeks. 12K+ assets translated via event-driven GitHub Actions and OpenAI APIs; product team now iterates without external gatekeepers.",
+        "Architected Employee Referral System end-to-end as Tech Lead. Became the platform's top revenue channel ($1.5M+ generated, $500K ARR). Designed for 99.99% SLA.",
+        "Built AI Onboarding Specialist giving every new signup personalized, high-touch guidance at scale. 100% of customers guided through setup without adding headcount.",
+        "Built and mentored the AI engineering cohort. Hired for craft and curiosity, grew engineers who now lead features independently.",
+        "Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Each shipped with instrumentation so we knew within a week if it moved the needle."
+      ],
+      "keywords": [
+        "Kafka",
+        "Event-Driven Architecture",
+        "Java",
+        "Python",
+        "Kubernetes",
+        "AWS",
+        "PostgreSQL",
+        "Elastic Search",
+        "ClickHouse",
+        "Jenkins",
+        "GitHub Actions",
+        "Vue",
+        "OpenAI",
+        "LangChain",
+        "Claude",
+        "Langfuse",
+        "CrewAI"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Evaluates technical architecture and advises on AI adoption, engineering culture, and building systems that scale.",
+      "highlights": [
+        "Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.",
+        "Mentored Opt Alpha on scaling algorithmic trading systems. Optimized reliability and performance for high-frequency production workloads.",
+        "Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that actually ship."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Startup Evaluation",
+        "Technical Mentoring",
+        "Algorithmic Trading",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built everything from scratch: architecture, real-time data pipelines, APIs, and the optimization algorithms that made 500+ real-world deliveries possible.",
+      "highlights": [
+        "Shipped end-to-end autonomous drone delivery platform (Vue, Java, PostgreSQL). 500+ successful deliveries with real-time event processing at every stage of the flight lifecycle.",
+        "Built cloud infrastructure and DevOps pipeline from scratch. Enterprise-grade reliability that enabled partnerships with Unilever and a CES showcase.",
+        "Engineered real-time flight control APIs and logistics optimization algorithms. 40% faster deliveries, 99.5% safety record, zero incidents."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Real-time Systems",
+        "Event-Driven",
+        "Flight Control APIs",
+        "Logistics Optimization"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI research at the frontier of robotics. Built and scaled Robogen, an open-source platform for the co-evolution of robot morphologies and control systems via genetic algorithms. Foundational AI and data engineering work that underpins current LLM and streaming systems craft.",
+      "highlights": [
+        "Engineered Robogen, an open-source platform for co-evolution of robot bodies and brains via genetic algorithms. Rare direction where morphology and neural control evolve together through artificial selection.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel runs impractical on local hardware. Secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog.",
+        "Teaching Assistant for Evolutionary Robotics at EPFL. Supervised 20+ master's students through hands-on projects in genetic algorithms, neural controllers, and embodied AI."
+      ],
+      "keywords": [
+        "C++",
+        "Python",
+        "AWS",
+        "Genetic Algorithms",
+        "Neural Networks",
+        "Evolutionary AI",
+        "Robotics",
+        "Webots"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "RoboGen, an open-source platform from EPFL, uses AWS and artificial evolution to co-evolve robot bodies and brains. To power its demanding, distributed experiments, the project relies on AWS Cloud for dynamic scaling."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct agents, demonstrating how to build autonomous AI systems that combine reasoning with actionable decision-making."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive on how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Event-Driven Systems"
+    },
+    {
+      "name": "AI & Data Engineering"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market analysis platform built for my own trading portfolio first. AI agents generate and justify trading signals using live technical and news-based data streams.",
+      "highlights": [
+        "Real-time event-driven data pipeline: AI agents consume live market feeds, generate signals, and publish justified analysis continuously.",
+        "Core product principle: if the model can't explain the signal, it doesn't ship. Explainability over complexity.",
+        "Opened to retail traders after self-validating. Serving live users with real-time market feeds and signal reasoning."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Swiss-Indian families navigating FEMA, DTAA, and Swiss regulations had zero digital help. Built the first platform addressing this gap.",
+      "highlights": [
+        "Zero-to-MVP in 3 months. Early users acquired through Swiss-Indian community partnerships.",
+        "Compliance-first design: regulatory guardrails for both jurisdictions built before features.",
+        "Customer feedback loops drove 40% uplift in satisfaction. Roadmap owned by what users actually asked for."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & Builder",
+      "description": "Property inspections run on paper, clipboards, and WhatsApp photos. Built MVP for a fully digital, image-backed, timestamped inspection protocol.",
+      "highlights": [
+        "Shipped MVP replacing paper-based inspection workflows with structured, image-backed, timestamped records.",
+        "Building AI marketing assistant that auto-generates property listings from inspection data."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "On",
+    "jobTitle": "Staff Software Engineer",
+    "jobUrl": null,
+    "jobDescription": "Our Product R&D business is performing and growing strongly, which is why we are looking for a Staff Software Engineer with a strong focus on event-driven architectures to help scale On's business to the next level. As a key member of our engineering team, you will play a pivotal role in leading the development of data streaming for product data throughout its lifecycle. In addition to being hands-on, you will mentor team members, share your knowledge and expertise, and influence the technical direction of the organization. You will be based in London (or within commutable distance) and are willing to be in the office two days per week. You will collaborate closely with teams in Zurich, Berlin, Ho Chi Minh and London, and work with Technology and Product Development departments across On's global office locations. Your Mission: Drive the development of data streaming across our event-based architecture, using technologies such as Kafka and Node.js. Own technical knowledge across multiple domains, retaining architectural context while providing guidance on data streaming standards, governance, and best practices. Be hands-on by writing and owning production code, setting a high quality bar through thoughtful PR reviews, debugging production issues, and continuously improving reliability, operability, and observability across data streaming pipelines. Act as a technical mentor to engineers across multiple teams on event-driven architecture, streaming patterns and anti-patterns, schema design and evolution, and data contracts and ownership. Influence the technical direction of the organization by collaborating with senior leadership, helping to establish well-designed and well-documented architectures, and bringing systems into production. Collaborate with cross-functional teams to define technical solutions for data streaming and data governance, aligning with business goals and stakeholder needs. Your story: 5+ years of experience building and operating large scale event driven systems in production. Extensive hands-on experience with Apache Kafka in production, including modeling data pipelines and applying streaming patterns and anti-patterns. Experience leading complex technical initiatives, partnering with multiple stakeholders and teams, and providing technical direction to others. Experience mentoring and coaching engineers, providing guidance and feedback to support growth and development. Exceptional verbal and written communication skills. Nice to have: AI and Data engineering fundamentals and exposure to BigQuery.",
+    "notes": null,
+    "createdAt": "2026-05-11"
+  },
+  "_generatedFile": {
+    "company": "On",
+    "baseName": "staff-software-engineer",
+    "createdAt": "2026-05-11T08:36:24.756Z",
+    "targetPath": "./generated/On/staff-software-engineer.json"
+  }
+}
