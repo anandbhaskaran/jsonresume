@@ -48,16 +48,7 @@
         "Led end-to-end from architecture (LangChain, FastAPI, GCP) through rollout. Reported directly to C-level on outcomes, not progress.",
         "Expanded scope to own company-wide AI transformation strategy, governance, and sales enablement."
       ],
-      "keywords": [
-        "Python",
-        "LangChain",
-        "FastAPI",
-        "GCP",
-        "AI Agents",
-        "OpenAI",
-        "RAG",
-        "Sales Enablement"
-      ]
+      "keywords": ["Python", "LangChain", "FastAPI", "GCP", "AI Agents", "OpenAI", "RAG", "Sales Enablement"]
     },
     {
       "name": "Beekeeper AG",
@@ -107,13 +98,7 @@
         "Mentored Opt Alpha on scaling algorithmic trading systems. Optimized reliability and performance for high-frequency production workloads.",
         "Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that actually ship."
       ],
-      "keywords": [
-        "AI Strategy",
-        "Startup Evaluation",
-        "Technical Mentoring",
-        "Algorithmic Trading",
-        "Scalability"
-      ]
+      "keywords": ["AI Strategy", "Startup Evaluation", "Technical Mentoring", "Algorithmic Trading", "Scalability"]
     },
     {
       "name": "Dronistics",
