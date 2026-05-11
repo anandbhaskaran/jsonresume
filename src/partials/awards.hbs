@@ -5,10 +5,10 @@
     <div class="awards-list">
         {{#each resume.awards}}
         <div class="award-item">
-            <strong>{{title}}</strong>{{#if awarder}} - {{awarder}}{{/if}}
-            {{#if date}}<span class="date"> ({{date}})</span>{{/if}}
-            {{#if summary}}<br>{{summary}}{{/if}}
-            {{#if url}}<br><a href="{{url}}" class="award-url">View Award</a>{{/if}}
+            <strong>{{title}}</strong>
+            {{#if awarder}}<span class="awarder">{{awarder}}{{#if date}} ({{date}}){{/if}}</span>{{/if}}
+            {{#if summary}}<span class="award-summary">{{summary}}</span>{{/if}}
+            {{#if url}}<a href="{{url}}" class="award-url">View Award</a>{{/if}}
         </div>
         {{/each}}
     </div>

@@ -1,3 +1,5 @@
+test.todo('visual regression — re-enable jest-image-snapshot block below');
+
 // const { toMatchImageSnapshot } = require('jest-image-snapshot');
 // const fs = require('fs');
 // const path = require('path');

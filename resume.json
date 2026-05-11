@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Anand Bhaskaran",
-    "label": "Senior Software Engineer | AI Product Builder | Technical Lead | Startup Founder | MBA",
+    "label": "AI Engineer · Production LLM Systems · Technical Lead · Founder · MBA",
     "image": "",
     "email": "anandbaskaran3193@gmail.com",
     "phone": "+41763043193",
     "url": "https://anand-creations.web.app",
-    "summary": "Engineer who builds from the customer backward. Shipped AI products to millions at Beekeeper, founded three companies, and co-evolved robot bodies at EPFL — each chapter driven by the same question: what does the person on the other side actually need? Track record: $1.5M+ in revenue generated, $337K in vendor costs eliminated, 90% reduction in customer setup friction. I bring the systems rigour of an architect, the urgency of a founder, and an MBA-calibrated eye for what makes a feature worth shipping.",
+    "summary": "Engineer at the intersection of AI applications, product thinking, and production-grade systems. The rare combination behind AI products that actually ship and move metrics. 10+ years building software for millions: AI agents that 2x outbound sales conversions at LumApps, LLM pipelines that eliminated $337K in vendor cost at Beekeeper, autonomous drone deliveries at Dronistics, co-evolution of robot brains and bodies via genetic algorithms at EPFL. Founded three companies on the side. I optimize for outcomes, not artefacts. Every system I build has a metric attached and a customer on the other side.",
     "metrics": [
       { "value": "$1.5M+", "label": "Revenue Shipped" },
       { "value": "$337K", "label": "Costs Eliminated" },
@@ -38,20 +38,43 @@
   },
   "work": [
     {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns AI transformation end-to-end, from production AI agent architecture to company-wide governance and sales enablement strategy. Reports directly to C-level on outcomes.",
+      "highlights": [
+        "Built and deployed production AI agents for outbound sales. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day across SDR and AE teams.",
+        "Led end-to-end from architecture (LangChain, FastAPI, GCP) through rollout. Reported directly to C-level on outcomes, not progress.",
+        "Expanded scope to own company-wide AI transformation strategy, governance, and sales enablement."
+      ],
+      "keywords": [
+        "Python",
+        "LangChain",
+        "FastAPI",
+        "GCP",
+        "AI Agents",
+        "OpenAI",
+        "RAG",
+        "Sales Enablement"
+      ]
+    },
+    {
       "name": "Beekeeper AG",
       "position": "Senior Software Engineer (Technical Lead)",
       "url": "https://www.beekeeper.io/",
-      "startDate": "2022-08",
-      "summary": "Technical lead who operates like a founding engineer — owns the problem, designs the solution, ships to prod, and stays accountable to the metric. Built AI-powered products used by millions while growing the engineering team around me.",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who operates like a founding engineer. Owns the problem, designs the solution, ships to prod, and stays accountable to the metric. Built AI-powered products used by millions while growing the engineering team around me.",
       "highlights": [
-        "Architected Employee Referral System end-to-end — became the platform's top revenue channel ($1.5M+ generated, $500K ARR); designed for 99.99% SLA because customer trust is measured in uptime",
-        "Replaced $337K in annual vendor translation costs with an LLM pipeline built in 6 weeks — 12K+ assets translated, product team now iterates without external gatekeepers",
-        "Built AI Onboarding Specialist giving every new signup personalized, high-touch guidance at scale — 100% of customers guided through setup; reduced time-to-first-value without adding headcount",
-        "Designed distributed templating engine that cut customer setup time 90% — powers 15% of all platform assets for 10M+ users; customers go from zero to live in minutes, not days",
-        "Built GenAI demo system for sales — auto-generates personalized content from Salesforce data so every pitch feels custom-built for that customer; improved demo speed and close rates",
-        "Led Search Platform revamp across 3 teams — redesigned indexing and ranking to surface what users mean to find, not just what they typed; measurably improved user engagement",
-        "Built and mentored the AI engineering cohort — hired for craft and curiosity, grew engineers who now lead features independently",
-        "Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis) — each shipped with instrumentation so we knew within a week if it moved the needle"
+        "Architected Employee Referral System end-to-end. Became the platform's top revenue channel ($1.5M+ generated, $500K ARR). Designed for 99.99% SLA because customer trust is measured in uptime.",
+        "Replaced $337K in annual vendor translation costs with an LLM pipeline built in 6 weeks. 12K+ assets translated, product team now iterates without external gatekeepers.",
+        "Built AI Onboarding Specialist giving every new signup personalized, high-touch guidance at scale. 100% of customers guided through setup, time-to-first-value reduced without adding headcount.",
+        "Designed distributed templating engine that cut customer setup time 90%. Powers 15% of all platform assets for 10M+ users. Customers go from zero to live in minutes, not days.",
+        "Built GenAI demo system for sales. Auto-generates personalized content from Salesforce data so every pitch feels custom-built for that customer. Improved demo speed and close rates.",
+        "Led Search Platform revamp across 3 teams. Redesigned indexing and ranking to surface what users mean to find, not just what they typed. Measurable lift in user engagement.",
+        "Built and mentored the AI engineering cohort. Hired for craft and curiosity, grew engineers who now lead features independently.",
+        "Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Each shipped with instrumentation so we knew within a week if it moved the needle."
       ],
       "keywords": [
         "Java",
@@ -78,11 +101,18 @@
       "position": "Startup Mentor & Technology Evaluation Panelist",
       "startDate": "2024-06",
       "url": "https://www.tenity.com/",
-      "summary": "Technology panelist and mentor for seed-to-VC stage startups, evaluating technical architecture and advising on AI adoption, engineering culture, and building systems that scale.",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Evaluates technical architecture and advises on AI adoption, engineering culture, and building systems that scale.",
       "highlights": [
-        "Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions",
-        "Mentored Opt Alpha on scaling algorithmic trading systems — optimized reliability and performance for high-frequency production workloads",
-        "Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that actually ship"
+        "Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.",
+        "Mentored Opt Alpha on scaling algorithmic trading systems. Optimized reliability and performance for high-frequency production workloads.",
+        "Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that actually ship."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Startup Evaluation",
+        "Technical Mentoring",
+        "Algorithmic Trading",
+        "Scalability"
       ]
     },
     {
@@ -91,23 +121,46 @@
       "url": "https://lis.epfl.ch/",
       "startDate": "2018-08",
       "endDate": "2020-03",
-      "summary": "Founding engineer for an autonomous drone delivery system. Built everything from scratch — architecture, infrastructure, APIs, and the algorithms that made 500+ real-world deliveries possible.",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built everything from scratch: architecture, infrastructure, APIs, and the algorithms that made 500+ real-world deliveries possible.",
       "highlights": [
-        "Shipped end-to-end autonomous drone delivery platform (Vue/Java/PostgreSQL) — 500+ successful deliveries; every flight was a live UX test for autonomous systems in the real world",
-        "Built cloud infrastructure and DevOps pipeline from scratch — enterprise-grade reliability that enabled partnerships with Unilever and a CES showcase",
-        "Engineered real-time flight control APIs and logistics optimization algorithms — 40% faster deliveries, 99.5% safety record, zero incidents"
+        "Shipped end-to-end autonomous drone delivery platform (Vue/Java/PostgreSQL). 500+ successful deliveries, every flight a live UX test for autonomous systems in the real world.",
+        "Built cloud infrastructure and DevOps pipeline from scratch. Enterprise-grade reliability that enabled partnerships with Unilever and a CES showcase.",
+        "Engineered real-time flight control APIs and logistics optimization algorithms. 40% faster deliveries, 99.5% safety record, zero incidents."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Real-time Systems",
+        "Flight Control APIs",
+        "Logistics Optimization"
       ]
     },
     {
-      "name": "EPFL — Laboratory of Intelligent Systems (Robogen)",
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
       "position": "Research Engineer",
       "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
       "startDate": "2016-08",
       "endDate": "2018-07",
-      "summary": "Research engineer on Robogen, an open-source platform for the co-evolution of robot morphologies and control systems using artificial evolution.",
+      "summary": "AI research at the frontier of robotics. Built and scaled Robogen, an open-source platform for the co-evolution of robot morphologies and control systems via genetic algorithms. Foundational AI work that underpins my current LLM and agentic systems craft.",
       "highlights": [
-        "Migrated Robogen to AWS and secured AWS Research Credits — work featured on the AWS Public Sector Blog",
-        "Teaching Assistant for Evolutionary Robotics at EPFL — supervised 20+ master's students through hands-on AI and robotics research"
+        "Engineered Robogen, an open-source platform for co-evolution of robot bodies and brains via genetic algorithms. Rare research direction where morphology and neural control evolve together through artificial selection.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel evolution runs impractical on local hardware. Secured AWS Cloud Credits for Research, work featured on the AWS Public Sector Blog.",
+        "Teaching Assistant for Evolutionary Robotics at EPFL. Supervised 20+ master's students through hands-on projects in genetic algorithms, neural controllers, and embodied AI.",
+        "Foundational AI experience (optimization, search, fitness landscapes, learning from environment) that informs how I approach modern LLM and agentic systems today."
+      ],
+      "keywords": [
+        "C++",
+        "Python",
+        "AWS",
+        "Genetic Algorithms",
+        "Neural Networks",
+        "Evolutionary AI",
+        "Robotics",
+        "Webots"
       ]
     }
   ],
@@ -181,7 +234,7 @@
       "publisher": "AWS Public Sector Blog",
       "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
       "releaseDate": "2018-11-21",
-      "summary": "RoboGen, an open-source platform from EPFL, use AWS and artificial evolution (AI) to co-evolve robot bodies and brains. To power its demanding, distributed experiments, the project relies on AWS Cloud for dynamic scaling. This allows researchers and students to rapidly design, test, and manufacture the unique, evolved robots in the real world."
+      "summary": "RoboGen, an open-source platform from EPFL, uses AWS and artificial evolution (AI) to co-evolve robot bodies and brains. To power its demanding, distributed experiments, the project relies on AWS Cloud for dynamic scaling. This allows researchers and students to rapidly design, test, and manufacture the unique, evolved robots in the real world."
     },
     {
       "name": "Agentic AI: Simple ReAct Agent",
@@ -241,69 +294,6 @@
       "summary": "Data visualization methodology article presenting innovative techniques for interpreting high-dimensional AI embeddings through interactive heatmap visualizations for enhanced model interpretability."
     }
   ],
-  "skills": [
-    {
-      "name": "Technical Leadership",
-      "keywords": [
-        "System Architecture",
-        "Team Leadership",
-        "Technical Strategy",
-        "Mentoring",
-        "Cross-functional Collaboration",
-        "Engineering Excellence"
-      ]
-    },
-    {
-      "name": "Full Stack & Backend",
-      "keywords": [
-        "Java",
-        "Python",
-        "TypeScript",
-        "Vue.js",
-        "Microservices",
-        "API Development",
-        "PostgreSQL",
-        "Kafka",
-        "Elastic Search"
-      ]
-    },
-    {
-      "name": "AI & Machine Learning",
-      "keywords": [
-        "Generative AI",
-        "LLM Applications",
-        "RAG Pipelines",
-        "AI Agents",
-        "OpenAI APIs",
-        "AI Product Design",
-        "Translation Systems"
-      ]
-    },
-    {
-      "name": "DevOps & Infrastructure",
-      "keywords": [
-        "CI/CD",
-        "Kubernetes",
-        "Docker",
-        "Terraform",
-        "AWS",
-        "Monitoring & Observability",
-        "ClickHouse",
-        "Deployment Automation"
-      ]
-    },
-    {
-      "name": "Product & Business",
-      "keywords": [
-        "Product Ownership",
-        "A/B Testing",
-        "Revenue Generation",
-        "Go-to-Market",
-        "Stakeholder Management",
-        "Strategic Roadmaps"
-      ]
-    }
-  ],
   "interests": [
     {
       "name": "AI & Creativity"
@@ -320,17 +310,22 @@
   ],
   "awards": [
     {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
       "title": "AWS Cloud Credits for Research",
       "date": "2020",
       "awarder": "Amazon Web Services"
     },
     {
-      "title": "KTH Opportunities Fund",
-      "awarder": "KTH Royal Institute of Technology"
-    },
-    {
       "title": "TI India Analog Design Contest Winner",
       "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
     }
   ],
   "projects": [
@@ -339,47 +334,35 @@
       "position": "Founder & Builder",
       "description": "Built for my own trading portfolio first: a platform that explains its signals, not just shows them. Retail traders deserve the same explainable analysis that institutions pay for.",
       "highlights": [
-        "Real-time market analysis via AI agents that generate and justify trading signals using technical and news-based data",
-        "Core product principle: if the model can't explain the signal, it doesn't ship — explainability over complexity",
-        "Opened to retail traders after self-validating; now serving live users with real-time market feeds"
+        "Real-time market analysis via AI agents that generate and justify trading signals using technical and news-based data.",
+        "Core product principle: if the model can't explain the signal, it doesn't ship. Explainability over complexity.",
+        "Opened to retail traders after self-validating. Now serving live users with real-time market feeds."
       ],
       "url": "https://pulse-view.anand-creations.com",
-      "startDate": "2025-05-01",
-      "keywords": [
-        "AI Agents",
-        "Financial Analysis",
-        "Technical Analysis",
-        "News Processing",
-        "Trading Signals",
-        "Explainable AI",
-        "React",
-        "Automation"
-      ]
+      "startDate": "2025-05-01"
     },
     {
       "name": "Proplab - AI Real Estate Tools",
       "position": "Founder & Builder",
       "description": "Property inspections run on paper, clipboards, and WhatsApp photos. Built MVP for a fully digital, image-backed, timestamped inspection protocol that replaces the entire manual workflow.",
       "highlights": [
-        "Shipped MVP replacing paper-based inspection workflows with structured, image-backed, timestamped records",
-        "Building AI marketing assistant that auto-generates property listings from inspection data — one workflow, zero copy-paste"
+        "Shipped MVP replacing paper-based inspection workflows with structured, image-backed, timestamped records.",
+        "Building AI marketing assistant that auto-generates property listings from inspection data. One workflow, zero copy-paste."
       ],
       "url": "https://proplab.io",
-      "startDate": "2025-09-01",
-      "keywords": ["AI", "Real Estate Tech", "Image Processing", "Marketing Automation", "Property Management"]
+      "startDate": "2025-09-01"
     },
     {
       "name": "SwissNRI - Cross-border Fintech Platform",
       "position": "Co-Founder & Technical Lead",
-      "description": "Swiss-Indian families navigating FEMA, DTAA, and Swiss regulations had zero digital help — just spreadsheets and expensive advisors. Built the first platform addressing this.",
+      "description": "Swiss-Indian families navigating FEMA, DTAA, and Swiss regulations had zero digital help. Just spreadsheets and expensive advisors. Built the first platform addressing this.",
       "highlights": [
-        "Zero-to-MVP in 3 months; early users acquired through Swiss-Indian community partnerships",
-        "Compliance-first design: regulatory guardrails for both jurisdictions built before features",
-        "Customer feedback loops drove 40% uplift in satisfaction — roadmap owned by what users actually asked for"
+        "Zero-to-MVP in 3 months. Early users acquired through Swiss-Indian community partnerships.",
+        "Compliance-first design: regulatory guardrails for both jurisdictions built before features.",
+        "Customer feedback loops drove 40% uplift in satisfaction. Roadmap owned by what users actually asked for."
       ],
       "url": "https://www.swissnri.com",
-      "startDate": "2024-01-01",
-      "keywords": ["SaaS Architecture", "Fintech", "Compliance Systems", "Tax Automation", "DTAA", "FEMA"]
+      "startDate": "2024-01-01"
     }
   ]
 }

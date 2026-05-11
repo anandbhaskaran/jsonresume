@@ -4,15 +4,26 @@
 
     {{#each resume.work}}
         <section class="item">
-            {{#if url}}
-            {{> section-header name=this.name website=this.url }}
-            {{else}}
-            {{> section-header name=this.name }}
-            {{/if}}
-
-            {{#if position}}
-            <h4>{{position}}</h4>
-            {{/if}}
+            <div class="section-header clearfix">
+                <h3 class="bold pull-left">
+                    {{#if url}}
+                    <a href="{{url}}" target="_blank">{{name}}</a>
+                    {{else}}
+                    {{name}}
+                    {{/if}}
+                    {{#if position}}<span class="work-role-inline">· {{position}}</span>{{/if}}
+                </h3>
+                <h5 class="italic pull-right">
+                    {{#if startDate}}
+                    <span class="startDate">{{formatDate startDate}}</span>
+                    {{#if endDate}}
+                    <span class="endDate"> - {{formatDate endDate}}</span>
+                    {{else}}
+                    <span class="endDate"> - Present</span>
+                    {{/if}}
+                    {{/if}}
+                </h5>
+            </div>
 
             {{#if keywords.length}}
             <div class="flex-container">

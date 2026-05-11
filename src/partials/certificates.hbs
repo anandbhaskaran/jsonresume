@@ -5,9 +5,9 @@
     <div class="certificates-list">
         {{#each resume.certificates}}
         <div class="certificate-item">
-            <strong>{{name}}</strong>{{#if issuer}} - {{issuer}}{{/if}}
-            {{#if date}}<span class="date"> ({{date}})</span>{{/if}}
-            {{#if url}}<br><a href="{{url}}" class="certificate-url">View Certificate</a>{{/if}}
+            <strong>{{name}}</strong>
+            {{#if issuer}}<span class="issuer">{{issuer}}{{#if date}} ({{date}}){{/if}}</span>{{/if}}
+            {{#if url}}<a href="{{url}}" class="certificate-url">View Certificate</a>{{/if}}
         </div>
         {{/each}}
     </div>

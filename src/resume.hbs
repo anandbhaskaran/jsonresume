@@ -32,6 +32,51 @@
       {{> references}}
     </div>
   </main>
+
+  <script>
+    (function () {
+      // Wrap each major section container in <details open> so it's collapsible
+      document.querySelectorAll('.resume-content .container').forEach(function (container) {
+        var title = container.querySelector(':scope > .title');
+        if (!title) return;
+
+        var details = document.createElement('details');
+        details.open = true;
+        details.className = 'section-collapse';
+
+        var summary = document.createElement('summary');
+        summary.className = 'section-collapse-summary';
+        summary.appendChild(title); // moves .title into summary
+
+        details.appendChild(summary);
+
+        // Move remaining children (items) into details
+        while (container.firstChild) {
+          details.appendChild(container.firstChild);
+        }
+
+        container.appendChild(details);
+      });
+
+      // Before printing: force all collapsed sections open
+      window.addEventListener('beforeprint', function () {
+        document.querySelectorAll('details.section-collapse').forEach(function (d) {
+          d._wasOpen = d.open;
+          d.open = true;
+        });
+      });
+
+      // Restore state after print dialog closes
+      window.addEventListener('afterprint', function () {
+        document.querySelectorAll('details.section-collapse').forEach(function (d) {
+          if (typeof d._wasOpen !== 'undefined') {
+            d.open = d._wasOpen;
+            delete d._wasOpen;
+          }
+        });
+      });
+    })();
+  </script>
 </body>
 
 </html>

@@ -1,232 +1,236 @@
+# Anand Bhaskaran
+
+#### AI Engineer · Production LLM Systems · Technical Lead · Founder · MBA
+
+#### Zurich, Switzerland
+
+## Summary
+
+Engineer at the intersection of **AI applications, product thinking, and production-grade systems**. The rare combination behind AI products that actually ship and move metrics. 10+ years building software for millions: AI agents that 2x outbound sales conversions at LumApps, LLM pipelines that eliminated $337K in vendor cost at Beekeeper, autonomous drone deliveries at Dronistics, co-evolution of robot brains and bodies via genetic algorithms at EPFL. Founded three companies on the side. I optimize for outcomes, not artefacts. Every system I build has a metric attached and a customer on the other side.
+
 ### Contact
 
-Zelglistrasse 9, 4600 Olten
-+41763043193 (Home)
+Zelglistrasse 9, 4600 Olten, Switzerland
++41763043193
 anandbaskaran3193@gmail.com
 
-[http://www.linkedin.com/in/anandb](http://www.linkedin.com/in/anandb)
-(LinkedIn)
-anand-creations.web.app/
-(Personal)
+[LinkedIn](https://ch.linkedin.com/in/anandb3) · [GitHub](https://github.com/anandbhaskaran) · [anand-creations.web.app](https://anand-creations.web.app/)
 
 ### Top Skills
 
-- **Software Development:** Proficient in end-to-end software development, encompassing requirements gathering, design, implementation, testing, and deployment across multiple platforms and frameworks.
-- **Artificial Intelligence:** Experienced in designing and deploying AI models and systems, focusing on machine learning algorithms and real-time data processing to drive business insights and automation.
-- **Scalability:** Strong background in building scalable systems and architectures that support high-load environments and ensure optimal performance and reliability.
+- **AI Applications:** Production LLM systems and agentic workflows that solve real customer problems. RAG, OpenAI/Anthropic APIs, LangChain, CrewAI, Strands Agents, Langfuse, evaluation harnesses, governance. A decade of judgment about what AI should and shouldn't do.
+- **Product Mindset:** Co-owns scope with PM and Sales. Ships with instrumentation, kills features that don't move the metric, picks the 80/20 cut. MBA-trained on what makes a feature worth building.
+- **Production-Grade Engineering:** 10+ years of architecture, scaling, and reliability for systems used by 10M+ users. Java, Python, TypeScript, Vue, distributed systems, Kubernetes, Kafka, PostgreSQL, ClickHouse, CI/CD. The craft underneath every shippable AI product.
 
 ### Languages
 
 English (Professional Working)
 Tamil (Native or Bilingual)
 
-### Certifications
-
-- **Learn to Program: The Fundamentals:** Completed a comprehensive foundational course that covers core programming concepts, including data structures, algorithms, and software engineering principles.
-- **MCPS: Microsoft Certified Professional:** Recognized for demonstrating expertise in Microsoft technologies, validating skills in implementing Microsoft-based solutions.
-- **edX Honor Code Certificate for Circuits and Electronics:** Gained in-depth knowledge in electronic circuits and their applications through a robust academic course.
-- **Build a Data Science Web App with Streamlit and Python:** Specialized in creating interactive web applications utilizing Python and Streamlit to deliver data-driven insights.
-- **M001 - MongoDB Basics:** Certified in understanding and using MongoDB in practical scenarios, focusing on database design and querying for web applications.
-
-### Honors-Awards
-
-- **KTH Opportunities Fund:** Received funding dedicated to supporting innovative projects and research initiatives, enabling advancements in my field of interest.
-- **Appreciation from John T Chambers, ex-CEO of Cisco Systems:** Recognized for contributions to strategic projects within Cisco's ecosystem, impacting company operations and innovation pathways.
-- **Winner of Students' Challenge Award:** Awarded for demonstrating exceptional problem-solving skills and innovative thinking in a competitive academic environment.
-- **Winner of Texas Instruments India Analog Design Contest:** Achieved recognition for innovative design and application of analog circuits in practical contexts, competing against numerous talented participants.
-- **Contraption:** Honored for building a contraption that achieved commendable results in a technical contest focused on creativity and technical aptitude.
-
-### Publications
-
-Efficient Charging of Battery and
-Production of Power from Solar
-Energy
-Maximizing the Expected Utility in
-Search Algorithms
-
-# Anand Bhaskaran
-
-#### Senior Product Engineer | Startup Mentor | MBA | AI
-
-#### Zurich, Zurich, Switzerland
-
-## Summary
-
-AI-focused software engineer with a proven track record of shipping high-impact, production-ready systems. I combine deep expertise in fulll-stack development with a pragmatic, product-driven mindset. Seeking to accelerate Beekeeper’s AI roadmap by building scalable, agent-powered solutions that drive automation, personalization, and measurable business value.
-#### through engineering excellence and cross-functional collaboration.
+---
 
 ## Experience
 
-#### Senior Software Engineer, Beekeeper
+#### Senior AI Engineer, LumApps
 
 ```
-August 2022 - Present (2 years 10 months)
+March 2026 - Present
+Zurich, Switzerland
+https://www.lumapps.com/
+```
+
+- **AI Agents for Outbound Sales:** Built and deployed production AI agents for outbound sales teams. **2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day** across SDR and AE teams.
+- **End-to-End Ownership:** Led the program from architecture (LangChain, FastAPI, GCP) through rollout, reporting directly to C-level on outcomes rather than progress.
+- **AI Transformation Strategy:** Expanded scope to own company-wide AI transformation strategy, governance, and sales enablement. Bridges engineering, product, and revenue.
+
+**Tech Stack:** Python, LangChain, FastAPI, GCP, OpenAI, RAG, AI Agents, Salesforce
+
+
+#### Senior Software Engineer (Technical Lead), Beekeeper
+
+```
+August 2022 - February 2026 (3 years 6 months)
 Zurich, Switzerland
 https://www.beekeeper.io/
 ```
 
-- **High-Impact Product Development:** Led the architectural design and launch of an innovative, highly reliable Employee Referral System ensuring a 99.99% SLA. This was achieved through agile methodologies that expedited iteration, maintained a strong customer focus, and generated approximately $500,000 in annual revenue.
-- **Technical Vision & Product Innovation:** Spearheaded the conceptualization, design, and development of Beekeeper's Templating Engine. This innovation reduced setup time by 90% and significantly enhanced user engagement on the platform.
-- **Scalable Systems Design:** Engineered a robust search interface that accommodates over 10 million users, substantially elevating user engagement and accelerating the platform's adoption rate.
-- **Team Leadership:** Assembled and led a high-performing remote engineering team. Fostered an environment conducive to writing high-quality, maintainable code which ensured solutions were customer-centric. Cultivated a growth mindset within the team.
-- **A/B Experimentation & Hypothesis Testing:** Collaborated closely with product managers and data engineers in creating hypotheses, running A/B experiments to derive insightful data, which informed further product iterations.
-- **Greenfield Challenges:** Engaged in algorithmic and scalability challenges of unprecedented greenfield projects, delivering sophisticated, inventive solutions.
-- **Generative AI Expertise:** Designed and deployed advanced, production-quality Generative AI translation systems. These systems accelerated iteration cycles and allowed for real-world AI application evaluations.
--  LLM Powered Template Translations: Designed AI-driven translations for templates using GitHub actions and OpenAI APIs. Since Jan 2024, it has translated over 12,000 key-value pairs, resulting in ~$337K cost savings and faster go-to-market. Link
-- Generative AI in Demo Templates: Built an AI-driven stream template system for the sales team that auto-generates customized stream content from a name, description, and Salesforce data, boosting demo speed and personalization.
-- AI Hiring, Leadership & Feature Ownership: Acting technical hiring manager for AI roles and deputy tech lead of FUEL. Provide mentorship to junior engineers while owning end-to-end delivery of core Beekeeper modules like Templater, Manager Hub, and Forms.
-- Architect & Full-Stack Contributor: Led architectural design and implementation for complex, scalable backend/frontend systems, including Artifacts, Forms, Employee Referral, and Templater, ensuring robustness, modularity, and performance.
-- Cross-functional initiatives: Drove initiatives across Product and GTM, including Seasonal Templates, Re-ignite Revenue, Tippspiel Analytics, Employee Lifecycle GTM, and Sentiment Analysis GTM. 
-- Search Platform Revamp & Team Leadership: Led teams of 2–4 engineers in delivering key features such as Employee Referral, Home Widgets, and a full Search Revamp, with a focus on scalable architecture and pragmatic delivery.
+- **Employee Referral System ($1.5M+ revenue, $500K ARR):** Architected end-to-end as Tech Lead of the Incubation team, reporting to CIO. Designed for 99.99% SLA. Became the platform's top revenue channel. Built the team and ran the GTM with Sales and PM.
+- **LLM Translation Pipeline ($337K saved):** Replaced an annual vendor translation contract with an in-house LLM pipeline (GitHub Actions + OpenAI APIs) shipped in 6 weeks. Translated 12,000+ key-value pairs since Jan 2024. Product team now iterates without external gatekeepers.
+- **AI Onboarding Specialist:** Built a personalized AI guide so every new signup gets high-touch setup at scale. 100% of customers guided through onboarding without adding headcount.
+- **Distributed Templating Engine:** Designed the system that cut customer setup time by 90% and now powers 15% of all assets created on the platform (10M+ users). Product Owner of the feature.
+- **GenAI Demo System for Sales:** Built an AI-driven demo content generator that auto-creates personalized streams from name, description, and Salesforce data. Improved demo speed and close rates.
+- **Search Platform Revamp:** Led 3 teams across a complete redesign of indexing and ranking. Surfaces what users mean to find, not just what they typed. Measurable engagement lift.
+- **AI Engineering Cohort:** Acting hiring manager for AI roles. Hired for craft and curiosity, mentored engineers who now lead features independently. Deputy tech lead of FUEL.
+- **Cross-functional GTM:** Co-owned launches across Product and Sales (Seasonal Templates, Re-ignite Revenue, Tippspiel Analytics, Employee Lifecycle GTM, Sentiment Analysis). Each shipped with instrumentation so we knew within a week if it moved the needle.
+- **Architect & Full-Stack:** Owned architectural design for Artifacts, Forms, Employee Referral, Templater, Manager Hub. Robust, modular, performant by design, not by accident.
 
+**Tech Stack:** Java, Python, Vue, Kubernetes, AWS, OpenAI, Claude, LangChain, CrewAI, Strands Agents, Langfuse, Kafka, PostgreSQL, Elastic Search, ClickHouse, Jenkins, GitHub Actions
 
-Projects in Beekeeper:
-**Reignite Search** The objective of this project was to revamp the search UI and introduce new features, such as result sorting and advanced filtering options. My responsibilities included:
+##### Selected Projects in Beekeeper
 
-- Recruiting and leading external team members.
-- Aligning with stakeholders to ensure clarity and consensus.
-- Delivering the project on schedule.
-- Providing continuous feedback throughout the development process.
-- Overseeing the release and ensuring smooth deployment.
+**Reignite Search.** Revamped search UI with sorting, advanced filtering, and a redesigned ranking model. Recruited and led external team. Aligned stakeholders, delivered on schedule, oversaw release.
+**Tech Stack:** Vue, Hybrid App (Android, iOS), Module Federation, Microfrontends, Elastic Search, Java
 
-**Tech Stack:** Vue, Hybrid App, Android, iOS, Module Federation, Microfrontends, Elastic Search, Java
-
----
-
-**Reignite Revenue** This project aimed to identify and resolve key challenges contributing to deal losses in the sales pipeline. The goal was to address these issues effectively and improve overall sales performance. My responsibilities included:
-
-- Co-leading a Tiger team to tackle high-priority challenges.
-- Identifying quick, high-impact solutions.
-- Collaborating cross-functionally to implement changes.
-- Enhancing the demo flow to improve sales interactions.
-
-The project had a significant impact on sales conversations, resolving many common issues and streamlining the pipeline.
-
+**Reignite Revenue.** Co-led a Tiger team to identify and resolve key challenges in the sales pipeline. Quick high-impact fixes; significant impact on sales conversations.
 **Tech Stack:** Java, Solution Engineering
 
----
+**Employee Referral.** Tech Lead of the Incubation team, reporting to CIO. Identified market gaps via competitor analysis. Shipped automatic job scraping from third-party vendors and seamless integration with existing solutions. **$1.5M+ revenue, $500K ARR.**
+**Tech Stack:** Java, Vue, Hybrid App, Module Federation, Microfrontends, PostgreSQL, Elastic Search
 
-**Employee Referral** In this project, I was the Tech Lead of the Incubation team, directly reporting to the CIO. We collaborated closely with various teams, customers, PMs, and other stakeholders to identify gaps in the market through competitor analysis. Our solution offered unique functionality, including:
-
-- Automatic scraping of jobs from third-party vendors.
-- Seamless integration with existing solutions.
-
-The project generated more than $1.5M in revenue, including $500,000 in annual recurring revenue.
-My responsibilities included:
-- Hiring engineers.
-- Leading a high-performing team.
-- Managing stakeholders effectively.
-- Driving faster iteration cycles.
-- Promoting a growth mindset.
-- Hands-on engineering.
-
-**Tech Stack:** Java, Vue, Hybrid App, Android, iOS, Module Federation, Microfrontends, Postgres, Elastic Search, Java
-
----
-
-**Beekeeper Template Engine** This project identifies the best use cases of Beekeeper and showcases them to all customers. Currently, almost 15% of all assets created in Beekeeper originate from the Template Engine. As the Product Owner of this feature, my responsibilities included:
-
-- Conducting deep technical investigations.
-- Implementing solutions.
-- Brainstorming and evaluating potential improvements.
-- Defining and driving various epics.
-- Setting the vision for this feature.
-
+**Beekeeper Template Engine.** Identified the highest-value Beekeeper use cases and showcased them to all customers. **15% of all assets created in Beekeeper now originate here.** Product Owner: deep technical investigations, solutioning, vision-setting, epic definition.
 **Tech Stack:** Java, Kafka, Vue, Solution Engineering, Microfrontends
 
 
-
-#### Founding Software Application Developer (Dronistics)
-
-August 2016 - March 2020 (3 years 8 months)
-Lausanne Area, Switzerland
-https://lis.epfl.ch/
-
-• Drone Delivery Innovation – Dronistics Spin-Off: Founding engineer for Dronistics, an autonomous drone delivery system used in 500+ last-mile deliveries.
-• Delivered the full software/cloud stack and partnered with firms like Unilever; showcased at CES Las Vegas.
-• Won 'AWS cloud credits for research' award for Robogen 2.0
-
-#### Research Software Developer (Robogen)
-January 2017 - January 2020 (3 years 1 month)
-Lausanne Area, Switzerland
-https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/
-
-• Robogen – AI & Robotics Research Platform: Led engineering of Robogen, an open-source platform for the co-evolution of robot morphologies and control systems.
-• Spearheaded its migration to AWS, securing AWS Research Credits, and featured on the AWS Research Blog.
-• Teaching Assistant for Evolutionary Robotics, an AI-based system for Robotics.
-• Supervised 20+ master's students at EPFL
-
-#### Digital Human Action Copying Robot Software Engineer
+#### Software Engineer, Beekeeper
 
 ```
 March 2020 - August 2022 (2 years 6 months)
 Zurich, Switzerland
+https://www.beekeeper.io/
 ```
-- Technical discoveries, new feature development, and resolving technical issues
-- Lead the development of various home-screen widgets
-- Lead the project to bring videos into the document library
-- Initiated various cross-functional collaborations to enhance efficiency using technologies
 
-#### Tenity
-https://www.tenity.com/
-##### Startup Mentor (Technology)
+- Joined as IC engineer; quickly grew into ownership of multiple home-screen widgets used by millions of frontline workers.
+- Led the project to bring rich video into the document library. First multimedia capability on the platform.
+- Drove cross-functional initiatives to introduce new technologies and improve engineering velocity.
+- Foundation for the Tech Lead role I grew into in August 2022.
+
+
+#### Founding Software Engineer, Dronistics
 
 ```
-June 2024 - Present (1 year)
+August 2018 - March 2020 (1 year 8 months)
+Lausanne, Switzerland
+https://lis.epfl.ch/
+```
+
+- **Production-Grade Drone Delivery:** Founding engineer for Dronistics (EPFL spin-off), an autonomous drone delivery system. Shipped end-to-end software and cloud stack (Vue, Java, PostgreSQL) that powered **500+ real-world last-mile deliveries**.
+- **Enterprise Partnerships:** Built reliability in from day one. Enabled partnerships with Unilever and a showcase at CES Las Vegas.
+- **Real-Time Flight Systems:** Engineered flight control APIs and logistics optimization algorithms. **40% faster deliveries, 99.5% safety record, zero incidents.**
+- **Cloud Infrastructure:** Built CI/CD pipeline and AWS infrastructure from scratch. Enterprise-grade reliability that customers and partners could trust.
+
+
+#### Research Engineer, EPFL Lab of Intelligent Systems (Robogen)
+
+```
+August 2016 - July 2018 (1 year 11 months)
+Lausanne, Switzerland
+https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/
+```
+
+- **AI Research at the Frontier of Robotics:** Engineered Robogen, an open-source platform for the **co-evolution of robot morphologies and control systems via genetic algorithms**. Rare research direction where the robot's body and brain evolve together through artificial selection.
+- **Cloud-Scale Evolution:** Migrated the simulation pipeline to AWS, enabling large-scale parallel evolution runs that were impractical on local hardware. Secured **AWS Cloud Credits for Research**; work featured on the **AWS Public Sector Blog**.
+- **Teaching Evolutionary AI:** Teaching Assistant for *Evolutionary Robotics* at EPFL. Supervised **20+ master's students** through hands-on projects in genetic algorithms, neural controllers, and embodied AI.
+- **Foundational AI experience** that underpins my current LLM/agentic systems work: optimization, search, fitness landscapes, learning from environment.
+
+**Tech Stack:** C++, Python, AWS (EC2, S3), Genetic Algorithms, Neural Networks, Webots
+
+
+#### Startup Mentor (Technology), Tenity
+
+```
+June 2024 - Present
 Zurich, Switzerland
+https://www.tenity.com/
 ```
-- As a part of the Technology Evaluation Panel and mentor at Tenity, I play a crucial role in guiding startups towards scalability, fostering innovative practices, and developing core technical strategies aligned with each startup’s unique goals.
-- My responsibilities include conducting thorough evaluations of emerging technologies, facilitating growth, and enabling startups to devise impactful and scalable solutions.
 
-#### Obermatt
+- Member of the **Technology Evaluation Panel**. Evaluated 20+ startups on architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.
+- Mentored **Opt Alpha** on scaling algorithmic trading systems for high-frequency production workloads.
+- Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that ship.
 
-##### Technical Product Manager
+
+#### Technical Product Manager, Obermatt
 
 ```
-July 2018 - January 2021 (2 years 7 months)
+July 2018 - January 2021 (2 years 7 months) · concurrent side role
 Zürich Area, Switzerland
 https://obermatt.com/en/home.html
 ```
-- **Product Ownership:** Bridged the gap between business objectives and product development strategies to deliver solutions that were both reliable and scalable. Developed strategic roadmaps that heightened customer satisfaction and boosted retention rates.
-- **Team Leadership:** Directed a high-achieving remote engineering team, promoting a collaborative culture, accountability, and continual growth. Introduced agile methodologies, subsequently increasing team productivity by 20% and ensuring timely project completion.
-- **Scalable Architecture & DevOps:** Enhanced CI/CD pipelines through the implementation of Docker, cutting deployment times by 30%. This contributed to improved system reliability, scalability, and elevated the overall product quality.
 
-## Projects
-#### [[SwissNRI]]
-**Co-Founder & Technical Lead, SwissNRI**  (https://www.swissnri.com/)
-_Zurich, Switzerland | 2024 – Present_
-SwissNRI simplifies cross-border tax and financial compliance for NRIs living in Switzerland. As the technical co-founder, I lead the development of our platform, combining scalable SaaS architecture with deep domain insight into Indian and Swiss financial systems. I work at the intersection of fintech and compliance—designing tools that streamline tax filing, ensure DTAA and FEMA compliance, and empower NRIs to make smart, legal, and optimized financial decisions across borders.
+- **Product Ownership:** Bridged business and engineering to deliver scalable, reliable solutions. Built strategic roadmaps that improved customer satisfaction and retention.
+- **Team Leadership:** Directed a remote engineering team. Introduced agile methodologies; productivity up 20%.
+- **Scalable Architecture & DevOps:** Improved CI/CD with Docker; deployment times down 30%.
 
-#### Prolab (https://proplab.io)
-**Founder & AI Product Builder, Proplab**
-_Zurich, Switzerland | 2023 – Present_
-Proplab is an indie AI-driven initiative focused on empowering small real estate teams through intelligent digital tools. I designed and built the MVP for a fully digitalized property inventory inspection system, replacing manual workflows with structured, image-backed, and timestamped protocols. Currently leading the development of an AI-powered marketing assistant to automate listing creation and boost property visibility across marketplaces.
+---
 
-**Project: PulseView**  (https://pulse-view.anand-creations.com/)
-_AI-Powered Market Intelligence Tool | 2023 – Present_
-Built a real-time stock market analysis platform that uses AI agents to generate and explain trading signals based on technical and news-based insights. Initially designed as a personal tool, now public at [pulse-view.anand-creations.com](https://pulse-view.anand-creations.com). Focus areas: explainable AI, speed, and clarity in financial analysis for retail traders and investors.
+## Projects (Founded Companies)
+
+#### SwissNRI · Cross-border Fintech for Swiss-Indians
+
+**Co-Founder & Technical Lead** · [swissnri.com](https://www.swissnri.com/) · *Zurich · 2024 to Present*
+
+SwissNRI simplifies cross-border tax and financial compliance for Indians living in Switzerland. As technical co-founder, I lead platform development, combining scalable SaaS architecture with deep domain insight into Indian and Swiss financial systems. Designed tools that streamline tax filing, ensure DTAA and FEMA compliance, and empower NRIs to make smart, legal, optimized financial decisions across borders. Zero-to-MVP in 3 months; 40% uplift in user satisfaction from feedback-driven iteration.
 
 
+#### Proplab · AI for Real Estate
 
+**Founder & AI Product Builder** · [proplab.io](https://proplab.io) · *Zurich · 2025 to Present*
+
+Indie AI initiative empowering small real estate teams with intelligent digital tools. Designed and built the MVP for a fully digitalized property inspection system that replaces paper, clipboards, and WhatsApp photos with structured, image-backed, timestamped protocols. Currently building an AI-powered marketing assistant that auto-generates property listings from inspection data.
+
+
+#### PulseView · Explainable AI Market Intelligence
+
+**Founder & Builder** · [pulse-view.anand-creations.com](https://pulse-view.anand-creations.com/) · *Zurich · 2025 to Present*
+
+Real-time stock market analysis platform that uses AI agents to **generate AND justify** trading signals based on technical and news-based insights. Built for my own trading portfolio first; opened to retail traders after self-validation. Core product principle: if the model can't explain the signal, it doesn't ship. Explainability over complexity.
+
+---
 
 ## Education
-#### Quantic School of Business and Technology
 
-Master of Business Administration - MBA  · (March 2019 - March 2020)
+#### [Quantic School of Business and Technology](https://quantic.edu/)
 
-#### EIT Digital Alumni
+**MBA, Business Administration** · *2019 to 2020* · GPA 93.2%
 
-Techno-Entrepreneurship, Embedded Systems, IoT, · (2014 - 2016)
+#### [EIT Digital](https://www.eitdigital.eu/)
 
-#### Eindhoven University of Technology
+**Master's Programme, Innovation & Entrepreneurship** · *2014 to 2016*
 
-Master’s Degree, Embedded Networking · (July 2015 - July 2016)
+#### [Eindhoven University of Technology (TU/e)](https://www.tue.nl/)
 
-#### KTH Royal Institute of Technology
+**MSc, Embedded Networking** · *2015 to 2016* · 8.01/10
 
-Master's Degree, Embedded Platforms · (2014 - 2015)
+#### [KTH Royal Institute of Technology](https://www.kth.se/)
 
-#### Amrita Vishwa Vidyapeetham, Coimbatore
+**MSc, Embedded Systems** · *2014 to 2015* · 9.10/10
 
-Bachelor of Technology (B.Tech.), Electronics and Communication
-Engineering · (2010 - 2014)
+#### [Amrita Vishwa Vidyapeetham, Coimbatore](https://www.amrita.edu/)
+
+**B.Tech, Electronics & Communication Engineering** · *2010 to 2014* · 8.18/10
+
+---
+
+## Certifications
+
+- **Building Modern Java Applications** · AWS
+- **Build LLM Apps with LangChain** · DeepLearning.AI
+- **MCPS: Microsoft Certified Professional** · Microsoft
+- **MongoDB for Java Developers (M001 · MongoDB Basics)** · MongoDB University
+- **Build a Data Science Web App with Streamlit and Python**
+- **edX Honor Code Certificate for Circuits and Electronics**
+- **Learn to Program: The Fundamentals**
+
+
+## Honors & Awards
+
+- **AWS Cloud Credits for Research** (2020) · Amazon Web Services. Funded the Robogen migration to AWS at EPFL.
+- **KTH Opportunities Fund** · KTH Royal Institute of Technology. Supported innovative research initiatives.
+- **TI India Analog Design Contest, Winner** · Texas Instruments. Recognized for innovative analog circuit design among numerous competitors.
+- **Appreciation from John T. Chambers** (ex-CEO, Cisco Systems) for contributions to strategic projects within Cisco's ecosystem.
+- **Students' Challenge Award, Winner** for exceptional problem-solving and innovative thinking in a competitive academic environment.
+
+
+## Publications & Talks
+
+- [**EPFL designs robots through artificial evolution**](https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/) · *AWS Public Sector Blog* (2018-11-21)
+- [**Designing Robots Through Artificial Evolution**](https://aws.amazon.com/blogs/publicsector/designing-robots-through-artificial-evolution/) · *AWS Public Sector Blog*
+- [**Agentic AI: Simple ReAct Agent**](https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent) · *The Compounding Curiosity (Substack)* (2025-04-11)
+- [**AI and Creativity**](https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d) · *Front Conference (Talk)*
+- [**From Infinite Possibilities to Finite Results**](https://pitch.com/v/ai-for-the-rest-of-us-p2tejg) · *AI for the Rest of Us, UK (Talk)*
+- [**Microfrontends: Revolutionising Frontend Architecture**](https://pitch.com/v/microfrontends-kpc3n7) · *Developer Week 2023, USA (Talk)*
+- [**From Idea to Product**](https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df) · *Dev Innovation Summit 2022, USA (Talk)*
+- [**The Blueprint for Building High-Impact Teams**](https://medium.com/@anandbaskaran3193/the-blueprint-for-building-high-impact-teams-b8d5c5f5c5e5) · *Medium*
+- [**High-Performance, Scalable URL Shortener**](https://medium.com/@anandbaskaran3193/high-performance-scalable-url-shortener-a1b2c3d4e5f6) · *Medium / Terraform Registry*
+- [**Visualizing AI Embeddings with Heatmap**](https://towardsdev.com/visualizing-ai-embeddings-with-heatmap-a1b2c3d4e5f6) · *TowardsDev*
+- **Efficient Charging of Battery and Production of Power from Solar Energy** · undergraduate publication
+- **Maximizing the Expected Utility in Search Algorithms** · academic publication
