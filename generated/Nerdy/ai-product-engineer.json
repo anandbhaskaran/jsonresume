@@ -1,0 +1,345 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI Product Engineer · Full-Stack Builder · Product-Minded · Ships Fast with AI · Founder",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Full-stack builder and product-minded engineer who owns problems end to end, from customer need to shipped, AI-powered feature. At LumApps I built and shipped a production AI agent that 2x outbound conversions and is forecast to generate $1M in quarterly revenue. I found and ship products solo too (PulseView, Proplab, SwissNRI, zero-to-MVP in months), building AI-native with Claude and Cursor to prototype in hours and iterate on real user outcomes. MBA-trained product thinker: I write the spec, design the flow, build the thing, and stay accountable to the metric.",
+    "metrics": [
+      {
+        "value": "$1M",
+        "label": "Quarterly Revenue (AI Agent)"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns AI features end to end, from customer problem to shipped, reliable, AI-powered product. Reports to C-level on outcomes.",
+      "highlights": [
+        "Own AI features end to end: from problem statement to a shipped multi-agent product on GCP. 2x open rates, 2x approved opportunities, forecast $1M in quarterly revenue.",
+        "Shipped multi-agent orchestration (ReAct, self-reflection, tools over MCP servers) that saves reps 2 to 3 hours per day: a real user outcome, not a demo.",
+        "Built the AI Brain behind the agents: a knowledge-graph and RAG retrieval layer (Graphiti, Neo4j) that pulls the right context so outputs stay grounded and reliable.",
+        "Build AI-native and fast, prototyping in hours and iterating to production on real user outcomes with evals and instrumentation.",
+        "Work across product and engineering: write the spec, design the flow, build it, and report outcomes to C-level."
+      ],
+      "keywords": [
+        "AI Product",
+        "Full-Stack",
+        "AI Agents",
+        "Multi-Agent Systems",
+        "MCP",
+        "LLMs",
+        "RAG",
+        "TypeScript",
+        "Python",
+        "GCP",
+        "Rapid Prototyping",
+        "AI-Assisted Development"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Shipped AI-powered, customer-facing products used by millions, moving fast and measuring everything.",
+      "highlights": [
+        "Shipped AI-powered, customer-facing products used by 10M+ users (onboarding agent, GenAI demo system, LLM pipeline): reliable and delightful, not just novel.",
+        "Replaced $337K in vendor cost with an LLM pipeline built in 6 weeks: rapid, high-leverage prototyping straight to production.",
+        "Co-owned features with Product and Sales, each shipped with success metrics and feedback loops so we knew within a week if it moved the needle.",
+        "Full-stack ownership: architecture, frontend (Vue, microfrontends), and backend, plus mentoring the engineers around me."
+      ],
+      "keywords": [
+        "Full-Stack",
+        "AI Products",
+        "Vue",
+        "TypeScript",
+        "Java",
+        "Python",
+        "Product Sense",
+        "Success Metrics",
+        "AWS",
+        "Rapid Iteration"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Advisor and mentor for seed-to-VC stage startups on product, AI, and shipping fast.",
+      "highlights": [
+        "Advised 20+ startups on turning ambiguous problems into shipped products and pragmatic AI adoption.",
+        "Coached founding teams on product-engineering tradeoffs and moving quickly on evidence."
+      ],
+      "keywords": [
+        "Product Strategy",
+        "AI Readiness",
+        "Mentoring",
+        "Rapid Iteration",
+        "Startups"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer who took a product from 0 to 1 and into real customers' hands.",
+      "highlights": [
+        "Built and shipped a full-stack product from 0 to 1 (Vue, Java, PostgreSQL, AWS), with real users in the field. 500+ deliveries, 99.5% safety, zero incidents.",
+        "Moved at founder speed: every flight a live test, iterating on real-world feedback toward partnerships with Unilever and a CES showcase."
+      ],
+      "keywords": [
+        "0-to-1",
+        "Full-Stack",
+        "Vue",
+        "AWS",
+        "APIs",
+        "Founder Speed"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI/ML research engineer who shipped an open-source platform used by others.",
+      "highlights": [
+        "Built Robogen, an open-source AI platform adopted by researchers and students, scaled on AWS. Secured AWS Cloud Credits for Research; featured on the AWS Public Sector Blog.",
+        "Taught 20+ master's students hands-on, an early habit of turning complex ideas into usable tools."
+      ],
+      "keywords": [
+        "Machine Learning",
+        "AWS",
+        "Python",
+        "Open Source",
+        "Teaching"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of shipping an AI-powered product end to end: what worked, what didn't, and the outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Integrating AI into a product for user value over novelty: verification loops and human-in-the-loop so what ships is reliable."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Talk on shipping fast: lean validation, rapid prototyping, and iterating on evidence, the core of product engineering."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "How to architect the memory and retrieval layer so AI features stay reliable and grounded in production."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Hands-on tutorial on building agents from scratch, keeping AI-powered logic concrete and buildable."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Making high-dimensional embeddings intuitive: practical intuition for building better AI features."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI Product Building"
+    },
+    {
+      "name": "Rapid Prototyping"
+    },
+    {
+      "name": "AI-Native Development"
+    },
+    {
+      "name": "AI for Learning"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built solo end to end (agent runtime, data integrations, web frontend). A multi-agent system that generates signals with the evidence chain that justifies them; explainability and evaluation built in, so if the model can't explain it, it doesn't ship. Live retail users.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & Builder",
+      "description": "AI product built end-to-end on Replit: a vision pipeline turns inspection photos into structured records, then agents turn them into multilingual, marketing-ready listings.",
+      "highlights": [
+        "One workflow from photo capture to published listing, shipped solo to live users with zero copy-paste."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform. RAG-grounded assistant answers regulatory questions with citations to source. Zero-to-MVP in 3 months, 40% uplift in satisfaction from feedback-driven iteration.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Nerdy",
+    "jobTitle": "AI Product Engineer",
+    "jobUrl": "https://www.nerdy.com/",
+    "jobDescription": "Nerdy (NYSE: NRDY), the company behind Varsity Tutors; Live + AI platform fusing human expertise with generative AI for learning. Remote-first. AI Product Engineer: a full-stack builder, product-minded engineer, and customer-obsessed problem solver who thrives at the intersection of discovery, design, rapid prototyping, and shipping customer-facing features. Own problems end to end, from customer need to elegant solution to shipped, polished, reliable AI-powered experiences; do both product and engineering; move fast. AI-native culture: everyone builds and ships with generative AI; entrepreneurial velocity (prototype in hours, measure in real user outcomes); full-stack ownership; reward for contribution; using AI effectively is formally measured. Qualifications: strong engineering (front-end, back-end, full-stack, or systems); own a problem from concept through shipped solution; build software products, tools, prototypes; comfort across product and engineering (specs, workflows, building); use AI tools to accelerate development (chat-based coding assistants, automation, rapid prototyping); excellent cross-functional communication; customer-obsessed; move quickly and iterate on evidence; familiarity with cloud (any provider); comfort with data, success metrics, and signals; fast-paced iterative environments. Responsibilities: understand customer problems through data/feedback/observation; define AI-powered features (problem statements, user flows, success criteria); prototype and build end-to-end (front-end, back-end, AI logic); integrate AI thoughtfully for user value over novelty; collaborate with product/design/engineering; own quality and performance; set up measurement and feedback loops; operate like an owner.",
+    "notes": "Very strong fit: three-time founder (the solo-founder DNA they explicitly recruit), ships full-stack AI products end to end (PulseView, Proplab, SwissNRI zero-to-MVP), AI-native (builds with Claude and Cursor), product-minded (MBA, product owner, co-owns scope with PM), customer-obsessed and metric-led (instrumented launches, 'knew within a week if it moved the needle'), fast iteration, cloud (GCP/AWS). EdTech domain is new but not required. Remote-first role; candidate is Zurich-based (note time-zone overlap for a US-based company).",
+    "createdAt": "2026-07-15"
+  },
+  "_generatedFile": {
+    "company": "Nerdy",
+    "baseName": "ai-product-engineer",
+    "createdAt": "2026-07-15T15:25:06.361Z",
+    "targetPath": "./generated/Nerdy/ai-product-engineer.json"
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Entrepreneurial AI Leader | 3 Companies Founded | Startup Advisor (Tenity) | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Builder and advisor at the intersection of AI, business transformation, and measurable revenue. Owns LumApps' AI program end-to-end, reporting to C-level on outcomes: production agents forecast to generate $4M in approved opportunities per quarter. Shipped $1.5M+ in new product revenue and eliminated $337K in vendor cost at Beekeeper, co-owning GTM with Sales and PM. Founded three companies on the side; advise 20+ startups on AI and architecture as Tenity's Technology Evaluation Panelist. MBA, EPFL research background.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns company-wide AI transformation strategy, governance, and sales enablement. Reports directly to C-level on outcomes, bridging engineering, product, and revenue.",
+      "highlights": [
+        "Owns AI transformation strategy and governance across the company. Translates AI capability into executive decisions; the kind of mandate a Principal Consultant would deliver, owned from inside.",
+        "Built and shipped production AI agents for outbound sales. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast: $4M in approved opportunities per quarter; $1M quarterly revenue at 25% conversion.",
+        "Built AI Brain, a knowledge-graph context layer that surfaces business patterns driving strategy across product, sales, and CS. Turns AI investment into measurable, executive-readable insight."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "AI Transformation",
+        "Sales Enablement",
+        "Executive Reporting",
+        "Python",
+        "LangChain",
+        "Neo4j",
+        "GCP",
+        "Governance"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who operates like a founding engineer. Owned the problem, designed the solution, shipped to prod, stayed accountable to the business metric across multiple revenue-bearing AI products.",
+      "highlights": [
+        "Architected Employee Referral System end-to-end as Tech Lead of the Incubation team (reporting to CIO). Became the platform's top revenue channel: $1.5M+ generated, $500K ARR. Built the team and ran GTM with Sales and PM.",
+        "Replaced $337K in annual vendor translation costs with an LLM pipeline shipped in 6 weeks. 12K+ assets translated. Direct, measurable client value from AI investment.",
+        "Co-owned GTM launches across Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Each shipped with instrumentation; killed what did not move the needle within a week.",
+        "Hired and mentored the AI engineering cohort; deputy tech lead of FUEL. Built engineering culture around shipping measurable business outcomes, not artefacts."
+      ],
+      "keywords": [
+        "Revenue Ownership",
+        "GTM",
+        "Cross-functional Leadership",
+        "AI Strategy",
+        "Hiring & Mentoring",
+        "Java",
+        "Python",
+        "OpenAI",
+        "LangChain",
+        "Kubernetes",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Member of the Technology Evaluation Panel for a leading Swiss accelerator. Advises seed-to-VC stage founders on AI strategy, technical architecture, and building engineering cultures that ship.",
+      "highlights": [
+        "Evaluated 20+ startups on AI readiness, architecture, and scalability. Findings directly inform seed-to-VC investment decisions; the closest analog to senior advisory mandate work in my profile.",
+        "Advised portfolio companies on AI strategy, technical hiring, and engineering culture. Mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production."
+      ],
+      "keywords": [
+        "AI Advisory",
+        "Startup Evaluation",
+        "C-level Mentoring",
+        "Technical Due Diligence",
+        "Investment Decisions"
+      ]
+    },
+    {
+      "name": "Obermatt",
+      "position": "Technical Product Manager (concurrent side role)",
+      "url": "https://obermatt.com/en/home.html",
+      "startDate": "2018-07",
+      "endDate": "2021-01",
+      "summary": "Bridged business and engineering for a Zurich fintech. Owned product roadmap and led a remote engineering team while concurrently working as founding engineer at Dronistics.",
+      "highlights": [
+        "Built strategic product roadmaps that improved customer satisfaction and retention. Translated business priorities into engineering execution; the consulting-to-delivery handover in microcosm.",
+        "Directed a remote engineering team. Introduced agile methodologies; productivity up 20%. Improved CI/CD with Docker; deployment times down 30%."
+      ],
+      "keywords": [
+        "Product Management",
+        "Roadmap Ownership",
+        "Remote Team Leadership",
+        "Stakeholder Management",
+        "Docker",
+        "Agile"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an EPFL spin-off building autonomous drone delivery. Built the technical credibility that opened doors with enterprise customers.",
+      "highlights": [
+        "Architected end-to-end platform that enabled enterprise partnerships with Unilever and a CES Las Vegas showcase. Customer-facing technical credibility from the founder's seat.",
+        "500+ autonomous deliveries; 40% faster, 99.5% safety record, zero incidents. Production-grade reliability that customers and partners could trust."
+      ],
+      "keywords": [
+        "Founding Engineer",
+        "Enterprise Partnerships",
+        "Customer-facing Technical Lead",
+        "AWS",
+        "Real-time Systems"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI research at EPFL's Laboratory of Intelligent Systems. Built Robogen, an open-source platform for co-evolution of robot morphologies and control systems via genetic algorithms.",
+      "highlights": [
+        "Engineered Robogen at one of Europe's leading AI labs. Open-source platform for co-evolution of robot bodies and brains via genetic algorithms.",
+        "Migrated simulation pipeline to AWS; secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog. Real example of translating academic work into industry-visible outcomes.",
+        "Teaching Assistant for Evolutionary Robotics at EPFL. Supervised 20+ master's students. Early reps at translating technical depth into stakeholder understanding."
+      ],
+      "keywords": [
+        "EPFL Research",
+        "AI Foundations",
+        "AWS",
+        "Teaching & Mentoring",
+        "Genetic Algorithms",
+        "C++",
+        "Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Strategic framework on transforming open-ended AI potential into measurable business outcomes through systematic implementation and constraint design. The advisory thesis in talk form."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology for assembling high-performing teams through clear standards, psychological safety, and growth-oriented culture. Drawn from hiring across Beekeeper, Dronistics, and Obermatt."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology for accelerating product cycles through lean validation, rapid prototyping, and data-driven decisions in startup environments."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of architecting and deploying a production AI outbound sales agent. 2x open rates, 2x approved opportunities. Concrete example of AI translated into revenue."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on the intersection of AI and human creativity. How AI augments rather than replaces creative work in product development."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive on microfrontend architecture for scalable, team-autonomous development at enterprise scale."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "RoboGen, an open-source EPFL platform using AWS and artificial evolution to co-evolve robot bodies and brains. Academic work that landed on a major industry platform."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Practical techniques for interpreting high-dimensional embeddings through interactive heatmaps for model interpretability."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI Strategy & Business Transformation"
+    },
+    {
+      "name": "Building & Scaling Teams"
+    },
+    {
+      "name": "Entrepreneurship"
+    },
+    {
+      "name": "Startup Advisory"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Co-founded the first AI-native platform for Swiss-Indian families navigating FEMA, DTAA, and Swiss tax regulations. Built the business from market gap to live users in a regulated space.",
+      "highlights": [
+        "Zero-to-MVP in 3 months. RAG-grounded tax assistant with citations to source regulation; AI agents flag DTAA/FEMA risks before users file. 40% uplift in satisfaction from feedback-driven iteration."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & AI Product Builder",
+      "description": "Founded an AI-native platform for small real estate teams. Vision models turn inspection photos into structured records; LLM agents turn those records into marketing-ready listings.",
+      "highlights": [
+        "End-to-end agent workflow from photo capture to published listing. Identified market gap, built MVP, shipped to early customers solo."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Founded an explainable AI market intelligence platform. Built for my own trading portfolio first, then opened to retail traders.",
+      "highlights": [
+        "Live users, real money, end-to-end multi-agent system shipped solo while operating as principal engineer at LumApps. Demonstrates speed and accountability in parallel."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "anand Creations",
+    "jobTitle": "Entrepreneurial Lead – Data & AI Advisory",
+    "jobUrl": "",
+    "jobDescription": "Entrepreneurial Lead, Data & AI Advisory at a specialised Swiss advisory firm (recruiter posting; firm name TBD). Hybrid sales/delivery/advisory role: build a new client-facing Data & AI business area, identify market opportunities, translate to mandates, advise C-level stakeholders, lead complex client projects, build a high-performing consulting team. Profile: background in Data/AI/Analytics/Digital Transformation/Tech Consulting; track record in client-facing advisory and mandate acquisition; ability to combine strategy with pragmatic implementation; ETH/EPFL or equivalent academic background; entrepreneurial mindset; fluent German and English required. Ideal for Principal, Director, Practice Lead, Senior Manager, or entrepreneurial Consulting Leader wanting to build rather than manage.",
+    "notes": "Hard requirement on fluent German that I do not currently meet. Profile tailored to lead with: AI program ownership at LumApps (C-level reporting), $1.5M+ revenue + $337K cost outcomes at Beekeeper, Tenity advisory work, three founded companies, EPFL pedigree, MBA. Worth flagging the German gap up front and asking if they have an English-first track or if German is non-negotiable.",
+    "createdAt": "2026-06-23T00:00:00.000Z"
+  },
+  "_generatedFile": {
+    "company": "anand Creations",
+    "baseName": "entrepreneurial-lead-data-ai-advisory",
+    "createdAt": "2026-06-23T09:08:07.251Z",
+    "targetPath": "./generated/anand Creations/entrepreneurial-lead-data-ai-advisory.json"
+  }
+}

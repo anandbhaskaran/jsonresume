@@ -1,12 +1,12 @@
 # Anand Bhaskaran
 
-#### AI Engineer · Production LLM Systems · Technical Lead · Founder · MBA
+#### AI Engineer & Forward Deployed Engineer · Production Agentic Systems · Founder · MBA
 
 #### Zurich, Switzerland
 
 ## Summary
 
-Engineer at the intersection of **AI applications, product thinking, and production-grade systems**. The rare combination behind AI products that actually ship and move metrics. 10+ years building software for millions: AI agents that 2x outbound sales conversions at LumApps, LLM pipelines that eliminated $337K in vendor cost at Beekeeper, autonomous drone deliveries at Dronistics, co-evolution of robot brains and bodies via genetic algorithms at EPFL. Founded three companies on the side. I optimize for outcomes, not artefacts. Every system I build has a metric attached and a customer on the other side.
+Engineer at the intersection of **AI applications, product thinking, and production-grade systems**. The rare combination behind AI products that actually ship and move metrics. I am Lead Software Engineer at LumApps, building production multi-agent systems on GCP that 2x outbound conversions and forecast $1M in quarterly revenue. On the side I run Anand Creations, a forward deployed engineering practice and the home for AI products I build and ship myself. 13+ years building software for millions: LLM pipelines that eliminated $337K in vendor cost at Beekeeper, autonomous drone deliveries at Dronistics, co-evolution of robot brains and bodies via genetic algorithms at EPFL. Founded three companies on the side. I optimize for outcomes, not artefacts. Every system I build has a metric attached and a customer on the other side.
 
 ### Contact
 
@@ -14,13 +14,13 @@ Zelglistrasse 9, 4600 Olten, Switzerland
 +41763043193
 anandbaskaran3193@gmail.com
 
-[LinkedIn](https://ch.linkedin.com/in/anandb3) · [GitHub](https://github.com/anandbhaskaran) · [anand-creations.web.app](https://anand-creations.web.app/)
+[LinkedIn](https://ch.linkedin.com/in/anandb3) · [GitHub](https://github.com/anandbhaskaran) · [anand-creations.com](https://anand-creations.com/)
 
 ### Top Skills
 
-- **AI Applications:** Production LLM systems and agentic workflows that solve real customer problems. RAG, OpenAI/Anthropic APIs, LangChain, CrewAI, Strands Agents, Langfuse, evaluation harnesses, governance. A decade of judgment about what AI should and shouldn't do.
+- **AI Applications:** Production multi-agent systems that solve real customer problems. ReAct, self-reflection and hierarchical delegation; LangChain, LangGraph, Google ADK, CrewAI, Strands Agents; MCP tool servers and AG-UI; RAG and temporal knowledge graphs (Graphiti, Neo4j); OpenAI, Anthropic and Vertex AI; eval pipelines, granular tracing and cost-per-request telemetry. 13+ years of judgment about what AI should and shouldn't do.
 - **Product Mindset:** Co-owns scope with PM and Sales. Ships with instrumentation, kills features that don't move the metric, picks the 80/20 cut. MBA-trained on what makes a feature worth building.
-- **Production-Grade Engineering:** 10+ years of architecture, scaling, and reliability for systems used by 10M+ users. Java, Python, TypeScript, Vue, distributed systems, Kubernetes, Kafka, PostgreSQL, ClickHouse, CI/CD. The craft underneath every shippable AI product.
+- **Production-Grade Engineering:** 13+ years of architecture, scaling, and reliability for systems used by 10M+ users. Python, TypeScript, Java, Vue, GCP and AWS, Kubernetes, Kafka, PostgreSQL, ClickHouse, Terraform and infrastructure as code, CI/CD. The craft underneath every shippable AI product.
 
 ### Languages
 
@@ -31,7 +31,7 @@ Tamil (Native or Bilingual)
 
 ## Experience
 
-#### Senior AI Engineer, LumApps
+#### Lead Software Engineer, LumApps
 
 ```
 March 2026 - Present
@@ -39,11 +39,11 @@ Zurich, Switzerland
 https://www.lumapps.com/
 ```
 
-- **AI Agents for Outbound Sales:** Built and deployed production AI agents for outbound sales teams. **2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day** across SDR and AE teams.
-- **End-to-End Ownership:** Led the program from architecture (LangChain, FastAPI, GCP) through rollout, reporting directly to C-level on outcomes rather than progress.
-- **AI Transformation Strategy:** Expanded scope to own company-wide AI transformation strategy, governance, and sales enablement. Bridges engineering, product, and revenue.
+- **Multi-Agent Systems for Outbound Sales:** Built and deployed production multi-agent workflows on Python, LangGraph and Google ADK over GCP Vertex AI, using ReAct, self-reflection and hierarchical delegation, with tools exposed over MCP servers and agent state streamed to the UI over AG-UI. **2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast: $4M in approved opportunities per quarter; at 25% conversion, $1M in quarterly revenue.**
+- **AI Brain (Temporal Knowledge Graph):** Designed a central context layer on Graphiti and Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, conversation transcripts, product usage) into one time-aware memory every agent reads and writes. Event-driven ingest over Pub/Sub, a query and write-back contract per agent, and a freshness layer that flags stale facts. Grounds RAG retrieval so agents stop hallucinating.
+- **End-to-End Ownership:** Led technical discovery through production: agent architecture, eval pipelines, agent tracing (LangSmith), tool-selection tuning, and cost-per-request instrumentation, with on-call for global production systems. Reports directly to C-level on outcomes rather than progress.
 
-**Tech Stack:** Python, LangChain, FastAPI, GCP, OpenAI, RAG, AI Agents, Salesforce
+**Tech Stack:** Python, TypeScript, GCP, Vertex AI, LangChain, LangGraph, Google ADK, MCP, AG-UI, FastAPI, RAG, LangSmith, Observability, On-Call, Neo4j, Graphiti, Salesforce
 
 
 #### Senior Software Engineer (Technical Lead), Beekeeper
@@ -60,11 +60,12 @@ https://www.beekeeper.io/
 - **Distributed Templating Engine:** Designed the system that cut customer setup time by 90% and now powers 15% of all assets created on the platform (10M+ users). Product Owner of the feature.
 - **GenAI Demo System for Sales:** Built an AI-driven demo content generator that auto-creates personalized streams from name, description, and Salesforce data. Improved demo speed and close rates.
 - **Search Platform Revamp:** Led 3 teams across a complete redesign of indexing and ranking. Surfaces what users mean to find, not just what they typed. Measurable engagement lift.
+- **Observability & Global On-Call:** Ran observability and on-call for global production systems (Grafana, Datadog, Logz.io): logs, metrics, dashboards, and alerting.
 - **AI Engineering Cohort:** Acting hiring manager for AI roles. Hired for craft and curiosity, mentored engineers who now lead features independently. Deputy tech lead of FUEL.
 - **Cross-functional GTM:** Co-owned launches across Product and Sales (Seasonal Templates, Re-ignite Revenue, Tippspiel Analytics, Employee Lifecycle GTM, Sentiment Analysis). Each shipped with instrumentation so we knew within a week if it moved the needle.
 - **Architect & Full-Stack:** Owned architectural design for Artifacts, Forms, Employee Referral, Templater, Manager Hub. Robust, modular, performant by design, not by accident.
 
-**Tech Stack:** Java, Python, Vue, Kubernetes, AWS, OpenAI, Claude, LangChain, CrewAI, Strands Agents, Langfuse, Kafka, PostgreSQL, Elastic Search, ClickHouse, Jenkins, GitHub Actions
+**Tech Stack:** Java, Python, Vue, Kubernetes, AWS, OpenAI, Claude, LangChain, CrewAI, Strands Agents, Langfuse, Kafka, PostgreSQL, Elastic Search, ClickHouse, Grafana, Datadog, Logz.io, Jenkins, GitHub Actions
 
 ##### Selected Projects in Beekeeper
 
@@ -134,7 +135,7 @@ https://www.tenity.com/
 ```
 
 - Member of the **Technology Evaluation Panel**. Evaluated 20+ startups on architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.
-- Mentored **Opt Alpha** on scaling algorithmic trading systems for high-frequency production workloads.
+- Mentored **Opt Alpha** on scaling high-frequency algorithmic trading systems in production.
 - Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that ship.
 
 
@@ -154,18 +155,25 @@ https://obermatt.com/en/home.html
 
 ## Projects (Founded Companies)
 
-#### SwissNRI · Cross-border Fintech for Swiss-Indians
+#### Anand Creations · Forward Deployed Engineering Practice
+
+**Founder & Principal Forward Deployed Engineer** · [anand-creations.com](https://anand-creations.com/) · *Zurich · 2024 to Present*
+
+Independent forward deployed engineering practice, currently the home for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView). Open to forward-deployed client engagements: embedding with a team, running technical discovery, and shipping production agentic AI end to end.
+
+
+#### SwissNRI · AI Cross-border Fintech for Swiss-Indians
 
 **Co-Founder & Technical Lead** · [swissnri.com](https://www.swissnri.com/) · *Zurich · 2024 to Present*
 
-SwissNRI simplifies cross-border tax and financial compliance for Indians living in Switzerland. As technical co-founder, I lead platform development, combining scalable SaaS architecture with deep domain insight into Indian and Swiss financial systems. Designed tools that streamline tax filing, ensure DTAA and FEMA compliance, and empower NRIs to make smart, legal, optimized financial decisions across borders. Zero-to-MVP in 3 months; 40% uplift in user satisfaction from feedback-driven iteration.
+SwissNRI simplifies cross-border tax and financial compliance for Indians living in Switzerland through an AI-native platform. Built a RAG-grounded tax assistant that answers DTAA, FEMA, and Swiss compliance questions in plain language with citations back to the source regulation. AI agents flag cross-border risks before users file, with regulatory guardrails built before features. Zero-to-MVP in 3 months; 40% uplift in user satisfaction from feedback-driven iteration.
 
 
 #### Proplab · AI for Real Estate
 
 **Founder & AI Product Builder** · [proplab.io](https://proplab.io) · *Zurich · 2025 to Present*
 
-Indie AI initiative empowering small real estate teams with intelligent digital tools. Designed and built the MVP for a fully digitalized property inspection system that replaces paper, clipboards, and WhatsApp photos with structured, image-backed, timestamped protocols. Currently building an AI-powered marketing assistant that auto-generates property listings from inspection data.
+AI-native platform for small real estate teams. Built a vision pipeline that extracts structured signals (room type, condition, defects) from inspection photos, replacing paper-based reports with queryable, AI-readable data. LLM agents then turn those records into multilingual, marketing-ready property listings end-to-end: one workflow from photo capture to published listing, zero copy-paste.
 
 
 #### PulseView · Explainable AI Market Intelligence
@@ -204,6 +212,8 @@ Real-time stock market analysis platform that uses AI agents to **generate AND j
 
 - **Building Modern Java Applications** · AWS
 - **Build LLM Apps with LangChain** · DeepLearning.AI
+- **Knowledge Graphs for RAG** · Neo4j
+- **AI Agents in LangGraph** · LangChain & Tavily
 - **MCPS: Microsoft Certified Professional** · Microsoft
 - **MongoDB for Java Developers (M001 · MongoDB Basics)** · MongoDB University
 - **Build a Data Science Web App with Streamlit and Python**
@@ -221,7 +231,8 @@ Real-time stock market analysis platform that uses AI agents to **generate AND j
 
 
 ## Publications & Talks
-
+- [I Built an AI Outbound Agent. Here’s What Actually Worked.](https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed)
+- [**Your AI Needs a Brain, Not a Better Model**](https://anand-creations.com/blog/your-ai-needs-a-brain) · *Anand Creations* (2026-06-26)
 - [**EPFL designs robots through artificial evolution**](https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/) · *AWS Public Sector Blog* (2018-11-21)
 - [**Designing Robots Through Artificial Evolution**](https://aws.amazon.com/blogs/publicsector/designing-robots-through-artificial-evolution/) · *AWS Public Sector Blog*
 - [**Agentic AI: Simple ReAct Agent**](https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent) · *The Compounding Curiosity (Substack)* (2025-04-11)

@@ -1,0 +1,342 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Applied AI Architect · Claude & LLM Solutions · Pre-Sales Technical Advisor · Evals & Safe Deployment",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Applied AI architect who takes enterprises from discovery to LLMs in production, and who builds on Claude every day. 13+ years shipping software, now embedding with teams to design scalable architectures, develop evals, and integrate AI into a live enterprise stack. I translate between engineers and C-suite (MBA), and I run to safety and reliability, not just demos: my rule is that if the model can't explain its output, it doesn't ship, with human-in-the-loop checkpoints and guardrails built in. At LumApps my agent deployments 2x conversions and forecast $1M in quarterly revenue; at Beekeeper I replaced $337K in cost with an LLM pipeline gated by evals.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Lead developer and technical advisor for production AI agents. Takes use cases from discovery through evaluation to deployment, and reports outcomes to C-level.",
+      "highlights": [
+        "Guided use cases from discovery to production: designed the architecture, built the agents (Claude and OpenAI), and stood up eval frameworks to measure performance before rollout. 2x conversions, forecast $1M in quarterly revenue.",
+        "Designed a scalable AI architecture (knowledge-graph retrieval) and integrated it across 5+ enterprise systems (Salesforce, HubSpot, Pendo, product usage).",
+        "Translated requirements between engineering and C-suite, and fed integration patterns back into product strategy."
+      ],
+      "keywords": [
+        "Claude",
+        "Anthropic API",
+        "LLM Solutions",
+        "Evals",
+        "Solution Architecture",
+        "RAG",
+        "Multi-Agent Systems",
+        "Enterprise Integration",
+        "Python",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who shipped LLM products used by millions, built on Claude and OpenAI, and taught the team to build with them.",
+      "highlights": [
+        "Replaced $337K in annual vendor cost with an in-house LLM pipeline gated by evaluation frameworks that measured quality before anything shipped. Evals as the release gate.",
+        "Built customer-facing LLM products on Claude and OpenAI (AI Onboarding Specialist, GenAI demo system) integrated with Salesforce and live enterprise data.",
+        "Created technical content and demos across audiences, from engineering deep dives to executive value conversations, that accelerated sales cycles.",
+        "Hired and mentored the AI engineering cohort; helping others build with LLMs is the part I care about most."
+      ],
+      "keywords": [
+        "Claude",
+        "OpenAI",
+        "LangChain",
+        "Evals",
+        "Enterprise Integration",
+        "Salesforce",
+        "Python",
+        "Java",
+        "AWS",
+        "Kubernetes",
+        "Technical Enablement"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Trusted technical advisor and mentor for seed-to-VC stage startups and their investors.",
+      "highlights": [
+        "Served as trusted technical advisor across 20+ companies: technical discovery, architecture, and AI readiness with founders, engineers, and investors.",
+        "Advised on AI strategy and coordinated across stakeholders to move complex technical decisions forward."
+      ],
+      "keywords": [
+        "Technical Advisory",
+        "Technical Discovery",
+        "AI Readiness",
+        "Stakeholder Management",
+        "Mentoring"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built the platform, APIs, and cloud stack from scratch.",
+      "highlights": [
+        "Designed and shipped a scalable cloud architecture on AWS with real-time APIs and enterprise integrations. 500+ deliveries, 99.5% safety record, zero incidents.",
+        "Built reliability that partners trusted: partnerships with Unilever and a showcase at CES Las Vegas."
+      ],
+      "keywords": [
+        "Cloud Architecture",
+        "AWS",
+        "APIs",
+        "Enterprise Integration",
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Machine learning research at the frontier of robotics, built and scaled on AWS.",
+      "highlights": [
+        "Built Robogen, an open-source ML platform, and scaled it on AWS. Secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog.",
+        "Teaching Assistant: taught 20+ master's students hands-on. A genuine love of teaching and helping others succeed."
+      ],
+      "keywords": [
+        "Machine Learning",
+        "AWS",
+        "Python",
+        "C++",
+        "Teaching"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of taking an LLM agent from prototype to production: architecture, evaluation, and the outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Safe deployment in practice: verification loops, human-in-the-loop checkpoints, and draft-before-send patterns that stop an agent from shipping wrong actions."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Architecture guidance for the memory and retrieval layer: how to pick a production stack for LLM agents that integrate many systems."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Hands-on tutorial teaching developers to build a ReAct agent from scratch: an implementation pattern made concrete."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Talk on turning open-ended AI potential into measurable business outcomes: the technical-to-business framing this role needs."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Keynote)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Conference keynote delivering a technical deep dive to a developer audience."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Safe & Interpretable AI"
+    },
+    {
+      "name": "LLM Evals & Architecture"
+    },
+    {
+      "name": "Technical Teaching & Speaking"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Applied AI Advisory & Delivery",
+      "position": "Founder & Principal Architect",
+      "description": "Independent practice: I embed with a customer's team, run technical discovery, and take AI from prototype to production, designing scalable architectures and evals and integrating into their existing stack. Flagship: the GTM AI Brain, a knowledge-graph retrieval layer every agent shares.",
+      "highlights": [
+        "Distill each engagement into reusable architectures, eval frameworks, and integration patterns, then write and speak about them so other builders adopt what works."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence where a multi-agent system generates signals alongside the evidence chain that justifies them, with explainability and evaluation built in from day one. Core principle, aligned with interpretable AI: if the model can't explain its output, it doesn't ship. Live retail users.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform. RAG-grounded assistant answers regulatory questions with citations back to the source; compliance-first design with guardrails built before features. Safe, reliable AI in a regulated domain.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Anthropic",
+    "jobTitle": "Applied AI Architect, Industries",
+    "jobUrl": "",
+    "jobDescription": "Anthropic, Zurich. Applied AI Architect (Industries) on the Applied AI team: a pre-sales architect and trusted technical advisor helping large enterprises understand the value of Claude and integrate/deploy it into their stack. Combine deep technical expertise with customer-facing skills to architect LLM solutions to business challenges while maintaining safety and reliability. Work with Sales, Product, and Engineering to guide customers from technical discovery through deployment; help customers understand Claude, develop evals, and design scalable architectures. Responsibilities: partner with account executives to translate customer requirements into technical solutions; serve as primary technical advisor across the Claude adoption journey (discovery to evaluation to deployment), coordinating across teams; support customers building with the Claude API and Claude for Work; create and deliver technical content for audiences from engineering deep dives to executive value conversations; guide technical architecture decisions and integration into existing stacks; help customers develop evaluation frameworks; identify integration patterns and feed insights to Product/Engineering; travel occasionally to customer sites for workshops and deep dives; maintain knowledge of LLM developments. Good fit: 5+ years in technical customer-facing roles (Solutions Architect, Sales Engineer, TAM); NATIVE OR C1 GERMAN AND FRENCH with fluent English; enterprise customers and complex buying cycles; exceptional relationship-building and technical communication to C-suite, engineering, and IT; translate requirements between technical and business stakeholders; designing scalable cloud architectures and integrating enterprise systems; comfortable with Python; familiarity with LLM frameworks or ML/data science background; cross-organizational collaboration and trade-offs; a love of teaching and mentoring; passion for safe and beneficial AI.",
+    "notes": "Very strong technical fit: builds on Claude/Anthropic APIs in production, evals as release gates, scalable architecture + enterprise integration, discovery-to-deployment advisory, technical content across audiences (talks/tutorials), teaching/mentoring, and deep alignment with safe/interpretable AI (explainability rule, human-in-the-loop, guardrails). HARD GAP NOT fabricated: the role requires native/C1 GERMAN AND FRENCH; candidate speaks English (professional) and Tamil (native), not German or French. This is likely a blocker for this specific posting unless the language bar is flexible. Also formal pre-sales title tenure is via FDE/advisory work rather than a Solutions Architect/SE title.",
+    "createdAt": "2026-07-13"
+  },
+  "_generatedFile": {
+    "company": "Anthropic",
+    "baseName": "applied-ai-architect-industries",
+    "createdAt": "2026-07-13T12:30:38.518Z",
+    "targetPath": "./generated/Anthropic/applied-ai-architect-industries.json"
+  }
+}

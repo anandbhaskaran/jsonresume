@@ -166,6 +166,10 @@ ul li:last-child {
 
 @page {
   size: A4;
+  margin: 8mm 0 0 0;
+}
+
+@page :first {
   margin: 0;
 }
 
@@ -260,12 +264,15 @@ ul li:last-child {
 .contact-strip .fa {
   font-size: 10px;
   color: var(--faint);
-  width: 11px;
+  margin: 0 4px 0 0;
   text-align: center;
+  line-height: 1;
+  transform: translateY(-1.5px);
 }
 
 .contact-strip a {
   color: var(--ink-2);
+  border-bottom: none;
 }
 
 .contact-strip a:hover {
@@ -596,6 +603,8 @@ ul li:last-child {
   line-height: 1.35;
   font-size: 10.5px;
   color: var(--ink-2);
+  display: block;
+  text-decoration: none;
 }
 
 .certificate-item strong {
@@ -614,13 +623,6 @@ ul li:last-child {
 
 .certificate-item:last-child {
   margin-bottom: 0;
-}
-
-.certificates-container .certificate-url {
-  display: block;
-  font-size: 9px;
-  color: var(--accent);
-  margin-top: 1px;
 }
 
 /* ─── Awards ─── */
@@ -856,6 +858,12 @@ ul li:last-child {
     break-after: avoid;
   }
 
+  /* Start the Entrepreneurial Projects section on a fresh page (page 2) */
+  .project-container {
+    page-break-before: always;
+    break-before: page;
+  }
+
   /* Bullet list orphan/widow control */
   ul {
     orphans: 3;
@@ -894,7 +902,7 @@ ul li:last-child {
     <header class="resume-header clearfix">
         <div class="profile-header">
             <h1>Anand Bhaskaran</h1>
-            <h2>AI Engineer · Production LLM Systems · Technical Lead · Founder · MBA</h2>
+            <h2>AI Engineer &amp; Forward Deployed Engineer · Production Agentic Systems · Founder · MBA</h2>
     
             <div class="contact-strip">
                 <span class="contact-item"><i class="fa fa-map-marker"></i>Zurich, Switzerland</span>
@@ -913,7 +921,7 @@ ul li:last-child {
                         </span>
                         <span class="contact-item">
                             <i class="fa fa-globe"></i>
-                            <a href="https://anand-creations.web.app" target="_blank" rel="noopener">anand-creations</a>
+                            <a href="https://anand-creations.com" target="_blank" rel="noopener">anand-creations.com</a>
                         </span>
     
             </div>
@@ -939,7 +947,7 @@ ul li:last-child {
         </div>
     </div>
             <div class="summary-container">
-                <p class="summary-text">Engineer at the intersection of AI applications, product thinking, and production-grade systems. The rare combination behind AI products that actually ship and move metrics. 10+ years building software for millions: AI agents that 2x outbound sales conversions at LumApps, LLM pipelines that eliminated $337K in vendor cost at Beekeeper, autonomous drone deliveries at Dronistics, co-evolution of robot brains and bodies via genetic algorithms at EPFL. Founded three companies on the side. I optimize for outcomes, not artefacts. Every system I build has a metric attached and a customer on the other side.</p>
+                <p class="summary-text">Engineer at the intersection of AI applications, product thinking, and production-grade systems. The rare combination behind AI products that actually ship and move metrics. I run Anand Creations, a forward deployed engineering practice, and I am currently deployed at LumApps building production multi-agent systems on GCP that 2x outbound conversions and forecast $1M in quarterly revenue. 13+ years building software for millions: LLM pipelines that eliminated $337K in vendor cost at Beekeeper, autonomous drone deliveries at Dronistics, co-evolution of robot brains and bodies via genetic algorithms at EPFL. Founded three companies on the side. I optimize for outcomes, not artefacts. Every system I build has a metric attached and a customer on the other side.</p>
             </div>
     <div class="resume-content">
       <div class="container work-container">
@@ -951,7 +959,7 @@ ul li:last-child {
                   <div class="section-header clearfix">
                       <h3 class="bold pull-left">
                           <a href="https://www.lumapps.com/" target="_blank">LumApps</a>
-                          <span class="work-role-inline">· Senior AI Engineer</span>
+                          <span class="work-role-inline">· Lead Software Engineer</span>
                       </h3>
                       <h5 class="italic pull-right">
                           <span class="startDate">03/2026</span>
@@ -961,19 +969,33 @@ ul li:last-child {
       
                   <div class="flex-container">
                           <h6 class="skill">Python</h6>
-                          <h6 class="skill">LangChain</h6>
-                          <h6 class="skill">FastAPI</h6>
+                          <h6 class="skill">TypeScript</h6>
                           <h6 class="skill">GCP</h6>
-                          <h6 class="skill">AI Agents</h6>
-                          <h6 class="skill">OpenAI</h6>
+                          <h6 class="skill">Vertex AI</h6>
+                          <h6 class="skill">LangChain</h6>
+                          <h6 class="skill">LangGraph</h6>
+                          <h6 class="skill">Google ADK</h6>
+                          <h6 class="skill">MCP</h6>
+                          <h6 class="skill">AG-UI</h6>
+                          <h6 class="skill">FastAPI</h6>
+                          <h6 class="skill">Multi-Agent Systems</h6>
+                          <h6 class="skill">ReAct</h6>
                           <h6 class="skill">RAG</h6>
-                          <h6 class="skill">Sales Enablement</h6>
+                          <h6 class="skill">Vector Databases</h6>
+                          <h6 class="skill">Evaluation Pipelines</h6>
+                          <h6 class="skill">LangSmith</h6>
+                          <h6 class="skill">Observability</h6>
+                          <h6 class="skill">On-Call</h6>
+                          <h6 class="skill">Neo4j</h6>
+                          <h6 class="skill">Graphiti</h6>
+                          <h6 class="skill">Salesforce</h6>
                   </div>
       
                   <ul>
-                      <li>Built and deployed production AI agents for outbound sales. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day across SDR and AE teams.</li>
-                      <li>Led end-to-end from architecture (LangChain, FastAPI, GCP) through rollout. Reported directly to C-level on outcomes, not progress.</li>
-                      <li>Expanded scope to own company-wide AI transformation strategy, governance, and sales enablement.</li>
+                      <li>Built and deployed production multi-agent workflows for outbound sales on Python, LangGraph and Google ADK over GCP Vertex AI, using ReAct, self-reflection and hierarchical delegation, with tools exposed over MCP servers and agent state streamed to the UI over AG-UI. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast: $4M in approved opportunities per quarter; at 25% conversion, $1M in quarterly revenue.</li>
+                      <li>Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, conversation transcripts, product usage) into one time-aware memory every agent reads and writes. Event-driven ingest over Pub/Sub, a query and write-back contract per agent, and a freshness layer that flags stale facts, grounding RAG retrieval to cut hallucinations.</li>
+                      <li>Led technical discovery through production: agent architecture, eval pipelines, agent tracing (LangSmith), tool-selection tuning, and cost-per-request instrumentation, with on-call for global production systems. Reports directly to C-level on outcomes, not progress.</li>
+                      <li>LumApps is a client engagement of my own practice, Anand Creations: I embed with the team and own the program from discovery to production.</li>
                   </ul>
               </section>
               <section class="item">
@@ -991,6 +1013,7 @@ ul li:last-child {
                   <div class="flex-container">
                           <h6 class="skill">Java</h6>
                           <h6 class="skill">Python</h6>
+                          <h6 class="skill">TypeScript</h6>
                           <h6 class="skill">Vue</h6>
                           <h6 class="skill">Kubernetes</h6>
                           <h6 class="skill">AWS</h6>
@@ -1006,6 +1029,11 @@ ul li:last-child {
                           <h6 class="skill">Langfuse</h6>
                           <h6 class="skill">CrewAI</h6>
                           <h6 class="skill">Strands Agents</h6>
+                          <h6 class="skill">Observability</h6>
+                          <h6 class="skill">Grafana</h6>
+                          <h6 class="skill">Datadog</h6>
+                          <h6 class="skill">Logz.io</h6>
+                          <h6 class="skill">On-Call</h6>
                   </div>
       
                   <ul>
@@ -1015,6 +1043,7 @@ ul li:last-child {
                       <li>Designed distributed templating engine that cut customer setup time 90%. Powers 15% of all platform assets for 10M+ users. Customers go from zero to live in minutes, not days.</li>
                       <li>Built GenAI demo system for sales. Auto-generates personalized content from Salesforce data so every pitch feels custom-built for that customer. Improved demo speed and close rates.</li>
                       <li>Led Search Platform revamp across 3 teams. Redesigned indexing and ranking to surface what users mean to find, not just what they typed. Measurable lift in user engagement.</li>
+                      <li>Ran observability and on-call for global production systems (Grafana, Datadog, Logz.io): logs, metrics, dashboards, and alerting.</li>
                       <li>Built and mentored the AI engineering cohort. Hired for craft and curiosity, grew engineers who now lead features independently.</li>
                       <li>Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Each shipped with instrumentation so we knew within a week if it moved the needle.</li>
                   </ul>
@@ -1041,7 +1070,7 @@ ul li:last-child {
       
                   <ul>
                       <li>Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.</li>
-                      <li>Mentored Opt Alpha on scaling algorithmic trading systems. Optimized reliability and performance for high-frequency production workloads.</li>
+                      <li>Mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production.</li>
                       <li>Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that actually ship.</li>
                   </ul>
               </section>
@@ -1063,6 +1092,8 @@ ul li:last-child {
                           <h6 class="skill">PostgreSQL</h6>
                           <h6 class="skill">AWS</h6>
                           <h6 class="skill">Docker</h6>
+                          <h6 class="skill">Terraform</h6>
+                          <h6 class="skill">Infrastructure as Code</h6>
                           <h6 class="skill">CI/CD</h6>
                           <h6 class="skill">Real-time Systems</h6>
                           <h6 class="skill">Flight Control APIs</h6>
@@ -1114,6 +1145,30 @@ ul li:last-child {
               <section class="item">
                   <div class="section-header clearfix">
                       <h3 class="bold pull-left">
+                              <a href="https://anand-creations.com" target="_blank">
+                                  Anand Creations - Forward Deployed Engineering Practice
+                                      <span class="sublink">∙ <a href="https://anand-creations.com" target="_blank" class="sublink">https://anand-creations.com</a></span>
+                              </a>
+                      </h3>
+                      <h5 class="italic pull-right">
+                              <span class="startDate">06/2024</span>
+                              <span class="endDate"> - Present</span>
+                      </h5>
+                  </div>
+      
+                  <h4>Founder &amp; Principal Forward Deployed Engineer</h4>
+      
+                  <p class="summary">Independent forward deployed practice: I embed with a customer&#x27;s team, run technical discovery, and ship production agentic AI inside their environment, from a one-week AI Opportunity Assessment through evals, tracing, and rollout. Also the home for the AI products I build and run.</p>
+      
+      
+                  <ul>
+                      <li>Flagship engagement, the GTM AI Brain: a temporal knowledge graph (Graphiti on Neo4j) unifying 5+ silos (Salesforce, HubSpot, Pendo, conversations, product usage) into one time-aware memory every agent reads and writes, with event-driven ingest over Pub/Sub and a per-agent query and write-back contract.</li>
+                      <li>Take prototypes to production for clients end to end: multi-agent systems, MCP tool servers, RAG grounding, eval pipelines, and observability, plus reusable modules distilled from repeatable field patterns.</li>
+                  </ul>
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
                               <a href="https://pulse-view.anand-creations.com" target="_blank">
                                   PulseView - AI Market Intelligence
                                       <span class="sublink">∙ <a href="https://pulse-view.anand-creations.com" target="_blank" class="sublink">https://pulse-view.anand-creations.com</a></span>
@@ -1127,20 +1182,15 @@ ul li:last-child {
       
                   <h4>Founder &amp; Builder</h4>
       
-                  <p class="summary">Built for my own trading portfolio first: a platform that explains its signals, not just shows them. Retail traders deserve the same explainable analysis that institutions pay for.</p>
+                  <p class="summary">Real-time market intelligence built for my own trading portfolio first, then opened to retail traders. AI agents generate AND justify trading signals from technical and news data, with explainability and evaluation built in: if the model can&#x27;t explain the signal, it doesn&#x27;t ship. Now serving live users on real-time feeds.</p>
       
       
-                  <ul>
-                      <li>Real-time market analysis via AI agents that generate and justify trading signals using technical and news-based data.</li>
-                      <li>Core product principle: if the model can&#x27;t explain the signal, it doesn&#x27;t ship. Explainability over complexity.</li>
-                      <li>Opened to retail traders after self-validating. Now serving live users with real-time market feeds.</li>
-                  </ul>
               </section>
               <section class="item">
                   <div class="section-header clearfix">
                       <h3 class="bold pull-left">
                               <a href="https://proplab.io" target="_blank">
-                                  Proplab - AI Real Estate Tools
+                                  Proplab - AI for Real Estate
                                       <span class="sublink">∙ <a href="https://proplab.io" target="_blank" class="sublink">https://proplab.io</a></span>
                               </a>
                       </h3>
@@ -1150,21 +1200,21 @@ ul li:last-child {
                       </h5>
                   </div>
       
-                  <h4>Founder &amp; Builder</h4>
+                  <h4>Founder &amp; AI Product Builder</h4>
       
-                  <p class="summary">Property inspections run on paper, clipboards, and WhatsApp photos. Built MVP for a fully digital, image-backed, timestamped inspection protocol that replaces the entire manual workflow.</p>
+                  <p class="summary">Property inspections run on paper, clipboards, and WhatsApp photos. Built an AI-native MVP: vision models turn inspection photos into structured records; LLM agents turn those records into marketing-ready listings.</p>
       
       
                   <ul>
-                      <li>Shipped MVP replacing paper-based inspection workflows with structured, image-backed, timestamped records.</li>
-                      <li>Building AI marketing assistant that auto-generates property listings from inspection data. One workflow, zero copy-paste.</li>
+                      <li>Vision pipeline that extracts structured signals (room type, condition, defects) from inspection photos. Replaces paper-based reports with queryable, AI-readable data.</li>
+                      <li>LLM listing generator turns inspection records into multilingual, marketing-ready property listings end-to-end. One agent workflow, zero copy-paste from photo to published listing.</li>
                   </ul>
               </section>
               <section class="item">
                   <div class="section-header clearfix">
                       <h3 class="bold pull-left">
                               <a href="https://www.swissnri.com" target="_blank">
-                                  SwissNRI - Cross-border Fintech Platform
+                                  SwissNRI - AI Cross-border Fintech
                                       <span class="sublink">∙ <a href="https://www.swissnri.com" target="_blank" class="sublink">https://www.swissnri.com</a></span>
                               </a>
                       </h3>
@@ -1176,14 +1226,9 @@ ul li:last-child {
       
                   <h4>Co-Founder &amp; Technical Lead</h4>
       
-                  <p class="summary">Swiss-Indian families navigating FEMA, DTAA, and Swiss regulations had zero digital help. Just spreadsheets and expensive advisors. Built the first platform addressing this.</p>
+                  <p class="summary">AI-native cross-border tax and compliance platform for Swiss-Indian families, replacing spreadsheets and expensive advisors. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions in plain language with citations back to the regulation; compliance-first agentic design flags risk before users file, with regulatory guardrails built before features. Zero-to-MVP in 3 months, 40% uplift in satisfaction.</p>
       
       
-                  <ul>
-                      <li>Zero-to-MVP in 3 months. Early users acquired through Swiss-Indian community partnerships.</li>
-                      <li>Compliance-first design: regulatory guardrails for both jurisdictions built before features.</li>
-                      <li>Customer feedback loops drove 40% uplift in satisfaction. Roadmap owned by what users actually asked for.</li>
-                  </ul>
               </section>
       </div>
       <div class="bottom-row">
@@ -1276,22 +1321,26 @@ ul li:last-child {
                 <div class="certificate-item">
                     <strong>Building Modern Java Applications</strong>
                     <span class="issuer">AWS</span>
-                    
                 </div>
                 <div class="certificate-item">
                     <strong>Build LLM Apps with LangChain</strong>
                     <span class="issuer">DeepLearning.AI</span>
-                    
                 </div>
+                <a href="https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab" class="certificate-item" target="_blank" rel="noopener">
+                    <strong>Knowledge Graphs for RAG</strong>
+                    <span class="issuer">Neo4j</span>
+                </a>
+                <a href="https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f" class="certificate-item" target="_blank" rel="noopener">
+                    <strong>AI Agents in LangGraph</strong>
+                    <span class="issuer">LangChain &amp; Tavily</span>
+                </a>
                 <div class="certificate-item">
                     <strong>Microsoft Certified Professional (MCPS)</strong>
                     <span class="issuer">Microsoft</span>
-                    
                 </div>
                 <div class="certificate-item">
                     <strong>MongoDB for Java Developers</strong>
                     <span class="issuer">MongoDB University</span>
-                    
                 </div>
             </div>
         </div>
@@ -1335,6 +1384,24 @@ ul li:last-child {
           </div>
           <ul class="publications-list">
               <li class="pub-item">
+                  <a href="https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">I Built an AI Outbound Agent. Here’s What Actually Worked.</span>
+                  </a>
+                  <span class="pub-venue">TowardsAI</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://anand-creations.com/blog/your-ai-needs-a-brain" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">Your AI Needs a Brain, Not a Better Model</span>
+                  </a>
+                  <span class="pub-venue">Anand Creations (Blog)</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">Drafted, not sent: how I built the second half of an AI outbound agent.</span>
+                  </a>
+                  <span class="pub-venue">The Compounding Curiosity (Substack)</span>
+              </li>
+              <li class="pub-item">
                   <a href="https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/" target="_blank" rel="noopener noreferrer">
                       <span class="pub-title">EPFL designs robots through artificial evolution</span>
                   </a>
@@ -1371,25 +1438,19 @@ ul li:last-child {
                   <span class="pub-venue">Dev Innovation Summit 2022, USA (Talk)</span>
               </li>
               <li class="pub-item">
-                  <a href="https://aws.amazon.com/blogs/publicsector/designing-robots-through-artificial-evolution/" target="_blank" rel="noopener noreferrer">
-                      <span class="pub-title">Designing Robots Through Artificial Evolution</span>
-                  </a>
-                  <span class="pub-venue">AWS Public Sector Blog</span>
-              </li>
-              <li class="pub-item">
-                  <a href="https://medium.com/@anandbaskaran3193/the-blueprint-for-building-high-impact-teams-b8d5c5f5c5e5" target="_blank" rel="noopener noreferrer">
+                  <a href="https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15" target="_blank" rel="noopener noreferrer">
                       <span class="pub-title">The Blueprint for Building High-Impact Teams</span>
                   </a>
                   <span class="pub-venue">Medium</span>
               </li>
               <li class="pub-item">
-                  <a href="https://medium.com/@anandbaskaran3193/high-performance-scalable-url-shortener-a1b2c3d4e5f6" target="_blank" rel="noopener noreferrer">
+                  <a href="https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8" target="_blank" rel="noopener noreferrer">
                       <span class="pub-title">High-Performance, Scalable URL Shortener</span>
                   </a>
-                  <span class="pub-venue">Medium / Terraform Registry</span>
+                  <span class="pub-venue">AWS in Plain English</span>
               </li>
               <li class="pub-item">
-                  <a href="https://towardsdev.com/visualizing-ai-embeddings-with-heatmap-a1b2c3d4e5f6" target="_blank" rel="noopener noreferrer">
+                  <a href="https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc" target="_blank" rel="noopener noreferrer">
                       <span class="pub-title">Visualizing AI Embeddings with Heatmap</span>
                   </a>
                   <span class="pub-venue">TowardsDev</span>

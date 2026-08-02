@@ -6,142 +6,107 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
   <title>Anand Bhaskaran</title>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-  <style>/* ─── Font faces ─── */
-@font-face {
-  font-family: 'Josefin Sans';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Josefin Sans Light'), local('JosefinSans-Light'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ecpl5te10k.ttf) format('truetype');
-}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@1,400;1,500&display=swap" rel="stylesheet">
+  <style>/* Fonts loaded via <link> in resume.hbs (Google Fonts CSS2 — all weights handled correctly) */
 
-@font-face {
-  font-family: 'Josefin Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Josefin Sans Bold'), local('JosefinSans-Bold'), url(https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ectllte10k.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 300;
-  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 400;
-  src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHjxsAXC-v.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Lato Light'), local('Lato-Light'), url(https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh7USSwiPHA.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v16/S6uyw4BMUTPHjx4wWw.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh6UVSwiPHA.ttf) format('truetype');
+/* ─── Design tokens ─── */
+:root {
+  --bg: #FAF9F6;
+  --surface: #FFFFFF;
+  --ink: #1A1A1A;
+  --ink-2: #2E2E2E;
+  --muted: #6B6B6B;
+  --faint: #9B9B9B;
+  --line: #EAE7E1;
+  --line-soft: #F1EEE8;
+  --accent: #7C5BCC;
+  --accent-deep: #5E3FB0;
+  --accent-soft: #F2EDFB;
+  --accent-border: #DCD2F4;
+  --pill-bg: #F4F2EC;
+  --pill-border: #E5E1D8;
+  --green: #047857;
+  --green-soft: #ECFDF5;
 }
 
 /* ─── Base ─── */
 html {
-  background: white;
+  background: var(--bg);
 }
 
 body {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 17px;
-  background: white;
-  margin: 50px 0 100px;
-  letter-spacing: .2px;
-  color: #374151;
+  background: var(--bg);
+  margin: 40px 0 80px;
+  letter-spacing: -0.005em;
+  color: var(--ink-2);
   line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* ─── Type scale ─── */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   text-transform: none;
   margin: 0;
 }
 
 /* Name */
 h1 {
-  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 700;
-  font-size: 40px;
-  letter-spacing: .5px;
-  color: #0F172A;
-  line-height: 1;
+  font-size: 32px;
+  letter-spacing: -0.025em;
+  color: var(--ink);
+  line-height: 1.05;
 }
 
-/* Label / subtitle */
+/* Label / subtitle (gentle oblique serif) */
 h2 {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
-  font-weight: 300;
-  font-size: 11px;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  color: #6B7280;
-  margin-top: 6px;
+  font-family: "Newsreader", Georgia, serif;
+  font-style: oblique 8deg;
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: -0.005em;
+  text-transform: none;
+  color: var(--muted);
+  margin-top: 4px;
+  line-height: 1.3;
 }
 
-/* Company / institution / project names */
 h3 {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
   font-size: 13px;
-  letter-spacing: .2px;
-  color: #0F172A;
+  letter-spacing: -0.005em;
+  color: var(--ink);
 }
 
 h3.bold {
-  font-weight: 700;
+  font-weight: 600;
 }
 
-/* Position, degree, role */
 h4 {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 12px;
-  color: #374151;
+  color: var(--ink-2);
 }
 
 h4.bold {
-  font-weight: 700;
+  font-weight: 600;
 }
 
-/* Dates, secondary labels */
 h5 {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 10px;
-  color: #9CA3AF;
+  color: var(--faint);
+  letter-spacing: 0;
 }
 
 h5.italic {
@@ -149,97 +114,76 @@ h5.italic {
 }
 
 h6 {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 10px;
-  color: #374151;
+  color: var(--ink-2);
 }
 
 a {
   color: inherit;
   text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color .15s ease, color .15s ease;
 }
 
 a:hover {
-  color: #1D4ED8;
+  color: var(--accent);
+  border-bottom-color: var(--accent);
 }
 
-a .fa-external-link {
-  font-size: 10px;
-  vertical-align: text-top;
-}
-
-p,
-li {
-  font-size: 12px;
+p, li {
+  font-size: 11.5px;
   font-weight: 400;
-  color: #374151;
-  line-height: 1.6;
-}
-
-blockquote {
-  font-size: 11px;
-  font-family: "Lato", Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  font-style: italic;
-  margin: 10px 25px;
+  color: var(--ink-2);
+  line-height: 1.55;
 }
 
 em {
-  color: #6B7280;
+  color: var(--muted);
+  font-family: "Newsreader", Georgia, serif;
+  font-style: italic;
 }
 
 ul {
-  margin: 5px 0 0;
-  -webkit-padding-start: 14px;
+  margin: 4px 0 0;
+  padding-left: 14px;
 }
 
 ul li {
-  padding-left: 0;
+  padding-left: 2px;
   margin-bottom: 2px;
+}
+
+ul li::marker {
+  color: var(--accent);
+  font-size: 0.85em;
 }
 
 ul li:last-child {
   margin-bottom: 0;
 }
 
-ul.minimal {
-  list-style: none;
-  padding: 0;
-}
-
-ul.minimal li {
-  margin-bottom: 4px;
-  padding-left: 0;
-  font-size: 12px;
-  color: #374151;
-}
-
-ul.two-column {
-  -webkit-column-count: 2;
-  -webkit-column-gap: 28px;
-  column-count: 2;
-  column-gap: 28px;
-}
-
-ul.two-column li {
-  padding-left: 0;
-}
-
 @page {
   size: A4;
+  margin: 8mm 0 0 0;
 }
 
-/* ─── Page shell ─── */
+@page :first {
+  margin: 0;
+}
+
+/* ─── Page shell (A4: 210mm × 297mm) ─── */
 .page {
-  background: white;
-  width: 612px;
-  min-height: 792px;
+  background: var(--surface);
+  width: 210mm;
+  min-height: 297mm;
   display: block;
   margin: 0 auto;
-  border-top: 6px solid #0F172A;
-  padding: 28px 22px 25px 34px;
-  box-shadow: 0 4px 28px rgba(0, 0, 0, .10);
+  padding: 12mm 14mm 10mm;
+  box-shadow: 0 8px 40px rgba(17, 17, 17, .07), 0 1px 3px rgba(17, 17, 17, .04);
+  border-radius: 2px;
+  box-sizing: border-box;
 }
 
 .page:after {
@@ -251,37 +195,154 @@ ul.two-column li {
 /* ─── Header ─── */
 .resume-header {
   padding-bottom: 14px;
-  margin-bottom: 4px;
-  border-bottom: 1px solid #E5E7EB;
+  margin-bottom: 0;
+  position: relative;
 }
 
-/* ─── Full-width summary strip ─── */
+.profile-header {
+  flex: 1;
+  min-width: 0;
+}
+
+.resume-header.clearfix {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.resume-header h1 {
+  margin-bottom: 2px;
+}
+
+/* Status pill (open to opportunities) */
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 10px;
+  background: var(--green-soft);
+  border: 1px solid #BBF7D0;
+  border-radius: 999px;
+  font-size: 9.5px;
+  font-weight: 500;
+  color: var(--green);
+  margin-bottom: 8px;
+  letter-spacing: 0;
+}
+
+.status-pill .dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--green);
+}
+
+/* Contact strip */
+.contact-strip {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 10px;
+  margin-top: 10px;
+  font-size: 10.5px;
+  color: var(--muted);
+}
+
+.contact-strip .contact-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.contact-strip .contact-item + .contact-item::before {
+  content: "·";
+  color: var(--faint);
+  margin-right: 6px;
+  font-weight: 600;
+}
+
+.contact-strip .fa {
+  font-size: 10px;
+  color: var(--faint);
+  margin: 0 4px 0 0;
+  text-align: center;
+  line-height: 1;
+  transform: translateY(-1.5px);
+}
+
+.contact-strip a {
+  color: var(--ink-2);
+  border-bottom: none;
+}
+
+.contact-strip a:hover {
+  color: var(--accent);
+}
+
+/* ─── Metrics bar ─── */
+.metrics-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 28px;
+  padding: 12px 0 10px;
+  border-bottom: 1px solid var(--line);
+  margin-top: 4px;
+}
+
+.metric-item {
+  text-align: left;
+  flex: 1;
+  padding: 0;
+}
+
+.metric-value {
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--ink);
+  display: block;
+  line-height: 1.05;
+  letter-spacing: -0.025em;
+}
+
+.metric-label {
+  font-family: "Inter", sans-serif;
+  font-size: 9.5px;
+  text-transform: none;
+  letter-spacing: 0;
+  color: var(--muted);
+  display: block;
+  margin-top: 5px;
+  font-weight: 400;
+  line-height: 1.3;
+}
+
+/* ─── Summary strip ─── */
 .summary-container {
-  padding: 11px 0 13px;
-  border-bottom: 1px solid #E5E7EB;
+  padding: 8px 0 12px;
   margin-bottom: 0;
 }
 
 .summary-text {
-  font-size: 12.5px;
+  font-size: 12px;
   font-weight: 400;
-  color: #374151;
-  line-height: 1.7;
+  color: var(--ink-2);
+  line-height: 1.65;
   margin: 0;
-  opacity: 0.95;
 }
 
-/* ─── Two-column layout ─── */
-.left-column {
-  float: left;
-  width: 158px;
-  margin-right: 22px;
-  word-wrap: break-word;
+/* ─── Single-column flow ─── */
+.resume-content {
+  display: block;
 }
 
+.left-column,
 .right-column {
-  width: auto;
-  overflow: hidden;
+  float: none;
+  width: 100%;
+  margin: 0;
+  overflow: visible;
 }
 
 /* ─── Containers ─── */
@@ -290,65 +351,99 @@ ul.two-column li {
 }
 
 .item {
-  margin-bottom: 13px;
+  margin-bottom: 12px;
 }
 
 .item:last-child {
   margin-bottom: 0;
 }
 
-/* ─── Section titles (.title > h3 + .keyline) ─── */
+/* ─── Section titles ─── */
 .title h3 {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
-  font-size: 8.5px;
-  font-weight: 700;
+  font-family: "Inter", sans-serif;
+  font-size: 9px;
+  font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 2.5px;
-  color: #1D4ED8;
+  letter-spacing: 0.14em;
+  color: var(--ink);
 }
 
 .keyline {
-  width: 24px;
-  margin: 4px 0 8px;
-  border-top: 2px solid #1D4ED8;
-  opacity: 0.35;
+  width: 100%;
+  margin: 5px 0 10px;
+  border-top: 1px solid var(--line);
+  opacity: 1;
 }
 
-/* ─── Section header row (company name + dates) ─── */
+/* ─── Section header (company name + dates) ─── */
 .section-header {
-  margin-bottom: 1px;
+  margin-bottom: 2px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.section-header.clearfix::before,
+.section-header.clearfix::after {
+  display: none;
 }
 
 .section-header h3.bold {
-  color: #0F172A;
+  color: var(--ink);
   font-size: 13px;
+  font-weight: 600;
+  float: none !important;
 }
 
 .section-header h5 {
-  color: #9CA3AF;
-  font-size: 9.5px;
+  color: var(--faint);
+  font-size: 10px;
   font-style: normal;
-  letter-spacing: .1px;
-  margin-top: 1px;
+  letter-spacing: 0;
+  margin-top: 0;
+  white-space: nowrap;
+  float: none !important;
+  font-variant-numeric: tabular-nums;
 }
 
-/* ─── Position / role title — electric blue accent ─── */
-.work-container .item > h4,
-.project-container .item > h4 {
-  font-size: 11px;
-  font-weight: 700;
-  color: #1D4ED8;
-  margin: 2px 0 5px;
-  letter-spacing: .2px;
-}
-
-/* Education degree — italic, muted */
-.education-container .item > h4 {
+/* ─── Work: inline role after company name ─── */
+.work-role-inline {
+  font-family: "Inter", sans-serif;
   font-size: 11px;
   font-weight: 400;
+  color: var(--accent);
+  margin-left: 6px;
+  letter-spacing: 0;
+}
+
+/* ─── Position / role title (projects + education only) ─── */
+.project-container .item > h4 {
+  font-size: 11.5px;
+  font-weight: 500;
+  color: var(--accent);
+  margin: 2px 0 4px;
+  letter-spacing: 0;
+}
+
+/* Project description: tight gap above and below */
+.project-container .item p.summary {
+  margin: 2px 0 4px;
+  font-size: 11.5px;
+  line-height: 1.5;
+}
+
+.project-container .item ul {
+  margin-top: 3px;
+}
+
+.education-container .item > h4 {
+  font-size: 11.5px;
+  font-weight: 400;
   font-style: italic;
-  color: #6B7280;
-  margin: 2px 0 5px;
+  font-family: "Newsreader", Georgia, serif;
+  color: var(--muted);
+  margin: 2px 0 3px;
 }
 
 /* ─── Profile pic ─── */
@@ -367,110 +462,71 @@ ul.two-column li {
 }
 
 .profile-pic {
-  margin-top: -2px;
-  margin-right: 16px;
+  flex-shrink: 0;
+  margin: 0;
 }
 
 .profile-pic img {
-  height: 54px;
-  width: 54px;
+  height: 56px;
+  width: 56px;
   border-radius: 50%;
-  border: 2px solid #E5E7EB;
+  border: 1px solid var(--line);
+  object-fit: cover;
 }
 
-/* ─── Info tags (left column) ─── */
-.summary {
-  margin: 4px 0 2px;
-}
-
-.sublink {
-  font-size: 68%;
-  font-weight: 300;
-  color: #9CA3AF;
-}
-
-.capitalize {
-  text-transform: capitalize;
-}
-
-.info-tag-container {
-  margin-bottom: 4px;
-}
-
-.info-tag-container .fa {
-  font-size: 12px;
-  width: 12px;
-  margin-right: 5px;
-  text-align: center;
-  vertical-align: middle;
-  color: #9CA3AF;
-}
-
-.info-tag-container .fa.fa-map-marker {
-  font-size: 14px;
-}
-
-.info-tag-container .fa.fa-mobile {
-  font-size: 16px;
-}
-
-.info-tag-container .fa.fa-envelope-o {
-  font-size: 11px;
-}
-
-.info-tag-container .fa.fa-desktop {
-  font-size: 11px;
-}
-
-.info-tag-container .fa.fa-external-link {
-  width: auto;
-  font-size: inherit;
-  vertical-align: text-top;
-}
-
-.info-tag-container .info-text {
-  font-size: 11px;
-  text-transform: none;
-  display: inline-block;
-  vertical-align: middle;
-  width: 132px;
-  color: #374151;
-  word-break: break-all;
-}
-
-/* ─── Skills (left column) ─── */
+/* ─── Skills (label-prefix rows) ─── */
 .skills-container {
-  margin-bottom: 18px;
+  margin-bottom: 0;
 }
 
 .skills-section {
-  margin-bottom: 14px;
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 14px;
+  align-items: baseline;
+  padding: 6px 0;
+  border-bottom: 1px dotted var(--line-soft);
+  margin: 0;
+}
+
+.skills-section:last-child {
+  border-bottom: none;
+}
+
+.skills-section .title {
+  margin: 0;
+}
+
+.skills-section .title h3 {
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+.skills-section .keyline {
+  display: none;
 }
 
 .skills-flex {
   display: flex;
   flex-wrap: wrap;
-  gap: 5px;
-  margin-top: 7px;
-  margin-bottom: 5px;
+  gap: 6px 8px;
+  margin: 0;
 }
 
-/* Skill pills — light blue tint */
 .skill-pill {
   font-size: 10px;
   font-weight: 400;
-  color: #1E3A8A;
-  padding: 2px 8px;
-  background: #EFF6FF;
-  border-radius: 4px;
-  border: 1px solid #BFDBFE;
+  color: var(--ink-2);
+  padding: 1px 8px;
+  background: var(--pill-bg);
+  border-radius: 3px;
+  border: 1px solid var(--pill-border);
   white-space: nowrap;
   display: inline-block;
-  letter-spacing: .1px;
-}
-
-.main-skill {
-  font-size: 80%;
+  letter-spacing: 0;
 }
 
 /* ─── Work keywords (inline tech tags) ─── */
@@ -478,27 +534,27 @@ ul.two-column li {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 3px;
-  margin-top: 5px;
+  margin-top: 7px;
+  margin-bottom: -3px; /* cancel last row's bottom margin */
 }
 
 .skill {
   font-size: 9px;
   font-weight: 500;
-  color: #1D4ED8;
-  background: #EFF6FF;
-  border: 1px solid #BFDBFE;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-border);
   border-radius: 3px;
-  padding: 1px 5px;
-  margin: 0;
-  letter-spacing: .2px;
+  padding: 1px 6px;
+  margin: 0 5px 3px 0; /* right + bottom instead of gap — works in Chrome 80 */
+  letter-spacing: 0;
 }
 
 /* ─── Education ─── */
 .education-container .location {
-  padding-bottom: 5px;
+  padding-bottom: 4px;
   font-weight: 400;
-  color: #6B7280;
+  color: var(--muted);
 }
 
 .education-container .specialization {
@@ -506,133 +562,237 @@ ul.two-column li {
   font-style: italic;
 }
 
+/* ─── Bottom row: education + certs + awards in 3 columns ─── */
+.bottom-row {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr 1fr;
+  gap: 24px;
+  padding-top: 14px;
+  align-items: start;
+}
+
+.bottom-row > .container {
+  padding-top: 0;
+  margin-bottom: 0;
+}
+
+.bottom-row .item {
+  margin-bottom: 8px;
+}
+
+.bottom-row .education-container .item > h4 {
+  font-size: 10.5px;
+  margin: 1px 0 0;
+}
+
+.bottom-row .section-header h3.bold {
+  font-size: 11.5px;
+}
+
+.bottom-row .section-header h5 {
+  font-size: 9.5px;
+}
+
 /* ─── Certificates ─── */
 .certificates-list {
-  margin-bottom: 12px;
+  margin-bottom: 0;
 }
 
 .certificate-item {
-  margin-bottom: 7px;
-  line-height: 1.4;
-  font-size: 11px;
+  margin-bottom: 8px;
+  line-height: 1.35;
+  font-size: 10.5px;
+  color: var(--ink-2);
 }
 
 .certificate-item strong {
-  font-size: 11px;
-  font-weight: 700;
-  color: #0F172A;
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--ink);
+  display: block;
+}
+
+.certificate-item .issuer {
+  display: block;
+  font-size: 9.5px;
+  color: var(--muted);
+  margin-top: 1px;
 }
 
 .certificate-item:last-child {
   margin-bottom: 0;
 }
 
-.certificates-container .date {
-  font-size: 10px;
-  color: #9CA3AF;
-  font-weight: normal;
-}
-
 .certificates-container .certificate-url {
-  font-size: 10px;
-  color: #1D4ED8;
-  text-decoration: none;
-}
-
-.certificates-container .certificate-url:hover {
-  text-decoration: underline;
+  display: block;
+  font-size: 9px;
+  color: var(--accent);
+  margin-top: 1px;
 }
 
 /* ─── Awards ─── */
 .awards-list {
-  margin-bottom: 12px;
+  margin-bottom: 0;
 }
 
 .award-item {
-  margin-bottom: 7px;
-  line-height: 1.4;
-  font-size: 11px;
+  margin-bottom: 8px;
+  line-height: 1.35;
+  font-size: 10.5px;
+  color: var(--ink-2);
 }
 
 .award-item strong {
-  font-size: 11px;
-  font-weight: 700;
-  color: #0F172A;
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--ink);
+  display: block;
+}
+
+.award-item .awarder {
+  display: block;
+  font-size: 9.5px;
+  color: var(--muted);
+  margin-top: 1px;
+}
+
+.award-item .award-summary {
+  display: block;
+  font-size: 9.5px;
+  color: var(--ink-2);
+  margin-top: 2px;
 }
 
 .award-item:last-child {
   margin-bottom: 0;
 }
 
-.awards-container .date {
-  font-size: 10px;
-  color: #9CA3AF;
-  font-weight: normal;
-}
-
-.awards-container .award-url {
-  font-size: 10px;
-  color: #1D4ED8;
-  text-decoration: none;
-}
-
-.awards-container .award-url:hover {
-  text-decoration: underline;
-}
-
-/* ─── Compact containers ─── */
-.certificates-container .item,
-.awards-container .item,
-.publications-container .item {
-  margin-bottom: 8px;
-}
-
-.certificates-container .item:last-child,
-.awards-container .item:last-child,
-.publications-container .item:last-child {
-  margin-bottom: 0;
-}
-
-.certificates-container .item-header h4,
-.awards-container .item-header h4,
-.publications-container .item-header h4 {
-  margin-bottom: 2px;
-  font-size: 13px;
-  line-height: 1.2;
-}
-
-.certificates-container .issuer,
-.awards-container .awarder,
-.publications-container .awarder {
-  margin: 2px 0 3px;
-  font-size: 11px;
-  color: #6B7280;
-}
-
-.certificates-container .summary,
-.awards-container .summary,
-.publications-container .summary {
-  margin: 2px 0 0;
-  font-size: 11px;
-  line-height: 1.4;
-}
-
+/* ─── Compact section spacing ─── */
 .certificates-container,
 .awards-container,
 .publications-container {
-  margin-bottom: 10px;
+  margin-bottom: 0;
 }
 
-.certificates-container .keyline,
-.awards-container .keyline,
-.publications-container .keyline {
-  margin: 4px 0 6px;
+/* ─── Publications (compact 2-col) ─── */
+.publications-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 18px;
+}
+
+.pub-item {
+  width: auto;
+  margin: 0;
+}
+
+.pub-item:nth-child(odd) {
+  margin-right: 0;
+}
+
+.pub-title {
+  font-size: 10.5px;
+  font-weight: 500;
+  color: var(--ink);
+  display: block;
+  line-height: 1.3;
+  border-bottom: none !important;
+}
+
+.pub-title:hover {
+  color: var(--accent);
+}
+
+.pub-venue {
+  font-size: 9px;
+  color: var(--faint);
+  display: block;
+  margin-top: 1px;
+  letter-spacing: 0;
+}
+
+.view-all-wrap {
+  margin-top: 9px;
+}
+
+.view-all-link {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--accent);
+  letter-spacing: 0;
+  text-decoration: none;
+  border-bottom: 1px solid var(--accent-border);
+}
+
+.view-all-link:hover {
+  border-bottom-color: var(--accent);
+}
+
+/* ─── Project sublink ─── */
+.sublink {
+  font-size: 68%;
+  font-weight: 400;
+  color: var(--faint);
+}
+
+.capitalize {
+  text-transform: capitalize;
 }
 
 /* ─── References ─── */
 .references-container .fa {
   font-size: 14px;
-  color: #9CA3AF;
+  color: var(--faint);
+}
+
+/* ─── Collapsible sections ─── */
+.section-collapse {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.section-collapse-summary {
+  list-style: none;
+  cursor: pointer;
+  user-select: none;
+  display: block;
+}
+
+/* Hide browser's default disclosure triangle */
+.section-collapse-summary::-webkit-details-marker { display: none; }
+.section-collapse-summary::marker { display: none; }
+
+/* Hover: section title gets a subtle accent tint */
+.section-collapse-summary:hover .title h3 {
+  color: var(--accent);
+  transition: color .15s ease;
+}
+
+/* Collapsed state: hide keyline bottom margin so spacing stays tight */
+.section-collapse:not([open]) > .section-collapse-summary .keyline {
+  margin-bottom: 0;
+}
+
+/* Collapsed: add a small indicator on the keyline */
+.section-collapse:not([open]) > .section-collapse-summary .title h3::after {
+  content: " +";
+  font-weight: 400;
+  color: var(--faint);
+  font-size: 8px;
+  letter-spacing: 0;
+}
+
+.section-collapse[open] > .section-collapse-summary .title h3::after {
+  content: " –";
+  font-weight: 400;
+  color: var(--faint);
+  font-size: 8px;
+  letter-spacing: 0;
 }
 
 /* ─── Print ─── */
@@ -642,63 +802,95 @@ ul.two-column li {
     print-color-adjust: exact !important;
   }
 
-  body {
-    margin: 0;
-    -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
+  html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: var(--bg) !important;
   }
 
   .page {
-    width: 100% !important;
-    height: 100% !important;
-    margin: 0 !important;
-    padding: 34px 0 28px !important;
+    width: 210mm !important;
+    min-height: 297mm !important;
+    height: auto !important;
+    margin: 0 auto !important;
+    padding: 12mm 14mm 10mm !important;
     box-shadow: none !important;
+    border-radius: 0 !important;
+    background: var(--surface) !important;
+    box-sizing: border-box !important;
   }
 
   .page:after {
     display: none !important;
   }
 
-  .page .resume-header,
-  .page .summary-container,
-  .page .resume-content {
-    padding: 0 22px 0 34px !important;
-  }
-
   .resume-content {
-    display: grid !important;
-    grid-template-columns: 158px 1fr !important;
-    grid-gap: 22px !important;
-    align-items: start !important;
+    display: block !important;
   }
 
-  .left-column {
-    grid-column: 1 !important;
-    float: none !important;
-    width: auto !important;
-    margin-right: 0 !important;
-    word-wrap: break-word !important;
-  }
-
+  .left-column,
   .right-column {
-    grid-column: 2 !important;
-    width: auto !important;
+    float: none !important;
+    width: 100% !important;
+    margin: 0 !important;
     overflow: visible !important;
   }
 
-  .work-container .item,
-  .education-container .item,
-  .project-container .item {
+  /* Keep header, metrics, summary together at top */
+  .resume-header,
+  .metrics-bar,
+  .summary-container {
     page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Avoid breaking within an entry */
+  .work-container .item,
+  .project-container .item,
+  .education-container .item,
+  .skills-section,
+  .certificate-item,
+  .award-item,
+  .pub-item {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Don't orphan a section title at page bottom */
+  .container > .title,
+  .section-header {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  /* Bullet list orphan/widow control */
+  ul {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .bottom-row {
+    page-break-inside: avoid;
+    break-inside: avoid;
   }
 
   .publications-container {
     page-break-inside: auto !important;
+    break-inside: auto !important;
   }
 
   .fa-external-link {
     display: none;
+  }
+
+  /* Force all collapsed sections open when printing */
+  .section-collapse-summary {
+    cursor: default;
+    pointer-events: none;
+  }
+
+  .section-collapse-summary .title h3::after {
+    display: none !important;
   }
 }
 </style>
@@ -707,442 +899,306 @@ ul.two-column li {
 <body>
   <main id="resume" class="page">
     <header class="resume-header clearfix">
-        <div class="profile-header pull-left">
+        <div class="profile-header">
             <h1>Anand Bhaskaran</h1>
-            <h2>Senior Software Engineer | Technical Lead | Startup Mentor | MBA | AI</h2>
+            <h2>AI Agents Solutions Architect · Production Multi-Agent Systems · Finance &amp; Regulated AI · Claude, Python, MCP</h2>
+    
+            <div class="contact-strip">
+                <span class="contact-item"><i class="fa fa-map-marker"></i>Zurich, Switzerland</span>
+    
+                <span class="contact-item"><i class="fa fa-envelope-o"></i><a href="mailto:anandbaskaran3193@gmail.com">anandbaskaran3193@gmail.com</a></span>
+    
+                <span class="contact-item"><i class="fa fa-mobile"></i>+41763043193</span>
+    
+                        <span class="contact-item">
+                            <i class="fa fa-linkedin"></i>
+                            <a href="https://ch.linkedin.com/in/anandb3" target="_blank" rel="noopener">anandb3</a>
+                        </span>
+                        <span class="contact-item">
+                            <i class="fa fa-github"></i>
+                            <a href="https://github.com/anandbhaskaran" target="_blank" rel="noopener">anandbhaskaran</a>
+                        </span>
+                        <span class="contact-item">
+                            <i class="fa fa-globe"></i>
+                            <a href="https://anand-creations.com" target="_blank" rel="noopener">anand-creations.com</a>
+                        </span>
+    
+            </div>
         </div>
-        <div class="profile-pic pull-right">
-        </div>
+    
     </header>
+    <div class="metrics-bar">
+        <div class="metric-item">
+            <span class="metric-value">$1.5M+</span>
+            <span class="metric-label">Revenue Shipped</span>
+        </div>
+        <div class="metric-item">
+            <span class="metric-value">$337K</span>
+            <span class="metric-label">Costs Eliminated</span>
+        </div>
+        <div class="metric-item">
+            <span class="metric-value">10M+</span>
+            <span class="metric-label">Users Served</span>
+        </div>
+        <div class="metric-item">
+            <span class="metric-value">3</span>
+            <span class="metric-label">Companies Founded</span>
+        </div>
+    </div>
             <div class="summary-container">
-                <p class="summary-text">Technical leader with 10+ years architecting and deploying agentic AI systems in production, delivering $337K+ cost savings and automation at scale. Led cross-functional teams on regulated SaaS and fintech platforms, integrating LLMs and governance frameworks to accelerate financial workflows, enhance audit integrity, and drive measurable operational efficiency for global organizations.</p>
+                <p class="summary-text">AI agents solutions architect who has deployed production agentic systems used by real customers, not demos. Through my practice, Anand Creations, I own the full arc solo: discovery, architecture, build, deploy, optimize, designing for the failure modes of autonomous workflows with human-in-the-loop oversight, evaluation gates, guardrails, and auditability. Finance and regulated fintech is home turf: a compliance-first cross-border tax platform (SwissNRI), an explainable trading-signal system (PulseView), a high-frequency trading team I mentored (Opt Alpha), and product ownership at an investment-research fintech (Obermatt). Built on Claude and Anthropic APIs, Python orchestration, MCP agent coordination, and knowledge-graph and RAG pipelines.</p>
             </div>
     <div class="resume-content">
-      <aside class="left-column">
-        <div class="container about-container">
-            <div class="title">
-                <h3>About</h3>
-                <div class="keyline"></div>
-            </div>
-                <div class="info-tag-container">
-                    <i class="fa fa-map-marker"></i>
-                
-                        <h6 class="info-text"> Zurich   Switzerland</h6>
-                </div>
-        
-        
-                <div class="info-tag-container">
-                    <i class="fa fa-envelope-o"></i>
-                
-                        <h6 class="info-text">
-                            <a href="mailto:anandbaskaran3193@gmail.com" target="_blank">
-                                anandbaskaran3193@gmail.com
-                            </a>
-                        </h6>
-                </div>
-        
-                <div class="info-tag-container">
-                    <i class="fa fa-mobile"></i>
-                
-                        <h6 class="info-text">
-                            <a href="https://anand-creations.web.app" target="_blank">
-                                +41763043193
-                            </a>
-                        </h6>
-                </div>
-        
-        
-                                <div class="info-tag-container">
-                                    <i class="fa fa-linkedin-square"></i>
-                                
-                                        <h6 class="info-text">
-                                            <a href="https://ch.linkedin.com/in/anandb3" target="_blank">
-                                                anandb3
-                                            </a>
-                                        </h6>
-                                </div>
-                                 <div class="info-tag-container">
-                                     <i class="fa fa-github"></i>
-                                 
-                                         <h6 class="info-text">
-                                             <a href="https://github.com/anandbhaskaran" target="_blank">
-                                                 anandbhaskaran
-                                             </a>
-                                         </h6>
-                                 </div>
-                                 <div class="info-tag-container">
-                                     <i class="fa fa-website"></i>
-                                 
-                                         <h6 class="info-text">
-                                             <a href="https://anand-creations.web.app" target="_blank">
-                                                 anand-creations
-                                             </a>
-                                         </h6>
-                                 </div>
-        </section>
-            <div class="skills-container">
-                    <section class="container skills-section">
-                            <div class="title">
-                                <h3>Agentic AI Systems</h3>
-                                <div class="keyline"></div>
-                            </div>                    <div class="skills-flex">
-                                    <span class="skill-pill">Agentic Workflows</span>
-                                    <span class="skill-pill">LLM Orchestration</span>
-                                    <span class="skill-pill">Multi-Agent Systems</span>
-                                    <span class="skill-pill">OpenAI APIs</span>
-                                    <span class="skill-pill">Claude</span>
-                                    <span class="skill-pill">LangChain</span>
-                                    <span class="skill-pill">AI Governance</span>
-                                    <span class="skill-pill">RAG Pipelines</span>
-                                    <span class="skill-pill">Auditability</span>
-                                    <span class="skill-pill">Failure Detection</span>
-                            </div>
-                    </section>
-                    <section class="container skills-section">
-                            <div class="title">
-                                <h3>Systems Architecture &amp; Automation</h3>
-                                <div class="keyline"></div>
-                            </div>                    <div class="skills-flex">
-                                    <span class="skill-pill">System Architecture</span>
-                                    <span class="skill-pill">Distributed Systems</span>
-                                    <span class="skill-pill">API Integration</span>
-                                    <span class="skill-pill">Microservices</span>
-                                    <span class="skill-pill">Workflow Automation</span>
-                                    <span class="skill-pill">DevOps</span>
-                                    <span class="skill-pill">Kubernetes</span>
-                                    <span class="skill-pill">CI/CD</span>
-                                    <span class="skill-pill">Terraform</span>
-                                    <span class="skill-pill">AWS</span>
-                            </div>
-                    </section>
-                    <section class="container skills-section">
-                            <div class="title">
-                                <h3>Finance &amp; Product Strategy</h3>
-                                <div class="keyline"></div>
-                            </div>                    <div class="skills-flex">
-                                    <span class="skill-pill">Finance Operations</span>
-                                    <span class="skill-pill">Scalable Architecture</span>
-                                    <span class="skill-pill">Regulatory Compliance</span>
-                                    <span class="skill-pill">Go-to-Market</span>
-                                    <span class="skill-pill">Stakeholder Management</span>
-                                    <span class="skill-pill">Revenue Generation</span>
-                                    <span class="skill-pill">Process Optimization</span>
-                                    <span class="skill-pill">Product Ownership</span>
-                                    <span class="skill-pill">A/B Testing</span>
-                                    <span class="skill-pill">Cross-functional Collaboration</span>
-                            </div>
-                    </section>
-                    <section class="container skills-section">
-                            <div class="title">
-                                <h3>Backend &amp; Data Engineering</h3>
-                                <div class="keyline"></div>
-                            </div>                    <div class="skills-flex">
-                                    <span class="skill-pill">Python</span>
-                                    <span class="skill-pill">Java</span>
-                                    <span class="skill-pill">PostgreSQL</span>
-                                    <span class="skill-pill">Kafka</span>
-                                    <span class="skill-pill">Elastic Search</span>
-                                    <span class="skill-pill">ClickHouse</span>
-                                    <span class="skill-pill">API Development</span>
-                                    <span class="skill-pill">Data Pipelines</span>
-                                    <span class="skill-pill">Monitoring &amp; Observability</span>
-                                    <span class="skill-pill">Jenkins</span>
-                            </div>
-                    </section>
-                    <section class="container skills-section">
-                            <div class="title">
-                                <h3>Leadership &amp; Mentoring</h3>
-                                <div class="keyline"></div>
-                            </div>                    <div class="skills-flex">
-                                    <span class="skill-pill">Technical Leadership</span>
-                                    <span class="skill-pill">Mentoring</span>
-                                    <span class="skill-pill">Team Leadership</span>
-                                    <span class="skill-pill">Technical Hiring</span>
-                                    <span class="skill-pill">Product Roadmaps</span>
-                                    <span class="skill-pill">Startup Advising</span>
-                                    <span class="skill-pill">Cross-team Alignment</span>
-                                    <span class="skill-pill">Developer Velocity</span>
-                                    <span class="skill-pill">Strategic Roadmaps</span>
-                                    <span class="skill-pill">Teaching &amp; Training</span>
-                            </div>
-                    </section>
-            </div>
-            <div class="container languages-container">
-                <div class="title">
-                    <h3>Languages</h3>
-                    <div class="keyline"></div>
-                </div>
-                <ul class="minimal">
-                        <li>
-                            <h6>English <em>(Professional Working)</em></h6>
-                        </li>
-                        <li>
-                            <h6>German <em>(Beginner)</em></h6>
-                        </li>
-                </ul>
-            </div>
-        <div class="container certificates-container">
-            <div class="title">
-                <h3>Certificates</h3>
-                <div class="keyline"></div>
-            </div>
-            <div class="certificates-list">
-                <div class="certificate-item">
-                    <strong>Building Modern Java Applications</strong> - AWS
-                    
-                    
-                </div>
-                <div class="certificate-item">
-                    <strong>Build LLM Apps with LangChain</strong> - DeepLearning.AI
-                    
-                    
-                </div>
-                <div class="certificate-item">
-                    <strong>Microsoft Certified Professional (MCPS)</strong> - Microsoft
-                    
-                    
-                </div>
-                <div class="certificate-item">
-                    <strong>MongoDB for Java Developers</strong> - MongoDB University
-                    
-                    
-                </div>
-            </div>
-        </div>
-            <div class="container interests-container">
-                <div class="title">
-                    <h3>Interests</h3>
-                    <div class="keyline"></div>
-                </div>
-                    <section class="item">
-                            <h4 class="bold">AI &amp; Creativity</h4>
-                    </section>
-                    <section class="item">
-                            <h4 class="bold">Agentic AI Systems</h4>
-                    </section>
-                    <section class="item">
-                            <h4 class="bold">Finance Automation</h4>
-                    </section>
-                    <section class="item">
-                            <h4 class="bold">Microfrontends</h4>
-                    </section>
-                    <section class="item">
-                            <h4 class="bold">Startup Mentoring</h4>
-                    </section>
-                    <section class="item">
-                            <h4 class="bold">Distributed Systems</h4>
-                    </section>
-            </div>
-        <div class="container awards-container">
-            <div class="title">
-                <h3>Awards</h3>
-                <div class="keyline"></div>
-            </div>
-            <div class="awards-list">
-                <div class="award-item">
-                    <strong>AWS Cloud Credits for Research</strong> - Amazon Web Services
-                    <span class="date"> (2020)</span>
-                    
-                    
-                </div>
-                <div class="award-item">
-                    <strong>KTH Opportunities Fund</strong> - KTH Royal Institute of Technology
-                    
-                    
-                    
-                </div>
-                <div class="award-item">
-                    <strong>TI India Analog Design Contest Winner</strong> - Texas Instruments
-                    
-                    
-                    
-                </div>
-            </div>
-        </div>
-      </aside>
-      <div class="right-column">
-        <div class="container work-container">
-            <div class="title">
-                <h3>Work Experience</h3>
-                <div class="keyline"></div>
-            </div>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://www.beekeeper.io/" target="_blank">
-                                    Beekeeper AG
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">08/2022</span>
-                                <span class="endDate"> - Present</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Senior Software Engineer (Technical Lead)</h4>
-        
-        
-                    <p class="summary">Technical Lead architecting scalable, reliable systems and deploying production-ready AI-powered features driving operational efficiency and automation for a SaaS platform used by millions. Led end-to-end delivery of agentic AI onboarding, resilient workflows, and cross-functional initiatives, improving platform velocity and accelerating digital transformation.</p>
-        
-                    <ul>
-                        <li>Architected Employee Referral System (99.99% SLA), unlocking $1.5M+ in revenue including $500K ARR and supporting compliance-ready reporting.</li>
-                        <li>Built LLM-powered template translations using GitHub Actions and OpenAI APIs—translated 12K+ key-value pairs, saving $337K and expediting launch cycles.</li>
-                        <li>Designed distributed templating engine serving 10M+ users, reducing setup time by 90% and powering 15% of platform assets, supporting scaling and audits.</li>
-                        <li>Developed an Agentic AI Onboarding specialist utilizing multi-step reasoning to automate user setup, reducing onboarding time and scaling personalized, auditable guidance to 100% of signups.</li>
-                        <li>Spearheaded Search Platform Revamp, leading teams to deliver scalable architecture—improving reliability and user engagement across regulated enterprise clients.</li>
-                        <li>Acted as technical hiring manager for AI roles and deputy tech lead, mentoring engineering teams and enhancing delivery of secure, audit-ready modules.</li>
-                        <li>Drove cross-functional go-to-market initiatives (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis), streamlining sales pipeline and tracking impact metrics with operational dashboards.</li>
-                    </ul>
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://www.tenity.com/" target="_blank">
-                                    Tenity
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">06/2024</span>
-                                <span class="endDate"> - Present</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Startup Mentor &amp; Technology Evaluation Panelist</h4>
-        
-        
-                    <p class="summary">Technology mentor and evaluation panelist supporting startups with technical strategy, scalability, and automation, accelerating product delivery and operational readiness for regulated environments.</p>
-        
-                    <ul>
-                        <li>Conducted thorough evaluations of emerging technologies for seed-to-VC startups, benchmarking infrastructure and advising on auditability and automation.</li>
-                        <li>Advised multiple startups—including guiding engineering teams on scaling algorithmic trading systems, optimizing reliability, and integrating AI for operational leverage.</li>
-                    </ul>
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://lis.epfl.ch/" target="_blank">
-                                    Dronistics
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">08/2018</span>
-                                <span class="endDate"> - 03/2020</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Founding Engineer</h4>
-        
-        
-                    <p class="summary">Founding engineer for autonomous drone delivery platform, building robust, auditable and scalable end-to-end systems powering operational last-mile deliveries in demanding, regulated scenarios.</p>
-        
-                    <ul>
-                        <li>Built and architected full-stack autonomous drone delivery system (Vue/Java/PostgreSQL), powering 500+ successful and auditable deliveries.</li>
-                        <li>Delivered cloud infrastructure and DevOps pipelines, enabling high reliability and scalable operations for enterprise partners including Unilever and CES showcase.</li>
-                        <li>Engineered real-time flight control APIs and logistics optimization, reducing delivery times by 40% while achieving a documented 99.5% safety record.</li>
-                    </ul>
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/" target="_blank">
-                                    EPFL — Laboratory of Intelligent Systems (Robogen)
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">08/2016</span>
-                                <span class="endDate"> - 07/2018</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Research Engineer</h4>
-        
-        
-                    <p class="summary">Led Robogen engineering, delivering open-source research software for robotics and automating experiments on scalable cloud infrastructure, with a focus on reproducibility, auditability, and technical mentorship.</p>
-        
-                    <ul>
-                        <li>Engineered the Robogen AI &amp; Robotics Research Platform, enabling reproducible co-evolution of robot morphologies and controls for research and education.</li>
-                        <li>Spearheaded AWS migration and secured research credits, resulting in recognition on the AWS Research Blog and supporting audit-ready data handling.</li>
-                        <li>Supervised 20+ master&#x27;s students and served as TA for Evolutionary Robotics, scaling adoption and process documentation to drive operational and research standards.</li>
-                    </ul>
-                </section>
-        </div>
-        <div class="container project-container">
-            <div class="title">
-                <h3>Entrepreneurial Projects</h3>
-                <div class="keyline"></div>
-            </div>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://pulse-view.anand-creations.com" target="_blank">
-                                    PulseView - AI Market Intelligence
-                                        <span class="sublink">∙ <a href="https://pulse-view.anand-creations.com" target="_blank" class="sublink">https://pulse-view.anand-creations.com</a></span>
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">05/2025</span>
-                                <span class="endDate"> - Present</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Founder &amp; AI Product Builder</h4>
-        
-        
-                    <ul>
-                        <li>Developed and deployed a production-grade, real-time stock market analysis platform leveraging AI agents to generate and explain trading signals.</li>
-                        <li>Integrated technical and news-based data streams for comprehensive financial market analytics, with a strong focus on explainable AI and auditability.</li>
-                        <li>Engineered the system for speed, clarity, and robust automation, making advanced financial intelligence accessible to retail and professional users.</li>
-                        <li>Utilized React, automation frameworks, and modern AI orchestration tools for scalable, user-centric delivery.</li>
-                    </ul>
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://www.swissnri.com" target="_blank">
-                                    SwissNRI - Cross-border Fintech Platform
-                                        <span class="sublink">∙ <a href="https://www.swissnri.com" target="_blank" class="sublink">https://www.swissnri.com</a></span>
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">01/2024</span>
-                                <span class="endDate"> - Present</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Co-Founder &amp; Technical Lead</h4>
-        
-        
-                    <ul>
-                        <li>Led architecture and technical development of a SaaS fintech platform addressing complex, multi-jurisdictional financial and regulatory challenges.</li>
-                        <li>Delivered a secure, compliant MVP in 3 months for cross-border finance, prioritizing automation, controls validation, and audit-ready design.</li>
-                        <li>Established feedback-driven roadmap and increased user satisfaction by 40% through rapid iteration and strategic partnership integration.</li>
-                        <li>Designed and implemented compliance-first solutions supporting FEMA, DTAA, and Swiss regulatory requirements.</li>
-                    </ul>
-                </section>
-                <section class="item">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                <a href="https://proplab.io" target="_blank">
-                                    Proplab - AI Real Estate Tools
-                                        <span class="sublink">∙ <a href="https://proplab.io" target="_blank" class="sublink">https://proplab.io</a></span>
-                                </a>
-                        </h3>
-                        <h5 class="italic pull-right">
-                                <span class="startDate">09/2025</span>
-                                <span class="endDate"> - Present</span>
-                        </h5>
-                    </div>
-        
-                    <h4>Founder &amp; AI Product Builder</h4>
-        
-        
-                    <ul>
-                        <li>Built MVP for a digital property inventory inspection system, automating manual financial data capture and supporting structured, image-backed, timestamped protocols.</li>
-                        <li>Currently leading the development of an AI-powered marketing assistant automating listing creation and boosting multi-marketplace property visibility.</li>
-                        <li>Applied AI and image processing to streamline compliance workflows and reduce manual intervention in property management operations.</li>
-                    </ul>
-                </section>
-        </div>
+      <div class="container work-container">
+          <div class="title">
+              <h3>Work Experience</h3>
+              <div class="keyline"></div>
+          </div>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                          <a href="https://www.lumapps.com/" target="_blank">LumApps</a>
+                          <span class="work-role-inline">· Senior AI Engineer</span>
+                      </h3>
+                      <h5 class="italic pull-right">
+                          <span class="startDate">03/2026</span>
+                          <span class="endDate"> - Present</span>
+                      </h5>
+                  </div>
+      
+                  <div class="flex-container">
+                          <h6 class="skill">Agentic AI</h6>
+                          <h6 class="skill">Multi-Agent Orchestration</h6>
+                          <h6 class="skill">LLM Orchestration</h6>
+                          <h6 class="skill">Claude</h6>
+                          <h6 class="skill">Anthropic API</h6>
+                          <h6 class="skill">OpenAI</h6>
+                          <h6 class="skill">Python</h6>
+                          <h6 class="skill">MCP</h6>
+                          <h6 class="skill">LangGraph</h6>
+                          <h6 class="skill">RAG</h6>
+                          <h6 class="skill">Knowledge Graphs</h6>
+                          <h6 class="skill">Evaluation Pipelines</h6>
+                          <h6 class="skill">Guardrails</h6>
+                          <h6 class="skill">Observability</h6>
+                  </div>
+      
+                  <ul>
+                      <li>Designed, deployed and scaled production multi-agent systems used daily by real teams, on Python with Claude and OpenAI, using ReAct, self-reflection and hierarchical delegation, with tools coordinated over MCP servers. 2x open rates, 2x approved opportunities; forecast $1M in quarterly revenue.</li>
+                      <li>Built AI Brain, an integration layer that connects 5+ internal and external systems (Salesforce, HubSpot, Pendo, conversation data, product usage) into unified automated workflows via a knowledge-graph and RAG pipeline (Graphiti on Neo4j, event-driven ingest over Pub/Sub).</li>
+                      <li>Owned AI governance in production: evaluation pipelines, conversation-level tracing, tool-selection tuning, cost-per-request instrumentation, and human oversight designed in, not bolted on.</li>
+                  </ul>
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                          <a href="https://www.beekeeper.io/" target="_blank">Beekeeper AG</a>
+                          <span class="work-role-inline">· Senior Software Engineer (Technical Lead)</span>
+                      </h3>
+                      <h5 class="italic pull-right">
+                          <span class="startDate">03/2020</span>
+                          <span class="endDate"> - 02/2026</span>
+                      </h5>
+                  </div>
+      
+                  <div class="flex-container">
+                          <h6 class="skill">Python</h6>
+                          <h6 class="skill">Claude</h6>
+                          <h6 class="skill">OpenAI</h6>
+                          <h6 class="skill">LangChain</h6>
+                          <h6 class="skill">Systems Integration</h6>
+                          <h6 class="skill">Salesforce</h6>
+                          <h6 class="skill">AWS</h6>
+                          <h6 class="skill">Kubernetes</h6>
+                          <h6 class="skill">Kafka</h6>
+                          <h6 class="skill">PostgreSQL</h6>
+                          <h6 class="skill">ClickHouse</h6>
+                          <h6 class="skill">GitHub Actions</h6>
+                          <h6 class="skill">Java</h6>
+                  </div>
+      
+                  <ul>
+                      <li>Replaced $337K in annual vendor cost with a production LLM automation pipeline built in 6 weeks, with evaluation gates so every output was checked before it shipped. 12K+ assets processed; no external gatekeepers.</li>
+                      <li>Built a GenAI system that integrates Salesforce and live customer data into automated, personalized workflows: the connective tissue between AI and existing systems of record.</li>
+                      <li>Built AI Onboarding Specialist, a production agent that gives every new signup high-touch guided setup at scale, with zero added headcount.</li>
+                      <li>Hired and mentored the AI engineering cohort and shipped a distributed templating engine (reusable frameworks now powering 15% of all platform assets) so teams build safely without a single specialist.</li>
+                  </ul>
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                          <a href="https://www.tenity.com/" target="_blank">Tenity</a>
+                          <span class="work-role-inline">· Startup Mentor &amp; Technology Evaluation Panelist</span>
+                      </h3>
+                      <h5 class="italic pull-right">
+                          <span class="startDate">06/2024</span>
+                          <span class="endDate"> - Present</span>
+                      </h5>
+                  </div>
+      
+                  <div class="flex-container">
+                          <h6 class="skill">Algorithmic Trading</h6>
+                          <h6 class="skill">FinTech</h6>
+                          <h6 class="skill">Technical Due Diligence</h6>
+                          <h6 class="skill">AI Strategy</h6>
+                          <h6 class="skill">Systems Architecture</h6>
+                  </div>
+      
+                  <ul>
+                      <li>Mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production: high-stakes, low-latency finance workloads where failure is expensive.</li>
+                      <li>Ran technical due diligence on 20+ startups (architecture, scalability, AI readiness) to inform seed-to-VC investment decisions.</li>
+                  </ul>
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                          <a href="https://obermatt.com/en/home.html" target="_blank">Obermatt</a>
+                          <span class="work-role-inline">· Technical Product Manager (Concurrent)</span>
+                      </h3>
+                      <h5 class="italic pull-right">
+                          <span class="startDate">07/2018</span>
+                          <span class="endDate"> - 01/2021</span>
+                      </h5>
+                  </div>
+      
+                  <div class="flex-container">
+                          <h6 class="skill">FinTech</h6>
+                          <h6 class="skill">Financial Data</h6>
+                          <h6 class="skill">Product Ownership</h6>
+                          <h6 class="skill">Requirements to Roadmap</h6>
+                          <h6 class="skill">Docker</h6>
+                          <h6 class="skill">CI/CD</h6>
+                  </div>
+      
+                  <ul>
+                      <li>Translated finance and business requirements into technical roadmaps for the investment-analysis platform; improved customer satisfaction and retention.</li>
+                      <li>Directed a remote engineering team, introduced agile (20% productivity gain), and improved CI/CD with Docker (30% faster deployments).</li>
+                  </ul>
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                          <a href="https://lis.epfl.ch/" target="_blank">Dronistics</a>
+                          <span class="work-role-inline">· Founding Engineer</span>
+                      </h3>
+                      <h5 class="italic pull-right">
+                          <span class="startDate">08/2018</span>
+                          <span class="endDate"> - 03/2020</span>
+                      </h5>
+                  </div>
+      
+                  <div class="flex-container">
+                          <h6 class="skill">AWS</h6>
+                          <h6 class="skill">Python</h6>
+                          <h6 class="skill">Java</h6>
+                          <h6 class="skill">PostgreSQL</h6>
+                          <h6 class="skill">CI/CD</h6>
+                          <h6 class="skill">Real-time Systems</h6>
+                          <h6 class="skill">Systems Architecture</h6>
+                  </div>
+      
+                  <ul>
+                      <li>Shipped an end-to-end platform on AWS with real-time APIs and logistics optimization, from discovery to build to deployment without external consultants. 500+ deliveries, 99.5% safety record, zero incidents.</li>
+                      <li>Built the cloud infrastructure and CI/CD from scratch. Reliability that earned partnerships with Unilever and a showcase at CES Las Vegas.</li>
+                  </ul>
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                          <a href="https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/" target="_blank">EPFL, Laboratory of Intelligent Systems (Robogen)</a>
+                          <span class="work-role-inline">· Research Engineer</span>
+                      </h3>
+                      <h5 class="italic pull-right">
+                          <span class="startDate">08/2016</span>
+                          <span class="endDate"> - 07/2018</span>
+                      </h5>
+                  </div>
+      
+                  <div class="flex-container">
+                          <h6 class="skill">AWS</h6>
+                          <h6 class="skill">Machine Learning</h6>
+                          <h6 class="skill">Python</h6>
+                          <h6 class="skill">C++</h6>
+                          <h6 class="skill">Genetic Algorithms</h6>
+                          <h6 class="skill">Neural Networks</h6>
+                  </div>
+      
+                  <ul>
+                      <li>Engineered Robogen and migrated the simulation pipeline to AWS for large-scale parallel runs. Secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog.</li>
+                      <li>Foundational AI experience (optimization, search, learning from environment) that informs how I reason about autonomous agent behavior and its failure modes today.</li>
+                  </ul>
+              </section>
+      </div>
+      <div class="container project-container">
+          <div class="title">
+              <h3>Entrepreneurial Projects</h3>
+              <div class="keyline"></div>
+          </div>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                              <a href="https://anand-creations.com" target="_blank">
+                                  Anand Creations - AI Agents Solutions Practice
+                                      <span class="sublink">∙ <a href="https://anand-creations.com" target="_blank" class="sublink">https://anand-creations.com</a></span>
+                              </a>
+                      </h3>
+                      <h5 class="italic pull-right">
+                              <span class="startDate">06/2024</span>
+                              <span class="endDate"> - Present</span>
+                      </h5>
+                  </div>
+      
+                  <h4>Founder &amp; Principal Solutions Architect</h4>
+      
+                  <p class="summary">Independent practice: I embed with a team, run discovery, and ship production agentic AI end to end, then distill repeatable patterns into reusable modules, workflow templates, and guardrails so non-specialists can build on top.</p>
+      
+      
+                  <ul>
+                      <li>Flagship engagement, the GTM AI Brain: a knowledge-graph memory (Graphiti on Neo4j) unifying 5+ business systems into one governed, time-aware layer every agent reads and writes, with event-driven ingest over Pub/Sub and a per-agent query and write-back contract.</li>
+                  </ul>
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                              <a href="https://www.swissnri.com" target="_blank">
+                                  SwissNRI - Compliance-first Cross-border FinTech
+                                      <span class="sublink">∙ <a href="https://www.swissnri.com" target="_blank" class="sublink">https://www.swissnri.com</a></span>
+                              </a>
+                      </h3>
+                      <h5 class="italic pull-right">
+                              <span class="startDate">01/2024</span>
+                              <span class="endDate"> - Present</span>
+                      </h5>
+                  </div>
+      
+                  <h4>Co-Founder &amp; Technical Lead</h4>
+      
+                  <p class="summary">AI-native cross-border tax and regulatory compliance platform, compliance-first for a regulated domain. A RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions with citations back to source regulation; agents enforce guardrails and flag regulatory risk before users act. Zero-to-MVP in 3 months.</p>
+      
+      
+              </section>
+              <section class="item">
+                  <div class="section-header clearfix">
+                      <h3 class="bold pull-left">
+                              <a href="https://pulse-view.anand-creations.com" target="_blank">
+                                  PulseView - Explainable AI Trading Signals
+                                      <span class="sublink">∙ <a href="https://pulse-view.anand-creations.com" target="_blank" class="sublink">https://pulse-view.anand-creations.com</a></span>
+                              </a>
+                      </h3>
+                      <h5 class="italic pull-right">
+                              <span class="startDate">05/2025</span>
+                              <span class="endDate"> - Present</span>
+                      </h5>
+                  </div>
+      
+                  <h4>Founder &amp; Builder</h4>
+      
+                  <p class="summary">Real-time market intelligence where a multi-agent system generates financial trading signals alongside the evidence chain that justifies them, with model explainability and evaluation gates built in. Core principle: if the model can&#x27;t explain the signal, it doesn&#x27;t ship. Live retail users on real-time feeds.</p>
+      
+      
+              </section>
+      </div>
+      <div class="bottom-row">
         <div class="container education-container">
             <div class="title">
             <h3>Education</h3>
@@ -1223,70 +1279,176 @@ ul.two-column li {
         
               </section>
         </div>
-        <div class="container publications-container">
+        <div class="container certificates-container">
             <div class="title">
-                <h3>Blog Posts &amp; Talks</h3>
+                <h3>Certificates</h3>
                 <div class="keyline"></div>
             </div>
-            <section class="item">
-                <a href="https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent" target="_blank" rel="noopener noreferrer">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                Agentic AI: Simple ReAct Agent
-                        </h3>
-                        <h5 class="italic pull-right">
-                                04/2025
-                                </h5>
-                    </div>
-                </a>
-        
-                <h5 class="awarder">The Compounding Curiosity (Substack)</h5>
-        
-                <p class="summary">Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications.</p>
-        
-            </section>
-            <section class="item">
-                <a href="https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d" target="_blank" rel="noopener noreferrer">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                AI and creativity
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-                </a>
-        
-                <h5 class="awarder">Front Conference (Talk)</h5>
-        
-                <p class="summary">Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development.</p>
-        
-            </section>
-            <section class="item">
-                <a href="https://pitch.com/v/ai-for-the-rest-of-us-p2tejg" target="_blank" rel="noopener noreferrer">
-                    <div class="section-header clearfix">
-                        <h3 class="bold pull-left">
-                                From Infinite posibilites to finite Results
-                        </h3>
-                        <h5 class="italic pull-right">
-                        </h5>
-                    </div>
-                </a>
-        
-                <h5 class="awarder">AI for the rest of Us, UK (Talk)</h5>
-        
-                <p class="summary">Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design.</p>
-        
-            </section>
-        
-            <div class="view-all-publications">
-                <a href="https://anand-creations.vercel.app/blog" target="_blank" rel="noopener noreferrer" style="color: #56817A; text-decoration: none;">
-                    <h3>View All Publications →</h3>
-                </a>
+            <div class="certificates-list">
+                <div class="certificate-item">
+                    <strong>Build LLM Apps with LangChain</strong>
+                    <span class="issuer">DeepLearning.AI</span>
+                    
+                </div>
+                <div class="certificate-item">
+                    <strong>Building Modern Java Applications</strong>
+                    <span class="issuer">AWS</span>
+                    
+                </div>
+                <div class="certificate-item">
+                    <strong>Microsoft Certified Professional (MCPS)</strong>
+                    <span class="issuer">Microsoft</span>
+                    
+                </div>
+                <div class="certificate-item">
+                    <strong>MongoDB for Java Developers</strong>
+                    <span class="issuer">MongoDB University</span>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="container awards-container">
+            <div class="title">
+                <h3>Awards</h3>
+                <div class="keyline"></div>
+            </div>
+            <div class="awards-list">
+                <div class="award-item">
+                    <strong>Appreciation from John T. Chambers (ex-CEO, Cisco Systems)</strong>
+                    <span class="awarder">Cisco Systems</span>
+                    <span class="award-summary">Recognized for contributions to strategic projects within Cisco&#x27;s ecosystem</span>
+                    
+                </div>
+                <div class="award-item">
+                    <strong>AWS Cloud Credits for Research</strong>
+                    <span class="awarder">Amazon Web Services (2020)</span>
+                    
+                    
+                </div>
+                <div class="award-item">
+                    <strong>TI India Analog Design Contest Winner</strong>
+                    <span class="awarder">Texas Instruments</span>
+                    
+                    
+                </div>
+                <div class="award-item">
+                    <strong>KTH Opportunities Fund</strong>
+                    <span class="awarder">KTH Royal Institute of Technology</span>
+                    
+                    
+                </div>
             </div>
         </div>
       </div>
+      <div class="container publications-container">
+          <div class="title">
+              <h3>Blog Posts &amp; Talks</h3>
+              <div class="keyline"></div>
+          </div>
+          <ul class="publications-list">
+              <li class="pub-item">
+                  <a href="https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">Drafted, not sent: how I built the second half of an AI outbound agent.</span>
+                  </a>
+                  <span class="pub-venue">The Compounding Curiosity (Substack)</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">I Built an AI Outbound Agent. Here’s What Actually Worked.</span>
+                  </a>
+                  <span class="pub-venue">TowardsAI</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://anand-creations.com/blog/your-ai-needs-a-brain" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">Your AI Needs a Brain, Not a Better Model</span>
+                  </a>
+                  <span class="pub-venue">Anand Creations (Blog)</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">Agentic AI: Simple ReAct Agent</span>
+                  </a>
+                  <span class="pub-venue">The Compounding Curiosity (Substack)</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">Visualizing AI Embeddings with Heatmap</span>
+                  </a>
+                  <span class="pub-venue">TowardsDev</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://pitch.com/v/ai-for-the-rest-of-us-p2tejg" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">From Infinite Possibilities to Finite Results</span>
+                  </a>
+                  <span class="pub-venue">AI for the rest of Us, UK (Talk)</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">EPFL designs robots through artificial evolution</span>
+                  </a>
+                  <span class="pub-venue">AWS Public Sector Blog</span>
+              </li>
+              <li class="pub-item">
+                  <a href="https://pitch.com/v/microfrontends-kpc3n7" target="_blank" rel="noopener noreferrer">
+                      <span class="pub-title">Microfrontends: Revolutionising Frontend Architecture</span>
+                  </a>
+                  <span class="pub-venue">Developer Week 2023, USA (Talk)</span>
+              </li>
+          </ul>
+      
+          <div class="view-all-wrap">
+              <a href="https://anand-creations.vercel.app/blog" target="_blank" rel="noopener noreferrer" class="view-all-link">
+                  View All Publications →
+              </a>
+          </div>
+      </div>
     </div>
   </main>
+
+  <script>
+    (function () {
+      // Wrap each major section container in <details open> so it's collapsible
+      document.querySelectorAll('.resume-content .container').forEach(function (container) {
+        var title = container.querySelector(':scope > .title');
+        if (!title) return;
+
+        var details = document.createElement('details');
+        details.open = true;
+        details.className = 'section-collapse';
+
+        var summary = document.createElement('summary');
+        summary.className = 'section-collapse-summary';
+        summary.appendChild(title); // moves .title into summary
+
+        details.appendChild(summary);
+
+        // Move remaining children (items) into details
+        while (container.firstChild) {
+          details.appendChild(container.firstChild);
+        }
+
+        container.appendChild(details);
+      });
+
+      // Before printing: force all collapsed sections open
+      window.addEventListener('beforeprint', function () {
+        document.querySelectorAll('details.section-collapse').forEach(function (d) {
+          d._wasOpen = d.open;
+          d.open = true;
+        });
+      });
+
+      // Restore state after print dialog closes
+      window.addEventListener('afterprint', function () {
+        document.querySelectorAll('details.section-collapse').forEach(function (d) {
+          if (typeof d._wasOpen !== 'undefined') {
+            d.open = d._wasOpen;
+            delete d._wasOpen;
+          }
+        });
+      });
+    })();
+  </script>
 </body>
 
 </html>

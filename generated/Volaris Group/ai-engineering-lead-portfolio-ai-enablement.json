@@ -1,0 +1,378 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI Engineering Lead | Portfolio AI Enablement | Production LLM Systems | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "AI engineering lead with portfolio enablement experience. Evaluated 20+ startups at Tenity on architecture and AI readiness; leads AI transformation at LumApps across Sales, Marketing, RevOps, and Finance, directly moving topline (additional $4M in approved opportunities) and expenses; replaced $437K of vendor spend with an in-house LLM pipeline embedded in the SDLC at Beekeeper. 13+ years shipping production software for 10M+ users across employee platforms, drones, fintech, and trading. Comfortable parachuting into different technical environments, influencing senior R&D leaders, and shipping hands-on. MBA-trained, founded three companies on the side.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$437K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Leads AI transformation across Sales, Marketing, RevOps, and Finance. Directly impacts topline and expenses. Owns company-wide AI governance and enablement; reports to C-level on outcomes.",
+      "highlights": [
+        "Leads AI transformation across Sales, Marketing, RevOps, and Finance. Directly moves topline (additional $4M in approved opportunities) and reduces operating expenses. Reports to C-level on outcomes, not progress.",
+        "Built and deployed production AI agents for outbound sales. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day across SDR and AE teams.",
+        "Advises on company-wide AI governance, guardrails, and enablement. Architected agents end-to-end (LangChain, FastAPI, GCP) and operates as the in-house authority on what AI should and should not do."
+      ],
+      "keywords": [
+        "AI Transformation",
+        "AI Agents",
+        "AI Governance",
+        "Guardrails",
+        "AI Infrastructure",
+        "Eval Frameworks",
+        "Prompt Engineering",
+        "LangChain",
+        "Knowledge Graphs",
+        "Neo4j",
+        "RAG",
+        "OpenAI",
+        "Python",
+        "FastAPI",
+        "GCP",
+        "Salesforce",
+        "Sales Enablement"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who operates like a founding engineer. Embedded AI across the SDLC, hired and mentored the AI engineering cohort, and shipped products used by millions.",
+      "highlights": [
+        "Replaced $437K in annual vendor translation costs with an in-house LLM pipeline (GitHub Actions + OpenAI) shipped in 6 weeks. 12K+ assets translated. AI embedded directly into the engineering SDLC, product team iterates without external gatekeepers.",
+        "Built and mentored the AI engineering cohort. Acting hiring manager for AI roles. Hired for craft and curiosity, grew engineers who now lead AI features independently.",
+        "Built AI Onboarding Specialist giving every new signup personalized, high-touch guidance at scale. 100% of customers guided through setup, time-to-first-value reduced without adding headcount.",
+        "Architected Employee Referral System end-to-end. Became the platform's top revenue channel ($1.5M+ generated, $500K ARR). Designed for 99.99% SLA."
+      ],
+      "keywords": [
+        "LLM Pipelines",
+        "GitHub Actions",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "Langfuse",
+        "AI Engineering",
+        "Python",
+        "Java",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "PostgreSQL",
+        "Kafka",
+        "ClickHouse",
+        "Elastic Search"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Portfolio-style enablement work. Technology panelist and mentor across seed-to-VC stage startups. Assesses AI readiness, evaluates architecture, advises leadership on AI strategy and engineering transformation.",
+      "highlights": [
+        "Technology Evaluation Panel for seed-to-VC stage startups. Evaluated 20+ companies on architecture, scalability, and AI readiness to inform investment decisions.",
+        "Advised multiple portfolio companies on AI strategy, technical hiring, and building engineering cultures that actually ship. Operates across diverse stacks and business contexts."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Portfolio Evaluation",
+        "AI Readiness",
+        "Engineering Transformation",
+        "Technical Mentoring",
+        "Architecture Review"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Parachuted into a new technical domain (real-time flight control, logistics) and shipped end-to-end software, infrastructure, and algorithms for 500+ live deliveries.",
+      "highlights": [
+        "Shipped end-to-end autonomous drone delivery platform (Vue, Java, PostgreSQL). 500+ successful deliveries, every flight a live UX test for autonomous systems in the real world.",
+        "Built cloud infrastructure and DevOps pipeline from scratch. Enterprise-grade reliability that enabled partnerships with Unilever and a CES showcase."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Real-time Systems",
+        "Flight Control APIs",
+        "Logistics Optimization"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen, AI for Robotics)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI research at the frontier of robotics. Built Robogen, an open-source platform for the co-evolution of robot morphologies and control systems via genetic algorithms.",
+      "highlights": [
+        "Engineered Robogen, an open-source platform for co-evolution of robot bodies and brains via genetic algorithms.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel evolution runs. Secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog.",
+        "Teaching Assistant for Evolutionary Robotics at EPFL. Supervised 20+ master's students through hands-on projects in genetic algorithms, neural controllers, and embodied AI."
+      ],
+      "keywords": [
+        "C++",
+        "Python",
+        "AWS",
+        "Genetic Algorithms",
+        "Neural Networks",
+        "Evolutionary AI",
+        "Robotics",
+        "Webots"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "In-depth case study of building and deploying a production AI outbound sales agent, detailing the architecture, implementation, and real-world outcomes that led to 2x open rates and 2x approved opportunities."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "RoboGen, an open-source platform from EPFL, uses AWS and artificial evolution (AI) to co-evolve robot bodies and brains. To power its demanding, distributed experiments, the project relies on AWS Cloud for dynamic scaling."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Data visualization methodology article presenting innovative techniques for interpreting high-dimensional AI embeddings through interactive heatmap visualizations for enhanced model interpretability."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Microfrontends"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Built for my own trading portfolio first: a platform that explains its signals, not just shows them. Retail traders deserve the same explainable analysis that institutions pay for.",
+      "highlights": [
+        "Real-time market analysis via AI agents that generate and justify trading signals using technical and news-based data.",
+        "Core product principle: if the model can't explain the signal, it doesn't ship. Explainability over complexity (a small example of the governance instinct I bring to enablement work)."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & Builder",
+      "description": "Property inspections run on paper, clipboards, and WhatsApp photos. Built MVP for a fully digital, image-backed, timestamped inspection protocol that replaces the entire manual workflow.",
+      "highlights": [
+        "Shipped MVP replacing paper-based inspection workflows with structured, image-backed, timestamped records.",
+        "Building AI marketing assistant that auto-generates property listings from inspection data. One workflow, zero copy-paste."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Swiss-Indian families navigating FEMA, DTAA, and Swiss regulations had zero digital help. Just spreadsheets and expensive advisors. Built the first platform addressing this.",
+      "highlights": [
+        "Zero-to-MVP in 3 months. Early users acquired through Swiss-Indian community partnerships.",
+        "Compliance-first design: regulatory guardrails for both jurisdictions built before features."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Volaris Group",
+    "jobTitle": "AI Engineering Lead - Portfolio AI Enablement",
+    "jobUrl": "",
+    "jobDescription": "AI Engineering Lead – Portfolio AI Enablement. Europe (Remote), regular travel across Europe required. Volaris Group is looking for an experienced AI Engineering Lead to help accelerate AI adoption across a portfolio of 40+ European software businesses. Hands-on role focused on enabling software engineering organisations to embed AI across the full software development lifecycle. Work directly with R&D leaders and engineering teams to improve development practices, accelerate AI adoption, and help portfolio companies move toward AI-native engineering operations. Not focused on building centralised AI products or platforms; focus is on enablement, transformation, governance, and helping individual businesses adopt best-in-class AI engineering practices. Operate across multiple software businesses, immerse in new technical environments quickly, help leadership teams identify practical, high-impact AI opportunities. Responsibilities: partner with R&D leaders to drive AI adoption; enable engineering orgs to integrate AI across SDLC; guide teams on AI coding workflows, agents, code review, testing automation, engineering productivity; advise on AI governance, guardrails, security, implementation best practices; assess technical maturity; support accelerator-style transformation; challenge technical assumptions and shape AI roadmaps; help newly acquired companies accelerate AI maturity; share best practices across the portfolio; contribute hands-on. Looking for: strong software engineering background with deep exposure to AI-enabled development practices; experience implementing AI tools across SDLC; strong understanding of modern AI engineering workflows and LLM-enabled development; ability to influence senior engineering stakeholders and R&D leaders; comfortable across multiple technical environments; strong consulting and enablement skills; curious and adaptable; comfortable travelling across Europe. Ideal background: Senior AI Engineer, AI Engineering Lead, Staff/Principal Engineer with strong AI adoption experience, AI Transformation Engineer, Engineering Enablement Lead. Nice to have: experience across multiple business units or portfolio environments; exposure to PE-backed software orgs; engineering transformation initiatives; AI governance and operational guardrails; product-oriented mindset with commercial awareness.",
+    "notes": "Tailored for portfolio-style enablement role. Led with Tenity (closest analog), LumApps governance/transformation work, and Beekeeper LLM-in-SDLC pipeline.",
+    "createdAt": "2026-05-29"
+  },
+  "_generatedFile": {
+    "company": "Volaris Group",
+    "baseName": "ai-engineering-lead-portfolio-ai-enablement",
+    "createdAt": "2026-05-29T22:04:55.650Z",
+    "targetPath": "./generated/Volaris Group/ai-engineering-lead-portfolio-ai-enablement.json"
+  }
+}

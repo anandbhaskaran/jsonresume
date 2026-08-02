@@ -1,0 +1,359 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior AI Engineer · Agent-Native Interfaces & MCP · Conference Speaker · Founder-Builder",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Founder-builder and technical storyteller who ships developer-facing products and gets developers to adopt them. 13+ years shipping software, now building in the agent-native era: MCP servers, structured retrieval over knowledge graphs, and agent tooling, with the platform to explain it (keynotes at Developer Week and Front Conference plus a steady stream of tutorials and technical writing). Zero-to-one is my default: founding engineer at Dronistics, three companies founded, and reusable developer tooling at Beekeeper that powers 15% of all platform assets. Fintech is familiar ground (trading, cross-border compliance, investment research), and I engage engineers as a peer: I read the OpenAPI spec, ship the reference implementation, then write the launch post.",
+    "metrics": [
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "$1M",
+        "label": "Attributed Quarterly Revenue"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Lead developer for production AI agents on GCP. Builds the agent-native interfaces and retrieval layer that let agents discover and act on the platform's services.",
+      "highlights": [
+        "Built agent-native interfaces in production: multi-agent workflows with tools exposed over MCP servers and agent state streamed to the UI over AG-UI. The exact 'how do agents discover, retrieve, and act' problem this role is about.",
+        "Designed AI Brain, structured retrieval over a knowledge graph (Graphiti on Neo4j) so agents pull the right context on demand. Where retrieval beats keyword search.",
+        "Owned it end to end and reported outcomes to C-level: 2x conversions, forecast $1M in quarterly revenue, with eval pipelines and cost-per-request telemetry."
+      ],
+      "keywords": [
+        "MCP",
+        "Agent-Native Interfaces",
+        "AG-UI",
+        "Structured Retrieval",
+        "RAG",
+        "APIs",
+        "Multi-Agent Systems",
+        "Python",
+        "TypeScript",
+        "LangGraph",
+        "Knowledge Graphs",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who built the developer tooling, platform architecture, and launches behind products used by millions, and mentored the engineers who extended them.",
+      "highlights": [
+        "Built a distributed templating engine and reusable module framework now powering 15% of all assets created on the platform (10M+ users): developer tooling that made the product easy to build on.",
+        "Led a microfrontends and module-federation architecture so teams shipped independently against shared interfaces. Practical developer experience at scale.",
+        "Co-owned GTM launches with Product and Sales, each shipped with instrumentation so we knew within a week if it moved the metric. Launch strategy tied to adoption, not awareness.",
+        "Hired and mentored the AI engineering cohort; the reference for how new engineers ramped and shipped independently."
+      ],
+      "keywords": [
+        "Developer Tooling",
+        "APIs",
+        "Microfrontends",
+        "Module Federation",
+        "Launch Strategy",
+        "Java",
+        "Python",
+        "TypeScript",
+        "Vue",
+        "GitHub Actions",
+        "OpenAI",
+        "LangChain"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups: the teach-and-unblock work at the core of developer relations.",
+      "highlights": [
+        "Mentored 20+ startup teams through technical discovery on architecture, scalability, and AI readiness. Meeting builders where they are and unblocking them.",
+        "Advised on AI strategy and engineering culture; mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production."
+      ],
+      "keywords": [
+        "Developer Community",
+        "Technical Mentoring",
+        "AI Strategy",
+        "FinTech",
+        "Public Speaking"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built the platform, APIs, and cloud stack from zero to a partner-ready product.",
+      "highlights": [
+        "Zero-to-one build: shipped the platform, real-time APIs, and integration points from scratch. 500+ deliveries, partnerships with Unilever, and a showcase at CES Las Vegas.",
+        "Built the cloud infrastructure and CI/CD from scratch. Reliability that partners could integrate against with confidence."
+      ],
+      "keywords": [
+        "APIs",
+        "Zero-to-One",
+        "AWS",
+        "Python",
+        "Java",
+        "CI/CD",
+        "Real-time Systems"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Built and grew Robogen, an open-source platform adopted by researchers and students, and taught the people who used it.",
+      "highlights": [
+        "Engineered Robogen, an open-source platform adopted by researchers and students worldwide. Work featured on the AWS Public Sector Blog: technical storytelling that reached a broad developer and research audience.",
+        "Teaching Assistant for Evolutionary Robotics: taught 20+ master's students hands-on. Turning a complex platform into something people could build with."
+      ],
+      "keywords": [
+        "Open Source",
+        "Developer Education",
+        "Technical Writing",
+        "Python",
+        "C++",
+        "AWS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Keynote)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Conference keynote to a developer audience on microfrontend architecture: reusable patterns for scalable, team-autonomous development."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Developer-facing map of the memory and retrieval tools building the AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to pick a stack for agents."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Hands-on developer tutorial on implementing ReAct agents from scratch, making an abstract pattern concrete and buildable."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Launch-style case study of a production AI agent: architecture, what worked, and the outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Developer-conference talk on accelerating product development through lean validation, rapid prototyping, and data-driven decisions."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Developer tutorial making high-dimensional embeddings intuitive through interactive heatmaps: practical intuition for retrieval quality."
+    },
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English / Terraform Registry",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Quickstart-style developer guide shipped as a reusable Terraform module: infrastructure as code, one-command deploy."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Keynote)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Conference keynote on the intersection of AI and human creativity, making a complex topic land for a broad audience."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Developer Experience & DevRel"
+    },
+    {
+      "name": "Agent-Native Interfaces (MCP)"
+    },
+    {
+      "name": "Technical Writing & Speaking"
+    },
+    {
+      "name": "Open Source"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Agentic AI Practice & Developer Content",
+      "position": "Founder & Principal Engineer",
+      "description": "Independent practice where I ship agentic products and the developer surface around them: MCP tool servers, reusable modules, and reference implementations, plus public case studies and tutorials that teach others how to build. Flagship: the GTM AI Brain, a knowledge-graph retrieval layer every agent reads and writes.",
+      "highlights": [
+        "Publish developer-facing writing and case studies (agent architecture, the AI brain layer, ReAct from scratch) that turn hard-won production lessons into content other builders use."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built for my own trading portfolio first, then opened to retail traders. I built the full stack solo, from agent runtime and real-time market integrations to the web frontend, then shipped it to live users. A developer product taken zero-to-one, alone.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform for Swiss-Indian families. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions with citations back to the regulation; compliance-first design with guardrails built before features. Zero-to-MVP in 3 months.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Kraken",
+    "jobTitle": "Founding DevRel Lead",
+    "jobUrl": "",
+    "jobDescription": "Payward / Kraken. Remote. Founding DevRel Lead for Payward Services, an enterprise infrastructure platform (trading, payments, funding, digital asset services) for fintechs, banks, brokerages, and payment providers. Sits at the intersection of Engineering, Product and Growth: create a new Developer & Agent Interface capability from the ground up, defining how developers discover the platform and how AI agents retrieve and interact with its services. Mission: make Payward the default infrastructure an AI agent selects when a developer asks for trading, payments, wallets, or financial services. Opportunity: own developer activation end-to-end across APIs, SDKs, CLIs, MCP servers, wallets, and emerging agent interfaces; drive adoption metrics (API usage, SDK installs, production integrations, GitHub engagement, agent retrievals); build quickstarts, reference implementations, SDKs, CLIs, MCP servers, and developer tooling; partner with Product and Engineering so every launch is developer-ready and agent-friendly day one; define how developers and agents discover, understand, and interact with the infrastructure; create technical narratives, launch content, demos, documentation; carry keynotes, live demos, and technical presentations; represent developers internally; build the long-term DNA and culture of a Developer & Agent Interface org. What you bring: built and scaled developer adoption at a top-tier developer platform (Stripe, Vercel, Cloudflare, Anthropic, GitHub, OpenAI, Twilio, Stainless, or equivalent); strong technical credibility (read OpenAPI specs, ship code, review integrations, engage engineers as a peer); track record owning measurable adoption outcomes; exceptional storyteller (launch posts, keynotes, demos); builder mentality with bias to shipping and experimentation; deep understanding of modern developer ecosystems; agent-era literacy (MCP servers, agent tooling, structured retrieval, where retrieval beats SEO); experience shaping the developer experience itself with eng and product. Nice to have: building developer platforms from an early stage; understanding of wallets, identity, authentication, and agent-native transaction flows.",
+    "notes": "Strong fit on agent-native/MCP, structured retrieval (retrieval beats SEO), technical storytelling (Developer Week + Front keynotes, tutorials, case studies), developer tooling (templating engine 15% of assets, microfrontends), open source (Robogen), zero-to-one founding, and fintech domain. Honest gap NOT fabricated: no prior formal DevRel role at a top-tier developer-platform company (Stripe/Vercel/etc), and no direct wallets/custody/payments-rail experience. Bridged via open-source adoption, developer content at scale, developer tooling, and founder-builder track record.",
+    "createdAt": "2026-07-13"
+  },
+  "_generatedFile": {
+    "company": "Kraken",
+    "baseName": "founding-devrel-lead",
+    "createdAt": "2026-07-13T11:43:22.182Z",
+    "targetPath": "./generated/Kraken/founding-devrel-lead.json"
+  }
+}

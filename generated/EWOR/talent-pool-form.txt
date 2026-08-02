@@ -1,0 +1,71 @@
+EWOR Talent Pool — Form Responses
+Anand Bhaskaran
+====================================
+
+
+--- BIOGRAPHY (3rd person, short) ---
+
+Anand Bhaskaran is a three-time founder and AI engineer based in Zurich. He builds production AI agents that move company metrics: at LumApps, outbound sales agents forecast to generate $4M in approved opportunities per quarter; at Beekeeper, AI-powered products used by 10M+ frontline workers across retail, logistics, manufacturing, and hospitality. Earlier he was founding engineer at Dronistics (EPFL spin-off; Unilever partnership; CES Las Vegas showcase) and an AI researcher at EPFL's Laboratory of Intelligent Systems. On the side he runs PulseView (explainable trading AI, live retail users), Proplab (AI for real-estate operations), and SwissNRI (cross-border fintech for Swiss-Indian families). MBA from Quantic, double-MSc from KTH and TU/e via the EIT Digital Innovation & Entrepreneurship programme.
+
+
+--- TOP 5% GLOBALLY IN ---
+
+Going from fuzzy business problem to shipped AI system that moves the metric, in a domain I just learned, faster than people who've been in it for years.
+
+The rare bit isn't AI engineering (lots of competent people there now), or the founder reflex, or commercial framing. It's holding all three simultaneously while the problem is still ambiguous. When LumApps asked for "AI to help our SDRs," that's not a spec. I had to pick the wedge (drafting + verification, not full automation), design the runtime, write the integrations, define the eval, set the metric the C-suite would judge it on, and ship it. The $4M quarterly forecast came from making 200 small decisions correctly in sequence.
+
+Same pattern, totally different domains: SwissNRI (zero expertise in cross-border tax compliance, MVP in 3 months), Proplab (zero real-estate expertise, redesigned the inspection workflow before automating it), Beekeeper (killed a $337K vendor contract with a 6-week LLM pipeline because no one had asked the question "do we still need this?"), Dronistics (autonomous delivery from scratch, Unilever partnership, CES). Every cycle teaches me which 80% of the work I can skip.
+
+The compounding edge: I get to "does this work?" measurably faster than peers, with higher confidence in the answer because verification is baked into the build, not bolted on. That's what I'd back myself on globally. Not "AI engineering" in isolation; going from fuzzy to shipped to measurable, in domains I just walked into.
+
+
+--- YEARS OF STARTUP EXPERIENCE ---
+
+8+ years.
+
+
+--- STARTUP EXPERIENCE DETAILS ---
+
+Dronistics (EPFL spin-off, autonomous drone delivery) — Founding Engineer, Aug 2018 to Mar 2020 (1.7 years). Team of 6. Shipped end-to-end software and cloud stack (Vue, Java, PostgreSQL, AWS) that powered 500+ real-world deliveries. Built CI/CD and AWS infrastructure from scratch. Engineered real-time flight control APIs and logistics optimization (40% faster deliveries, 99.5% safety, zero incidents). Enabled a Unilever partnership and a CES Las Vegas showcase.
+
+Beekeeper AG (frontline-worker SaaS, joined as Series B, scaled with the company) — Software Engineer to Senior SWE / Technical Lead, Mar 2020 to Feb 2026 (6 years). Team grew from ~80 to ~250 engineers; my squad sizes ranged from 4 to 12 across feature teams I led. Owned multiple zero-to-one bets: architected Employee Referral System end-to-end ($1.5M+ revenue generated, $500K ARR, 99.99% SLA, top revenue channel on the platform); replaced a $337K annual vendor translation contract with an in-house LLM pipeline shipped in 6 weeks; built the AI Onboarding Specialist guiding 100% of new signups; designed the distributed templating engine that now powers 15% of all assets created on the platform. Acting hiring manager for the AI engineering cohort; mentored engineers who now lead features independently.
+
+Obermatt (fintech, concurrent side role) — Technical Product Manager, Jul 2018 to Jan 2021 (2.5 years). Led a small remote engineering team; introduced agile methodologies (productivity +20%); rebuilt CI/CD with Docker (deploy times -30%).
+
+Founded companies (concurrent, active builds):
+- SwissNRI (co-founder, technical lead) — Cross-border fintech for Swiss-Indian families. 2024 to present. Zero-to-MVP in 3 months. Compliance-first design for FEMA, DTAA, and Swiss regulations. 40% uplift in user satisfaction from feedback-driven iteration.
+- PulseView (founder, builder) — Explainable AI market intelligence. 2025 to present. Full-stack solo build: agent runtime, real-time market data integrations, signal generation and justification layer, web frontend. Live retail users.
+- Proplab (founder, builder) — AI for real-estate operations. 2025 to present. Shipped MVP replacing paper-based property inspections with structured, image-backed, timestamped records. Building AI marketing assistant on top.
+
+Tenity (Swiss fintech accelerator) — Technology Evaluation Panelist & Startup Mentor, Jun 2024 to present. Evaluated 20+ startups on architecture, scalability, and AI readiness to inform seed-to-VC investment decisions. Mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production.
+
+
+--- ROLES INTERESTED IN ---
+
+Technical co-founder or founding engineer of an AI-first company, pre-PMF, where the agent IS the product.
+
+- Role: Technical co-founder / founding engineer / CTO. Comfortable being the first technical hire.
+- Stage: 0-to-1, pre-PMF, ideation or pre-seed. I want to be in the room when the wedge is chosen, not after it is locked.
+- Domain: Applied AI / agentic systems shipped to real customers. Vertical-agnostic but strongest fit in sales/GTM ops, finance ops, real-estate ops, supply chain, frontline-worker tooling. Less interested in ad-tech, content farms, or "AI as a wrapper" plays.
+- What I bring: Production agent craft (runtime, orchestration, memory, evals, verification loops), full-stack execution across backend/frontend/infra, MBA-level commercial framing, and the ship-it reflex from 3 companies founded.
+- What I want in a co-founder: A complementary GTM/distribution operator who knows the buyer and can sell while I build. Or a domain insider who has lived the broken workflow we are going to fix.
+- Geography: Zurich-based. Open to weekly travel for customer work or co-founder time across Europe. Will relocate for a clearly exceptional fit.
+
+Two paths I would consider via EWOR:
+1. Founder Fellow track with my own thesis. Currently exploring two: explainable AI for retail trading (PulseView, live users), and AI workflow tooling for SMB real-estate (Proplab, MVP shipped).
+2. Matched co-founder track where EWOR pairs me with a complementary founder and I take the technical/AI half.
+
+Hard nos: roles where AI is a feature not the product; roles where engineering implements someone else's spec; "fast-paced startup environment" pitched as the differentiator.
+
+
+--- TECH STACK ---
+
+Languages: Python, Java, TypeScript, JavaScript, C++, SQL
+AI / LLM: OpenAI, Anthropic Claude, LangChain, CrewAI, Strands Agents, Langfuse, RAG, prompt engineering, evals, MCP, ReAct agents, verification loops
+Memory / Context: Neo4j, Graphiti, Zep, embeddings, vector retrieval
+Backend / API: FastAPI, Node.js, REST, webhooks, OAuth, Kafka
+Frontend: Vue, React, Module Federation, Microfrontends
+Data / Storage: PostgreSQL, Elasticsearch, ClickHouse, MongoDB
+Cloud / DevOps: AWS, GCP, Kubernetes, Docker, GitHub Actions, Jenkins, CI/CD
+Robotics / Sim (earlier): Webots, genetic algorithms, neural networks
+Tools: Salesforce, Git, Figma, Notion

@@ -1,0 +1,380 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior AI Engineer | Agentic AI Platforms | Tech Lead | LLM Tooling & Governance",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Tech Lead who builds the platforms that other engineers build on. 13+ years shipping production systems for 10M+ users, last 3 spent making LangChain, CrewAI, Strands Agents, and Langfuse work reliably in production. Defined the distributed templating framework now powering 15% of Beekeeper assets, replaced a $337K vendor with an in-house LLM pipeline in 6 weeks, and grew the AI engineering cohort that now ships features independently. Hands-on with the agent stack end-to-end, from agent reasoning down to the individual tools and API calls, and equally comfortable influencing platform, product, and vendor teams without direct authority.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns the agentic AI stack end-to-end, from agent architecture and tool integrations to governance, observability, and rollout. Reports directly to C-level on outcomes.",
+      "highlights": [
+        "Built and shipped production AI agents (LangChain, FastAPI, GCP) for outbound sales. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast $4M approved opportunities per quarter, $1M quarterly revenue at 25% conversion.",
+        "Built AI Brain, an intelligent context layer unifying conversation data, usage analytics, and notes via Neo4j, Graphiti, and Zep. Surfaces signals across product, sales, and CS.",
+        "Expanded scope to own company-wide AI transformation: governance, access patterns, evaluation, and sales enablement across business units."
+      ],
+      "keywords": [
+        "AI Agents",
+        "LangChain",
+        "Python",
+        "FastAPI",
+        "GCP",
+        "OpenAI",
+        "RAG",
+        "Neo4j",
+        "Graphiti",
+        "Zep",
+        "AI Governance",
+        "Observability"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Tech Lead defining frameworks, integrations, and AI tooling used across the engineering org. Shipped agentic and LLM systems used by millions while growing the AI engineering team around me.",
+      "highlights": [
+        "Defined the Distributed Templating Engine, a reusable framework for asset creation that now powers 15% of all assets on the platform (10M+ users) and cut customer setup time 90%. Reference architecture other teams build on.",
+        "Replaced a $337K annual vendor contract with an in-house LLM pipeline (GitHub Actions plus OpenAI APIs) in 6 weeks. 12K+ assets translated, product team iterates without external gatekeepers.",
+        "Built and mentored the AI engineering cohort: hands-on upskilling on LangChain, CrewAI, Strands Agents, and Langfuse. Hired for craft, grew engineers who now lead agentic features independently.",
+        "Led the Search Platform revamp across 3 teams. Aligned platform, product, and vendor stakeholders without direct authority, redesigned indexing and ranking, shipped measurable engagement lift."
+      ],
+      "keywords": [
+        "AI Agents",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "Langfuse",
+        "OpenAI",
+        "Claude",
+        "Java",
+        "Python",
+        "Microservices",
+        "Kubernetes",
+        "AWS",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "ClickHouse",
+        "Jenkins",
+        "GitHub Actions",
+        "Module Federation"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Evaluates architectures and advises on AI adoption and platform decisions.",
+      "highlights": [
+        "Evaluated 20+ startups on architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.",
+        "Advised portfolio companies on AI strategy, agentic platforms, and engineering frameworks that scale."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Platform Evaluation",
+        "Agentic Systems",
+        "Technical Mentoring",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built the platform, infrastructure, APIs, and integration layer that made 500+ real-world deliveries possible.",
+      "highlights": [
+        "Shipped end-to-end autonomous delivery platform (Vue, Java, PostgreSQL). 500+ successful deliveries, partnerships with Unilever, CES Las Vegas showcase.",
+        "Engineered real-time flight control APIs and logistics optimization algorithms. 40% faster deliveries, 99.5% safety record, zero incidents."
+      ],
+      "keywords": [
+        "Java",
+        "Vue",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Real-time APIs",
+        "Microservices",
+        "Logistics Optimization"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI research at the frontier of robotics. Built and scaled Robogen, an open-source platform for co-evolving robot morphologies and control systems via genetic algorithms.",
+      "highlights": [
+        "Engineered Robogen, an open-source platform for co-evolving robot bodies and brains via genetic algorithms. Reference framework adopted by external researchers and students.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel evolution runs. Secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog.",
+        "Teaching Assistant for Evolutionary Robotics at EPFL. Supervised 20+ master's students through hands-on projects in genetic algorithms, neural controllers, and embodied AI."
+      ],
+      "keywords": [
+        "C++",
+        "Python",
+        "AWS",
+        "Genetic Algorithms",
+        "Neural Networks",
+        "Evolutionary AI",
+        "Robotics",
+        "Webots"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of building and deploying a production AI outbound sales agent: architecture, tool integrations, and real-world outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial on building ReAct (Reasoning plus Acting) agents that combine reasoning with tool calls for real-world tasks."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Follow-up on shipping the orchestration, evaluation, and human-in-the-loop layers of the outbound agent."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for converting unlimited AI potential into measurable business outcomes through constraint design and systematic implementation."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Techniques for interpreting high-dimensional AI embeddings via interactive heatmaps to aid model debugging and observability."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "RoboGen, an open-source platform from EPFL, uses AWS and artificial evolution to co-evolve robot bodies and brains at cloud scale."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Deep-dive on microfrontend architecture for scalable, team-autonomous development across enterprise platforms."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth culture."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Agentic AI & MCP"
+    },
+    {
+      "name": "Platform Engineering"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence platform powered by AI agents that generate and justify trading signals. Built for explainability: if the model can't explain the signal, it doesn't ship.",
+      "highlights": [
+        "Agentic architecture combining technical and news-based tools; every signal traced back to the inputs and reasoning that produced it.",
+        "Serving live retail users with real-time market feeds after self-validating on personal portfolio."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & Builder",
+      "description": "MVP replacing paper-based property inspections with structured, image-backed, timestamped digital protocols.",
+      "highlights": [
+        "Shipped MVP replacing clipboards and WhatsApp photos with structured, timestamped records.",
+        "Building AI marketing assistant that auto-generates property listings from inspection data."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Cross-border tax and compliance platform for Swiss-Indian families. The first digital answer to FEMA, DTAA, and Swiss regulations beyond spreadsheets and expensive advisors.",
+      "highlights": [
+        "Zero-to-MVP in 3 months; compliance-first design with regulatory guardrails built before features.",
+        "Customer feedback loops drove 40% uplift in satisfaction."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Sunrise",
+    "jobTitle": "Sr. Tech Lead - Agentic AI Platform & MCP",
+    "jobUrl": "",
+    "jobDescription": "Sr. Tech Lead - Agentic AI Platform & MCP 80-100% (Glattpark Ambassador House, Tech, Job ID REQ_30036684). Define, establish, and maintain the standard MCP integration framework across BUILD (reference microservices, templates, reusable code assets). SME for MCP integrations across internally developed and COTS applications. Lead technical design and evolution of the agentic AI platform: observability, cost allocation, access governance, MCP configurations, domain configurations. Define and maintain MCP gateway (with 3scale API gateway) and other agentic AI platform sub-systems (LiteLLM, Langfuse, AI Guardrails). Enable developers across business units. Collaborate with ops, business, and vendors. Skills: Tech Lead in complex environments (telco preferred), custom & off-the-shelf MCP servers, AI/LLM platforms or agent-based systems, hands-on architecture-to-implementation, end-to-end systems understanding (agent down to tools/APIs), engineering frameworks/platform standards, influence without direct authority.",
+    "notes": "",
+    "createdAt": "2026-06-17"
+  },
+  "_generatedFile": {
+    "company": "Sunrise",
+    "baseName": "sr-tech-lead-agentic-ai-platformmcp-80100",
+    "createdAt": "2026-06-17T07:31:08.026Z",
+    "targetPath": "./generated/Sunrise/sr-tech-lead-agentic-ai-platformmcp-80100.json"
+  }
+}

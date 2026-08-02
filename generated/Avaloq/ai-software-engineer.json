@@ -1,0 +1,332 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI Software Engineer | Agentic Systems & LLM Ops | Production RAG at Scale",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "AI software engineer who ships agentic AI from ideation to production, not just prototypes. At LumApps I built multi-agent workflows on LangGraph and Google ADK over GCP Vertex AI, with ReAct and hierarchical delegation, plus AI Brain, a temporal knowledge graph grounding RAG retrieval across 5+ data silos: 2x open rates, 2x approved opportunities, $1M forecast quarterly revenue. At Beekeeper I replaced a $337K annual vendor contract with an in-house LLM pipeline in 6 weeks, running eval pipelines, tracing (LangSmith), and cost-per-request instrumentation for production systems serving 10M+ users. Fintech-adjacent by choice: an AI-native cross-border tax platform (SwissNRI) with regulatory guardrails and citation-backed answers, and a market intelligence platform (PulseView) that generates and justifies trading signals with evaluation built in.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead Software Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns AI transformation end-to-end, from production AI agent architecture to company-wide governance and sales enablement strategy. Reports directly to C-level on outcomes.",
+      "highlights": [
+        "Built and deployed production multi-agent workflows for outbound sales on Python, LangGraph and Google ADK over GCP Vertex AI, using ReAct, self-reflection and hierarchical delegation, with tools exposed over MCP servers and agent state streamed to the UI over AG-UI. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast: $4M in approved opportunities per quarter; at 25% conversion, $1M in quarterly revenue.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, conversation transcripts, product usage) into one time-aware memory every agent reads and writes. Event-driven ingest over Pub/Sub, a query and write-back contract per agent, and a freshness layer that flags stale facts, grounding RAG retrieval to cut hallucinations.",
+        "Led technical discovery through production: agent architecture, eval pipelines, agent tracing (LangSmith), tool-selection tuning, and cost-per-request instrumentation, with on-call for global production systems. Reports directly to C-level on outcomes, not progress."
+      ],
+      "keywords": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "Google ADK",
+        "GCP",
+        "Vertex AI",
+        "RAG",
+        "MCP",
+        "AG-UI",
+        "Multi-Agent Systems",
+        "ReAct",
+        "Evaluation Pipelines",
+        "LangSmith",
+        "Observability",
+        "TypeScript",
+        "FastAPI",
+        "Neo4j",
+        "Graphiti",
+        "On-Call",
+        "Salesforce"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who operates like a founding engineer. Owns the problem, designs the solution, ships to prod, and stays accountable to the metric. Built AI-powered products used by millions while growing the engineering team around me.",
+      "highlights": [
+        "Replaced $337K in annual vendor translation costs with an LLM pipeline (GitHub Actions + OpenAI APIs) built in 6 weeks. 12K+ assets translated, product team now iterates without external gatekeepers.",
+        "Built AI Onboarding Specialist giving every new signup personalized, high-touch guidance at scale. 100% of customers guided through setup, time-to-first-value reduced without adding headcount.",
+        "Built and mentored the AI engineering cohort. Hired for craft and curiosity, grew engineers who now lead features independently."
+      ],
+      "keywords": [
+        "Python",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "Langfuse",
+        "Java",
+        "TypeScript",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "ClickHouse",
+        "Jenkins",
+        "GitHub Actions",
+        "Observability",
+        "Grafana",
+        "Datadog",
+        "Logz.io",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Evaluates technical architecture and advises on AI adoption, engineering culture, and building systems that scale.",
+      "highlights": [
+        "Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.",
+        "Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that actually ship."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Startup Evaluation",
+        "Technical Mentoring",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built everything from scratch: architecture, infrastructure, APIs, and the algorithms that made 500+ real-world deliveries possible.",
+      "highlights": [
+        "Shipped end-to-end autonomous drone delivery platform (Vue/Java/PostgreSQL). 500+ successful deliveries, every flight a live UX test for autonomous systems in the real world.",
+        "Engineered real-time flight control APIs and logistics optimization algorithms. 40% faster deliveries, 99.5% safety record, zero incidents."
+      ],
+      "keywords": [
+        "Python",
+        "Java",
+        "PostgreSQL",
+        "REST APIs",
+        "Docker",
+        "AWS",
+        "Real-time Systems",
+        "Logistics Optimization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "In-depth case study of building and deploying a production AI outbound sales agent, detailing the architecture, implementation, and real-world outcomes that led to 2x open rates and 2x approved opportunities."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "A map of the 12 memory and RAG tools building the AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to pick the right memory and retrieval stack for agents in production."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "How verification loops, human-in-the-loop checkpoints, and draft-before-send patterns keep an autonomous agent from shipping wrong actions to real customers."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Microfrontends"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed practice: I embed with a customer's team, run technical discovery, and ship production agentic AI inside their environment, from a one-week AI Opportunity Assessment through evals, tracing, and rollout. Also the home for the AI products I build and run.",
+      "highlights": [
+        "Flagship engagement, the GTM AI Brain: a temporal knowledge graph (Graphiti on Neo4j) unifying 5+ silos (Salesforce, HubSpot, Pendo, conversations, product usage) into one time-aware memory every agent reads and writes, with event-driven ingest over Pub/Sub and a per-agent query and write-back contract."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform for Swiss-Indian families, replacing spreadsheets and expensive advisors. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions in plain language with citations back to the regulation; compliance-first agentic design flags risk before users file, with regulatory guardrails built before features. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built for my own trading portfolio first, then opened to retail traders. AI agents generate AND justify trading signals from technical and news data, with explainability and evaluation built in: if the model can't explain the signal, it doesn't ship. Now serving live users on real-time feeds.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Avaloq",
+    "jobTitle": "AI Software Engineer",
+    "jobUrl": "",
+    "jobDescription": "AI Software Engineer, Avaloq AI Lab. Leads AI experiments and ships agentic AI solutions from ideation to production for the banking sector (banking operations, engineers, knowledge services, relationship managers). Requires: 5+ years full-stack, 3+ years applied ML (2+ with LLMs/Agents), production ML/AI deployment, TensorFlow/PyTorch/Scikit-learn, RAG with vector stores (Chroma/Qdrant), agent frameworks (LangChain/Google ADK/CrewAI), cloud AI services (AWS SageMaker/Bedrock, Azure AI Studio, GCP Vertex AI), LLM/Agent Ops tooling, Docker/Kubernetes, microservices/REST APIs.",
+    "notes": "Strong match on agentic AI, RAG, GCP Vertex AI, LangChain/LangGraph/Google ADK/CrewAI, LLM Ops (LangSmith, Langfuse, eval pipelines, cost instrumentation), Docker/Kubernetes, Python. Gap: no documented TensorFlow, PyTorch, Scikit-learn, Chroma, Qdrant, AWS SageMaker/Bedrock, or Azure AI Studio in resume.md/resume.json, so none of these were added as keywords (no fabrication). No direct banking-sector experience either; leaned on SwissNRI (regulated fintech, citation-backed RAG, compliance guardrails) and PulseView (financial markets, explainable AI) as the closest analogues. Worth naming the classical-ML-framework gap directly if it comes up in screening.",
+    "createdAt": "2026-07-20T15:22:42.000Z"
+  },
+  "_generatedFile": {
+    "company": "Avaloq",
+    "baseName": "ai-software-engineer",
+    "createdAt": "2026-07-20T15:32:46.648Z",
+    "targetPath": "./generated/Avaloq/ai-software-engineer.json"
+  }
+}

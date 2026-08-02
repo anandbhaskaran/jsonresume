@@ -1,0 +1,374 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Physical AI Domain Expert · GTM Builder · Founder · MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Rare combination of authentic Physical AI domain depth and commercial AI-shipping track record. Built Robogen at EPFL (open-source platform for co-evolution of robot bodies and brains via genetic algorithms, scaled to AWS for parallel simulation, taught the subject to 20+ master's students). Founding engineer at Dronistics where 500+ autonomous deliveries powered partnerships with Unilever and a CES showcase. Built production AI agents at LumApps that generated a forecast $4M/quarter pipeline, founded three companies, and speak fluently with VC-backed founders and CTOs. MBA-trained on turning technical wins into repeatable commercial motions.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Built production AI agents that generate qualified pipeline at scale. Owns AI transformation strategy end-to-end and reports to C-level on outcomes.",
+      "highlights": [
+        "Built and deployed production AI agents for outbound pipeline generation. 2x open rates, 2x approved opportunities; forecast $4M in approved opportunities per quarter at 25% conversion. Personal proof of how AI moves pipeline metrics.",
+        "Owns company-wide AI transformation strategy, governance, and sales enablement. Translates frontier AI capability into category-defining commercial motion.",
+        "Built AI Brain, the intelligent context layer unifying conversation data, usage analytics, and notes; surfaces deal patterns that inform sales playbooks across product, sales, and CS."
+      ],
+      "keywords": [
+        "Pipeline Generation",
+        "AI Agents",
+        "Sales Enablement",
+        "GTM Strategy",
+        "Python",
+        "LangChain",
+        "FastAPI",
+        "GCP",
+        "OpenAI",
+        "Claude"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who co-owned GTM launches with Product and Sales. Built AI into the revenue motion and partnered cross-functionally to turn technical wins into repeatable plays.",
+      "highlights": [
+        "Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Employee Referral, Sentiment Analysis). Codified what worked into reusable launch playbooks; each shipped with instrumentation so the bet was proven or killed within a week.",
+        "Built GenAI demo system for Sales: auto-generates personalized content from Salesforce data so every pitch feels custom-built for that customer. Improved demo speed and close rates.",
+        "Architected Employee Referral System end-to-end. Became the platform's top revenue channel ($1.5M+ generated, $500K ARR). Designed for 99.99% SLA because customer trust is measured in uptime.",
+        "Replaced $337K in annual vendor translation contract with an in-house LLM pipeline in 6 weeks. Direct vendor spend control and proof of compute-cost ROI reasoning."
+      ],
+      "keywords": [
+        "GTM Launches",
+        "Sales Plays",
+        "Salesforce",
+        "AI Agents",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "Python",
+        "Java",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "Inference Optimization"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Trusted by VC-backed founders on AI architecture, infrastructure choice, and GTM strategy.",
+      "highlights": [
+        "Evaluated 20+ venture-backed startups on technical architecture, scalability, and AI readiness. Same lens used to engage founder and CTO buyers.",
+        "Mentored portfolio companies including Opt Alpha on scaling AI and infrastructure systems in production. Speak the language of the builders, not just the buyer."
+      ],
+      "keywords": [
+        "VC-backed Startups",
+        "AI Strategy",
+        "Founder Advisory",
+        "Infrastructure",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer at an EPFL spin-off building autonomous drone delivery: cloud infrastructure, real-time control, and partnerships with enterprise customers.",
+      "highlights": [
+        "Shipped end-to-end autonomous drone delivery platform (real-time control APIs, cloud, optimization). 500+ live deliveries, 40% faster deliveries, 99.5% safety record, zero incidents. Hands-on with autonomous systems running in the real world.",
+        "Built cloud infrastructure and CI/CD pipeline from scratch. Enterprise-grade reliability that secured partnerships with Unilever and a CES Las Vegas showcase."
+      ],
+      "keywords": [
+        "Autonomous Systems",
+        "Robotics",
+        "Real-time Control",
+        "Cloud Infrastructure",
+        "AWS",
+        "Optimization",
+        "APIs"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Research engineer on Robogen, an open-source platform for co-evolution of robot morphologies and control systems. Deep credibility on robotics, simulation, embodied AI.",
+      "highlights": [
+        "Engineered Robogen, an open-source platform where robot bodies and brains co-evolve via genetic algorithms. Rare research direction at the intersection of morphology, neural control, and simulation. Directly relevant to Physical AI and embodied intelligence.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel evolution runs impractical on local hardware. Secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog. First-hand experience of compute-intensive simulation workloads on cloud GPU.",
+        "Teaching Assistant for Evolutionary Robotics at EPFL. Supervised 20+ master's students through hands-on projects in genetic algorithms, neural controllers, and embodied AI. Comfortable teaching the builders."
+      ],
+      "keywords": [
+        "Robotics",
+        "Simulation",
+        "Embodied AI",
+        "Genetic Algorithms",
+        "Neural Networks",
+        "AWS GPU",
+        "C++",
+        "Python",
+        "Webots"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "RoboGen from EPFL uses AWS and artificial evolution to co-evolve robot bodies and brains, relying on AWS Cloud for dynamic scaling to power demanding distributed simulation experiments. Featured case study on cloud-scale robotics simulation."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "In-depth case study of building and deploying a production AI outbound sales agent: architecture, implementation, and the real-world outcomes that led to 2x open rates and 2x approved opportunities."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct agents, demonstrating how to build autonomous AI systems that combine reasoning with actionable decision-making."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Follow-up case study on the human-in-the-loop draft step of a production AI outbound agent: design tradeoffs, prompt patterns, and the workflow integration that made reps trust and use it."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    },
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Technical architecture guide demonstrating implementation of enterprise-grade URL shortening service using infrastructure-as-code principles and cloud-native scalability patterns."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Robotics & Embodied AI"
+    },
+    {
+      "name": "Autonomous Systems"
+    },
+    {
+      "name": "AI Infrastructure"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services",
+      "summary": "Funded the Robogen migration to AWS for large-scale parallel robotics simulation."
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Consumption-based AI product. Real-time AI agents that generate AND justify trading signals using technical and news-based data. Self-funded, self-validated, opened to live users.",
+      "highlights": [
+        "Built and operate a consumption-based AI product end-to-end: model choice, prompt design, cost-to-serve, customer acquisition. Founder empathy with the AI-native buyer.",
+        "Live users on real-time market feeds. Direct experience of how compute and inference costs shape unit economics."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & Builder",
+      "description": "Indie AI initiative replacing paper-based property inspections with structured, image-backed, timestamped digital records, plus an AI marketing assistant.",
+      "highlights": [
+        "Shipped MVP replacing paper-based inspection workflows with structured, image-backed, timestamped records.",
+        "Building AI marketing assistant that auto-generates property listings from inspection data."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Cross-border SaaS for Swiss-Indian families navigating FEMA, DTAA, and Swiss regulations. Zero-to-MVP in 3 months with feedback-driven iteration.",
+      "highlights": [
+        "Zero-to-MVP in 3 months. Early users acquired through community partnerships.",
+        "Customer feedback loops drove 40% uplift in satisfaction."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Nebius",
+    "jobTitle": "Director, GTM - Physical AI",
+    "jobUrl": "",
+    "jobDescription": "Sales overlay / domain-specialist role driving repeatable revenue for Nebius' Physical AI segment (robotics, autonomous systems, simulation, embodied intelligence). Owns Top 25 target list, partners with AEs and Field CTO on deal acceleration, builds Physical AI playbook, enables field team. Targets Foundation Model builders, Humanoid robotics, autonomous systems, simulation-first startups. Requires 7+ years sales overlay / GTM strategy / domain-specialist selling in Cloud, AI Infra, or HPC. Remote US (SF Bay or Austin preferred). $254k-$266k OTE + equity.",
+    "notes": "Honest stretch. Candidate is engineer/founder, not a quota-carrying sales overlay. Unique angle: authentic Physical AI domain depth (EPFL Robogen robot co-evolution + AWS-scale simulation + taught Evolutionary Robotics + Dronistics autonomous delivery founding engineer) that almost no career-sales candidate will match. Plus commercial proof (AI outbound agents generating $4M/quarter pipeline forecast at LumApps, $1.5M+ revenue channel architected at Beekeeper, 3 founded companies). MBA + builder + founder = credibility with VC-backed CTOs the JD names. Gaps to address upfront in cover: (1) no formal sales quota or AE partnership track record at GTM-Director scale, (2) US-based role, candidate in Zurich (relocation possible). The pitch is: technical founder-operator pivoting into the domain-specialist seat where deep robotics fluency + AI-shipping track record + builder credibility outweigh missing sales-overlay reps. Best fit if the hiring manager prioritises Physical AI authenticity and customer trust over classic sales playbook execution.",
+    "createdAt": "2026-06-15"
+  },
+  "_generatedFile": {
+    "company": "Nebius",
+    "baseName": "director-gtm-physical-ai",
+    "createdAt": "2026-06-15T12:42:50.864Z",
+    "targetPath": "./generated/Nebius/director-gtm-physical-ai.json"
+  }
+}

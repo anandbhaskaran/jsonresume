@@ -1,0 +1,372 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Lead AI Native Engineer | Agentic Coding & Software Factories | Client-Facing Technical Lead | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Engineer, product owner, and tech lead in one. 13+ years shipping AI-native systems to production and handing the keys back: AI agents that 2x outbound conversions at LumApps, LLM pipelines that eliminated $337K in vendor cost at Beekeeper in 6 weeks, autonomous drone deliveries at Dronistics. Daily driver of agentic coding workflows (Claude Code, MCP, spec-driven, multi-agent orchestration). Founded three AI-native companies on the side to stay at the frontier. I set the engineering bar (tests, CI/CD, observability, eval harnesses) because AI amplifies the system it lands in.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns AI transformation end-to-end, from production agent architecture to company-wide governance, sales enablement, and change management. Reports directly to C-level on outcomes.",
+      "highlights": [
+        "Owned an AI outbound sales agent from fuzzy business problem to production: wrote the backlog, built the system with agentic workflows (LangChain, FastAPI, GCP), rolled it out to SDR and AE teams. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast $4M approved opportunities per quarter.",
+        "Expanded scope to lead company-wide AI transformation strategy and governance. Teaching engineers, product, and sales how to work AI-native and making the new way of working stick.",
+        "Built AI Brain, an intelligent context layer over conversations, usage, and notes. Chose what to ship and what to cut based on business signal, not demo appeal."
+      ],
+      "keywords": [
+        "Python",
+        "LangChain",
+        "FastAPI",
+        "GCP",
+        "AI Agents",
+        "MCP",
+        "OpenAI",
+        "RAG",
+        "Neo4j",
+        "Graphiti",
+        "AI Governance",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who operates like a founding engineer. Owns the problem, writes the backlog, ships to prod, sets the engineering bar, and grows the team around it.",
+      "highlights": [
+        "Replaced $337K in annual vendor translation cost with an in-house LLM pipeline shipped in 6 weeks (GitHub Actions plus OpenAI, with an eval harness gating quality). 12K+ assets translated, product team iterates without external gatekeepers. Handed the keys back to product.",
+        "Architected the Employee Referral System end-to-end as Tech Lead reporting to the CIO. Became the platform's top revenue channel ($1.5M+ generated, $500K ARR). Owned scope, backlog, GTM, and 99.99% SLA.",
+        "Built the AI engineering cohort at Beekeeper. Hired for craft, mentored engineers to lead features independently, and set the bar for tests, CI/CD, observability, and LLM eval harnesses (Langfuse, CrewAI, Strands Agents).",
+        "Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Each shipped with instrumentation so we knew within a week if it moved the metric. Killed the ones that did not."
+      ],
+      "keywords": [
+        "Java",
+        "Python",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "Langfuse",
+        "GitHub Actions",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC startups. Evaluates architecture, AI adoption, and engineering culture; advises founders in front of investors.",
+      "highlights": [
+        "Evaluated 20+ startups on technical architecture, scalability, and AI readiness. Pushed back on hype in front of investors and founders; recommended what would survive production and what would not.",
+        "Mentored portfolio companies on technical hiring, AI strategy, agentic tooling adoption, and building engineering cultures that ship."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Client-Facing Advisory",
+        "Technical Mentoring",
+        "Startup Evaluation",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built the whole stack from scratch and stayed accountable to the metric: safety and delivery speed.",
+      "highlights": [
+        "Shipped the end-to-end delivery platform (Vue, Java, PostgreSQL, AWS). 500+ real-world deliveries, 99.5% safety record, zero incidents. Built CI/CD and cloud infra from scratch so the bar held even as we scaled partnerships with Unilever and a CES showcase.",
+        "Engineered real-time flight control APIs and logistics optimization. 40% faster deliveries, enterprise-grade reliability that customers could trust their brand to."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Real-time Systems",
+        "Flight Control APIs"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI research at the frontier of robotics. Built and scaled Robogen, an open-source platform for co-evolution of robot morphologies and control systems via genetic algorithms.",
+      "highlights": [
+        "Engineered Robogen, an open-source platform for co-evolution of robot bodies and brains via genetic algorithms. Migrated the simulation pipeline to AWS for large-scale parallel runs; work featured on the AWS Public Sector Blog.",
+        "Teaching Assistant for Evolutionary Robotics at EPFL. Supervised 20+ master's students hands-on: change management practice for engineers picking up unfamiliar tooling.",
+        "Foundational AI experience (optimization, search, fitness landscapes, learning from environment) that shapes how I approach LLM and agentic systems today."
+      ],
+      "keywords": [
+        "C++",
+        "Python",
+        "AWS",
+        "Genetic Algorithms",
+        "Neural Networks",
+        "Evolutionary AI",
+        "Robotics",
+        "Webots"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Production case study of an AI outbound sales agent: architecture, agent orchestration, evaluation, and the outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Tutorial series on building ReAct (Reasoning plus Acting) agents. Practical implementation of autonomous AI systems that reason and act on real-world tasks."
+    },
+    {
+      "name": "Drafted, Not Sent: The Second Half of an AI Outbound Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Follow-up deep dive into the second half of the outbound agent: humans-in-the-loop, evaluation harness, and shipping AI writing that actually gets sent."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for turning open-ended AI potential into measurable outcomes. On saying no to demos that will not survive production and picking the constraint that ships."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on the intersection of AI and human creativity. How AI augments (not replaces) product engineers and creative workflows."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology for assembling and scaling high-performing remote engineering teams through psychological safety, clear accountability, and growth culture."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Deep-dive on microfrontend architecture for scalable, team-autonomous development and reduced deployment complexity in enterprise apps."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology for accelerating product cycles through lean validation, rapid prototyping, and data-driven decisions in startup environments."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Agentic Coding & MCP"
+    },
+    {
+      "name": "AI-Native Engineering"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market analysis platform where AI agents both generate and justify trading signals. Built for my own portfolio first; opened to retail traders after self-validation. Core principle: if the model cannot explain the signal, it does not ship.",
+      "highlights": [
+        "Multi-agent workflow that fuses technical and news-based inputs, produces a signal, and generates the rationale. Explainability gates every ship. Live product with real users."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & AI Product Builder",
+      "description": "AI-native MVP for small real estate teams. Vision models turn inspection photos into structured records; LLM agents turn those records into multilingual, marketing-ready listings end-to-end.",
+      "highlights": [
+        "Single agent workflow from photo capture to published listing, zero copy-paste. Built spec-driven with an eval harness so a bad extraction never becomes a bad listing."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native platform for Swiss-Indian families navigating FEMA, DTAA, and Swiss tax regulations. Zero-to-MVP in 3 months with a compliance-first agentic design.",
+      "highlights": [
+        "RAG-grounded tax assistant that answers cross-border compliance questions in plain language with citations back to the regulation. Regulatory guardrails built before features; 40% uplift in user satisfaction from feedback-driven iteration."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "re:cinq",
+    "jobTitle": "Lead AI Native Engineer",
+    "jobUrl": "",
+    "jobDescription": "Lead AI Native Engineer. re:cinq is a hands-on engineering consultancy. Own delivery end to end (prototype to production, hand back the keys), run it like a product owner (fuzzy business problem to sequenced backlog), build at the top of the ladder (orchestrate multiple coding agents in parallel, spec-driven, MCP, software-factory patterns), set the engineering bar (tests, CI/CD, observability, validation harness), lead the behaviour change (teach client engineers to work AI-native, train the trainers), push back on hype. Bar: 7+ years shipping to prod, led teams, daily fluent agentic coding, product instinct, fluent across 2+ stacks, at ease with clients and execs. Bonus: consulting, MCP servers, change management, public work.",
+    "notes": "",
+    "createdAt": "2026-07-01"
+  },
+  "_generatedFile": {
+    "company": "re-cinq",
+    "baseName": "lead-ai-native-engineer",
+    "createdAt": "2026-07-01T08:49:54.903Z",
+    "targetPath": "./generated/re-cinq/lead-ai-native-engineer.json"
+  }
+}

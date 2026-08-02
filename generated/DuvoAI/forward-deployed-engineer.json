@@ -1,0 +1,379 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Forward Deployed AI Engineer · Production Agents · Customer Outcomes · Founder",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Forward-deployed by instinct: ship production AI agents inside customer systems, not slideware. Built outbound agents at LumApps forecast to generate $4M in approved opportunities per quarter. Shipped AI products at Beekeeper for 10M+ frontline workers across retail, logistics, manufacturing, hospitality; partnered with Unilever on autonomous delivery at Dronistics. Comfortable in the messy middle between AI, process, and customer; founded 3 companies, biased to ship, low ego.",
+    "metrics": [
+      {
+        "value": "$4M",
+        "label": "Quarterly Pipeline (AI Agent)"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns production AI agents end-to-end: runtime, integrations, rollout, customer feedback loop with sales teams. Reports to C-level on outcomes.",
+      "highlights": [
+        "Built and deployed production AI agents for outbound sales (LangChain, FastAPI, GCP) with integrations across Salesforce, email, and internal CRM tooling. Own the full feedback loop with SDR and AE teams.",
+        "Outcomes the GTM org measures by: 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast to generate $4M in approved opportunities per quarter.",
+        "Expanded scope to own company-wide AI governance and sales enablement. Working sessions with sales leaders on where agents act, where humans verify, how outcomes are measured."
+      ],
+      "keywords": [
+        "AI Agents",
+        "LangChain",
+        "FastAPI",
+        "Python",
+        "OpenAI",
+        "GCP",
+        "RAG",
+        "MCP",
+        "Evals",
+        "Prompt Engineering",
+        "Salesforce",
+        "Integrations"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Tech lead who operates like a founding engineer. Built customer-facing AI products for 10M+ frontline workers in retail, logistics, manufacturing, and hospitality. Embedded with customer-success and sales on every launch.",
+      "highlights": [
+        "Built AI Onboarding Specialist that guides every new customer through setup with personalized, high-touch AI. 100% of customers guided without adding headcount. Same shape as an FDE engagement, productized.",
+        "Replaced $337K in annual vendor translation costs with an LLM pipeline (GitHub Actions + OpenAI) shipped in 6 weeks. 12K+ assets translated; product team iterates without external gatekeepers.",
+        "Designed distributed templating engine that cut customer setup time 90% by redesigning the workflow, not automating the broken one. Powers 15% of all platform assets for 10M+ users.",
+        "Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Each shipped with instrumentation so we knew within a week if it moved the customer's needle."
+      ],
+      "keywords": [
+        "AI Agents",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "Langfuse",
+        "Evals",
+        "Prompt Engineering",
+        "Python",
+        "Java",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "PostgreSQL",
+        "ClickHouse",
+        "GitHub Actions",
+        "Webhooks",
+        "APIs"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Customer-facing technical consulting on architecture, AI adoption, and shipping discipline.",
+      "highlights": [
+        "Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.",
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Technical Consulting",
+        "Startup Evaluation",
+        "Scalability",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built everything from scratch: architecture, infrastructure, APIs, and the algorithms that made 500+ real-world deliveries possible.",
+      "highlights": [
+        "Shipped end-to-end autonomous delivery platform (Vue, Java, PostgreSQL, AWS) with real-time flight control APIs and logistics optimization. 500+ deliveries powering a Unilever CPG partnership and a CES Las Vegas showcase. 40% faster, 99.5% safety, zero incidents.",
+        "Built cloud infrastructure and CI/CD pipeline from scratch. Enterprise-grade reliability that earned customer trust from the first deployment."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "APIs",
+        "Logistics Optimization",
+        "Real-time Systems"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI research at the frontier of robotics. Built Robogen, an open-source platform for co-evolution of robot morphologies and control systems via genetic algorithms.",
+      "highlights": [
+        "Engineered Robogen, an open-source platform for co-evolution of robot bodies and brains via genetic algorithms.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel evolution runs impractical on local hardware. Secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog.",
+        "Foundational AI experience (optimization, search, fitness landscapes, learning from environment) that informs how I approach modern LLM and agentic systems today."
+      ],
+      "keywords": [
+        "C++",
+        "Python",
+        "AWS",
+        "Genetic Algorithms",
+        "Neural Networks",
+        "Evolutionary AI",
+        "Robotics",
+        "Webots"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "In-depth case study of building and deploying a production AI outbound sales agent. Architecture, implementation, and the real-world outcomes that led to 2x open rates and 2x approved opportunities."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "How verification loops, human-in-the-loop checkpoints, and draft-before-send patterns keep an autonomous agent from shipping wrong actions to real customers."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial on building ReAct (Reasoning + Acting) agents. Combines reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Strategic framework on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "RoboGen, an open-source platform from EPFL, uses AWS and artificial evolution to co-evolve robot bodies and brains. Distributed experiments at cloud scale."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Data visualization techniques for interpreting high-dimensional AI embeddings through interactive heatmaps for enhanced model interpretability."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on the intersection of AI and human creativity. How AI augments rather than replaces creative processes in product development."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology on assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI Agents & Verification Loops"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Process Redesign"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "AI agents that generate AND justify trading signals using technical and news data. Core principle: if the model cannot explain the signal, it does not ship. Verification before output, every time.",
+      "highlights": [
+        "Built the full stack solo: agent runtime, real-time market data integrations, signal generation and justification layer, web frontend.",
+        "Live retail users after self-validating on my own portfolio. Explainability as the product, not a feature."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI Real Estate Tools",
+      "position": "Founder & Builder",
+      "description": "Property inspections ran on paper, clipboards, and WhatsApp photos. Redesigned the workflow before automating it: built MVP for a fully digital, image-backed, timestamped inspection process.",
+      "highlights": [
+        "Shipped MVP replacing paper-based inspection workflows with structured, image-backed, timestamped records.",
+        "Building AI marketing assistant that auto-generates property listings from inspection data. One workflow, zero copy-paste."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Swiss-Indian families navigating FEMA, DTAA, and Swiss regulations had zero digital help. Just spreadsheets and expensive advisors. Built the first platform addressing this.",
+      "highlights": [
+        "Zero-to-MVP in 3 months. Compliance-first design: regulatory guardrails for both jurisdictions built before features.",
+        "Customer feedback loops drove 40% uplift in satisfaction. Roadmap owned by what users actually asked for."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "DuvoAI",
+    "jobTitle": "Forward Deployed Engineer",
+    "jobUrl": "",
+    "jobDescription": "Forward Deployed Engineer to integrate AI solutions into customer systems, improve processes, and deliver business impact. Remote UK with occasional Europe travel. FDEs embed with customers from kickoff through go-live: map workflows, redesign broken processes (don't automate them), translate business logic into agent behaviour, ship agents against real customer systems (ERPs, portals, spreadsheets, email, custom tools), write integration glue (scripts, prototypes, transformations), debug live agents in production, own the stakeholder relationship from operators to sponsors, capture reusable patterns. Looking for 5+ years customer-facing AI/agentic systems, hands-on with LLMs, agent frameworks, prompt engineering, evals, MCP, retrieval; SQL, Python/JS scripting, APIs, JSON, webhooks; ERP familiarity a plus; retail/e-commerce/CPG or supply chain/procurement/merchandising/finance ops domain fluency is a strong plus. Mindset: bias to ship, comfortable with ambiguity, low ego, customer-obsessed, commercially aware.",
+    "notes": "Surface Beekeeper's frontline-worker customer base (retail/logistics/manufacturing/hospitality) and Dronistics' Unilever (CPG) partnership to hit the operational-domain plus.",
+    "createdAt": "2026-06-11"
+  },
+  "_generatedFile": {
+    "company": "DuvoAI",
+    "baseName": "forward-deployed-engineer",
+    "createdAt": "2026-06-11T14:49:07.951Z",
+    "targetPath": "./generated/DuvoAI/forward-deployed-engineer.json"
+  }
+}

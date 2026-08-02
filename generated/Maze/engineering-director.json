@@ -1,0 +1,337 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Engineering Director | Hands-On Technical Leadership | Founder x3 | Agentic AI Teams",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Technical leader who stays on the tools: as Tech Lead at Beekeeper I owned architecture end-to-end (Employee Referral System, $1.5M+ revenue channel), was acting hiring manager for AI roles, and mentored engineers who now lead features independently as deputy tech lead of FUEL. I've founded three companies (Anand Creations, SwissNRI, PulseView), so I know what it takes to build an engineering effort from zero, not just direct one. Currently embedded at LumApps building production multi-agent AI systems on LangGraph, Google ADK, and MCP that 2x outbound conversions, the agentic-AI team experience this role wants, built by someone who ships, not just researches. 13+ years measuring myself by customer outcomes and revenue impact, not process compliance.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead Software Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns AI transformation end-to-end, from production AI agent architecture to company-wide governance and sales enablement strategy. Reports directly to C-level on outcomes.",
+      "highlights": [
+        "Built and deployed production multi-agent workflows for outbound sales on Python, LangGraph and Google ADK over GCP Vertex AI, using ReAct, self-reflection and hierarchical delegation, with tools exposed over MCP servers and agent state streamed to the UI over AG-UI. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast: $4M in approved opportunities per quarter; at 25% conversion, $1M in quarterly revenue.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, conversation transcripts, product usage) into one time-aware memory every agent reads and writes. Event-driven ingest over Pub/Sub, a query and write-back contract per agent, and a freshness layer that flags stale facts, grounding RAG retrieval to cut hallucinations.",
+        "Led technical discovery through production: agent architecture, eval pipelines, agent tracing, tool-selection tuning, and cost-per-request instrumentation, with on-call for global production systems. Reports directly to C-level on outcomes, not progress."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "LangChain",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "GCP",
+        "Vertex AI",
+        "AG-UI",
+        "Multi-Agent Systems",
+        "RAG",
+        "Evaluation Pipelines",
+        "LangSmith",
+        "Observability",
+        "FastAPI",
+        "Neo4j",
+        "Graphiti",
+        "On-Call",
+        "Salesforce"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who operates like a founding engineer. Owns the problem, designs the solution, ships to prod, and stays accountable to the metric. Built AI-powered products used by millions while growing the engineering team around me.",
+      "highlights": [
+        "Architected Employee Referral System end-to-end as Tech Lead reporting to CIO. Became the platform's top revenue channel ($1.5M+ generated, $500K ARR). Designed for 99.99% SLA because customer trust is measured in uptime.",
+        "Built and mentored the AI engineering cohort as acting hiring manager for AI roles: defined the bar, ran the process, closed candidates, and grew engineers who now lead features independently. Deputy tech lead of FUEL.",
+        "Led Search Platform revamp across 3 teams. Redesigned indexing and ranking to surface what users mean to find, not just what they typed. Measurable lift in user engagement.",
+        "Replaced $337K in annual vendor translation costs with an LLM pipeline built in 6 weeks. 12K+ assets translated, product team now iterates without external gatekeepers."
+      ],
+      "keywords": [
+        "Java",
+        "Python",
+        "TypeScript",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "Technical Hiring",
+        "Mentoring",
+        "OpenAI",
+        "LangChain",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "Jenkins",
+        "GitHub Actions",
+        "ClickHouse",
+        "Observability",
+        "Grafana",
+        "Datadog",
+        "Logz.io",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Evaluates technical architecture and advises on AI adoption, engineering culture, and building systems that scale.",
+      "highlights": [
+        "Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that actually ship.",
+        "Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions."
+      ],
+      "keywords": [
+        "Technical Hiring",
+        "Engineering Culture",
+        "AI Strategy",
+        "Startup Evaluation",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built everything from scratch: architecture, infrastructure, APIs, and the algorithms that made 500+ real-world deliveries possible.",
+      "highlights": [
+        "Shipped end-to-end autonomous drone delivery platform (Vue/Java/PostgreSQL) from zero as a founding engineer. 500+ successful deliveries, every flight a live UX test for autonomous systems in the real world.",
+        "Built reliability in from day one, enabling enterprise partnerships with Unilever and a showcase at CES Las Vegas."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "CI/CD",
+        "Real-time Systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "In-depth case study of building and deploying a production AI outbound sales agent, detailing the architecture, implementation, and real-world outcomes that led to 2x open rates and 2x approved opportunities."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "A map of the 12 memory and RAG tools building the AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to pick the right memory and retrieval stack for agents in production."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Microfrontends"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed practice: I embed with a customer's team, run technical discovery, and ship production agentic AI inside their environment, from a one-week AI Opportunity Assessment through evals, tracing, and rollout. Also the home for the AI products I build and run.",
+      "highlights": [
+        "Flagship engagement, the GTM AI Brain: a temporal knowledge graph (Graphiti on Neo4j) unifying 5+ silos (Salesforce, HubSpot, Pendo, conversations, product usage) into one time-aware memory every agent reads and writes, with event-driven ingest over Pub/Sub and a per-agent query and write-back contract."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform for Swiss-Indian families, replacing spreadsheets and expensive advisors. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions in plain language with citations back to the regulation; compliance-first agentic design flags risk before users file, with regulatory guardrails built before features. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built for my own trading portfolio first, then opened to retail traders. AI agents generate AND justify trading signals from technical and news data, with explainability and evaluation built in: if the model can't explain the signal, it doesn't ship. Now serving live users on real-time feeds.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Maze",
+    "jobTitle": "Engineering Director",
+    "jobUrl": "",
+    "jobDescription": "Engineering Director at Maze, an AI-powered vulnerability management startup (Series A, Theory Ventures, Series B on the horizon), scaling engineering from 20 to 35+ engineers. Hands-on senior technical leadership role reporting to CTO Santiago: owns a set of small product teams (3 to 5 engineers each) with tech leads reporting in, stays close to architecture/code reviews, grows engineering leaders through genuine people leadership, drives lightweight cross-team coordination, leads technical hiring, measured by customer value and revenue impact not process compliance. Must-haves: technical credibility, experience as the most senior technical leader (CTO/VP/Head of Eng) of a fast-moving 10-20 person team, genuine people leadership and performance management track record, hands-on instinct, comfort with small-team operating models, strong hiring instincts, business owner's mindset. Nice-to-haves: cybersecurity/AI domain interest, founder or early-stage experience building an eng org, familiarity with agentic AI/LLMs as a builder not researcher, distributed team management.",
+    "notes": "Strong match on hands-on technical leadership, hiring (acting hiring manager for AI roles at Beekeeper), mentoring/growing engineers (AI engineering cohort, deputy tech lead of FUEL), founder experience (3 companies, an explicit nice-to-have), agentic AI/LLM builder experience (explicit nice-to-have, and a strong one given LumApps/Anand Creations). Honest gap: title history tops out at 'Technical Lead' at Beekeeper, not CTO/VP/Head of Engineering, and no documented evidence of directly leading a 10-20 person team (the JD's core must-have); founder team sizes at SwissNRI/PulseView/Proplab are small/solo, not verified at that scale either. No fabrication of team size or title; tailored to lead with the genuine hands-on leadership, hiring, and mentoring signal instead. No cybersecurity domain experience documented (nice-to-have only).",
+    "createdAt": "2026-07-21T08:19:46.000Z"
+  },
+  "_generatedFile": {
+    "company": "Maze",
+    "baseName": "engineering-director",
+    "createdAt": "2026-07-21T08:20:42.148Z",
+    "targetPath": "./generated/Maze/engineering-director.json"
+  }
+}

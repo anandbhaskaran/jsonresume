@@ -1,0 +1,444 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Anand Bhaskaran — Work Samples</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg: #FAF9F6;
+        --surface: #FFFFFF;
+        --ink: #1A1A1A;
+        --ink-2: #2E2E2E;
+        --muted: #6B6B6B;
+        --faint: #9B9B9B;
+        --line: #EAE7E1;
+        --line-soft: #F1EEE8;
+        --accent: #7C5BCC;
+        --accent-deep: #5E3FB0;
+        --accent-soft: #F2EDFB;
+        --accent-border: #DCD2F4;
+        --pill-bg: #F4F2EC;
+        --pill-border: #E5E1D8;
+      }
+
+      html { background: var(--bg); }
+      body {
+        font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        font-size: 17px;
+        background: var(--bg);
+        margin: 0;
+        letter-spacing: -0.005em;
+        color: var(--ink-2);
+        line-height: 1.45;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      h1, h2, h3, h4, h5, h6 { margin: 0; }
+
+      @page { size: A4; margin: 12mm 0 8mm 0; }
+      @page :first { margin: 0; }
+
+      .page {
+        background: var(--surface);
+        width: 210mm;
+        min-height: 297mm;
+        margin: 0 auto;
+        padding: 12mm 14mm 10mm;
+        box-sizing: border-box;
+      }
+
+      .doc-header {
+        padding-bottom: 12px;
+        border-bottom: 1px solid var(--line);
+        margin-bottom: 14px;
+      }
+
+      .doc-header h1 {
+        font-family: "Inter", sans-serif;
+        font-weight: 700;
+        font-size: 24px;
+        letter-spacing: -0.02em;
+        color: var(--ink);
+        line-height: 1.1;
+      }
+
+      .doc-header .subtitle {
+        font-family: "Newsreader", Georgia, serif;
+        font-style: oblique 8deg;
+        font-weight: 400;
+        font-size: 13px;
+        color: var(--muted);
+        margin-top: 4px;
+      }
+
+      .doc-header .meta {
+        font-size: 10px;
+        color: var(--faint);
+        margin-top: 6px;
+        letter-spacing: 0;
+      }
+
+      .case {
+        margin-bottom: 18px;
+        page-break-inside: avoid;
+        break-inside: avoid;
+      }
+
+      .case-eyebrow {
+        font-family: "Inter", sans-serif;
+        font-size: 9px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.14em;
+        color: var(--accent);
+        margin-bottom: 4px;
+      }
+
+      .case-title {
+        font-family: "Inter", sans-serif;
+        font-weight: 600;
+        font-size: 15px;
+        color: var(--ink);
+        letter-spacing: -0.01em;
+        line-height: 1.25;
+      }
+
+      .case-context {
+        font-family: "Newsreader", Georgia, serif;
+        font-style: italic;
+        font-size: 11px;
+        color: var(--muted);
+        margin-top: 3px;
+      }
+
+      .case-body {
+        margin-top: 10px;
+      }
+
+      .case-block {
+        margin-bottom: 8px;
+      }
+
+      .case-block:last-child { margin-bottom: 0; }
+
+      .block-label {
+        font-family: "Inter", sans-serif;
+        font-size: 8.5px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        color: var(--muted);
+        display: inline-block;
+        margin-right: 6px;
+      }
+
+      .block-text {
+        font-size: 11.5px;
+        color: var(--ink-2);
+        line-height: 1.55;
+        display: inline;
+      }
+
+      .case-block p {
+        margin: 0;
+        font-size: 11.5px;
+        color: var(--ink-2);
+        line-height: 1.55;
+      }
+
+      .case-block ul {
+        margin: 4px 0 0;
+        padding-left: 14px;
+      }
+
+      .case-block ul li {
+        font-size: 11.5px;
+        color: var(--ink-2);
+        line-height: 1.55;
+        margin-bottom: 2px;
+        padding-left: 2px;
+      }
+
+      .case-block ul li::marker {
+        color: var(--accent);
+        font-size: 0.85em;
+      }
+
+      .metrics-row {
+        display: flex;
+        gap: 16px;
+        margin-top: 10px;
+        padding: 8px 0;
+        border-top: 1px dotted var(--line);
+        border-bottom: 1px dotted var(--line);
+      }
+
+      .metric {
+        flex: 1;
+      }
+
+      .metric-value {
+        font-family: "Inter", sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        color: var(--ink);
+        display: block;
+        line-height: 1.1;
+        letter-spacing: -0.015em;
+      }
+
+      .metric-label {
+        font-size: 8.5px;
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        margin-top: 3px;
+        display: block;
+      }
+
+      .stack-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px;
+        margin-top: 6px;
+      }
+
+      .stack-tag {
+        font-size: 9px;
+        font-weight: 500;
+        color: var(--accent);
+        background: var(--accent-soft);
+        border: 1px solid var(--accent-border);
+        border-radius: 3px;
+        padding: 1px 6px;
+        letter-spacing: 0;
+      }
+
+      .lesson {
+        margin-top: 10px;
+        padding: 8px 10px;
+        background: var(--accent-soft);
+        border-left: 2px solid var(--accent);
+        border-radius: 2px;
+      }
+
+      .lesson .lesson-label {
+        font-family: "Inter", sans-serif;
+        font-size: 8.5px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        color: var(--accent-deep);
+        margin-right: 6px;
+      }
+
+      .lesson .lesson-text {
+        font-size: 11px;
+        color: var(--ink-2);
+        font-style: italic;
+        font-family: "Newsreader", Georgia, serif;
+        line-height: 1.55;
+      }
+
+      .footer-note {
+        margin-top: 18px;
+        padding-top: 10px;
+        border-top: 1px solid var(--line);
+        font-size: 9.5px;
+        color: var(--faint);
+        line-height: 1.5;
+      }
+
+      a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      @media print {
+        * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+        html, body { margin: 0 !important; padding: 0 !important; background: var(--bg) !important; }
+        .page { box-shadow: none !important; border-radius: 0 !important; }
+        .case { page-break-inside: avoid; break-inside: avoid; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <header class="doc-header">
+        <h1>Anand Bhaskaran. Work Samples.</h1>
+        <div class="subtitle">Three case studies on how I think and ship</div>
+        <div class="meta">For Orderfox · Senior AI &amp; Data Product Engineer · 2026</div>
+      </header>
+
+      <!-- CASE 1 -->
+      <section class="case">
+        <div class="case-eyebrow">Case 1 · Knowledge graph as agent foundation</div>
+        <h2 class="case-title">AI Brain. A knowledge-graph context layer that grounds production agents in business intelligence.</h2>
+        <div class="case-context">LumApps · 2026 · Architect &amp; builder</div>
+
+        <div class="case-body">
+          <div class="case-block">
+            <span class="block-label">Problem</span>
+            <span class="block-text">Eight-plus data silos: CRM activity, conversation transcripts, usage analytics, AE notes. Agents drowning in raw text, hallucinating relationships ("who owns this account?", "what did the customer ask last quarter?"). Vector search returned plausible chunks but lost the relational structure that actually drives business decisions.</span>
+          </div>
+
+          <div class="case-block">
+            <span class="block-label">Decision</span>
+            <span class="block-text">Build a knowledge graph (Neo4j + Graphiti + Zep) instead of expanding the vector store. Reasoning: the business questions agents need to answer are relational, not semantic. "Which accounts have a stalled deal AND a recent product complaint AND no exec sponsor?" is a graph query, not a similarity search. Embeddings sit on top; the graph is the ground truth.</span>
+          </div>
+
+          <div class="case-block">
+            <span class="block-label">Approach</span>
+            <ul>
+              <li>Defined the ontology: Account, Contact, Conversation, Insight, Initiative, Signal. Typed relationships (works_at, mentioned_in, blocks, depends_on).</li>
+              <li>LLM extractors turn unstructured text into typed triples; Graphiti handles temporal versioning so old beliefs do not poison new context.</li>
+              <li>Agents query the graph through a thin tool layer, not raw Cypher. Each tool returns structured rows with provenance back to the source.</li>
+              <li>Telemetry (Langfuse) on every agent turn: which graph queries fired, which returned empty, where the agent fell back to vector search. That signal drives the next round of ontology extensions.</li>
+            </ul>
+          </div>
+
+          <div class="metrics-row">
+            <div class="metric"><span class="metric-value">8+ silos</span><span class="metric-label">Unified into one graph</span></div>
+            <div class="metric"><span class="metric-value">Production</span><span class="metric-label">Powers AI agents company-wide</span></div>
+            <div class="metric"><span class="metric-value">C-level</span><span class="metric-label">Direct reporting on outcomes</span></div>
+          </div>
+
+          <div class="stack-tags">
+            <span class="stack-tag">Neo4j</span>
+            <span class="stack-tag">Graphiti</span>
+            <span class="stack-tag">Zep</span>
+            <span class="stack-tag">Python</span>
+            <span class="stack-tag">LangChain</span>
+            <span class="stack-tag">FastAPI</span>
+            <span class="stack-tag">Langfuse</span>
+            <span class="stack-tag">GCP</span>
+          </div>
+
+          <div class="lesson">
+            <span class="lesson-label">Lesson</span>
+            <span class="lesson-text">Ontology beats embeddings when the question is "who and why," not "what is similar." Start with the relationships the product needs to reason over, then layer vectors on top for the fuzzy edges.</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- CASE 2 -->
+      <section class="case">
+        <div class="case-eyebrow">Case 2 · Build vs buy, decided in numbers</div>
+        <h2 class="case-title">LLM translation pipeline. $337K vendor contract eliminated in six weeks.</h2>
+        <div class="case-context">Beekeeper · 2023 to 2024 · Solo build, then scaled across product teams</div>
+
+        <div class="case-body">
+          <div class="case-block">
+            <span class="block-label">Problem</span>
+            <span class="block-text">External vendor translating ~100 i18n key-value strings per week. $337K annual contract. Two-week turnaround blocked product iteration; localized features always shipped a sprint behind English. Product team treated translation as a non-negotiable tax.</span>
+          </div>
+
+          <div class="case-block">
+            <span class="block-label">Decision</span>
+            <span class="block-text">Build, not buy. Translation quality on structured product strings is now an LLM commodity; the vendor's real cost was lock-in and latency, not labor. Risk-adjusted: a six-week build cost ~10% of one year's vendor spend, with the upside of perpetual ownership.</span>
+          </div>
+
+          <div class="case-block">
+            <span class="block-label">Approach</span>
+            <ul>
+              <li>GitHub Actions trigger on any i18n PR. Diff detection so we only translate changed keys.</li>
+              <li>OpenAI batch API with glossary injection (product nouns, brand terms, tone constraints) per locale.</li>
+              <li>Confidence scoring: high-confidence translations auto-merge, ambiguous strings (idioms, UI-context-dependent) get flagged for human review in a lightweight web UI.</li>
+              <li>Six-week breakdown: week 1 prototype on one locale, week 2 glossary + tone, week 3 reviewer UX, weeks 4 to 5 staged rollout across 14 locales, week 6 vendor contract not renewed.</li>
+            </ul>
+          </div>
+
+          <div class="metrics-row">
+            <div class="metric"><span class="metric-value">$337K</span><span class="metric-label">Annual cost eliminated</span></div>
+            <div class="metric"><span class="metric-value">12K+</span><span class="metric-label">Assets translated since Jan 2024</span></div>
+            <div class="metric"><span class="metric-value">6 weeks</span><span class="metric-label">Prototype to production</span></div>
+            <div class="metric"><span class="metric-value">Same day</span><span class="metric-label">i18n turnaround (vs 2 weeks)</span></div>
+          </div>
+
+          <div class="stack-tags">
+            <span class="stack-tag">Python</span>
+            <span class="stack-tag">OpenAI</span>
+            <span class="stack-tag">GitHub Actions</span>
+            <span class="stack-tag">Vue (review UI)</span>
+            <span class="stack-tag">PostgreSQL</span>
+          </div>
+
+          <div class="lesson">
+            <span class="lesson-label">Lesson</span>
+            <span class="lesson-text">"Good enough" beats "perfect on paper" when the alternative is no shipping. The vendor was technically pristine but operationally slow; the LLM pipeline was technically imperfect but unblocked the product team forever.</span>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- PAGE 2 -->
+    <div class="page">
+      <!-- CASE 3 -->
+      <section class="case">
+        <div class="case-eyebrow">Case 3 · Agents that act, not act autonomously</div>
+        <h2 class="case-title">AI outbound agent. 2x open rates, 2x approved opportunities, two to three hours per rep per day.</h2>
+        <div class="case-context">LumApps · 2026 · Built solo, rolled out across SDR and AE teams</div>
+
+        <div class="case-body">
+          <div class="case-block">
+            <span class="block-label">Problem</span>
+            <span class="block-text">SDR and AE teams sending identical templated outbound. 8 to 12% open rates. Two to three hours per rep per day on drafting and research. Sales leadership wanted "more outbound" but adding headcount linearised the problem, not solved it.</span>
+          </div>
+
+          <div class="case-block">
+            <span class="block-label">Decision</span>
+            <span class="block-text">Human-in-the-loop drafting, NOT autonomous sending. Reasoning: in B2B outbound, one bad send loses an account permanently. The 10% efficiency gain from full automation is not worth the 1% catastrophic risk. The agent's job is to do the research and propose the draft; the rep keeps the send button.</span>
+          </div>
+
+          <div class="case-block">
+            <span class="block-label">Approach</span>
+            <ul>
+              <li>Signal ingestion: CRM (account state, last touchpoint), recent news, LinkedIn activity, product usage (where relevant). Each signal typed and timestamped so the agent can reason about freshness.</li>
+              <li>Agent generates three drafts per prospect with explicit reasoning ("opening on X because Y was mentioned in their Q3 earnings call"). Reps see the reasoning, not just the draft.</li>
+              <li>Tool design: each agent has one to two tools max. Tested in Langfuse with replay-driven evals; new prompts gated on regression against a golden set of 200 historical outbound conversations.</li>
+              <li>Telemetry loop: open rates, reply rates, meeting-booked rates, by prompt variant. Bad variants killed within a week.</li>
+            </ul>
+          </div>
+
+          <div class="metrics-row">
+            <div class="metric"><span class="metric-value">2x</span><span class="metric-label">Open rates</span></div>
+            <div class="metric"><span class="metric-value">2x</span><span class="metric-label">Approved opportunities</span></div>
+            <div class="metric"><span class="metric-value">2 to 3 hrs</span><span class="metric-label">Saved per rep per day</span></div>
+            <div class="metric"><span class="metric-value">$1M/qtr</span><span class="metric-label">Forecast revenue at 25% conversion</span></div>
+          </div>
+
+          <div class="stack-tags">
+            <span class="stack-tag">Python</span>
+            <span class="stack-tag">LangChain</span>
+            <span class="stack-tag">OpenAI</span>
+            <span class="stack-tag">FastAPI</span>
+            <span class="stack-tag">Langfuse</span>
+            <span class="stack-tag">Salesforce</span>
+            <span class="stack-tag">GCP</span>
+          </div>
+
+          <div class="lesson">
+            <span class="lesson-label">Lesson</span>
+            <span class="lesson-text">Agents that act do not have to act autonomously. The valuable action is the reasoning, the research, the draft. Keeping a human on the send button costs you nothing measurable and buys you trust the system cannot earn back if it misfires once.</span>
+          </div>
+        </div>
+      </section>
+
+      <div class="footer-note">
+        Public write-up of the outbound agent build:
+        <a href="https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed">I Built an AI Outbound Agent. Here's What Actually Worked.</a> · TowardsAI, May 2025.<br />
+        Follow-up on human-in-the-loop drafting:
+        <a href="https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the">Drafted, not sent.</a> · The Compounding Curiosity, May 2025.<br /><br />
+        Contact: anandbaskaran3193@gmail.com · +41 76 304 3193 · Zurich
+      </div>
+    </div>
+  </body>
+</html>

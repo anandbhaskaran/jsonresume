@@ -1,0 +1,369 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI/ML Technical Lead & Architect · Enterprise, Data & Agentic AI · Multi-Agent Orchestration · AWS",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "AI/ML technical lead and architect who owns the end-to-end technical vision and ships it. 13+ years leading architecture for systems used by 10M+ users, much of it on AWS. Through my practice, Anand Creations, I embed with customer and partner teams, set reference architectures and reusable patterns, and counsel executives on the trade-offs that matter (total cost of ownership, time-to-value, build vs buy). Deep in agentic AI: multi-agent orchestration with supervisor-worker hierarchies, ReAct and self-reflection; knowledge-graph and RAG data architectures; plus the eval pipelines, observability and guardrails that make it production-grade. MBA-trained, comfortable framing technical rigor as business value for VP+ audiences.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Lead developer and architect for production AI agents. Owns architecture, rollout, evaluation, and executive reporting. Reports directly to C-level on outcomes.",
+      "highlights": [
+        "Architected and shipped production multi-agent systems using supervisor-worker hierarchies, ReAct, self-reflection and hierarchical delegation, with tools over MCP servers plus the observability, tracing and guardrails to run them safely. 2x open rates, 2x approved opportunities; forecast $1M in quarterly revenue.",
+        "Designed AI Brain, a knowledge-graph and RAG data architecture (temporal graph on Graphiti and Neo4j, event-driven ingest over Pub/Sub) unifying 5+ enterprise silos (Salesforce, HubSpot, Pendo, conversations, product usage) into one governed, time-aware context layer for every agent.",
+        "Led technical discovery through production and counseled C-level on architecture trade-offs: reference patterns, eval pipelines, and cost-per-request instrumentation for total cost of ownership."
+      ],
+      "keywords": [
+        "Multi-Agent Orchestration",
+        "Agentic AI",
+        "GCP",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "RAG",
+        "Knowledge Graphs",
+        "Vector Databases",
+        "Neo4j",
+        "Graphiti",
+        "Evaluation Pipelines",
+        "Observability",
+        "Enterprise Architecture",
+        "Python"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead operating like a founding engineer. Owned architecture and technical standards for products used by millions, and grew the engineering team around me.",
+      "highlights": [
+        "Owned end-to-end architecture for multiple products used by 10M+ frontline users on AWS and Kubernetes. Set reusable patterns and technical standards across teams: robust, modular, and performant by design.",
+        "Designed a distributed templating engine and led a 3-team search platform revamp (indexing and ranking) over a data stack of Kafka, PostgreSQL, Elastic Search and ClickHouse. Cut customer setup time 90%; powers 15% of all platform assets.",
+        "Replaced $337K in annual vendor cost with an in-house LLM pipeline in 6 weeks, with evaluation gates. 12K+ assets translated; product team iterates without external gatekeepers.",
+        "Hired, mentored and coached the AI engineering cohort (deputy tech lead of FUEL). Grew engineers who now lead independently and raised the technical bar across teams."
+      ],
+      "keywords": [
+        "AWS",
+        "Kubernetes",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "ClickHouse",
+        "Enterprise Architecture",
+        "Data Platforms",
+        "Java",
+        "Python",
+        "TypeScript",
+        "LangChain",
+        "OpenAI",
+        "Claude",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Runs technical due diligence, evaluates AI readiness, and advises on architecture and scaling.",
+      "highlights": [
+        "Counseled founders and engineering teams across 20+ startups on architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.",
+        "Advised portfolio companies on AI strategy, technical hiring, and engineering cultures that ship; mentored Opt Alpha on scaling high-frequency trading systems in production."
+      ],
+      "keywords": [
+        "Executive Advisory",
+        "Technical Due Diligence",
+        "AI Strategy",
+        "Enterprise Architecture",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built everything from scratch: architecture, cloud infrastructure, APIs, and the algorithms that made 500+ real-world deliveries possible.",
+      "highlights": [
+        "Shipped an end-to-end autonomous delivery platform on AWS with real-time flight control APIs and logistics optimization. 500+ deliveries, 40% faster, 99.5% safety record, zero incidents.",
+        "Built the cloud infrastructure and CI/CD from scratch. Enterprise-grade reliability that enabled partnerships with Unilever and a showcase at CES Las Vegas."
+      ],
+      "keywords": [
+        "AWS",
+        "Terraform",
+        "Infrastructure as Code",
+        "CI/CD",
+        "Docker",
+        "PostgreSQL",
+        "Java",
+        "Vue",
+        "Real-time Systems"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI/ML research at the frontier of robotics. Built and scaled Robogen, an open-source platform for the co-evolution of robot morphologies and control systems via genetic algorithms.",
+      "highlights": [
+        "Engineered Robogen, an open-source platform for co-evolution of robot bodies and neural controllers via genetic algorithms. Machine learning where morphology and control evolve together.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel evolution runs impractical on local hardware. Secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog.",
+        "Teaching Assistant for Evolutionary Robotics at EPFL. Supervised 20+ master's students through hands-on ML projects in genetic algorithms and neural controllers."
+      ],
+      "keywords": [
+        "AWS",
+        "Machine Learning",
+        "Python",
+        "C++",
+        "Genetic Algorithms",
+        "Neural Networks",
+        "Distributed Computing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "A map of the 12 memory and RAG tools building the AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to pick the right memory and retrieval stack for agents in production."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "In-depth case study of building and deploying a production AI outbound agent: architecture, evaluation, and the outcomes that led to 2x open rates and 2x approved opportunities."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial on implementing ReAct (Reasoning + Acting) agents, the reasoning loop that multi-agent orchestration is built on."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Methodology for interpreting high-dimensional embeddings through interactive heatmaps: practical intuition for vector search and RAG quality."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "RoboGen uses AWS and artificial evolution to co-evolve robot bodies and brains, relying on AWS for dynamic scaling of distributed experiments."
+    },
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English / Terraform Registry",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Enterprise-grade service shipped as a reusable Terraform module: infrastructure as code and cloud-native scalability patterns on AWS."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework on turning unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive on microfrontend architecture: reference patterns for scalable, team-autonomous development across an enterprise."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Agentic AI & Multi-Agent Systems"
+    },
+    {
+      "name": "Enterprise & Data Architecture"
+    },
+    {
+      "name": "Responsible AI & Evaluation"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent practice: I embed with customer and partner teams, run technical discovery, and ship production agentic AI in their environment, then distill repeatable field patterns into reusable modules and reference architectures. Also the home for the AI products I build and run.",
+      "highlights": [
+        "Flagship engagement, the GTM AI Brain: a knowledge-graph memory (Graphiti on Neo4j) unifying 5+ enterprise silos into one time-aware layer every agent reads and writes, with event-driven ingest over Pub/Sub and a per-agent query and write-back contract."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - Compliance-first Cross-border AI",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and regulatory compliance platform, compliance-first for a regulated domain. A RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions with citations back to source regulation; agents flag regulatory risk before users act, with guardrails built before features. Zero-to-MVP in 3 months.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence where a multi-agent system generates signals alongside the evidence chain that justifies them, with model explainability and evaluation built in from day one. Core principle: if the model can't explain the output, it doesn't ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "AWS",
+    "jobTitle": "Principal Delivery Consultant - Technical Lead GenAI/ML & Data Science, Professional Services, AWS Industries",
+    "jobUrl": "",
+    "jobDescription": "AWS Professional Services (ProServe) seeks a Principal Delivery Consultant to serve as technical leader (individual contributor) for large-scale Healthcare and Life Sciences (HCLS) transformation programs, owning the technical vision across concurrent workstreams spanning AI/ML, data platform modernization, and enterprise architecture. T-shaped profile: broad across AI/ML, enterprise architecture modernization, and data architecture and engineering, with distinctive depth in one; counsels senior customer executives (VP+) on major technology choices. Key responsibilities: define and own end-to-end technical architecture, reference architectures, reusable patterns, and technical standards across 50+ AWS, partner, and customer builders; establish operational foundations for agentic AI including multi-model governance, observability, automated guardrails, and secure multi-agent orchestration; executive technical advisory on TCO, time-to-value, build vs buy, influencing decisions without direct authority; drive cross-team alignment and architectural governance, resolve conflicts, coach partner engineers, champion responsible AI (bias detection, model explainability, guardrails); grow expertise across AI/ML, enterprise architecture, data engineering, and HCLS depth, applying AWS prescriptive guidance (Well-Architected Agentic AI Lens, Generative AI Lifecycle, AI-DLC); drive AI-DLC AI-native delivery, steering multi-agent systems at scale (supervisor-worker hierarchies, workflow orchestration, saga orchestration). Basic qualifications: 8+ years enterprise technology architecture delivery, 5+ leading technical teams governing architecture on complex transformation programs; Bachelor's in CS/Engineering or equivalent; depth in AI/ML, enterprise architecture modernization, or data architecture and engineering; strong executive communication to VP+; champion emerging delivery methodologies. Preferred: AWS Professional-level certifications; HCLS industry experience (biopharma, medtech, payer), regulatory (HIPAA, GxP, 21 CFR Part 11) and standards (OMOP, CDISC, FHIR, HL7 FHIR R4); AI-native delivery with multi-agent systems at scale; agentic AI patterns (multi-agent orchestration, tool-use agents, workflow orchestration) on AWS (Amazon Bedrock, AgentCore); data platforms at scale (data lakes, lakehouses, knowledge graphs, vector databases, RAG, ontology-driven architectures); influencing enterprise architects and partner teams in multi-vendor environments.",
+    "notes": "HCLS domain and AWS Pro certs are preferred-only gaps; bridged regulated-industry experience via SwissNRI compliance-first AI. Emphasized AWS depth (EPFL migration + Public Sector Blog, Dronistics, Beekeeper), technical leadership/architecture governance, multi-agent orchestration, and knowledge-graph/RAG data architecture.",
+    "createdAt": "2026-07-13"
+  },
+  "_generatedFile": {
+    "company": "AWS",
+    "baseName": "principal-delivery-consultant-technical-lead-genaiml-data-science-professional-services-aws-industries",
+    "createdAt": "2026-07-13T10:31:33.105Z",
+    "targetPath": "./generated/AWS/principal-delivery-consultant-technical-lead-genaiml-data-science-professional-services-aws-industries.json"
+  }
+}

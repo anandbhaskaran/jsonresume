@@ -1,0 +1,364 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Forward Deployed Software Engineer | GenAI PoC to Production | Customer-Embedded Delivery",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Forward deployed engineer who owns AI initiatives from discovery through production. Full-time Lead Software Engineer at LumApps: I build multi-agent workflows that unify Salesforce, HubSpot and other systems of record into one agent memory, ship in weeks not quarters, and stay on-call for what I ship. 13+ years running production software for customers, not just writing it: replaced a $337K vendor contract with an LLM pipeline shipped in 6 weeks at Beekeeper, founding engineer for an autonomous drone delivery platform at Dronistics, and founder of Anand Creations, a forward deployed practice and the home for the GenAI products I build and ship myself. I ship the 20% that unblocks the customer's real problem, not the 80% that looks good in a demo.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead Software Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Full-time Lead Software Engineer owning AI agent delivery end-to-end: from discovery through production and on-call, a you-build-it-you-run-it model I already apply daily.",
+      "highlights": [
+        "Own AI agent delivery end-to-end, from discovery through production and on-call, staying accountable for what I ship: a you-build-it-you-run-it model.",
+        "Built and deployed production multi-agent workflows for outbound sales on Python, LangGraph and Google ADK over GCP Vertex AI, integrating tools over MCP servers with agent state streamed to the UI over AG-UI. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast: $1M in quarterly revenue.",
+        "Led technical discovery through production: agent architecture, eval pipelines, agent tracing (LangSmith), tool-selection tuning, and cost-per-request instrumentation, with on-call for global production systems."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "GCP",
+        "Vertex AI",
+        "LangChain",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "AG-UI",
+        "FastAPI",
+        "Multi-Agent Systems",
+        "ReAct",
+        "RAG",
+        "Salesforce",
+        "Evaluation Pipelines",
+        "LangSmith",
+        "Observability",
+        "On-Call",
+        "Neo4j",
+        "Graphiti"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who operates like a founding engineer: owns the problem, builds the PoC, ships to prod, and stays accountable to the metric. Integrated AI agents into customer-facing sales and product workflows for a platform used by millions.",
+      "highlights": [
+        "Replaced $337K in annual vendor translation costs with an LLM pipeline built in 6 weeks (prototype to production). 12K+ assets translated, product team now iterates without external gatekeepers.",
+        "Architected Employee Referral System end-to-end. Became the platform's top revenue channel ($1.5M+ generated, $500K ARR). Designed for 99.99% SLA because customer trust is measured in uptime.",
+        "Built GenAI demo system for sales that auto-generates personalized content from Salesforce data so every pitch feels custom-built for that customer. Improved demo speed and close rates.",
+        "Ran observability and on-call for global production systems (Grafana, Datadog, Logz.io): logs, metrics, dashboards, and alerting for everything I shipped."
+      ],
+      "keywords": [
+        "Java",
+        "Python",
+        "TypeScript",
+        "Vue",
+        "Salesforce",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "LangChain",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "Jenkins",
+        "GitHub Actions",
+        "ClickHouse",
+        "Claude",
+        "Langfuse",
+        "CrewAI",
+        "Strands Agents",
+        "Observability",
+        "Grafana",
+        "Datadog",
+        "Logz.io",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Evaluates technical architecture and advises on AI adoption, engineering culture, and building systems that scale.",
+      "highlights": [
+        "Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.",
+        "Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that actually ship."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Startup Evaluation",
+        "Technical Mentoring",
+        "Algorithmic Trading",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built everything from scratch: architecture, infrastructure, APIs, and the algorithms that made 500+ real-world deliveries possible.",
+      "highlights": [
+        "Shipped end-to-end autonomous drone delivery platform (Vue/Java/PostgreSQL). 500+ successful deliveries, every flight a live UX test for autonomous systems in the real world.",
+        "Built cloud infrastructure and DevOps pipeline from scratch. Enterprise-grade reliability that enabled partnerships with Unilever and a CES showcase."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "Infrastructure as Code",
+        "CI/CD",
+        "Real-time Systems",
+        "Flight Control APIs",
+        "Logistics Optimization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "In-depth case study of building and deploying a production AI outbound sales agent, detailing the architecture, implementation, and real-world outcomes that led to 2x open rates and 2x approved opportunities."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "A map of the 12 memory and RAG tools building the AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to pick the right memory and retrieval stack for agents in production."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "How verification loops, human-in-the-loop checkpoints, and draft-before-send patterns keep an autonomous agent from shipping wrong actions to real customers."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Microfrontends"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed engineering practice, currently the home for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView). Open to forward-deployed client engagements: embedding with a team, running technical discovery, and shipping production agentic AI end to end.",
+      "highlights": [
+        "Take my own products from zero to production end to end: multi-agent systems, RAG grounding, eval pipelines, and observability, the same playbook I bring to any engagement."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform for Swiss-Indian families, replacing spreadsheets and expensive advisors. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions in plain language with citations back to the regulation; compliance-first agentic design flags risk before users file, with regulatory guardrails built before features. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & AI Product Builder",
+      "description": "Property inspections run on paper, clipboards, and WhatsApp photos. Built an AI-native MVP: vision models turn inspection photos into structured records; LLM agents turn those records into marketing-ready listings.",
+      "highlights": [
+        "Vision pipeline extracts structured signals (room type, condition, defects) from inspection photos; LLM agents turn those records into multilingual, marketing-ready listings end to end, zero copy-paste from photo to published listing."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Hoshii AG",
+    "jobTitle": "Forward-Deployed Software Engineer",
+    "jobUrl": "",
+    "jobDescription": "The inbox was never built to run a business. Orders get missed, RFQs go cold, and every line gets retyped into the ERP by hand, one email, one PDF, one WhatsApp message at a time. We built AI Coworkers that do most of the repetitive work nobody wants to do instead: they read what comes in, sort it, draft linked actions, and post clean entries straight into the customer's systems of record. We are looking for a Forward-Deployed Software Engineer to become the technical face of Hoshii: run on-site discovery, build working PoCs in days, take them to production, and own them operationally after go-live. Requirements: strong fullstack coding (Python, JS/TS), proven GenAI PoC to production experience, systems integration judgment (APIs, data pipelines, event-driven architectures), 80/20 pragmatism, direct customer-facing experience, ERP/CRM familiarity a plus, English and German C1+.",
+    "notes": "",
+    "createdAt": "2026-08-02"
+  },
+  "_generatedFile": {
+    "company": "Hoshii AG",
+    "baseName": "forwarddeployed-software-engineer",
+    "createdAt": "2026-08-02T11:44:31.705Z",
+    "targetPath": "./generated/Hoshii AG/forwarddeployed-software-engineer.json"
+  }
+}

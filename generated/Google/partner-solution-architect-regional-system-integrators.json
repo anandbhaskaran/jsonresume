@@ -1,0 +1,341 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI Solution Architect · Pre-Sales Enablement, Demos & PoCs · GCP · Business-to-Technology Translation · MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Solution architect who turns AI and cloud into things customers and partners can actually ship: functional demos, proofs of concept, and enablement, not slideware. 13+ years across public cloud (GCP and AWS: compute, networking, microservices, Kubernetes), most recently building production AI on GCP Vertex AI at LumApps. I translate business outcomes into technical plans and back again for executives (MBA), and I have run the pre-sales enablement motion in practice: a GenAI demo system at Beekeeper that auto-generated customer-tailored demos and lifted close rates, plus workshops, keynotes, and hackathons that enable 1-to-many. I advise partners and startups on architecture and AI readiness (Tenity, 20+ evaluations) and stay accountable to ROI.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Builds production AI on GCP and the demos, reference architectures, and enablement that let sales and partners land it. Reports to C-level on outcomes.",
+      "highlights": [
+        "Built production AI agents on GCP Vertex AI, plus functional AI demos and enablement that sales teams use to accelerate cycles. 2x conversions, forecast $1M in quarterly revenue.",
+        "Authored a reusable AI reference architecture (knowledge-graph retrieval) that downstream teams build on: the kind of replicable enterprise asset partners can deliver from.",
+        "Translated business goals into technical plans and back for executives, reporting ROI to C-level against baselines and KPIs."
+      ],
+      "keywords": [
+        "GCP",
+        "Vertex AI",
+        "AI Solution Architecture",
+        "Pre-Sales Enablement",
+        "Reference Architectures",
+        "RAG",
+        "Multi-Agent Systems",
+        "Business-to-Technology",
+        "ROI",
+        "Python"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who built cloud-native products used by millions and the pre-sales demos, reusable assets, and enablement around them.",
+      "highlights": [
+        "Built a GenAI demo system for Sales that auto-generated customer-tailored demos from live CRM data, accelerating sales cycles and lifting close rates. Pre-sales enablement in practice.",
+        "Owned cloud-native architecture (AWS, Kubernetes, microservices) for products used by 10M+ users. Set reference patterns and technical standards across teams.",
+        "Designed a distributed templating engine and reusable asset framework now powering 15% of all assets created on the platform. Replicable enterprise assets at scale.",
+        "Hired and mentored engineers and co-owned GTM launches with Sales and Product, each instrumented so we could prove ROI within a week."
+      ],
+      "keywords": [
+        "AWS",
+        "Kubernetes",
+        "Microservices",
+        "Cloud-Native Architecture",
+        "GenAI Demos",
+        "Pre-Sales",
+        "Solution Engineering",
+        "Java",
+        "Python",
+        "Elastic Search",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technical authority and mentor for seed-to-VC stage startups and their investors.",
+      "highlights": [
+        "Acted as pre-sales technical authority across 20+ startups: architecture review, AI readiness, and go/no-go input for investment decisions.",
+        "Mentored teams and advised on AI strategy and architecture: the 1-to-many enablement and technical influence this role runs on."
+      ],
+      "keywords": [
+        "Technical Advisory",
+        "Architecture Review",
+        "AI Readiness",
+        "Enablement",
+        "Stakeholder Influence"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built the platform, APIs, and cloud stack from scratch.",
+      "highlights": [
+        "Built cloud infrastructure and APIs on AWS from scratch. Enterprise-grade reliability that landed a partnership with Unilever and a showcase at CES Las Vegas.",
+        "Shipped an end-to-end platform with real-time APIs and logistics optimization. 500+ deliveries, 99.5% safety record, zero incidents."
+      ],
+      "keywords": [
+        "AWS",
+        "Cloud Architecture",
+        "APIs",
+        "CI/CD",
+        "Partnerships",
+        "Real-time Systems"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI/ML research at the frontier of robotics, built and scaled on AWS.",
+      "highlights": [
+        "Migrated the simulation pipeline to AWS for large-scale parallel runs. Secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog.",
+        "Taught 20+ master's students hands-on: technical workshops and enablement at scale."
+      ],
+      "keywords": [
+        "AWS",
+        "Machine Learning",
+        "Technical Workshops",
+        "Python",
+        "C++"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Keynote)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Conference keynote to a technical audience: 1-to-many enablement on scalable, modular architecture patterns."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Reference-architecture guidance for the memory and retrieval layer: how to pick a production stack for AI agents."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of a production AI agent (a working PoC to production): architecture, and the outcomes that moved the metric."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Talk on translating open-ended AI potential into measurable business outcomes: the business-to-technology framing this role needs."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Keynote)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Conference keynote making a complex AI topic land for a broad audience."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "RoboGen uses AWS and artificial evolution to co-evolve robot bodies and brains, scaling distributed experiments on AWS."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI Solution Architecture"
+    },
+    {
+      "name": "Pre-Sales Enablement & Demos"
+    },
+    {
+      "name": "Public Speaking & Workshops"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - AI Solutions & Enablement Practice",
+      "position": "Founder & Principal Solution Architect",
+      "description": "Independent practice: I embed with a customer's team, run discovery and workshops, and turn AI into working demos, proofs of concept, and reusable reference architectures they can deliver from. Flagship: the GTM AI Brain, a knowledge-graph retrieval layer every agent shares.",
+      "highlights": [
+        "Distill each engagement into reusable modules and reference architectures so the next partner or team ships faster: the operating leverage this role rewards."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions with citations back to the regulation; compliance-first design with guardrails built before features. Zero-to-MVP in 3 months.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built solo, from agent runtime and market integrations to the web frontend. A multi-agent system that generates signals with the evidence chain that justifies them; if the model can't explain a signal, it doesn't ship. Live retail users.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Google",
+    "jobTitle": "Partner Solution Architect, Regional System Integrators",
+    "jobUrl": "",
+    "jobDescription": "Google Cloud, Zurich. Partner Solution Architect (pre-sales solution design authority) for priority Regional System Integrators (RSIs) and strategic partners across South geo clusters, acting as ecosystem co-pilot to Account Platform Customer Engineers. Own the partner's technical capability to deliver: move from regional advisory to deep domain execution (AI, Data, or Infrastructure) to capture the pre-sales gap while deflecting post-sales delivery. Work with Partner Development Managers on joint business plans. Minimum qualifications: Bachelor's or equivalent; 10 years of cloud-native architecture in a customer-facing or support role; public cloud architecture (compute, networking, IAM, microservices); pre-sales agreement acceleration, running technical PoCs, and leading technical workshops. Preferred: experience in AI, data, or infrastructure; enterprise technology buying/evaluation; large-scale computing and business-to-technology translation to challenge partner delivery strategies; cross-functional work with GCP Customer Engineers to orchestrate multi-product solutions; ability to drive and influence partner technical audiences, find expansion engagements, and accelerate agreement velocity with zero partner-delivery escalations. Responsibilities: drive VIP bootcamps and hackathons; provide pre-sales architectural support to RSIs/strategic partners; author baseline enterprise replicable assets (e.g., functional AI demos) and lead deep-dive technical sessions and hackathons for the Partner Technology Community (1-to-many enablement); help build/run the EMEA Partner Technology Community; technical review and validation of high-impact SoWs to ensure a path to production and partner funding ROI.",
+    "notes": "Positioned for AI-domain pre-sales solution architecture: GenAI demo system for Sales (Beekeeper) maps to 'author functional AI demos'; cloud-native architecture on GCP/AWS/Kubernetes/microservices; enablement via keynotes, workshops, teaching (1-to-many); partner/startup technical advisory (Tenity); MBA business-to-technology translation; ROI focus. Honest gaps NOT fabricated: no prior cloud-vendor partner/RSI pre-sales role, no formal SoW-validation-at-scale, and IAM depth is light (has compute/networking/microservices/Kubernetes). Bridged via demo-building, enablement, and cloud architecture experience.",
+    "createdAt": "2026-07-13"
+  },
+  "_generatedFile": {
+    "company": "Google",
+    "baseName": "partner-solution-architect-regional-system-integrators",
+    "createdAt": "2026-07-13T12:12:39.086Z",
+    "targetPath": "./generated/Google/partner-solution-architect-regional-system-integrators.json"
+  }
+}

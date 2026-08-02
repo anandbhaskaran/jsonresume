@@ -1,0 +1,345 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Forward Deployed Engineer · Agentic AI, Integrations & Automation · Production Evals & Observability · Founder",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Forward deployed engineer who turns messy, real-world requirements into production AI. Through my practice, Anand Creations, I embed with teams, run discovery, and ship agentic workflows, integrations, and automations that connect a platform to customers' live systems (Salesforce, HubSpot, event streams, APIs). I build for production, not demos: eval harnesses, guardrails, granular tracing, and cost-per-request telemetry, with reusable modules distilled from each engagement. 13+ years shipping software to 10M+ users on multi-tenant SaaS; at LumApps my agent deployments 2x conversions and forecast $1M in quarterly revenue; at Beekeeper I replaced $337K in cost with an LLM pipeline gated by evals.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Lead developer for production AI agents. Turns open-ended customer problems into shipped, integrated, observable systems. Reports to C-level on outcomes.",
+      "highlights": [
+        "Shipped production agentic workflows (Python, LangGraph, MCP) that integrate with Salesforce and internal systems and perform real end-to-end tasks. 2x conversions, forecast $1M in quarterly revenue.",
+        "Built AI Brain: event-driven ingest over Pub/Sub from 5+ systems (Salesforce, HubSpot, product usage) into a knowledge-graph and RAG retrieval layer. Data pipelines plus retrieval, done right.",
+        "Owned reliability in production: eval harnesses, guardrails, granular tracing, and cost-per-request telemetry, from discovery through rollout."
+      ],
+      "keywords": [
+        "Forward Deployed Engineering",
+        "Agentic Workflows",
+        "Integrations",
+        "MCP",
+        "RAG",
+        "Retrieval",
+        "Evals",
+        "Observability",
+        "Pub/Sub",
+        "APIs",
+        "Python",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who shipped and owned production AI on a multi-tenant SaaS used by millions, and turned one-offs into reusable capability.",
+      "highlights": [
+        "Replaced $337K in annual vendor cost with an in-house LLM pipeline gated by evaluation frameworks that measured quality before anything shipped.",
+        "Built a GenAI system that integrates Salesforce and live customer data into automated workflows: tool integration and automation end to end.",
+        "Owned architecture, reliability, and instrumentation for products used by 10M+ users on a multi-tenant SaaS (Kafka event streams, PostgreSQL, Kubernetes, AWS).",
+        "Turned solutions into reusable capability (a distributed templating engine now powering 15% of platform assets) and mentored the engineers who extended them."
+      ],
+      "keywords": [
+        "Python",
+        "Java",
+        "Kafka",
+        "Event-Driven",
+        "PostgreSQL",
+        "Kubernetes",
+        "AWS",
+        "Multi-tenant SaaS",
+        "Integrations",
+        "OpenAI",
+        "Claude",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technical advisor and mentor for seed-to-VC stage startups, running discovery and turning ambiguity into direction.",
+      "highlights": [
+        "Ran structured technical discovery across 20+ startups: constraints, success criteria, and architecture, translating ambiguity into clear plans.",
+        "Advised on AI strategy and reliability, and mentored teams to ship."
+      ],
+      "keywords": [
+        "Technical Discovery",
+        "Ambiguity to Shipped",
+        "AI Strategy",
+        "Architecture Review",
+        "Mentoring"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built the platform, real-time APIs, and cloud stack from scratch, and owned it in production.",
+      "highlights": [
+        "Built real-time APIs and integrations and owned them in production (debugging, instrumentation, on-call). 500+ deliveries, 99.5% safety record, zero incidents.",
+        "Built the cloud infrastructure and CI/CD from scratch; reliability that enabled partnerships with Unilever and a CES showcase."
+      ],
+      "keywords": [
+        "APIs",
+        "Integrations",
+        "AWS",
+        "CI/CD",
+        "Observability",
+        "Real-time Systems",
+        "Python"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Machine learning research at the frontier of robotics, built and scaled on AWS.",
+      "highlights": [
+        "Built Robogen, an open-source ML platform, and scaled it on AWS. Secured AWS Cloud Credits for Research; featured on the AWS Public Sector Blog.",
+        "Foundational AI experience (optimization, search, evaluation) that informs how I reason about agent behavior and its failure modes today."
+      ],
+      "keywords": [
+        "Machine Learning",
+        "AWS",
+        "Python",
+        "C++",
+        "Evaluation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of shipping a production AI agent integrated with real systems: architecture, evaluation, and outcomes."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Reliability in practice: verification loops, human-in-the-loop checkpoints, and guardrails that keep an agent from shipping wrong actions."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Retrieval patterns for production: why temporal knowledge graphs beat vector-only RAG, and how to pick a stack for agents integrating many systems."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Hands-on tutorial on prompt and tool design for ReAct agents: an implementation pattern made concrete."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework on turning open-ended AI potential into measurable outcomes: quantifying impact and iterating on evidence."
+    },
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English / Terraform Registry",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Systems engineering guide shipped as a reusable Terraform module: APIs, infrastructure as code, and scalability patterns."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Forward Deployed Engineering"
+    },
+    {
+      "name": "Agentic Workflows & Integrations"
+    },
+    {
+      "name": "Evals & Observability"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent FDE practice: I embed with a customer's team, run discovery, and ship production AI (agentic workflows, integrations, automations) inside their environment, then turn each engagement into reusable modules, reference architectures, and playbooks. Flagship: the GTM AI Brain, a knowledge-graph retrieval layer every agent shares.",
+      "highlights": [
+        "Operate as a one-person FDE org: messy problem to shipped, integrated, observable system, then distilled into reusable capability, the exact motion this role runs."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform in a regulated, privacy-sensitive domain. RAG-grounded assistant answers regulatory questions with citations back to source; guardrails and data-privacy-by-design built before features. Zero-to-MVP in 3 months.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built solo, from data-pipeline integrations to the web frontend. A multi-agent system with explainability and evaluation built in: if the model can't explain a signal, it doesn't ship. Live retail users.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Remote",
+    "jobTitle": "Senior Forward Deployed Engineer (Remote Build)",
+    "jobUrl": "https://remote.com",
+    "jobDescription": "Remote (global employment / HR platform), fully remote (NORAM), ~10% travel. Forward Deployed Engineer (AI) on Remote Build / Customer Engineering: work directly with customers and internal stakeholders to design, build, and deploy AI-powered solutions connecting Remote's platform to customer systems and workflows. Turn messy real-world requirements into production-grade implementations via integrations, automations, and agentic workflows; translate field learnings into reusable patterns and product roadmap inputs. High autonomy, ownership from discovery to production; ship systems that are reliable, observable, secure, measurable; intersection of Product, Engineering, Sales/CS, and customers. Must have: shipping production software (backend and/or full-stack) and owning it in production (on-call, debugging, instrumentation); strong integration and systems thinking (APIs, event-driven systems, webhooks, auth OAuth/service accounts, data modeling, idempotency, failure modes); applied AI/LLM beyond prototypes (prompt+tool design, RAG and retrieval, evaluation, latency/cost trade-offs, reliability); operate in ambiguity from problem statement to shipped solution; clear structured written communication. Nice to have: enterprise environments (security reviews, compliance, procurement, change management); agent frameworks / workflow orchestration; HRIS, payroll, IAM or adjacent domains; multi-tenant SaaS, RBAC, data privacy by design. Responsibilities: run structured technical discovery and define done; translate open-ended problems into technical designs (architecture, data flows, integration surfaces, security, rollout); build AI-enabled solutions integrating customer systems and Remote's platform (data pipelines, workflow automations, tool integrations, agentic services); own deployments (reliability, performance, observability, incident response); develop evaluation and measurement (success metrics, test harnesses, golden datasets, regression suites, guardrails); work with real data to quantify impact; collaborate with Product/Engineering and upstream reusable components; turn one-offs into repeatable playbooks, reference architectures, templates, internal tooling; be the voice of the field.",
+    "notes": "Very strong fit: FDE practice (Anand Creations); production agentic workflows + integrations (Salesforce/HubSpot, event-driven Pub/Sub, APIs); evals/guardrails/tracing/cost-per-request; production ownership on multi-tenant SaaS at 10M+ users (Beekeeper); reusable playbooks/reference architectures; ambiguity-to-shipped; strong written communication (published tutorials/case studies). Nice-to-have gaps not fabricated: no direct HRIS/payroll domain experience (broad enterprise + fintech/compliance instead); RBAC not explicitly demonstrated (multi-tenant SaaS and data-privacy-by-design via SwissNRI are present).",
+    "createdAt": "2026-07-13"
+  },
+  "_generatedFile": {
+    "company": "Remote",
+    "baseName": "senior-forward-deployed-engineer-remote-build",
+    "createdAt": "2026-07-13T13:44:56.996Z",
+    "targetPath": "./generated/Remote/senior-forward-deployed-engineer-remote-build.json"
+  }
+}

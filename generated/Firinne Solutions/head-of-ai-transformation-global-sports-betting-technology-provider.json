@@ -1,0 +1,384 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Head of AI Transformation | AI Strategy & Governance | Hands-On Technical Leader | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.web.app",
+    "summary": "Owns AI transformation strategy, governance, and rollout at LumApps; reports directly to C-level on outcomes (production AI agents forecast to generate $4M in approved opportunities per quarter). Six years technical lead at Beekeeper delivering AI products to 10M+ frontline workers across high-availability environments: shipped $1.5M+ in new revenue and eliminated $337K in vendor cost via LLM automation. Three companies founded on the side, plus startup advisory at Tenity including HFT mentoring. MBA, EPFL research background, hands-on with agentic AI and LLMs every day.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations",
+        "url": "https://anand-creations.web.app"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns company-wide AI transformation strategy, governance, and sales enablement. Reports directly to C-level on outcomes, driving AI adoption across product, sales, CS, and engineering.",
+      "highlights": [
+        "Owns AI transformation strategy and governance across the company. Defines the AI roadmap with ROI metrics, evaluates technology choices, and drives adoption across a matrix organisation. This is the Head of AI Transformation mandate, executed from inside.",
+        "Shipped production AI agents for outbound sales: 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast: $4M in approved opportunities per quarter, $1M revenue at 25% conversion. AI translated directly into competitive edge.",
+        "Built AI Brain, a knowledge-graph context layer (Neo4j, Graphiti, Zep) that grounds production agents in structured business intelligence. Surfaces patterns that drive executive decisions across product, sales, and CS."
+      ],
+      "keywords": [
+        "AI Transformation",
+        "AI Strategy",
+        "Governance",
+        "ROI Roadmap",
+        "Agentic AI",
+        "LLMs",
+        "Executive Reporting",
+        "Change Management",
+        "Python",
+        "LangChain",
+        "Neo4j",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead delivering AI products to 10M+ frontline workers in high-availability environments. Drove cost efficiency, speed, and quality at scale across multiple revenue-bearing AI systems.",
+      "highlights": [
+        "Replaced $337K in annual vendor translation costs with an LLM pipeline shipped in 6 weeks. 12K+ assets translated. Operational excellence: cheaper, faster, higher-quality delivery from day one.",
+        "Architected Employee Referral System end-to-end. $1.5M+ revenue, $500K ARR. Designed for 99.99% SLA: high-availability environments, real customers, real money at stake.",
+        "Built multiple production AI systems (AI Onboarding Specialist, GenAI demo generator, Sentiment Analysis) that accelerated product cycles and removed manual gatekeepers. Shipped each with instrumentation and ROI tracking from day one.",
+        "Co-owned GTM launches across Product and Sales. Hired and mentored the AI engineering cohort. Change agent across a matrix of three teams; engineers now lead AI features independently."
+      ],
+      "keywords": [
+        "High-Availability Systems",
+        "AI Transformation",
+        "Cost Optimisation",
+        "Cross-functional Leadership",
+        "Hiring & Mentoring",
+        "Java",
+        "Python",
+        "OpenAI",
+        "LangChain",
+        "Kubernetes",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Strategic advisory for seed-to-VC stage founders. Evaluates AI architecture and advises on AI adoption strategy across portfolio companies.",
+      "highlights": [
+        "Evaluated 20+ startups on AI readiness, architecture, and ROI potential. Findings inform seed-to-VC investment decisions; the closest analog to evaluating and selecting AI technologies at scale.",
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading in production. Direct exposure to high-availability, low-latency environments where seconds and uptime translate to revenue."
+      ],
+      "keywords": [
+        "AI Strategy Advisory",
+        "Technology Evaluation",
+        "High-Frequency Trading",
+        "ROI Assessment",
+        "Portfolio Mentoring"
+      ]
+    },
+    {
+      "name": "Obermatt",
+      "position": "Technical Product Manager (concurrent side role)",
+      "url": "https://obermatt.com/en/home.html",
+      "startDate": "2018-07",
+      "endDate": "2021-01",
+      "summary": "Bridged business and engineering for a Zurich fintech. Owned product roadmap, drove process improvement, and led a remote team in a matrix setup.",
+      "highlights": [
+        "Built strategic roadmaps that improved customer satisfaction and retention. Translated business priorities into engineering execution across a matrix of stakeholders.",
+        "Drove process change: agile adoption (productivity up 20%) and CI/CD with Docker (deployment times down 30%). Operational excellence in microcosm."
+      ],
+      "keywords": [
+        "Product Management",
+        "Roadmap Ownership",
+        "Process Transformation",
+        "Matrix Organisation",
+        "Docker",
+        "Agile"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an EPFL spin-off building autonomous drone delivery. Owned end-to-end architecture and the safety-critical, high-availability systems that enabled enterprise partnerships.",
+      "highlights": [
+        "Architected end-to-end platform that enabled enterprise partnerships with Unilever and a CES Las Vegas showcase. Safety-critical real-time systems with zero tolerance for downtime.",
+        "500+ autonomous deliveries; 40% faster, 99.5% safety record, zero incidents. High-availability environment where every flight had revenue and reputation on the line."
+      ],
+      "keywords": [
+        "Safety-Critical Systems",
+        "High-Availability",
+        "Real-time APIs",
+        "AWS",
+        "Cloud Architecture",
+        "Enterprise Delivery"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI research at EPFL. Built Robogen, an open-source platform for co-evolution of robot morphologies and control systems via genetic algorithms.",
+      "highlights": [
+        "Engineered Robogen at one of Europe's leading AI labs. Foundational AI work (optimization, search, fitness landscapes) that informs how I evaluate modern LLM and agentic systems today.",
+        "Migrated simulation pipeline to AWS; secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog.",
+        "Teaching Assistant for Evolutionary Robotics. Supervised 20+ master's students; early reps at translating complex AI concepts to non-expert audiences."
+      ],
+      "keywords": [
+        "EPFL Research",
+        "AI Foundations",
+        "AWS",
+        "Teaching & Mentoring",
+        "C++",
+        "Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Strategic framework for transforming open-ended AI potential into measurable business outcomes through systematic implementation and constraint design. The AI transformation thesis in talk form."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of architecting a production AI agent that delivered measurable ROI: 2x open rates, 2x approved opportunities. AI translated into revenue."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology for assembling high-performing teams. Change-agent playbook drawn from hiring across Beekeeper, Dronistics, and Obermatt."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology for accelerating product development cycles through lean validation, rapid prototyping, and data-driven decisions."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Tutorial on ReAct (Reasoning + Acting) agents from first principles. How reasoning loops and tool calls fit together in autonomous systems."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on the intersection of AI and human creativity. How AI augments rather than replaces creative work in product development."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive on microfrontend architecture for scalable, team-autonomous development at enterprise scale."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "RoboGen, an open-source EPFL platform using AWS and artificial evolution to co-evolve robot bodies and brains."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI Transformation & Strategy"
+    },
+    {
+      "name": "Agentic AI & LLM Systems"
+    },
+    {
+      "name": "High-Availability Systems"
+    },
+    {
+      "name": "Startup Advisory"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Founded an explainable AI market intelligence platform. Live agentic system delivering trading signals to real users, real money. Closest founder-built analog to a trading/betting environment.",
+      "highlights": [
+        "Real-time multi-agent system that generates AND justifies trading signals. Live users, real money, evaluation loop on every signal. Built solo while owning AI transformation at LumApps."
+      ],
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Co-founded an AI-native platform for Swiss-Indian families navigating FEMA, DTAA, and Swiss tax regulations. AI in a regulated, high-compliance environment.",
+      "highlights": [
+        "RAG-grounded tax assistant with citations to source regulation; AI agents flag compliance risks before users file. Zero-to-MVP in 3 months in a high-stakes regulated domain."
+      ],
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & AI Product Builder",
+      "description": "Founded an AI-native platform that remakes the property inspection workflow end-to-end. Vision models + LLM agents replacing a paper-and-WhatsApp process.",
+      "highlights": [
+        "End-to-end agent workflow from photo capture to published listing. Example of using AI to radically remake a core business function rather than just automate around it."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Firinne Solutions",
+    "jobTitle": "Head of AI Transformation – Global Sports Betting Technology Provider",
+    "jobUrl": "",
+    "jobDescription": "Head of AI Transformation reporting directly to the CEO of a leading global Sports Betting Technology provider. Mandate: design, lead, and execute company-wide AI transformation to radically remake core business functions (operations, support, product dev, software dev), drive operational excellence (cheaper, faster, higher-quality delivery), accelerate product cycles, and create competitive edge. Define AI strategy with ROI metrics, evaluate and select AI tech, define cost-effective architecture, drive adoption across matrix org. Required: large-scale tech/digital transformation leadership with AI/IT automation, software/product/IT engineering background, high-availability environment experience (gaming, trading, payments), deep LLM/agentic AI knowledge, strong communicator, hands-on mindset, comfortable in ambiguity. Sportsbook experience a plus. Search firm: Firinne Solutions.",
+    "notes": "Strong match on: AI transformation strategy (LumApps mandate is a 1:1 analog), high-availability experience (Beekeeper 10M+ users, Dronistics safety-critical, Tenity HFT mentoring, PulseView live trading platform), hands-on agentic AI delivery, MBA + EPFL pedigree for CEO-level credibility, three companies founded = change agent. Gaps: no formal 'Head of' title yet (LumApps owns the equivalent scope), no direct sportsbook/gaming experience (PulseView is closest trading analog). Worth flagging the title gap as 'doing the work without the badge' rather than letting it filter you out.",
+    "createdAt": "2026-06-23T00:00:00.000Z"
+  },
+  "_generatedFile": {
+    "company": "Firinne Solutions",
+    "baseName": "head-of-ai-transformation-global-sports-betting-technology-provider",
+    "createdAt": "2026-06-23T09:27:09.327Z",
+    "targetPath": "./generated/Firinne Solutions/head-of-ai-transformation-global-sports-betting-technology-provider.json"
+  }
+}

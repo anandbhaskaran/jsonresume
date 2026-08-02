@@ -1,0 +1,342 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Infrastructure & Platform Engineer · Cloud (AWS/GCP), Kubernetes, IaC & CI/CD · Robotics & Edge · Founder-Builder",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Infrastructure and platform engineer who has built cloud foundations and CI/CD from scratch at startup scale, and shipped code all the way to physical robots. At Dronistics I built the AWS cloud stack, real-time APIs, and deployment pipeline for an autonomous drone fleet: edge devices in the field with a 99.5% safety record and zero incidents. 13+ years across AWS and GCP, Kubernetes, Docker, Terraform, and GitHub Actions, with the instrumentation and developer tooling that make a team faster (a templating engine now powering 15% of a platform used by 10M+ users). I have founded three companies, so early-stage ownership and the simple-now, durable-where-it-counts trade-off are second nature.",
+    "metrics": [
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "500+",
+        "label": "Robot Deliveries"
+      },
+      {
+        "value": "99.5%",
+        "label": "Fleet Safety Record"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Lead developer shipping production services on GCP, from build pipeline to rollout, with observability throughout.",
+      "highlights": [
+        "Built and shipped production services on GCP with automated CI/CD and containerized deploys.",
+        "Instrumented agents with LangSmith tracing and cost-per-request telemetry, plus dashboards and alerting, and carried on-call for global production systems.",
+        "Owned reliability from discovery through rollout, making trade-offs to protect the critical path."
+      ],
+      "keywords": [
+        "GCP",
+        "CI/CD",
+        "Docker",
+        "Observability",
+        "LangSmith",
+        "On-Call",
+        "APIs",
+        "Python",
+        "Infrastructure-as-Code"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who ran production services at scale and built the tooling and pipelines that made the team faster.",
+      "highlights": [
+        "Ran production services for 10M+ users on Kubernetes and AWS: containers, secrets, and reliability at scale.",
+        "Built CI/CD pipelines (GitHub Actions, Jenkins) for fast, repeatable builds and deploys, including an LLM automation pipeline shipped in 6 weeks.",
+        "Built developer tooling and reusable frameworks (a distributed templating engine now powering 15% of platform assets): developer experience that removed friction for the team.",
+        "Ran observability and carried on-call for global production systems (Grafana, Datadog, Logz.io): logs, metrics, dashboards, and alerting across a data stack of Kafka, PostgreSQL, Elastic Search and ClickHouse."
+      ],
+      "keywords": [
+        "Kubernetes",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "GitHub Actions",
+        "Jenkins",
+        "Observability",
+        "Grafana",
+        "Datadog",
+        "On-Call",
+        "Secrets Management",
+        "Developer Tooling",
+        "Kafka",
+        "PostgreSQL",
+        "Java"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technical evaluator and mentor for seed-to-VC stage startups, focused on architecture, scalability, and reliability.",
+      "highlights": [
+        "Reviewed cloud architecture, scalability, and reliability across 20+ startups to inform investment decisions.",
+        "Advised founders on infrastructure choices and engineering practices that scale."
+      ],
+      "keywords": [
+        "Cloud Architecture",
+        "Scalability",
+        "Reliability",
+        "Technical Advisory",
+        "System Design"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built the cloud platform and pipeline that shipped code from laptop to robot in the field.",
+      "highlights": [
+        "Built the AWS cloud infrastructure and CI/CD pipeline from scratch for an autonomous drone fleet: edge devices deployed, configured, and updated in the field.",
+        "Engineered real-time control APIs and connectivity between cloud and robots. 500+ deliveries, 99.5% safety record, zero incidents, on partnerships with Unilever and a CES showcase.",
+        "Rolled out over-the-air updates and safe rollbacks to drones in the field, with secure cloud-to-robot connectivity."
+      ],
+      "keywords": [
+        "AWS",
+        "Infrastructure from Scratch",
+        "CI/CD",
+        "Docker",
+        "Edge Devices",
+        "Robot Fleet",
+        "Real-time Systems",
+        "APIs"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Robotics research engineer building and scaling a simulation platform on AWS.",
+      "highlights": [
+        "Migrated the simulation pipeline to AWS for large-scale parallel compute (ML workloads impractical on local hardware). Secured AWS Cloud Credits for Research; featured on the AWS Public Sector Blog.",
+        "Built Robogen, an open-source robotics platform (C++, Python) adopted by researchers and students."
+      ],
+      "keywords": [
+        "AWS",
+        "Distributed Computing",
+        "ML Workloads",
+        "Robotics",
+        "Python",
+        "C++"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    }
+  ],
+  "publications": [
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English / Terraform Registry",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Infrastructure-as-code guide shipped as a reusable Terraform module: cloud-native, one-command deploy."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "Robotics research scaled on AWS: distributed experiments and dynamic cloud compute for evolving and manufacturing real robots."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Keynote)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Keynote on modular architecture and reusable patterns for scalable, team-autonomous development."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of shipping and operating a production system end to end: architecture, instrumentation, and outcomes."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Talk on shipping fast from zero: lean validation, rapid iteration, and building durable foundations where they count."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cloud Infrastructure & IaC"
+    },
+    {
+      "name": "Robotics & Edge Systems"
+    },
+    {
+      "name": "Developer Experience"
+    },
+    {
+      "name": "Startup Building"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Engineering Practice",
+      "position": "Founder & Principal Engineer",
+      "description": "Independent practice where I build and ship production systems end to end, then distill them into reusable modules, reference architectures, and internal tooling. I run my own cloud, CI/CD, and observability so I can go from laptop to production fast, and durable where it counts.",
+      "highlights": [
+        "Own the full delivery loop solo: infrastructure, deploy pipelines, and observability, then turn each build into reusable capability."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & Builder",
+      "description": "A full-stack product built and deployed end-to-end on a single platform (Replit): data model, backend, and UI shipped solo, from zero to live users. Practice at keeping deployment simple while shipping fast.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Security-sensitive fintech platform: cross-border tax and compliance with data-privacy-by-design and guardrails built before features. Zero-to-MVP in 3 months on a hardened, compliance-first stack.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "TechTree",
+    "jobTitle": "Infrastructure Engineer",
+    "jobUrl": "",
+    "jobDescription": "Infrastructure Engineer for a stealth robotics / physical-security startup (TechTree's client), Zurich (in-person, remote for exceptional candidates; visa/relocation support). Build the cloud platform connecting a robot fleet to operator intelligence: own cloud setup, deployment pipelines, CI/CD, container orchestration, and secure networking so the team ships code from laptop to robot reliably, securely, at scale. Critical early-stage hire; on-prem deployments to security-sensitive customers, so hardened self-contained deployments matter. Work on: cloud infrastructure (AWS or GCP, networking, security, IAM, cost controls); secure networking (VPNs, certificate and PKI management, TLS, hardened connectivity between cloud, operators, robots); CI/CD (fast reliable repeatable builds/deploys for cloud and on-robot software); container orchestration (Kubernetes and lightweight K3s for edge/on-prem, image build pipelines, secrets management); edge and fleet management (OTA updates, config management, telemetry, secure connectivity); observability (logging, metrics, tracing, dashboards, alerting with Grafana/Prometheus); developer experience (local envs, testing infra, internal tooling); security and compliance (hardening, secrets, audit trails). Background: 4+ years in platform/DevOps/SRE/infrastructure; deep experience with at least one major cloud (AWS/GCP/Azure); strong Kubernetes (incl. K3s) and IaC (Terraform, Pulumi); networking and security fundamentals (VPNs, TLS, PKI, firewalls); CI/CD (GitHub Actions, GitLab CI); code in Python, Go, or similar; track record building developer-facing platforms engineers liked using. Nice to have: deploying to edge devices or robot fleets (OTA, A/B updates, rollback); on-prem or air-gapped; security-sensitive environments (enterprise, defense, fintech, healthcare); observability stacks (Grafana, Prometheus, Datadog, OpenTelemetry); ML workloads (training infra, model serving, GPU orchestration).",
+    "notes": "Strong fit on cloud-infra-from-scratch at startup scale + robotics/edge: Dronistics (built AWS infra and CI/CD from scratch for an autonomous drone fleet, edge devices in the field), EPFL (AWS large-scale compute for robotics/ML), Beekeeper (Kubernetes/AWS at 10M+ users, GitHub Actions/Jenkins CI/CD, secrets, observability, developer tooling), Terraform (published module), founder/early-stage ownership, fintech/security-sensitive (SwissNRI). Honest gaps NOT fabricated: deep network/security engineering (VPN, PKI, TLS, firewalls) is not a demonstrated specialty; no Go, Pulumi, or K3s specifically; observability is via tracing/metrics/dashboards but not Grafana/Prometheus by name; profile is AI/full-stack-leaning rather than a pure SRE/platform specialist. Robotics domain and infra-from-scratch are genuine strengths.",
+    "createdAt": "2026-07-14"
+  },
+  "_generatedFile": {
+    "company": "TechTree",
+    "baseName": "infrastructure-engineer",
+    "createdAt": "2026-07-14T14:21:49.971Z",
+    "targetPath": "./generated/TechTree/infrastructure-engineer.json"
+  }
+}

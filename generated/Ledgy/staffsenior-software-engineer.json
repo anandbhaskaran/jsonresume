@@ -1,0 +1,333 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior/Staff Software Engineer · Full-Stack (TypeScript) · Fintech & Data-Intensive Systems · Founder",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Full-stack engineer with 13+ years shipping robust, tested products used by 10M+ users. I work across the stack in TypeScript and design the data models, integrations, and reliability behind data-intensive systems (Kafka, PostgreSQL, Elastic Search, ClickHouse), on a modern cloud stack (GCP, Terraform, Kubernetes, Docker, GitHub Actions). Fintech and compliance are familiar ground: I built a cross-border tax and compliance platform (SwissNRI), an explainable trading-signal system (PulseView), and financial data products at Obermatt. As a three-time founder, the impact of equity on entrepreneurship is not abstract to me, and I mentor, review, and raise engineering standards wherever I land.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Lead developer for production systems on GCP, owning architecture, data flows, and rollout.",
+      "highlights": [
+        "Designed and shipped production services on GCP in TypeScript and Python, owning architecture, data flows, and rollout.",
+        "Built a knowledge-graph data layer (Neo4j) integrating 5+ systems (Salesforce, HubSpot, product usage): complex data modeling and integrations.",
+        "Instrumented every release with tracing, evals, and cost telemetry, and reported outcomes to C-level. Robust and measurable by design."
+      ],
+      "keywords": [
+        "TypeScript",
+        "Python",
+        "GCP",
+        "Data Modeling",
+        "APIs",
+        "Neo4j",
+        "Integrations",
+        "Testing"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who owned architecture, data models, and delivery for products used by millions, and set the engineering standards around them.",
+      "highlights": [
+        "Owned end-to-end architecture for multiple products used by 10M+ users (TypeScript, Vue, Java, Kubernetes, AWS): robust, modular, and tested by design.",
+        "Led a search platform revamp across 3 teams (indexing and ranking) over a data stack of Kafka, PostgreSQL, Elastic Search and ClickHouse: complex data transformations at scale.",
+        "Architected the Employee Referral system end to end: became the top revenue channel ($1.5M+ generated, $500K ARR), designed for a 99.99% SLA. A financial feature with reliability that customers trust.",
+        "Hired and mentored engineers, ran code reviews, and set engineering standards as deputy tech lead."
+      ],
+      "keywords": [
+        "TypeScript",
+        "Vue",
+        "Java",
+        "Kubernetes",
+        "AWS",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "ClickHouse",
+        "Microservices",
+        "Testing",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technical mentor and evaluator for seed-to-VC stage startups, many in fintech.",
+      "highlights": [
+        "Reviewed architecture and scalability across 20+ startups, many in fintech, informing investment decisions.",
+        "Mentored engineers and advised on engineering standards and culture that ships."
+      ],
+      "keywords": [
+        "Architecture Review",
+        "FinTech",
+        "Scalability",
+        "Mentoring",
+        "System Design"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built the full-stack platform, APIs, and cloud stack from scratch.",
+      "highlights": [
+        "Shipped a full-stack platform (Vue, TypeScript, Java, PostgreSQL, AWS) with real-time APIs and data flows. 500+ deliveries, 99.5% safety record, zero incidents.",
+        "Built the cloud infrastructure and CI/CD from scratch, with reliability that enabled partnerships with Unilever and a CES showcase."
+      ],
+      "keywords": [
+        "TypeScript",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "APIs",
+        "Testing"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Research engineer building and scaling an open-source simulation platform on AWS.",
+      "highlights": [
+        "Built Robogen, an open-source platform (C++, Python), and scaled the pipeline on AWS. Secured AWS Cloud Credits for Research; featured on the AWS Public Sector Blog.",
+        "Taught 20+ master's students hands-on, an early habit of raising the bar in other engineers."
+      ],
+      "keywords": [
+        "C++",
+        "Python",
+        "AWS",
+        "Distributed Computing",
+        "Teaching"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Keynote)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Conference keynote on modular frontend architecture: reusable patterns for scalable, team-autonomous development."
+    },
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English / Terraform Registry",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Engineering guide shipped as a reusable Terraform module: infrastructure as code and cloud-native scalability patterns."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Playbook for building high-performing engineering teams through clear accountability, code quality, and a growth-oriented culture."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of shipping a production system end to end: architecture, data flows, and measured outcomes."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Talk on shipping fast with lean validation and rapid iteration in real product environments."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Fintech & Financial Data"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Full-Stack Engineering"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform for a regulated domain. Full-stack build with compliance-first data handling: guardrails and regulatory logic built before features, citations back to source regulation. Zero-to-MVP in 3 months.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built solo, from data integrations and signal logic to the web frontend. Complex financial data transformations turned into explainable signals; if the model can't explain a signal, it doesn't ship. Live retail users.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & Builder",
+      "description": "AI product built end-to-end on Replit: a vision pipeline turns inspection photos into structured records, then agents turn records into multilingual, marketing-ready listings. A full-stack product shipped solo from data model to UI.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Ledgy",
+    "jobTitle": "Staff/Senior Software Engineer",
+    "jobUrl": "https://ledgy.com",
+    "jobDescription": "Ledgy (founded Switzerland 2017; offices Zurich and London; NEA-led $22M Series B). Senior/Staff Software Engineer, London/Remote (hybrid 1 day/week for London or Zurich). Build elegant, scalable systems powering equity management and financial reporting for private and public companies. Collaborate with engineers (Zurich/London), PMs, and designers to build industry-leading automation. Teams: Core Equity (transaction logic, data model, core domain behaviour, accurate/scalable/compliant), Workflows & Automation (automate complex equity workflows, integrate third-party services including the trading exchange), Reporting (transform equity data into financial/operational/compliance reports across jurisdictions, large complex datasets). Good fit: 7+ years as a Software Engineer; excited about equity's impact on entrepreneurship; enjoy complex financial data transformations and compliance requirements; write clean maintainable TypeScript across backend and frontend; excited to work with React, Node.js, and MongoDB; thrive in collaborative environments and pair programming; take pride in robust, tested solutions for critical business operations. Tech stack: TypeScript; Frontend React, Tailwind CSS, tRPC; Backend tRPC, Node.js, MongoDB; Infrastructure GCP, Terraform Cloud, Kubernetes, Docker, GitHub Actions. Interview: CV review, intro, 75-min live coding on an equity domain problem, 60-min system design, culture interview with a founder.",
+    "notes": "Positioned as a full-stack product engineer: 13+ years, TypeScript across the stack, data-intensive systems at scale (Kafka/PostgreSQL/Elastic/ClickHouse), infra that matches the JD (GCP, Terraform, Kubernetes, Docker, GitHub Actions), engineering standards + mentoring + code review, and fintech/compliance domain (SwissNRI, PulseView, Obermatt, Opt Alpha) plus founder empathy for equity/entrepreneurship. Beekeeper moved to the top as the strongest full-stack/data/scale role. Honest gaps NOT fabricated: primary frontend framework is Vue, not React (transferable, TypeScript is shared); backend depth is Java/Python rather than Node.js/tRPC; MongoDB is via certification (MongoDB for Java Developers) rather than heavy production use; no cap-table/equity-specific domain experience (broader fintech + compliance instead).",
+    "createdAt": "2026-07-13"
+  },
+  "_generatedFile": {
+    "company": "Ledgy",
+    "baseName": "staffsenior-software-engineer",
+    "createdAt": "2026-07-13T13:11:06.457Z",
+    "targetPath": "./generated/Ledgy/staffsenior-software-engineer.json"
+  }
+}

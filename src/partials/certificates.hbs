@@ -4,11 +4,17 @@
 
     <div class="certificates-list">
         {{#each resume.certificates}}
+        {{#if url}}
+        <a href="{{url}}" class="certificate-item" target="_blank" rel="noopener">
+            <strong>{{name}}</strong>
+            {{#if issuer}}<span class="issuer">{{issuer}}{{#if date}} ({{date}}){{/if}}</span>{{/if}}
+        </a>
+        {{else}}
         <div class="certificate-item">
             <strong>{{name}}</strong>
             {{#if issuer}}<span class="issuer">{{issuer}}{{#if date}} ({{date}}){{/if}}</span>{{/if}}
-            {{#if url}}<a href="{{url}}" class="certificate-url">View Certificate</a>{{/if}}
         </div>
+        {{/if}}
         {{/each}}
     </div>
 </div>

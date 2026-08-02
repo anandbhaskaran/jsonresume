@@ -1,0 +1,341 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI Transformation Lead · Enterprise GenAI Adoption · Strategy-to-Delivery · AI-Native Builder · MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "AI transformation lead who owns the whole arc: set the thesis, structure ambiguous problems from first principles, then drive enterprise adoption until it sticks, not just the pilots. I also run my own forward deployed practice, Anand Creations, embedding with teams to take GenAI from idea to adopted, repeatable operating processes, and I codify each win into reusable blueprints and reference architectures. AI-native and hands-on: I build daily with Claude and agentic tooling, configure and prototype agents myself, and hold my own with a client's engineers. Business oriented and metric-led, and comfortable carrying the room with C-suite.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns AI transformation end to end: sets the thesis, ships the solution, and drives adoption. Reports directly to C-level on outcomes.",
+      "highlights": [
+        "Own AI transformation from thesis and architecture through rollout and adoption, reporting to C-level. 2x conversions and a forecast $1M in quarterly revenue.",
+        "Translated abstract GenAI into repeatable operating processes and a reusable context layer (AI Brain) that teams run day-to-day, not a one-off pilot.",
+        "Act as voice of the field: feed customer and field insights back into product strategy and roadmap."
+      ],
+      "keywords": [
+        "AI Transformation",
+        "Enterprise Adoption",
+        "GenAI Strategy",
+        "Agentic Tooling",
+        "Claude",
+        "Reference Architectures",
+        "Stakeholder Management",
+        "ROI",
+        "Python"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who drove AI adoption across products used by millions and codified what worked into repeatable playbooks.",
+      "highlights": [
+        "Drove enterprise AI adoption: an AI Onboarding Specialist guided 100% of new customers from first login into daily, integrated use.",
+        "Codified repeatable playbooks: a distributed templating engine now powering 15% of all assets created on the platform (10M+ users).",
+        "Built a GenAI system that generates customer-tailored content from CRM data, accelerating sales cycles and improving close rates.",
+        "Co-owned cross-functional GTM launches with Product and Sales, each instrumented for time-to-value, and mentored the AI engineering cohort."
+      ],
+      "keywords": [
+        "Enterprise Adoption",
+        "Change Management",
+        "Repeatable Playbooks",
+        "GenAI Content",
+        "Cross-functional Delivery",
+        "OpenAI",
+        "Claude",
+        "Java",
+        "Python",
+        "Solution Engineering"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Consulting-style technical advisor and mentor for seed-to-VC stage startups and their investors.",
+      "highlights": [
+        "Structured ambiguous problems from first principles across 20+ companies: hypotheses, workstreams, and clear recommendations for founders and investors.",
+        "Advised executives on AI strategy and change, giving direct feedback and defending reasoning under scrutiny."
+      ],
+      "keywords": [
+        "Consulting",
+        "First-Principles Problem Solving",
+        "AI Strategy",
+        "Executive Advisory",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer who delivered complex, ambiguous work end to end and stood behind it with enterprise partners.",
+      "highlights": [
+        "Delivered a complex, cross-functional platform from zero to production on time. 500+ deliveries, 99.5% safety record, zero incidents.",
+        "Carried enterprise relationships directly: partnerships with Unilever and a showcase at CES Las Vegas."
+      ],
+      "keywords": [
+        "Complex Delivery",
+        "Ambiguity",
+        "Enterprise Partnerships",
+        "AWS",
+        "APIs",
+        "Founding Engineer"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI/ML research engineer with a quantitative, first-principles foundation.",
+      "highlights": [
+        "Built Robogen, an open-source AI platform, and scaled it on AWS. A rigorous, quantitative foundation for breaking hard problems apart.",
+        "Taught 20+ master's students hands-on: translating complex concepts into something people could act on."
+      ],
+      "keywords": [
+        "Machine Learning",
+        "Quantitative",
+        "AWS",
+        "Python",
+        "Teaching"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for turning open-ended AI potential into measurable business outcomes: the transformation thesis this role is built on."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Keynote)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on how AI augments rather than replaces creative work, exactly Pencil's mission of making AI the default in advertising without replacing creative people."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Repeatable playbook for building high-performing teams: the same codify-what-works instinct behind transformation blueprints."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of moving an AI use case from prototype to adopted production system, with the outcomes that made it stick."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "How to architect the memory and retrieval layer so enterprise AI is grounded and reliable, not a demo."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Hands-on tutorial on building agents, making an abstract AI concept concrete and repeatable for others."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Enterprise AI Adoption"
+    },
+    {
+      "name": "AI Transformation & Change"
+    },
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed AI Practice",
+      "position": "Founder & Principal",
+      "description": "Independent practice: I embed with a customer's team, set the transformation thesis, and take GenAI from idea to adopted, then codify each engagement into reusable blueprints, operating processes, and reference architectures so the next rollout is faster than the last.",
+      "highlights": [
+        "Turn one-off wins into repeatable blueprints and playbooks, the exact leave-behind this role rewards. Flagship: the GTM AI Brain shared across every agent."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "Proplab - AI for Marketing Content",
+      "position": "Founder & Builder",
+      "description": "AI product built end-to-end on Replit that turns raw inputs into multilingual, marketing-ready content: a vision pipeline structures the data, then agents generate publish-ready listings. AI at the center of content creation, one workflow with zero copy-paste.",
+      "highlights": [
+        "Built the full agent workflow solo, from data capture to published marketing content, keeping the human in control of the creative."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence where a multi-agent system generates signals with the evidence chain that justifies them. Explainability and evaluation built in: if the model can't explain its output, it doesn't ship. Live retail users.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Pencil",
+    "jobTitle": "AI Transformation Lead",
+    "jobUrl": "",
+    "jobDescription": "Pencil (Generative AI SaaS for advertising / content creation; mission: make AI the default in advertising without replacing creative people). Remote. Strategic and technical owner of transformation engagements on a set of accounts: the most informed voice on what Pencil should do for each client and how the work gets done. Set the thesis, structure the engagement from first principles, co-design recommendations and timelines with Forward Deployed Engineers and Creative Leads, lead the client through enterprise-wide change to make it stick, and stand behind quality and performance once work ships. Responsibilities: implementation leadership (own the client narrative and strategic/tactical plan, set the transformation thesis); structured problem-solving (turn ambiguous problems into hypotheses, workstreams, sequenced decisions); change management leadership (move clients beyond siloed pilots into integrated AI-driven workflows, navigate stakeholders, engineer buy-in for scaled adoption); AI process design (translate GenAI concepts into repeatable operating processes); product feedback loop (voice of the customer to Product/Engineering); transformation blueprints (codify wins into repeatable playbooks). Background: 5+ years in consulting, in-house transformation, programme management, or enterprise tech implementation with exposure to technology, digital strategy, and/or operations; strong quantitative/analytical academic record (STEM, economics, engineering, business); AI-native day-to-day (uses Claude Cowork; Claude Code or agentic tooling a plus; automates by default); tech-fluent and hands-on (configures agents, prototypes, stress-tests recommendations, can hold a technical conversation with a client's engineers; lightweight engineering like SQL/scripts/reading code a plus); confident with senior stakeholders (carry a client meeting solo, give direct feedback, composed under scope shifts); track record delivering complex, cross-functional, ambiguous work to a high standard on time; marketing/advertising/agency experience helps but is not a differentiator. Thrive: provocative and brave, ally to change, believe in enterprise adoption (out of pilot purgatory), measurable impact. KPIs: enterprise adoption, time-to-value/ROI, quality of transformation narrative, product feedback impact, blueprint contribution.",
+    "notes": "Strong fit: owns AI transformation end to end (LumApps, Anand Creations FDE practice), enterprise adoption beyond pilots (AI Onboarding Specialist 100% of customers, templating engine at 15% of assets), repeatable blueprints/playbooks (reusable modules, reference architectures, 'Blueprint for High-Impact Teams'), first-principles structured problem-solving + executive advisory (Tenity, MBA), AI-native hands-on builder (Claude, Claude Code, agents), quantitative academic record (multiple MSc + MBA 93.2%). Advertising adjacency via Proplab (AI marketing content generation) and Beekeeper GenAI content system. Honest notes: background is engineering/founder rather than a classic management-consulting title, and no direct advertising/agency tenure (JD says that helps but does not set candidates apart); has not used the specific Claude Cowork product but is AI-native with Claude/Claude Code and agentic tooling.",
+    "createdAt": "2026-07-15"
+  },
+  "_generatedFile": {
+    "company": "Pencil",
+    "baseName": "ai-transformation-lead",
+    "createdAt": "2026-07-15T14:15:20.762Z",
+    "targetPath": "./generated/Pencil/ai-transformation-lead.json"
+  }
+}

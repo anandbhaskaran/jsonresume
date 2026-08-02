@@ -1,0 +1,343 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Applied AI Transformation Leader · Enterprise GenAI & Multi-Agent · Executive Advisory · Thought Leadership · MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Applied AI transformation leader who advises executives and then ships the AI that proves the case. I own AI transformation end to end at LumApps (agents that 2x conversions and forecast $1M in quarterly revenue) and run my own practice, Anand Creations, taking enterprises from strategy through adoption. Hands-on across the modern stack: LLMs and multi-agent orchestration (LangGraph, MCP, ReAct), RAG and knowledge graphs, on OpenAI, Anthropic and Claude, GCP and AWS. MBA-trained, a frequent conference speaker and writer, with 13+ years advising founders and C-suite leaders (Tenity, 20+ companies) and mentoring the teams who carry the work.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns applied AI transformation end to end: strategy, multi-agent build, adoption, and C-level advisory.",
+      "highlights": [
+        "Own applied AI transformation from strategy to production: multi-agent systems (LangGraph, MCP, ReAct) on GCP, reported to C-level. 2x conversions and a forecast $1M in quarterly revenue.",
+        "Drove enterprise AI adoption and change: turned GenAI into repeatable operating processes and a reusable context layer teams run day-to-day.",
+        "Advise C-level on AI strategy and feed field insights back into product and roadmap.",
+        "Expanded scope to company-wide AI transformation strategy, governance, and enablement, bridging engineering, product, and revenue."
+      ],
+      "keywords": [
+        "Applied AI",
+        "AI Transformation",
+        "Multi-Agent Orchestration",
+        "LangGraph",
+        "MCP",
+        "RAG",
+        "GCP",
+        "Executive Advisory",
+        "Change Management",
+        "Python"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who drove AI adoption and measurable value across enterprise products used by millions, and built the teams behind them.",
+      "highlights": [
+        "Drove enterprise AI adoption and built the business case: an onboarding agent guided 100% of customers, and a GenAI demo system for sales lifted close rates with measurable value.",
+        "Delivered measurable impact: replaced $337K in vendor cost with an LLM pipeline; Employee Referral became the top revenue channel ($1.5M+, $500K ARR).",
+        "Built and mentored the AI engineering team (deputy tech lead), led 3 teams, and raised AI capability across the org.",
+        "Owned enterprise-grade delivery on AWS and Kubernetes for 10M+ users, with security and reliability built in."
+      ],
+      "keywords": [
+        "Enterprise AI Adoption",
+        "Change Management",
+        "Business Case / ROI",
+        "Team Leadership",
+        "AWS",
+        "Kubernetes",
+        "OpenAI",
+        "Claude",
+        "Java",
+        "Python",
+        "Security"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Trusted technical advisor to founders and investors on AI strategy and adoption.",
+      "highlights": [
+        "Trusted advisor to founders and investors: AI strategy, readiness, and architecture across 20+ companies, informing go/no-go decisions.",
+        "Facilitated technical discovery and mentored teams, shaping AI adoption direction under scrutiny.",
+        "Mentored Opt Alpha on scaling high-frequency trading systems in production, and helped portfolio companies build the case for where AI creates real value."
+      ],
+      "keywords": [
+        "Executive Advisory",
+        "AI Strategy",
+        "Stakeholder Management",
+        "Workshops",
+        "Mentoring"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer who took an enterprise product from 0 to 1 and carried the client relationships.",
+      "highlights": [
+        "Took an enterprise product from 0 to 1 and into the field. 500+ deliveries, 99.5% safety record, zero incidents.",
+        "Originated and carried enterprise relationships directly: partnerships with Unilever and a showcase at CES Las Vegas."
+      ],
+      "keywords": [
+        "0-to-1",
+        "Enterprise Delivery",
+        "Partnerships",
+        "AWS",
+        "APIs",
+        "Founding Engineer"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI/ML research engineer and teacher, with foundational depth that grounds my applied-AI credibility.",
+      "highlights": [
+        "Built Robogen, an open-source AI platform scaled on AWS. Secured AWS Cloud Credits for Research; featured on the AWS Public Sector Blog.",
+        "Taught 20+ master's students hands-on: translating complex AI concepts for others, the core of workshops and enablement."
+      ],
+      "keywords": [
+        "Machine Learning",
+        "AWS",
+        "Python",
+        "Thought Leadership",
+        "Teaching"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for turning open-ended AI potential into measurable business outcomes: the applied-AI transformation thesis for executives."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Keynote)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Conference keynote on AI's role in creative work: thought leadership for a broad executive and practitioner audience."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Applied-AI guidance on the memory and retrieval layer: how enterprises pick a production stack for agents that integrate many systems."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of an enterprise AI adoption program: architecture, evaluation, and the outcomes that made it stick."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial on multi-agent patterns (ReAct), keeping hands-on knowledge of agent orchestration current."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Keynote)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Conference keynote on enterprise architecture patterns: sustained thought leadership at major developer events."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Applied AI Transformation"
+    },
+    {
+      "name": "Multi-Agent Systems"
+    },
+    {
+      "name": "AI Thought Leadership"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Applied AI Transformation Practice",
+      "position": "Founder & Principal",
+      "description": "Independent practice: I advise leaders on AI strategy, then embed with their teams to take GenAI from thesis to adopted production, and codify each engagement into reusable blueprints and reference architectures. The full arc from executive advisory to hands-on delivery.",
+      "highlights": [
+        "Turn strategy into shipped, adopted AI and reusable blueprints. Flagship: the GTM AI Brain, a knowledge-graph layer shared across every agent."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - Regulated AI Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform in a regulated domain. RAG-grounded answers with citations to source regulation; security and regulatory guardrails built before features. Enterprise-grade AI that complies while it scales.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence where a multi-agent system generates signals with the evidence chain that justifies them. Explainability and evaluation built in for trustworthy, governable AI. Live users.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "EPAM",
+    "jobTitle": "Director, Applied AI Transformation - Software & Hi-Tech",
+    "jobUrl": "",
+    "jobDescription": "EPAM. Director, Applied AI Transformation (Software & Hi-Tech), Europe, hybrid or remote. Lead enterprise-scale AI and agentic transformation for global software and technology organizations, act as trusted advisor to senior executives, and deliver practical AI with measurable business impact. Responsibilities: define and execute applied AI and agentic transformation strategies for software/hi-tech clients; trusted advisor to C-suite on AI adoption and digital innovation; lead presales (shape opportunities, develop business cases, win engagements); facilitate workshops turning business/technology challenges into actionable AI use cases; drive enterprise-wide AI adoption via change management and measurable value; lead cross-functional teams delivering scalable enterprise AI and multi-agent solutions; maintain hands-on knowledge of LLMs, multi-agent orchestration frameworks, and advanced AI platforms; ensure AI solutions comply with security and regulatory standards while scaling; build and mentor EPAM and client teams; monitor trends and promote EPAM as a thought leader. Requirements: 10+ years in software and hi-tech with leadership roles in transformation or product innovation; strong knowledge of software lifecycle, platform engineering, enterprise-grade delivery models; proven success advising executives on AI strategy and leading enterprise-scale adoption; practical expertise with applied AI (LLMs, multi-agent orchestration, RAG); familiarity with OpenAI, Anthropic, Microsoft AI, and hyperscalers (AWS, Azure, Google Cloud); ability to originate and convert engagements via presales and business-case development; track record building and leading cross-functional global teams; excellent executive communication and stakeholder management; advanced degree in CS/Engineering or Business, MBA preferred; ability to travel. Eligibility: Swiss/EU/EFTA nationals, or third-country nationals based in Switzerland with an appropriate work permit.",
+    "notes": "Strong fit on applied AI depth + advisory + thought leadership: owns AI transformation end to end (LumApps, Anand Creations), executive/investor advisory (Tenity 20+, C-level reporting), enterprise AI adoption + change management + business cases (Beekeeper onboarding agent 100%, GenAI demo, $337K, $1.5M referral), hands-on LLM/multi-agent/RAG across OpenAI, Anthropic/Claude, GCP, AWS (Microsoft cert for MS AI familiarity), MBA, team leadership/mentoring, security/regulatory (SwissNRI), and a strong speaking/writing thought-leadership record (Front + Developer Week keynotes, published case studies). Zurich-based (third-country national with Swiss work permit). Honest stretch NOT hidden: title is a Director-level consultancy role; candidate's leadership is founder + tech-lead + advisor scale rather than prior Director-at-a-consultancy with formal presales/deal-origination quota and large global team P&L. Azure depth is light (has AWS/GCP + Microsoft cert).",
+    "createdAt": "2026-07-15"
+  },
+  "_generatedFile": {
+    "company": "EPAM",
+    "baseName": "director-applied-ai-transformation-software-hi-tech",
+    "createdAt": "2026-07-15T15:02:43.654Z",
+    "targetPath": "./generated/EPAM/director-applied-ai-transformation-software-hi-tech.json"
+  }
+}

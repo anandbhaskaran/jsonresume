@@ -1,0 +1,307 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Full-Stack Developer | AI-Integrated Web Applications | Python, TypeScript & Vue",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Full-stack developer who ships both the UI and the data layer underneath it: Python and TypeScript on the backend, Vue on the front, PostgreSQL and Elastic Search for storage and search. I integrate LLMs into production applications as a matter of course: AI Brain at LumApps is a metadata and knowledge layer unifying 5+ data sources with access contracts and freshness governance built in, the same data lifecycle problem a metadata management platform solves. At Beekeeper I designed and shipped REST APIs and full-stack features end to end (Employee Referral System, Distributed Templating Engine) for 10M+ users in an Agile team, with CI/CD via GitHub Actions and Jenkins. 13+ years building user-facing tools that data teams and business users both rely on daily.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead Software Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns AI transformation end-to-end, from production AI agent architecture to company-wide governance and sales enablement strategy. Reports directly to C-level on outcomes.",
+      "highlights": [
+        "Designed AI Brain, a metadata and knowledge management layer (temporal knowledge graph on Graphiti and Neo4j) unifying 5+ data sources (Salesforce, HubSpot, Pendo, conversation transcripts, product usage), with a per-source access contract and a freshness layer that flags stale data, the same lifecycle and interoperability problem a metadata management platform solves.",
+        "Built and deployed production multi-agent workflows on Python, LangGraph and Google ADK over GCP Vertex AI, integrating LLMs directly into a customer-facing application with tools exposed over MCP servers. 2x open rates, 2x approved opportunities. Forecast: $1M in quarterly revenue at 25% conversion.",
+        "Led technical discovery through production: agent architecture, eval pipelines, tracing, tool-selection tuning, and cost-per-request instrumentation, evaluating and adopting new AI techniques as the field moved."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "LangChain",
+        "LangGraph",
+        "Google ADK",
+        "GCP",
+        "Vertex AI",
+        "MCP",
+        "RAG",
+        "Multi-Agent Systems",
+        "Evaluation Pipelines",
+        "FastAPI",
+        "Neo4j",
+        "Graphiti",
+        "Salesforce"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who operates like a founding engineer. Owns the problem, designs the solution, ships to prod, and stays accountable to the metric. Built AI-powered products used by millions while growing the engineering team around me.",
+      "highlights": [
+        "Architected Employee Referral System end-to-end: Vue frontend, Java and PostgreSQL backend, REST APIs. Became the platform's top revenue channel ($1.5M+ generated, $500K ARR). Designed for 99.99% SLA.",
+        "Designed distributed templating engine that cut customer setup time 90% and now powers 15% of all platform assets for 10M+ users. Full-stack ownership, front to back, with user experience as the design constraint.",
+        "Led Search Platform revamp across 3 teams on Elastic Search: redesigned indexing and ranking to surface what users mean to find, not just what they typed. Measurable lift in user engagement.",
+        "Replaced $337K in annual vendor translation costs with an LLM pipeline (GitHub Actions CI/CD, OpenAI APIs) built in 6 weeks. 12K+ assets translated, product team now iterates without external gatekeepers."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "Java",
+        "Vue",
+        "PostgreSQL",
+        "Elastic Search",
+        "REST APIs",
+        "Agile",
+        "CI/CD",
+        "GitHub Actions",
+        "Jenkins",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "LangChain",
+        "Kafka",
+        "ClickHouse",
+        "Observability"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Evaluates technical architecture and advises on AI adoption, engineering culture, and building systems that scale.",
+      "highlights": [
+        "Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.",
+        "Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that actually ship."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Technical Evaluation",
+        "Startup Evaluation",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built everything from scratch: architecture, infrastructure, APIs, and the algorithms that made 500+ real-world deliveries possible.",
+      "highlights": [
+        "Shipped end-to-end autonomous drone delivery platform (Vue/Java/PostgreSQL). 500+ successful deliveries, every flight a live UX test for real-world systems.",
+        "Engineered real-time flight control REST APIs and logistics optimization algorithms. 40% faster deliveries, 99.5% safety record, zero incidents."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "REST APIs",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Real-time Systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "A map of the 12 memory and RAG tools building the AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to pick the right memory and retrieval stack for agents in production."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "In-depth case study of building and deploying a production AI outbound sales agent, detailing the architecture, implementation, and real-world outcomes that led to 2x open rates and 2x approved opportunities."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive presentation demonstrating how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Microfrontends"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed practice: I embed with a customer's team, run technical discovery, and ship production agentic AI inside their environment, from a one-week AI Opportunity Assessment through evals, tracing, and rollout. Also the home for the AI products I build and run.",
+      "highlights": [
+        "Flagship engagement, the GTM AI Brain: a temporal knowledge graph (Graphiti on Neo4j) unifying 5+ silos into one time-aware memory every agent reads and writes, with event-driven ingest and a per-agent query and write-back contract."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions in plain language with citations back to the regulation; compliance-first agentic design flags risk before users file, with access and regulatory guardrails built before features. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Roche",
+    "jobTitle": "Full-Stack Developer",
+    "jobUrl": "",
+    "jobDescription": "Full-Stack Developer, Data Products team, Roche. Maintains and enhances an internal web application for metadata management over a medical data (clinical + real world data) sharing platform: FAIR data, data lifecycle management (onboarding, access/use restrictions, access requests, third-party access, contract expiration, deletion), plus tooling for the team. Gathers and prioritizes feature requests, designs technical solutions, integrates third-party tech, implements in Agile. Ideally brings: Python and modern JavaScript, AI/LLM integration experience and ML/AI fundamentals, modern web dev (Jamstack a plus), React/Next.js/Django, REST API design, SQL and relational DBs (ORM a plus), containers (Docker/Kubernetes a plus), Git-based team workflows, CI/CD a plus, Agile a plus, UX sensibility, web security awareness, ElasticSearch/OpenSearch a plus, AWS or another cloud a plus.",
+    "notes": "Good fit on the core, non-framework-specific asks: Python, REST API design, PostgreSQL/relational DBs, Elastic Search (a named nice-to-have, and genuinely used at Beekeeper), Docker, CI/CD, Agile, and real production LLM/AI integration (the JD's own most distinctive ask). Reframed LumApps' AI Brain around metadata management and data lifecycle governance since that is literally the product this team owns. Honest gaps: no React, Next.js, Django, Jamstack, or ORM experience documented in resume.md/resume.json; frontend history is Vue, not React. The JD frames its whole tech list as 'ideally,' not hard requirements, so this wasn't treated as a blocker, but it's worth naming directly if asked, since Vue is not a drop-in substitute for React/Next.js.",
+    "createdAt": "2026-07-21T14:45:25.000Z"
+  },
+  "_generatedFile": {
+    "company": "Roche",
+    "baseName": "fullstack-developer",
+    "createdAt": "2026-07-21T14:46:22.095Z",
+    "targetPath": "./generated/Roche/fullstack-developer.json"
+  }
+}

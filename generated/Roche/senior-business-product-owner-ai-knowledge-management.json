@@ -1,0 +1,314 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Business Product Owner | AI & Knowledge Management | Agile Delivery at Scale",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Product owner who bridges business and engineering: as Technical Product Manager at Obermatt I owned product roadmaps end-to-end and introduced agile methodologies that lifted a remote engineering team's productivity 20%. At Beekeeper I was Product Owner for the Distributed Templating Engine, running technical investigations, vision-setting, and epic definition for a system that now powers 15% of all platform assets for 10M+ users. My AI depth is current: at LumApps I own an AI-ready data pipeline (AI Brain, a RAG-grounded knowledge layer unifying 5+ systems) that doubles outbound conversions, backed by certifications in RAG architectures and knowledge graphs. MBA-trained to build the business case, define the KPIs, and defend the ROI to executives.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead Software Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns AI transformation end-to-end, from production AI agent architecture to company-wide governance and sales enablement strategy. Reports directly to C-level on outcomes.",
+      "highlights": [
+        "Shaped the information architecture for AI Brain, a RAG-grounded knowledge and data pipeline unifying 5+ systems (Salesforce, HubSpot, Pendo, conversation transcripts, product usage) into one time-aware layer every agent reads and writes. Event-driven ingest, a per-agent query and write-back contract, and a freshness layer for data quality, built for interoperability across systems.",
+        "Built and deployed production multi-agent workflows for outbound sales on LangGraph and Google ADK over GCP Vertex AI, with prompt engineering and vector-grounded retrieval. 2x open rates, 2x approved opportunities. Forecast: $4M in approved opportunities per quarter; at 25% conversion, $1M in quarterly revenue.",
+        "Owned the complete product lifecycle from concept to production: technical discovery, eval pipelines, tracing, tool-selection tuning, and cost-per-request instrumentation, reporting outcomes and ROI directly to C-level."
+      ],
+      "keywords": [
+        "RAG",
+        "Vector Databases",
+        "Prompt Engineering",
+        "Data Governance",
+        "Data Pipelines",
+        "LangChain",
+        "LangGraph",
+        "Google ADK",
+        "GCP",
+        "Vertex AI",
+        "MCP",
+        "Multi-Agent Systems",
+        "Evaluation Pipelines",
+        "Python",
+        "TypeScript",
+        "Neo4j",
+        "Graphiti",
+        "Salesforce"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who operates like a founding engineer. Owns the problem, designs the solution, ships to prod, and stays accountable to the metric. Built AI-powered products used by millions while growing the engineering team around me.",
+      "highlights": [
+        "Product Owner for the Distributed Templating Engine: ran technical investigations, solutioning, vision-setting, and epic definition for a system that cut customer setup time 90% and now powers 15% of all assets on the platform (10M+ users).",
+        "Architected Employee Referral System end-to-end as Tech Lead reporting to CIO. Became the platform's top revenue channel ($1.5M+ generated, $500K ARR). Built the strategic roadmap and drove adoption.",
+        "Acting hiring manager for AI roles: defined the bar, ran the process, closed candidates, and mentored the AI engineering cohort into engineers who now lead features independently."
+      ],
+      "keywords": [
+        "Product Ownership",
+        "Agile",
+        "Roadmapping",
+        "Stakeholder Management",
+        "Java",
+        "Python",
+        "TypeScript",
+        "Vue",
+        "PostgreSQL",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "LangChain",
+        "Kafka",
+        "Elastic Search",
+        "Observability"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Evaluates technical architecture and advises on AI adoption, engineering culture, and building systems that scale.",
+      "highlights": [
+        "Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.",
+        "Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that actually ship."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Stakeholder Alignment",
+        "Technical Evaluation",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Obermatt",
+      "position": "Technical Product Manager",
+      "url": "https://obermatt.com/en/home.html",
+      "startDate": "2018-07",
+      "endDate": "2021-01",
+      "summary": "Concurrent side role bridging business and engineering: owned product roadmaps and led a remote engineering team through agile transformation.",
+      "highlights": [
+        "Bridged business and engineering to deliver scalable, reliable solutions. Built strategic roadmaps that improved customer satisfaction and retention.",
+        "Directed a remote engineering team. Introduced agile methodologies; productivity up 20%.",
+        "Improved CI/CD with Docker; deployment times down 30%."
+      ],
+      "keywords": [
+        "Product Ownership",
+        "Roadmapping",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Stakeholder Management",
+        "CI/CD",
+        "Docker"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "A map of the 12 memory and RAG tools building the AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to pick the right memory and retrieval stack for agents in production."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "In-depth case study of building and deploying a production AI outbound sales agent, detailing the architecture, implementation, and real-world outcomes that led to 2x open rates and 2x approved opportunities."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed practice: I embed with a customer's team, run technical discovery, and ship production agentic AI inside their environment, from a one-week AI Opportunity Assessment through evals, tracing, and rollout. Also the home for the AI products I build and run.",
+      "highlights": [
+        "Flagship engagement, the GTM AI Brain: a temporal knowledge graph (Graphiti on Neo4j) unifying 5+ silos into one time-aware memory every agent reads and writes, with event-driven ingest and a per-agent query and write-back contract."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform for Swiss-Indian families. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions in plain language with citations back to the regulation; compliance-first agentic design flags risk before users file, with regulatory guardrails and data governance built before features. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Roche",
+    "jobTitle": "Senior Business Product Owner AI & Knowledge Management",
+    "jobUrl": "",
+    "jobDescription": "Senior Business Product Owner, AI & Knowledge Management, Roche Diagnostics, Sant Cugat del Valles. Owns Service Knowledge Management solutions centered on AI and AI-ready data pipelines for global customer service. Responsibilities: product strategy and roadmap, process automation, data strategy and governance (with IT), lifecycle and delivery management, agile team leadership across multiple squads (IT Solution Owners, Product Designers, developers), stakeholder alignment between senior business leaders and IT/Architecture. Requires: Master's in STEM or Economics/Business Administration or equivalent; 5-10 years in high-tech, engineering, or service-oriented business; confident understanding of LLMs, RAG, prompt engineering, vector databases, AI-ready data pipelines with a strong functional/content-driven translation skill; expert at architecting scalable global workflows end-to-end; proven agile squad leadership; strong stakeholder alignment, business-case building, KPI definition, ROI. Field experience in Roche Diagnostics service business or comparable is a major plus, not required.",
+    "notes": "Strong fit: added the Obermatt (Technical Product Manager, 2018-2021, concurrent side role) entry from resume.md, the closest literal Product Owner title and roadmap/agile-leadership experience in the candidate's history, not previously included in the curated resume.json baseline. Beekeeper's Distributed Templating Engine bullet reworded to surface the 'Product Owner' framing that resume.md documents but resume.json's default bullet omitted. Strong AI/RAG/data-pipeline match (LumApps AI Brain, Neo4j and LangGraph certifications). Honest gap: no field experience in Roche Diagnostics' specific service business or comparable global field-service operations; JD calls this 'a major plus,' not a requirement, so not fabricated or treated as a blocker. MBA plus two STEM Master's degrees comfortably satisfies the education requirement.",
+    "createdAt": "2026-07-21T14:33:05.000Z"
+  },
+  "_generatedFile": {
+    "company": "Roche",
+    "baseName": "senior-business-product-owner-ai-knowledge-management",
+    "createdAt": "2026-07-21T14:43:39.264Z",
+    "targetPath": "./generated/Roche/senior-business-product-owner-ai-knowledge-management.json"
+  }
+}

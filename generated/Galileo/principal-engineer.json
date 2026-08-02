@@ -1,0 +1,343 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Principal Frontend Platform & AI Engineer · Microfrontends, SDKs & Agent UIs · Distributed Systems · AWS · FinTech",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Principal-level engineer and hands-on architect who designs frontend platforms many teams build on, now building production AI on top. At Beekeeper I owned a microfrontends and module-federation architecture across web and hybrid mobile (Android, iOS) for products used by 10M+ users, distributing shared components and reusable frameworks so teams shipped independently (one now powers 15% of all platform assets). Today at LumApps I build production multi-agent AI systems with agent-native UIs, keeping modern AI fluency close to the platform. FinTech is home turf (trading, cross-border compliance, investment research), and I lead by example: hands-on, mentoring teams, and advising on technical strategy, with distributed-systems depth on AWS and continuous delivery.",
+    "metrics": [
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "15%",
+        "label": "Platform Assets (Shared Framework)"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Lead developer and hands-on architect for production systems on GCP, owning architecture, APIs, and delivery.",
+      "highlights": [
+        "Build production multi-agent AI systems on GCP (TypeScript, Python), including agent-native UIs streamed to the frontend over AG-UI: hands-on across the stack. 2x conversions, forecast $1M in quarterly revenue.",
+        "Designed clean APIs and integration boundaries between agents and 5+ external systems (Salesforce, HubSpot, product usage).",
+        "Set engineering standards and report technical strategy to C-level."
+      ],
+      "keywords": [
+        "TypeScript",
+        "AI Agents",
+        "AG-UI",
+        "LLMs",
+        "APIs",
+        "GCP",
+        "Python",
+        "Architecture",
+        "Technical Strategy"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who owned the frontend platform architecture and distributed backend for a white-labeled product used by millions.",
+      "highlights": [
+        "Owned a microfrontends and module-federation architecture across web and hybrid mobile (Android, iOS): distributed shared components and reusable frameworks so many teams shipped independently.",
+        "Shipped a reusable framework (distributed templating engine) now powering 15% of all assets created on the platform (10M+ users): component distribution at scale.",
+        "Architected fault-tolerant distributed systems on AWS and Kubernetes (Kafka, PostgreSQL, Elastic Search, ClickHouse) with CI/CD and test automation safe for continuous release.",
+        "Led 3 teams, mentored the engineering cohort, and raised code-quality and testing standards across the org."
+      ],
+      "keywords": [
+        "Microfrontends",
+        "Module Federation",
+        "Webpack",
+        "TypeScript",
+        "JavaScript",
+        "Vue",
+        "Hybrid Mobile",
+        "Shared Components / SDKs",
+        "AWS",
+        "Kubernetes",
+        "Kafka",
+        "CI/CD",
+        "Java"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technical advisor for seed-to-VC stage startups on architecture, scalability, and platform decisions.",
+      "highlights": [
+        "Reviewed platform and frontend architecture, scalability, and quality across 20+ startups, many in fintech.",
+        "Mentored teams and influenced technical direction across organizations without direct authority."
+      ],
+      "keywords": [
+        "Architecture Review",
+        "Scalability",
+        "FinTech",
+        "Technical Influence",
+        "Mentoring"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer who built the full-stack platform, frontend, APIs, and cloud stack from scratch and ran it in production.",
+      "highlights": [
+        "Built the full-stack platform end to end (Vue frontend, Java, PostgreSQL, AWS) with real-time APIs, and operated it in production. 500+ deliveries, 99.5% safety, zero incidents.",
+        "Built the CI/CD pipeline and cloud infrastructure from scratch, with reliability that earned partnerships with Unilever and a CES showcase."
+      ],
+      "keywords": [
+        "Vue",
+        "JavaScript",
+        "APIs",
+        "AWS",
+        "CI/CD",
+        "Java",
+        "Production Operations"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "Research engineer building and scaling a distributed simulation platform on AWS.",
+      "highlights": [
+        "Built Robogen, an open-source platform (C++, Python), and scaled a distributed pipeline on AWS. Secured AWS Cloud Credits for Research; featured on the AWS Public Sector Blog.",
+        "Taught 20+ master's students hands-on, an early habit of raising the engineering bar in others."
+      ],
+      "keywords": [
+        "Distributed Computing",
+        "AWS",
+        "C++",
+        "Python",
+        "Teaching"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Keynote)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Conference keynote on microfrontend architecture: patterns for scalable, team-autonomous frontend platforms and shared-component distribution."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Playbook for building high-performing engineering teams and raising code-quality and testing standards."
+    },
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English / Terraform Registry",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Systems engineering guide on AWS shipped as reusable infrastructure as code: high-availability, scalable design."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Talk on shipping products fast with lean validation and continuous iteration."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of shipping a production system end to end, with the outcomes that made it stick."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Architecture guidance for the data and retrieval layer behind reliable production systems."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Frontend Platforms & Microfrontends"
+    },
+    {
+      "name": "Distributed Systems"
+    },
+    {
+      "name": "FinTech"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Engineering Practice",
+      "position": "Founder & Principal Engineer",
+      "description": "Independent practice: I architect and build full-stack products end to end, then distill them into reusable components, libraries, and reference architectures other teams build on. Hands-on across frontend, APIs, cloud, and CI/CD.",
+      "highlights": [
+        "Own the full stack solo, from frontend and APIs to cloud and delivery, and turn each build into reusable components and patterns."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - FinTech Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "A real-time fintech platform built solo, from data pipelines and APIs to the web frontend where users access and act on live market data. Full-stack ownership with a customer-facing UI and explainable outputs.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border FinTech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform for a regulated fintech domain. Web frontend plus a RAG-grounded backend with security and regulatory guardrails built before features. Zero-to-MVP in 3 months.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Galileo",
+    "jobTitle": "Principal Engineer",
+    "jobUrl": "https://www.galileo-ft.com/",
+    "jobDescription": "Galileo Financial Technologies (payments platform powering Fintechs and financial institutions; fraud detection, security, analytics, regulatory compliance). Principal Engineer for the design and operations of multi-channel white-labeled platforms serving on-prem and hosted customers. Lead the design and evolution of the platform; define frontend architecture standards; guide engineering teams; ensure user-facing platforms are robust, maintainable, secure, future-proof; work with product, UX, backend architects, delivery, risk, compliance, data, legal, and executives. Senior, hands-on architecture role combining strategic design with deep technical execution. What you'll do: define and evolve frontend architecture across web and mobile (web-based); collaborate on digital platform architecture; deliver engineering efficiency and standardization of non-functional requirements; advise the Director of Engineering; be an exemplary hands-on practitioner setting quality standards; define boundaries, APIs, and integrations with teams, clients, partners; operate and run software in production; architect distribution of SDKs, libraries and components to other teams; solve high-availability, low-latency, scalable distributed-systems problems; execute large-scale multi-team projects; anticipate next-gen systems; raise engineering quality (writing, testing, processes); mentor and coach across the company; advise leadership on technical strategy and org structure; drive operational excellence. What you'll need: 10+ years programming, mastery independent of language; advanced expertise designing frontend platforms including mobile, web, SDKs, micro-frontends; advanced expertise building/operating large-scale fault-tolerant distributed systems; translate product/UX into scalable solutions; continuous delivery with layered test automation; continuously improving legacy systems; strong pragmatic judgment; public cloud (AWS preferred); excellent communication (Spanish a plus); lead across multiple teams; distributed teams across time zones. Technology: deep ReactJS; Java and NodeJS; web technologies (browser internals/performance, security XSS/CSRF/auth/secure storage, REST/GraphQL, JavaScript/TypeScript, HTML5/CSS3/responsive, Webpack/Vite/npm/yarn/pnpm); mobile native/hybrid (ReactNative, Cordova, Swift, Kotlin, Kotlin Multiplatform).",
+    "notes": "Strong fit: frontend platform architecture and MICROFRONTENDS + module federation across web and hybrid mobile at Beekeeper (10M+ users), shared-component/reusable-framework distribution (templating engine at 15% of assets), Developer Week keynote on microfrontends, large-scale fault-tolerant distributed systems on AWS/Kubernetes/Kafka, CI/CD + test automation, hands-on architect + tech lead + mentoring + technical-strategy advisory, and fintech domain (PulseView, SwissNRI, Obermatt, Opt Alpha). Honest gaps NOT fabricated: primary frontend framework is Vue, NOT React (JD wants deep ReactJS; microfrontends/module-federation/TypeScript are transferable); backend depth is Java/Python rather than Node.js; GraphQL, ReactNative, and native Swift/Kotlin/Kotlin-Multiplatform are not demonstrated; deep web-security specifics (XSS/CSRF) not documented though security-conscious; payments-specific experience is fintech-adjacent, not core payments. Zurich-based; Spanish not held.",
+    "createdAt": "2026-07-15"
+  },
+  "_generatedFile": {
+    "company": "Galileo",
+    "baseName": "principal-engineer",
+    "createdAt": "2026-07-15T15:14:13.109Z",
+    "targetPath": "./generated/Galileo/principal-engineer.json"
+  }
+}

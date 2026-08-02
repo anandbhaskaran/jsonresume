@@ -1,0 +1,344 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Technical Deployment Lead · Forward Deployed Engineering · AI/LLM Delivery, Adoption & ROI · MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Forward deployed engineer who owns AI delivery end to end: I embed with a customer's team, translate business outcomes into a technical plan, and drive 0-to-1 prototypes through MVP to production. Through my practice, Anand Creations, delivery is the job: map the workflow, sequence the work, ship on time, then codify reusable patterns and evals so the next deployment is faster. I run to the metric, not the milestone: at LumApps my agent deployments 2x conversions and forecast $1M in quarterly revenue against baselines and KPIs, reported to C-level; at Beekeeper an LLM pipeline cut $337K in cost. MBA-trained translator between engineers and executives, with sector depth in financial services and comfort embedding onsite with customers.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns AI delivery end to end: translates business goals into a technical plan, ships to production, drives adoption, and reports outcomes to C-level.",
+      "highlights": [
+        "Owned delivery end to end, from discovery to production: translated business goals into a roadmap with milestones and acceptance criteria, and reported ROI to C-level (2x conversions, forecast $1M in quarterly revenue) against baselines and KPIs.",
+        "Drove 0-to-1 agent prototypes through MVP to production (Python, LangGraph, MCP), codifying reusable solution patterns and eval pipelines and feeding field insights back into product strategy.",
+        "Built AI Brain, a knowledge-graph retrieval layer integrating 5+ systems, and led adoption so the agents became part of the daily workflow."
+      ],
+      "keywords": [
+        "Forward Deployed Engineering",
+        "AI/LLM Delivery",
+        "ROI & KPIs",
+        "Evals",
+        "Multi-Agent Systems",
+        "MCP",
+        "LangGraph",
+        "RAG",
+        "GCP",
+        "Adoption",
+        "Python"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who owned delivery and ROI for AI products used by millions, turning one-off wins into reusable patterns and coaching the team around them.",
+      "highlights": [
+        "Delivered an in-house LLM pipeline in 6 weeks with evaluation gates, eliminating $337K in annual vendor cost. Value case, baseline, and measured outcome, not just a ship.",
+        "Turned deployments into operating leverage: a distributed templating engine and reusable module framework now power 15% of all assets created on the platform (10M+ users).",
+        "Co-owned GTM launches with Product and Sales, each instrumented with baselines and KPIs so we knew within a week if it moved the metric. Employee Referral became the top revenue channel ($1.5M+, $500K ARR).",
+        "Hired and mentored the AI engineering cohort and held delivery reliability high (99.99% SLA designs, milestones hit)."
+      ],
+      "keywords": [
+        "Technical Delivery",
+        "ROI & KPIs",
+        "Reusable Patterns",
+        "AWS",
+        "Kubernetes",
+        "Java",
+        "Python",
+        "LangChain",
+        "OpenAI",
+        "Stakeholder Management",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups, advising executives and investors on architecture and AI readiness.",
+      "highlights": [
+        "Advised executives and investors: ran technical discovery across 20+ companies, pattern-matching architecture and AI readiness into go/no-go investment decisions.",
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading systems; advised portfolio companies on AI strategy in financial services."
+      ],
+      "keywords": [
+        "Executive Advisory",
+        "Technical Discovery",
+        "Pattern Recognition",
+        "Financial Services",
+        "AI Strategy"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Took the platform from zero to a partner-ready product under real-world constraints.",
+      "highlights": [
+        "0-to-1 delivery: shipped the platform, real-time APIs, and cloud stack from scratch. 500+ deliveries, 40% faster, 99.5% safety record, zero incidents.",
+        "Delivered enterprise-grade reliability that landed partnerships with Unilever and a showcase at CES Las Vegas."
+      ],
+      "keywords": [
+        "0-to-1 Delivery",
+        "APIs",
+        "AWS",
+        "Python",
+        "Java",
+        "Real-time Systems",
+        "Reliability"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI/ML research at the frontier of robotics, built and scaled on AWS.",
+      "highlights": [
+        "Built Robogen, an open-source ML platform, and migrated the pipeline to AWS for large-scale parallel runs. Secured AWS Cloud Credits for Research; featured on the AWS Public Sector Blog.",
+        "Taught 20+ master's students hands-on: translating a complex system into something others could build with."
+      ],
+      "keywords": [
+        "Machine Learning",
+        "AWS",
+        "Python",
+        "C++",
+        "Open Source"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of delivering a production AI agent: architecture, what worked, and the measured outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Production pitfalls and the fix: verification loops, human-in-the-loop checkpoints, and draft-before-send patterns that keep an agent from shipping wrong actions to customers."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Solution patterns for the memory and retrieval layer: why temporal knowledge graphs beat vector-only RAG, and how to pick a stack for production agents."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "The reasoning loop that agentic solution patterns are built on, made concrete and buildable."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework on turning open-ended AI potential into measurable business outcomes and ROI through systematic delivery and constraint design."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "RoboGen uses AWS and artificial evolution to co-evolve robot bodies and brains, scaling distributed experiments on AWS."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Forward Deployed Engineering"
+    },
+    {
+      "name": "AI Delivery & Evals"
+    },
+    {
+      "name": "Financial Services AI"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent practice: I embed with a customer's team, run technical discovery, and take AI from prototype to production, then distill repeatable patterns, evals, and reference architectures so each deployment is faster than the last.",
+      "highlights": [
+        "Flagship engagement, the GTM AI Brain: a knowledge-graph memory (Graphiti on Neo4j) unifying 5+ systems into one time-aware layer every agent reads and writes, with event-driven ingest over Pub/Sub and a per-agent query and write-back contract."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform (financial services). RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions with citations back to the regulation; compliance-first design with guardrails built before features. Zero-to-MVP in 3 months.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence (financial services) built solo, from agent runtime and market integrations to the web frontend. A multi-agent system that generates trading signals with the evidence chain that justifies them; if the model can't explain a signal, it doesn't ship. Live retail users.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "OpenAI",
+    "jobTitle": "Technical Deployment Lead, Forward Deployed Engineering",
+    "jobUrl": "",
+    "jobDescription": "OpenAI, Model Deployment for Business, Zurich (hybrid, travel up to 50%). The Forward Deployed Engineering team turns research into production systems for customers. As a Technical Deployment Lead (TDL), you own AI delivery end to end (not a management role): translate business outcomes into a technical plan; run day-to-day execution across FDEs, Researchers, and Customer Engineers; embed with customer teams to map workflows and success criteria; ensure components ship on time; lead readiness, adoption, and change management; track progress, manage dependencies, make sequencing and scope trade-offs to protect the critical path; drive 0-to-1 prototypes through MVP to scale; share field insights with Product and Research; codify solution patterns and evals; own value cases and ROI (hypotheses, baselines, KPIs, pre/post measurement, exec reporting). Success is measured first by impact (deployments that deliver measurable value, drive adoption, become critical to workflows), plus delivery reliability, operating leverage (patterns reused across deployments), judgment under pressure, and product impact (field signal that shifts roadmaps). You'll thrive with 7+ years of customer-facing technical delivery leadership; a track record leading large, complex, high-stakes AI engagements; excellence in high-ambiguity environments; fluid movement between system-level understanding and execution detail; strategic pattern-matching; strong technical fluency and sequencing instincts; shipped AI/LLM systems (solution patterns, integration, production pitfalls); executive presence as a translator between technical trade-offs and business leaders; comfort onsite with customers (25-50%); and expertise in at least one major sector (e.g., financial services).",
+    "notes": "Very strong fit: FDE practice (Anand Creations), end-to-end AI delivery with ROI/KPIs and C-level reporting (LumApps), reusable patterns + operating leverage (Beekeeper templating engine, evals), 0-to-1 delivery (Dronistics), executive/investor advisory + pattern-matching (Tenity), MBA translator, and financial-services sector depth (SwissNRI, PulseView, Opt Alpha, Obermatt). Comfortable with 25-50% onsite travel; Zurich-based.",
+    "createdAt": "2026-07-13"
+  },
+  "_generatedFile": {
+    "company": "OpenAI",
+    "baseName": "technical-deployment-lead-forward-deployed-engineering-zurich",
+    "createdAt": "2026-07-13T12:02:01.719Z",
+    "targetPath": "./generated/OpenAI/technical-deployment-lead-forward-deployed-engineering-zurich.json"
+  }
+}

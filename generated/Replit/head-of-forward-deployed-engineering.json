@@ -1,0 +1,341 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Head of Forward Deployed Engineering · AI-Native Delivery & Team Building · Founder · Hands-on Technical Leader",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Forward deployed engineer and technical leader who builds the team and the systems. I run Anand Creations, an FDE practice: I embed with customers, ship production AI inside their environment, and turn what works into reusable capabilities. 13+ years building and leading: I hired and mentored the AI engineering cohort at Beekeeper (deputy tech lead), led 3 teams through a platform revamp, and founded three companies. I use AI agents and modern tooling aggressively to move fast, and I set a high bar: speed, ownership, pragmatism, customer impact.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Senior AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Lead developer for production AI agents. Owns delivery from discovery to production and reports outcomes to C-level.",
+      "highlights": [
+        "Own AI delivery end to end for the business: discovery to production, using AI agents and modern tooling aggressively to move at high velocity. 2x conversions, forecast $1M in quarterly revenue.",
+        "Build production agents (LangGraph, MCP) and codify reference architectures other teams reuse, turning one-off deployments into platform capability.",
+        "Report outcomes to C-level and feed field insights back into product direction."
+      ],
+      "keywords": [
+        "Forward Deployed Engineering",
+        "AI-Native Development",
+        "Multi-Agent Systems",
+        "MCP",
+        "LangGraph",
+        "Reusable Capabilities",
+        "Production Systems",
+        "Python",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who built and grew the AI engineering team, set the bar, and shipped production AI used by millions.",
+      "highlights": [
+        "Hired and mentored the AI engineering cohort (deputy tech lead of FUEL): set the hiring bar and grew engineers who now lead features independently.",
+        "Led 3 teams through a search platform revamp and shipped a distributed templating engine now powering 15% of all platform assets: reusable capability at scale.",
+        "Replaced $337K in annual cost with an in-house LLM pipeline in 6 weeks and shipped AI products used by 10M+ users.",
+        "Co-owned GTM launches with Product and Sales, each instrumented so we could prove customer impact within a week."
+      ],
+      "keywords": [
+        "Technical Leadership",
+        "Hiring & Mentoring",
+        "Team Building",
+        "Production Systems",
+        "Developer Tooling",
+        "AWS",
+        "Kubernetes",
+        "Java",
+        "Python",
+        "LangChain",
+        "OpenAI"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technical authority and mentor for seed-to-VC stage startups and their investors.",
+      "highlights": [
+        "Applied a high technical bar evaluating 20+ companies for investors: talent, architecture, and AI readiness judgment.",
+        "Mentored founding teams and advised on AI strategy and engineering culture that ships."
+      ],
+      "keywords": [
+        "Technical Judgment",
+        "Talent Evaluation",
+        "AI Strategy",
+        "Mentoring",
+        "Architecture Review"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built the platform, APIs, and cloud stack from scratch.",
+      "highlights": [
+        "0-to-1 build in a fast-moving, ambiguous environment: shipped the platform, real-time APIs, and cloud stack from scratch. 500+ deliveries, 99.5% safety record, zero incidents.",
+        "Landed enterprise partnerships (Unilever) and a showcase at CES Las Vegas on reliability built in from day one."
+      ],
+      "keywords": [
+        "0-to-1",
+        "Founding Engineer",
+        "AWS",
+        "APIs",
+        "Production Systems",
+        "Real-time Systems"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2018-07",
+      "summary": "AI/ML research at the frontier of robotics, built and scaled on AWS.",
+      "highlights": [
+        "Built Robogen, an open-source ML platform, and scaled it on AWS. Secured AWS Cloud Credits for Research; featured on the AWS Public Sector Blog.",
+        "Led and taught 20+ master's students hands-on: early practice at raising the technical bar in others."
+      ],
+      "keywords": [
+        "Machine Learning",
+        "AWS",
+        "Python",
+        "C++",
+        "Teaching"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership playbook for assembling and scaling high-performing, high-talent-density engineering teams through clear accountability and a growth-oriented culture."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of taking an AI agent from prototype to production: architecture, evaluation, and outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Architecture guidance for the AI memory and retrieval layer, and how to turn it into a reusable platform capability."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Hands-on tutorial on building ReAct agents: an AI-native development pattern made concrete for other builders."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Talk on shipping fast: lean validation, rapid prototyping, and moving from idea to product in ambiguous environments."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Keynote)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Conference keynote on modular architecture patterns for scalable, team-autonomous development."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI-Native Software Development"
+    },
+    {
+      "name": "Forward Deployed Engineering"
+    },
+    {
+      "name": "Team Building & Hiring"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent FDE practice: I embed with a customer's team, run discovery, and ship production AI inside their environment, then turn repeatable patterns into reusable modules and reference architectures. Flagship: the GTM AI Brain, a knowledge-graph layer every agent shares.",
+      "highlights": [
+        "Operate as a one-person FDE org: discovery to production to reusable capability, using AI agents and automation aggressively to increase leverage, the exact motion this role scales into a team."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built solo with AI-native workflows, from agent runtime and market integrations to the web frontend. A multi-agent system that generates signals with the evidence chain that justifies them; if the model can't explain a signal, it doesn't ship. Live retail users.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - Cross-border Fintech Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform. RAG-grounded assistant answers regulatory questions with citations back to the source; compliance-first design with guardrails built before features. Zero-to-MVP in 3 months.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Replit",
+    "jobTitle": "Head of Forward Deployed Engineering",
+    "jobUrl": "https://replit.com",
+    "jobDescription": "Replit, the agentic software creation platform (millions of users), Worldwide/Remote, $300K-$400K. Head of Forward Deployed Engineering, reporting to the President and Head of AI. Build and lead the FDE org that helps strategic enterprise customers operationalize Replit. FDEs are software engineers who embed with customers to build production systems, deploy AI-native workflows, and turn customer problems into reusable platform capabilities; they are the most advanced users of Replit and AI-native workflows and use AI agents/automation aggressively for leverage. Responsibilities: hire and develop a high-talent-density FDE team; define the hiring bar, operating principles, and execution standards; build a culture of speed, ownership, pragmatism, and customer impact; create systems/tooling to scale without heavy process; work directly with strategic customers (engineering leaders, product, executives); help customers redesign workflows around AI-native software development; lead complex engagements (integrations, infrastructure, agents, automation, internal developer platforms); unblock high-stakes deployments from experimentation to production; lead teams building real applications inside customer environments; drive rapid prototyping; jump into architecture reviews, debugging, live builds; identify repeatable patterns and turn them into reusable platform capabilities; upstream learnings to Product/Engineering; contribute production code, tooling, integrations, reference architectures; partner with Sales/Field Engineering/Product on strategic accounts; act as executive escalation point; help scale enterprise adoption globally. Required: 12+ years in engineering, infrastructure, developer tools, applied AI, or customer engineering; experience leading FDE/Applied AI/Solutions Architecture/Strategic Engineering teams; deep curiosity for AI-native development; experience leading high-performing technical orgs; strong technical judgment credible with senior engineers and executives; shipping production systems in fast-moving environments; product instincts and systems thinking; comfort with ambiguity and minimal process; excellent communication and customer leadership; strong ownership and urgency. Nice to have: AI agents/LLM workflows/developer tooling platforms; Fortune 500 engineering support; startup or founder experience; working with Product to shape roadmap.",
+    "notes": "Strong fit: FDE practice (Anand Creations) is literally this motion; production AI delivery + reusable capabilities (LumApps, Beekeeper templating engine); team building and hiring bar (hired/mentored the AI cohort, deputy tech lead, led 3 teams); founder/0-to-1 (Dronistics + 3 companies); aggressive AI-native tooling use; product instincts (MBA, product owner). Honest stretch: this is a Head-of-org leadership role and the candidate's leadership is at tech-lead / hiring-manager / founder scale rather than having previously run a large FDE organization; 12+ years is met (13+).",
+    "createdAt": "2026-07-13"
+  },
+  "_generatedFile": {
+    "company": "Replit",
+    "baseName": "head-of-forward-deployed-engineering",
+    "createdAt": "2026-07-13T12:45:40.136Z",
+    "targetPath": "./generated/Replit/head-of-forward-deployed-engineering.json"
+  }
+}
