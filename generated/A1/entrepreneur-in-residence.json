@@ -1,0 +1,324 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Entrepreneur & AI Product Builder | 3× Founder | MBA | Startup Mentor & Speaker",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Operator who turns ideas into shipped, revenue-generating products. Founded 3 companies on the side (SwissNRI, Proplab, PulseView) and run Anand Creations, a studio for AI-native products taken from concept to real customers solo. Lead AI Engineer at LumApps reporting directly to C-level, and Startup Mentor at Tenity where I evaluate 20+ startups per year for seed-to-VC decisions. MBA (93.2%), 4 international conference talks, hired and mentored engineers who now lead independently. 13+ years across engineering, product, GTM, hiring, and partnerships (Unilever, CES). High bias to action, high ownership, comfortable with no structure.",
+    "metrics": [
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "20+",
+        "label": "Startups Advised"
+      },
+      {
+        "value": "4",
+        "label": "Conference Talks"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Own AI product transformation end to end, reporting directly to C-level on outcomes, not progress. Multi-agent outbound system shipped to production: 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast: $1M in quarterly revenue.",
+        "Lead technical discovery through production. Cross-functional with Sales, Product, and Ops on rollout, evals, and adoption. Set the AI standards the rest of the org now follows."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Cross-Functional Leadership",
+        "C-Level Reporting",
+        "Multi-Agent Systems",
+        "Production Ownership",
+        "GTM",
+        "Python",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Member of the Technology Evaluation Panel. Evaluated 20+ startups on architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.",
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading; advised multiple portfolio companies on hiring, AI strategy, and building engineering cultures that ship."
+      ],
+      "keywords": [
+        "Startup Evaluation",
+        "VC Advisory",
+        "Founder Coaching",
+        "Hiring",
+        "AI Strategy",
+        "Fintech"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Architected Employee Referral System end to end and ran the GTM with Sales and PM. Became the platform's top revenue channel: $1.5M+ generated, $500K ARR.",
+        "Co-owned cross-functional GTM launches (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Every launch shipped with instrumentation so we knew within a week if it moved the needle.",
+        "Acting hiring manager for AI roles. Hired for craft and curiosity; grew engineers who now lead features independently. Built and mentored the AI engineering cohort.",
+        "Replaced $337K in annual vendor translation costs with an in-house LLM pipeline in 6 weeks. Concept to production, no external gatekeepers."
+      ],
+      "keywords": [
+        "GTM",
+        "Hiring & Team Building",
+        "Cross-Functional Leadership",
+        "Product Ownership",
+        "Revenue Growth",
+        "AI Strategy",
+        "Mentoring"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an autonomous drone delivery startup. Built product, cloud stack, and operator UI from an empty repo to 500+ real-world autonomous deliveries.",
+        "Built external partnerships with Unilever and secured a CES Las Vegas showcase. Turned prototypes into customer-facing narratives that closed the next opportunity."
+      ],
+      "keywords": [
+        "Founding Team",
+        "Partnerships",
+        "New Market Launch",
+        "Product-Market Fit",
+        "Zero-to-One",
+        "Public Speaking"
+      ]
+    },
+    {
+      "name": "Obermatt",
+      "position": "Technical Product Manager (concurrent side role)",
+      "url": "https://obermatt.com/en/home.html",
+      "startDate": "2018-07",
+      "endDate": "2021-01",
+      "highlights": [
+        "Bridged business and engineering to deliver scalable finance products. Built strategic roadmaps that lifted customer satisfaction and retention.",
+        "Directed a remote engineering team; introduced agile practices (productivity up 20%) and CI/CD with Docker (deployment times down 30%)."
+      ],
+      "keywords": [
+        "Product Management",
+        "Remote Team Leadership",
+        "Roadmap & Strategy",
+        "Operations"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Playbook for going from a hunch to a shipped product fast: lean validation, rapid prototyping, killing what does not move the metric."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Strategies for assembling and scaling high-performing teams through psychological safety, clear accountability, and growth-oriented culture."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the Rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for turning open-ended AI potential into measurable business outcomes through constraint design and validation loops."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on the intersection of AI and creativity: how AI augments craft rather than replacing it."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Deep-dive on shipping large frontends as composable, team-autonomous experiences."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of the LumApps production AI agent from prototype to real customers: 2x open rates, 2x approved opportunities."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Founding & Zero-to-One"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "AI & Product Strategy"
+    },
+    {
+      "name": "Community & Public Speaking"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - AI Products & Forward Deployed Engineering",
+      "position": "Founder & Principal Builder",
+      "description": "Independent studio and home for the AI-native products I design, build, and ship on my own (SwissNRI, Proplab, PulseView). Also open to forward-deployed client engagements: embedding with a team, running discovery, shipping production AI end to end.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native platform for Swiss-Indian families, replacing spreadsheets and expensive advisors. RAG-grounded assistant answers DTAA, FEMA, and Swiss tax questions with citations. Zero-to-MVP in 3 months; 40% uplift in user satisfaction. Built the founding team, GTM, and community distribution.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail traders. Built for my own portfolio first, opened to users after self-validation. Live users on real-time feeds; solo end-to-end from concept to shipped product."
+    }
+  ],
+  "_jobApplication": {
+    "company": "A1",
+    "jobTitle": "Entrepreneur in Residence",
+    "jobUrl": "",
+    "jobDescription": "EIR at A1. Work directly with founders on high-priority initiatives across hiring, market expansion, partnerships, operations, and growth. Highly capable generalist, bias to action, high ownership, comfortable with limited structure. Represent A1 at events and communities.",
+    "notes": "Reframed from AI-engineer to founder/generalist. Led with 3 founded companies, MBA, Tenity mentoring/VC advisory, GTM ownership at Beekeeper, Dronistics founding + partnerships (Unilever, CES), Obermatt cross-functional PM role, 4 conference talks for community/public speaking signal.",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "A1",
+    "baseName": "entrepreneur-in-residence",
+    "createdAt": "2026-08-04T19:13:46.669Z",
+    "targetPath": "./generated/A1/entrepreneur-in-residence.json"
+  }
+}

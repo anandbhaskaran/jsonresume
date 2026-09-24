@@ -1,0 +1,337 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "GTM Engineer, Applied AI | Ships AI Into Revenue Systems | HubSpot + Salesforce + Agents | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Applied AI engineer who lives inside the revenue stack. At LumApps I ship the AI-native GTM systems the JD describes: multi-agent workflows over HubSpot, Salesforce and Pendo that 2x outbound conversions and forecast $1M/quarter. I own the data-integrity layer behind them (temporal knowledge graph unifying 5+ silos, freshness checks, evals, cost telemetry). Prior 6 years at Beekeeper covered GenAI demo systems from Salesforce data, LLM pipelines, and co-owning GTM launches with Sales and PM. MBA-trained (Quantic, 93.2%), founder mindset, comfortable being the single accountable owner without a playbook.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead Applied AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Built and shipped AI-native GTM systems: multi-agent workflows over HubSpot, Salesforce and Pendo (Python + LangGraph + Google ADK on GCP) that 2x open rates, 2x approved opportunities, save reps 2 to 3 hours/day, forecast $4M/quarter in opportunities and $1M/quarter in revenue.",
+        "Own the data-integrity layer: designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j unifying 5+ silos (Salesforce, HubSpot, Pendo, transcripts, product usage) into one time-aware source. Freshness checks flag stale fields; ingestion runs event-driven on Pub/Sub.",
+        "Own monitoring on top: eval pipelines (LangSmith), cost-per-request telemetry, tool-selection tuning, on-call for global production. Nothing in this stack needs a human to check by hand."
+      ],
+      "keywords": [
+        "Applied AI",
+        "GTM Systems",
+        "HubSpot",
+        "Salesforce",
+        "Pendo",
+        "Attribution",
+        "AI Agents",
+        "Automation",
+        "Python",
+        "SQL",
+        "REST APIs",
+        "Webhooks",
+        "OAuth",
+        "GCP",
+        "Vertex AI",
+        "LangChain",
+        "LangGraph",
+        "MCP",
+        "LangSmith",
+        "Monitoring"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Built GenAI demo system for Sales: prompts fed by Salesforce data auto-generate per-customer pitch content. Improved demo speed and close rates on real deals. Applied AI to a classic RevOps problem end-to-end.",
+        "Co-owned GTM launches with Sales, PM, and Customer Success (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Each shipped with instrumentation so we knew within a week if it moved the needle. Employee Referral System became top revenue channel ($1.5M+ generated, $500K ARR).",
+        "Replaced $337K in annual vendor translation costs with an in-house Python + OpenAI pipeline shipped in 6 weeks. Diagnosed the recurring spend, decided to automate, built the fix.",
+        "Ran observability and on-call for global production (Grafana, Datadog, Logz.io, Langfuse): dashboards, alerting, pipeline health. Fix-it procedures documented so a break did not require me."
+      ],
+      "keywords": [
+        "GTM Systems",
+        "Salesforce",
+        "Applied AI",
+        "Data Pipelines",
+        "Attribution",
+        "Automation",
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "ClickHouse",
+        "Elastic Search",
+        "REST APIs",
+        "OpenAI",
+        "LangChain",
+        "AWS",
+        "Kubernetes",
+        "Grafana",
+        "Datadog"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Evaluated 20+ startups on architecture, scalability, and AI readiness for seed-to-VC investment decisions. Presented consultant-style recommendations to investment committees.",
+        "Advised portfolio founders on GTM system choices, AI adoption, and building revenue infrastructure that scales."
+      ],
+      "keywords": [
+        "Consultant Communication",
+        "GTM Advisory",
+        "AI Strategy",
+        "Startup Evaluation",
+        "System Selection"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for EPFL spin-off drone delivery. Shipped end-to-end platform (Vue, Java, PostgreSQL, AWS) powering 500+ real-world deliveries. Closed Unilever partnership and CES Las Vegas showcase.",
+        "Owned the full system as single accountable owner: architecture, integrations, data workflows, on-call, and the customer conversations behind them."
+      ],
+      "keywords": [
+        "Single-Owner Systems",
+        "Enterprise Integrations",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "REST APIs",
+        "Real-time Systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on shipping AI into the GTM stack: architecture, agent workflow design, and the outcomes that mattered to the revenue team (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Map of memory and RAG tools for the enterprise AI brain layer: why temporal knowledge graphs beat vector-only RAG for GTM data integrity."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "How verification loops, human-in-the-loop checkpoints, and draft-before-send patterns keep autonomous agents from shipping wrong actions to real customers and prospects."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework talk on turning open-ended AI capability into measurable business outcomes through constraint design and eval-first thinking."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Playbook for hiring and running remote-first teams with psychological safety, clear accountability, and shipping cadence."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Techniques for interpreting embeddings via interactive heatmaps, useful for debugging data pipelines and attribution logic."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI × GTM"
+    },
+    {
+      "name": "Applied AI Systems"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "Founder Community"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed engineering practice: embed with a team, run technical discovery, build the integrations, automations, and agent workflows that make the revenue stack scale. Home for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView).",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax platform for Swiss-Indian families. Ran discovery with real users, built RAG-grounded assistant answering DTAA, FEMA and Swiss tax questions with citations to source regulation. Zero-to-MVP in 3 months, 40% uplift in user satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence platform for retail traders. AI agents generate AND justify trading signals with explainability built in: if the model can't explain the signal, it doesn't ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "TLDR",
+    "jobTitle": "GTM Engineer, Applied AI",
+    "jobUrl": "",
+    "jobDescription": "GTM Engineer, Applied AI at TLDR. Own GTM systems end-to-end (HubSpot admin, attribution, quota, launches, CSAT); own data integrity (pipelines, monitoring, alerting); build automations and agent workflows with monitoring; evaluate net-new systems; bring AI-first lens to RevOps problems. Main background: 4-6 years owning GTM systems at B2B SaaS as single owner. Skills: HubSpot ownership beyond admin, consultant communication, product mindset, root-cause diagnosis, data integrity, AI-first GTM fluency, APIs, SQL. Remote across US/Canada. $175K-$205K + bonus.",
+    "notes": "Location gap acknowledged. Position as AI-first GTM builder shipping AI into HubSpot/Salesforce/Pendo revenue systems today. Lean on LumApps + Beekeeper GenAI demo + Anand Creations FDE.",
+    "createdAt": "2026-08-18"
+  },
+  "_generatedFile": {
+    "company": "TLDR",
+    "baseName": "gtm-engineer-applied-ai",
+    "createdAt": "2026-08-18T14:55:13.538Z",
+    "targetPath": "./generated/TLDR/gtm-engineer-applied-ai.json"
+  }
+}

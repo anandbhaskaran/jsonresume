@@ -1,0 +1,353 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Context Engineer & AI Systems Builder | Writes Prose, Ships Code | 3× Founder | Public Portfolio",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "The prose-and-code combo this role wants. At LumApps I built AI Brain: a temporal knowledge graph unifying 5+ silos into one context pipeline every agent reads and writes. At Beekeeper I shipped an AI Onboarding Specialist that guides every new signup at scale (direct analog to a Wizard-style agent), plus an LLM translation pipeline over docs-as-code (GitHub Actions + OpenAI) that replaced $337K/yr in vendor cost. Public portfolio: blog at anand-creations.com, 4 international conference talks, articles on TowardsAI and Substack, open-source Robogen at EPFL. Opinionated on context windows, harnesses, coding agents, and MCP; author of MCP servers in production.",
+    "metrics": [
+      {
+        "value": "3",
+        "label": "AI Products Founded"
+      },
+      {
+        "value": "4",
+        "label": "Conference Talks"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer (Context & Agents)",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Designed AI Brain, a temporal knowledge graph on Graphiti/Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, product usage) into one time-aware context pipeline every agent reads and writes. Grounds RAG so agents stop hallucinating.",
+        "Built and shipped production multi-agent workflows on Python, LangGraph and Google ADK. Tools exposed over MCP servers I authored, agent state streamed to the UI over AG-UI, evals + LangSmith tracing so every context decision reconstructs from the log. 2x conversions, $1M forecast quarterly.",
+        "Opinionated on context window management, harnesses, and coding agents. Every context change is instrumented; behavior regressions block merge."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "LangGraph",
+        "Google ADK",
+        "MCP (Authored)",
+        "AG-UI",
+        "Context Pipelines",
+        "Knowledge Graphs",
+        "Neo4j",
+        "Graphiti",
+        "RAG",
+        "Evaluation Pipelines",
+        "LangSmith",
+        "Prompt Design",
+        "Coding Agents",
+        "Docs-as-Code"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Built AI Onboarding Specialist that guides every new signup through setup at high-touch scale (direct analog to a Wizard-style onboarding agent). 100% of customers guided without adding headcount.",
+        "Replaced $337K/yr in vendor translation costs with an in-house LLM pipeline shipped in 6 weeks (GitHub Actions + OpenAI, docs-as-code). 12K+ assets translated; product team ships content in new languages without a gatekeeper.",
+        "Designed a distributed templating engine that cut customer setup time 90% and powers 15% of all assets on the platform (10M+ users). Full-stack, Product Owner. Systems thinking end to end.",
+        "Ran observability and global on-call across multiple codebases. Hired and mentored the AI engineering cohort; engineers now lead features independently. Got tagged by other engineers for code review."
+      ],
+      "keywords": [
+        "TypeScript",
+        "Vue",
+        "Node.js",
+        "Java",
+        "Python",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "PostgreSQL",
+        "Elastic Search",
+        "Kafka",
+        "GitHub Actions",
+        "Docs-as-Code",
+        "Onboarding Agents"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at a startup. Shipped full stack (Vue, Java, PostgreSQL, real-time APIs, AWS/Docker/Terraform infra) from empty repo to 500+ real-world deliveries. Multidisciplinary by necessity.",
+        "Built the operator UI and the visual materials partners saw. Explained a complex autonomous system to non-technical customers in every demo."
+      ],
+      "keywords": [
+        "Founding Engineer",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "CI/CD",
+        "Teaching Complex Systems",
+        "Multidisciplinary"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "AI Research Engineer, Teaching Assistant & Open Source Maintainer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Teaching Assistant for Evolutionary Robotics. Supervised 20+ master's students; taught genetic algorithms, neural controllers, and embodied learning hands-on.",
+        "Built and open-sourced Robogen, a platform researchers and students use to design, evolve, and 3D-print real robots. Featured on the AWS Public Sector Blog.",
+        "Wrote documentation, examples, and onboarding materials so the platform outlived my time on the team. Systems thinking about how knowledge outlives its author."
+      ],
+      "keywords": [
+        "Teaching",
+        "Open Source",
+        "Technical Documentation",
+        "C++",
+        "Python",
+        "AWS",
+        "Neural Networks",
+        "Genetic Algorithms",
+        "Webots"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Opinionated take on context and memory for production agents: why temporal knowledge graphs beat vector-only RAG, and how to pick a stack that survives production."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Opinion on agent harnesses: verification loops and HITL patterns that keep an autonomous agent from shipping wrong actions."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Long-form case study of a production agent. Technical writing that teaches through concrete architecture and honest tradeoffs."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Hands-on tutorial series: build an agent from a blank file to a working system. Educational content in exactly the shape this role produces."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical talk explaining a complex distributed architecture through illustrative examples and live demos."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on where AI amplifies craft: writing, prompt design, and content operations."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "How to ship a hunch fast: rapid iteration, killing what does not move the metric."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "Feature on Robogen, my open-source EPFL work. External proof of technical writing that other people found valuable."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Context & Memory Systems"
+    },
+    {
+      "name": "Docs-as-Code"
+    },
+    {
+      "name": "Coding Agents & MCP"
+    },
+    {
+      "name": "Teaching Through Building"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - AI Products, Blog & Forward Deployed Engineering",
+      "position": "Founder & Principal Builder",
+      "description": "Independent studio, technical blog, and home for 3 AI-native products I design, build, and ship on my own (SwissNRI, Proplab, PulseView). Public writing on context engineering, memory, and agent reliability at anand-creations.com/blog.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time AI agents that generate AND justify trading signals. Live users on real-time feeds; explainability and evals baked in. Every signal shipped with the context that produced it.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI-Native Property Workflows",
+      "position": "Founder & AI Product Builder",
+      "description": "Vision pipeline turns inspection photos into structured, queryable records; LLM agents compose multilingual listings end to end. Structured context in, natural language out.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "PostHog",
+    "jobTitle": "Context Engineer",
+    "jobUrl": "",
+    "jobDescription": "Context Engineer on the Wizard & Docs team at PostHog. Prose + code combo: build agents (AI Wizard onboarding), harnesses, MCP servers, context pipelines; maintain knowledge bases; create technical content; ship production code across multiple codebases.",
+    "notes": "STRONG FIT. Direct hits: LumApps AI Brain = context pipeline; Beekeeper AI Onboarding Specialist = literal AI Wizard analog; LLM translation pipeline = docs-as-code + LLM; blog + 4 talks + TowardsAI + Substack = content portfolio; EPFL TA + Robogen open source = teaching + open source; MCP servers authored at LumApps. LumApps re-titled 'Lead AI Engineer (Context & Agents)'; EPFL re-titled to lead with Teaching Assistant. Publications lead with 'Your AI Needs a Brain' (direct opinion on context).",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "PostHog",
+    "baseName": "context-engineer",
+    "createdAt": "2026-08-04T21:28:25.450Z",
+    "targetPath": "./generated/PostHog/context-engineer.json"
+  }
+}

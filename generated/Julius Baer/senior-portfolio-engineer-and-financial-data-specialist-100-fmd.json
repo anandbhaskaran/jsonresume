@@ -1,0 +1,298 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Investor & AI Engineer | 22% CAGR (USD) / 13 Years | Financial Time-Series, Portfolio Construction, Production Data Pipelines",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "13+ years as a self-directed investor with a 22% CAGR (USD) track record built on bottom-up, hypothesis-driven analysis, disciplined portfolio construction and pre-defined risk sizing. Founder of PulseView, a production AI market-intelligence platform that ingests, cleans and normalizes technical and news-based financial time series, computes indicators and generates justified trading signals for a live user base. 13+ years of production data engineering (PostgreSQL, Kafka, ClickHouse, Elastic Search) at Beekeeper and LumApps, including LLM pipelines shipped in 6 weeks that saved $337K. Joining Julius Baer to own the financial time-series backbone of the CIO Office and bring AI leverage to portfolio simulations, index maintenance and UHNW mandate analytics.",
+    "metrics": [
+      {
+        "value": "22%",
+        "label": "CAGR (USD) / 13Y"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "highlights": [
+        "Architected AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ upstream data feeds (CRM, transcripts, product usage) into one time-aware store with per-consumer read/write contracts and a freshness layer that flags stale facts. Same discipline required for a curated financial time-series database.",
+        "Built event-driven ingest over Pub/Sub with automated cleaning, deduplication and versioning; production observability, cost-per-request telemetry and on-call ownership. Directly transferable to maintaining and automating market-data feed processes.",
+        "Ship quantitative decision-support agents (Python, LangGraph on Vertex AI) that turn raw data into on-demand analyses for internal stakeholders; 2x conversions, $1M/quarter revenue forecast. Report to C-level on outcomes."
+      ],
+      "keywords": [
+        "Python",
+        "Time-Series Data",
+        "Data Pipelines",
+        "Pub/Sub",
+        "PostgreSQL",
+        "Knowledge Graphs",
+        "Neo4j",
+        "Graphiti",
+        "Vertex AI",
+        "Observability",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Owned production data infrastructure on AWS: PostgreSQL, Kafka pipelines, Elastic Search and ClickHouse for high-volume time-series and analytics on 10M+ user events. Downloaded, cleaned, stored and distributed data across dozens of consumers with strict reliability SLAs.",
+        "Replaced $337K in annual vendor cost with an in-house LLM pipeline shipped in 6 weeks. Rigorous cost analysis, ruthless prioritization, measurable payback. Same lens I apply to portfolio positions.",
+        "Architected the Employee Referral System end-to-end (99.99% SLA, $1.5M+ revenue, $500K ARR) and led the Search Platform revamp across 3 teams: redesigned indexing and ranking to distil large, noisy signal sets into decision-ready output.",
+        "Ran observability, on-call and Grafana / Datadog dashboards for global production systems; mentored the AI engineering cohort; presented outcomes to Product, Sales and CIO."
+      ],
+      "keywords": [
+        "PostgreSQL",
+        "Kafka",
+        "Elastic Search",
+        "ClickHouse",
+        "Python",
+        "Java",
+        "AWS",
+        "Kubernetes",
+        "SQL",
+        "Time-Series",
+        "ETL",
+        "Grafana",
+        "Datadog",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production. Direct exposure to buy-side execution constraints, alpha decay, market microstructure and low-latency data infrastructure.",
+        "Technology evaluation panelist for 20+ fintech and AI startups: business models, moats, data architecture and ESG readiness to inform seed-to-VC investment decisions."
+      ],
+      "keywords": [
+        "Algorithmic Trading",
+        "Buy-Side",
+        "Market Microstructure",
+        "Fintech",
+        "Investment Due Diligence",
+        "Portfolio Analysis"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at an EPFL spin-off. Built the end-to-end platform (Vue/Java/PostgreSQL) that ran 500+ real-world deliveries and enabled partnerships with Unilever plus a CES showcase.",
+        "Engineered real-time telemetry, flight-control APIs and logistics optimization: 40% faster deliveries, 99.5% safety record, zero incidents. Practitioner-level comfort with real-time data streams and optimization under constraints."
+      ],
+      "keywords": [
+        "Real-Time Systems",
+        "PostgreSQL",
+        "AWS",
+        "Terraform",
+        "Optimization",
+        "Docker",
+        "CI/CD",
+        "Java"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Reference guide to memory and RAG for the AI brain layer: temporal knowledge graphs vs vector-only RAG, and how to build a living, time-stamped data backbone for analytical agents."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on building a production AI agent that delivered measurable outcomes. Same playbook I would apply to Investment Committee simulation and analytics agents."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Data visualization methodology for interpreting high-dimensional data through heatmaps. Same approach translates to visualizing cross-asset correlation, factor loadings and risk exposures."
+    },
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "AWS reference architecture for a low-latency, scalable service using cloud-native patterns. Demonstrates the plumbing discipline behind reliable production data services."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Portfolio Construction & Risk"
+    },
+    {
+      "name": "Financial Data Engineering"
+    },
+    {
+      "name": "Fundamental & Value Investing"
+    },
+    {
+      "name": "AI for Investment Research"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - Production Financial Time-Series & Signals Platform",
+      "position": "Founder & Builder",
+      "description": "AI-native market intelligence platform I designed, built and run for live retail users. Automated ingest, cleaning and storage of price and news time series from multiple providers; deduplication, corporate-action handling and index-level normalization built in. Downstream: technical indicator computation, signal generation and an agent layer that justifies every signal with cited evidence (if the model cannot explain the signal, it does not ship). Explainability, evaluation and back-testing baked in. A working prototype of the kind of proprietary financial-data tooling the CIO Office maintains.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Personal Investing Track Record - 22% CAGR (USD), 13 Years",
+      "position": "Self-Directed Investor",
+      "description": "13+ years managing my own multi-asset portfolio using a bottom-up, quality-at-a-reasonable-price approach with disciplined position sizing and drawdown control. 22% CAGR in USD terms, benchmark-beating across multiple cycles. Every position is underwritten with a written thesis on business model, moat, unit economics, capital allocation and ESG risk, with pre-defined invalidation triggers. Direct proof of portfolio construction, risk sizing and quantitative thinking applied to real capital.",
+      "startDate": "2012-01-01"
+    },
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent FDE practice building proprietary AI and data tools for teams that want leverage. Runs technical discovery, ships production agents with evaluations and observability, and stays accountable to the metric. Same operating model I would bring to the CIO Office's proprietary toolchain: own it, automate it, keep improving it.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Julius Baer",
+    "jobTitle": "Senior Portfolio Engineer and Financial Data Specialist, 100% (f/m/d)",
+    "jobUrl": "",
+    "jobDescription": "Julius Baer Investment Risk & Portfolio Engineering team, CIO Office. Owns the financial time-series database and data feed processes; provides quantitative analysis to the Investment Committee; delivers strategic asset allocation and quant analyses for UHNW bespoke mandates. Requires 5+ years financial market data experience, MATLAB or similar, German or French.",
+    "notes": "Non-traditional application. Sells the vision (13-year personal investor with 22% CAGR + PulseView as production financial-data platform + deep production data engineering track record) rather than fitting the JD line by line. Missing hard requirements: German/French, formal FS market-data experience, MATLAB (Python/SQL/Kafka/PostgreSQL stack instead).",
+    "createdAt": "2026-08-17"
+  },
+  "_generatedFile": {
+    "company": "Julius Baer",
+    "baseName": "senior-portfolio-engineer-and-financial-data-specialist-100-fmd",
+    "createdAt": "2026-08-17T09:50:33.274Z",
+    "targetPath": "./generated/Julius Baer/senior-portfolio-engineer-and-financial-data-specialist-100-fmd.json"
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Founding Engineer | Full-Stack + AI | PropTech Builder | 3x Founder",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Founding engineer by instinct. Built Dronistics from zero (Vue/Java/PostgreSQL/AWS) that shipped 500+ real-world drone deliveries, and currently building Proplab, an AI-native PropTech MVP for property inspections. 13+ years shipping production systems to 10M+ users: architecture, APIs, databases, AI pipelines, on-call. At LumApps I ship production AI agents on Python and FastAPI with OpenAI, MCP tools, and Stripe-style third-party integrations. Zurich-based, remote-native, product-obsessed, and fastest at zero-to-one.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Built and shipped production AI agent workflows on Python, FastAPI, LangGraph and Google ADK over GCP Vertex AI, with tools exposed over MCP and state streamed to the UI over AG-UI. Automates outbound sales end to end: 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day, $1M forecast in quarterly revenue.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, transcripts, product usage) into one time-aware memory every agent reads and writes. Event-driven ingest over Pub/Sub, integrations across the ecosystem.",
+        "Own the platform end to end: agent architecture, eval pipelines, tracing (LangSmith), cost-per-request instrumentation, and on-call for global production. Report directly to C-level on outcomes."
+      ],
+      "keywords": [
+        "Python",
+        "FastAPI",
+        "TypeScript",
+        "GCP",
+        "OpenAI",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "Multi-Agent Systems",
+        "RAG",
+        "PostgreSQL",
+        "Docker",
+        "GitHub Actions",
+        "Neo4j",
+        "Third-party Integrations"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Architected Employee Referral System end to end (Java, Vue, PostgreSQL, Elastic Search on Kubernetes). Became the platform's top revenue channel: $1.5M+ revenue, $500K ARR. Designed for 99.99% SLA, integrated with third-party job boards for automatic scraping.",
+        "Replaced a $337K annual vendor translation contract with an LLM pipeline (GitHub Actions + OpenAI APIs) shipped in 6 weeks. 12K+ assets translated, product team iterates without external gatekeepers.",
+        "Designed distributed templating engine on Java and Kafka that cut customer setup time 90%. Powers 15% of all platform assets for 10M+ users. Zero-to-live in minutes, not days.",
+        "Ran observability and global on-call (Grafana, Datadog, Logz.io): logs, metrics, dashboards, alerting. Diagnosed and fixed production issues across service, DB, and infra layers."
+      ],
+      "keywords": [
+        "Java",
+        "Python",
+        "TypeScript",
+        "Vue",
+        "React",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "PostgreSQL",
+        "Elastic Search",
+        "Kafka",
+        "ClickHouse",
+        "Docker",
+        "GitHub Actions",
+        "System Design",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an EPFL spin-off. Shipped the full autonomous drone delivery platform (Vue/Java/PostgreSQL) that powered 500+ real-world last-mile deliveries. Built the stack from scratch: APIs, DBs, real-time flight control, dashboards.",
+        "Built AWS infrastructure and CI/CD pipeline from scratch. Enterprise-grade reliability that enabled a Unilever partnership and a CES Las Vegas showcase. 40% faster deliveries, 99.5% safety record, zero incidents."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Real-time Systems",
+        "Third-party Integrations",
+        "Zero-to-One Product"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of building and shipping a production AI agent end to end: architecture, integrations, evals, and real-world outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Map of the memory and RAG tools building the AI brain layer for agents in production."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive on how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology for accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making."
+    },
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Architecture guide for implementing an enterprise-grade URL shortener using infrastructure-as-code and cloud-native scalability patterns."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "How verification loops, human-in-the-loop checkpoints, and draft-before-send patterns keep an autonomous agent from shipping wrong actions to real customers."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Product Building"
+    },
+    {
+      "name": "Zero-to-One Products"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Proplab - AI for Real Estate (PropTech)",
+      "position": "Founder & AI Product Builder",
+      "description": "Property inspections run on paper, clipboards, and WhatsApp photos. Built an AI-native MVP: vision pipeline extracts structured signals (room type, condition, defects) from inspection photos, replacing paper-based reports with queryable, AI-readable data. LLM agents then turn those records into multilingual, marketing-ready property listings end-to-end. One workflow from photo capture to published listing, zero copy-paste.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal",
+      "description": "My independent practice and the home for AI products I design, build, and run myself (Proplab, PulseView, SwissNRI). Same playbook: pick the wedge, ship the MVP fast, wire in evals and telemetry, learn from real users, and compound.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail traders. AI agents generate AND justify trading signals from technical and news data. Built for my own portfolio first, then opened to live users. If the model can't explain the signal, it doesn't ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "The Flex",
+    "jobTitle": "Founding Software Engineer",
+    "jobUrl": "",
+    "jobDescription": "Founding Software Engineer at The Flex, building Base360.ai, the operating system for modern renting. Full-stack + AI + integrations role: bookings, pricing, payments, ops, guest comms, powered by AI workflows and third-party integrations (Airbnb, Hostaway, Stripe, Twilio, Google, OpenAI). Stack: Python, FastAPI, React, TypeScript, Supabase, PostgreSQL, AWS, OpenAI, Stripe, Twilio, Docker, GitHub Actions. Must have: strong SWE fundamentals, production-grade apps, APIs/DBs/system design, product mindset, ownership, independent work. Bonus: startup exp, AI/LLM, SaaS, FastAPI/React/AWS/Supabase, marketplace/travel/PropTech. Remote-first. Report to founder.",
+    "notes": "",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "The Flex",
+    "baseName": "founding-software-engineer",
+    "createdAt": "2026-08-04T20:04:43.864Z",
+    "targetPath": "./generated/The Flex/founding-software-engineer.json"
+  }
+}

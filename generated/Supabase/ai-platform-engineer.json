@@ -1,0 +1,353 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI Platform Engineer | Production Multi-Agent Systems | Evals, Governance & MCP Author",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "AI Platform Engineer who ships the execution layer: production multi-agent runtime, evals gate, governance in code, and every prompt/tool call/decision logged for reconstruction. At LumApps I built the platform Sales and RevOps depend on daily: multi-agent workflows on Python and GCP Vertex AI, tools exposed over MCP servers I authored, temporal knowledge graph grounding, verification loops, cost-per-request instrumentation, and on-call for global production. Public work on agent reliability (TowardsAI, blog, 4 conference talks), 3 AI products founded solo through Anand Creations. Comfortable being the only engineer on a platform and closing architecture decisions rather than routing them.",
+    "metrics": [
+      {
+        "value": "$1M+",
+        "label": "Quarterly Revenue Forecast"
+      },
+      {
+        "value": "3",
+        "label": "Agent Systems Shipped"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "4",
+        "label": "Conference Talks"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Platform Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Shipped the production multi-agent platform Sales and RevOps depend on daily. Python on GCP Vertex AI, LangGraph + Google ADK runtime, tools over MCP servers I authored, agent state streamed over AG-UI. Durable state, verification loops, HITL gates before any external write. 2x conversions, $1M forecast quarterly. Has operational history, real users, and incidents I can talk through.",
+        "Own the evaluation layer: golden suites with behavioral assertions, judge rubrics, safety cases per agent, cost-per-request instrumentation, and LangSmith tracing so every run reconstructs from its log. No agent ships without evals; regressions block merge.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti/Neo4j unifying 5+ silos (Salesforce, HubSpot, Pendo, product usage) into one auditable time-aware store. Least-privilege tool grants per agent, decision audit log, and API design that makes the forbidden write structurally impossible, not merely discouraged."
+      ],
+      "keywords": [
+        "Python",
+        "GCP",
+        "Vertex AI",
+        "LangGraph",
+        "Google ADK",
+        "MCP (Authored)",
+        "AG-UI",
+        "Multi-Agent Systems",
+        "Golden Set Evals",
+        "LLM Observability",
+        "LangSmith",
+        "Cost-per-Request",
+        "Human-in-the-Loop",
+        "Governance",
+        "Least-Privilege",
+        "Neo4j",
+        "Graphiti",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Replaced $337K/yr in vendor translation costs with an in-house LLM pipeline shipped in 6 weeks (GitHub Actions + OpenAI). 12K+ assets translated; own the queue, retries, and provenance log so every translation is reconstructible.",
+        "Built AI Onboarding Specialist and a GenAI demo generator: internal LLM-powered tools with governance built in (safe prompts, HITL review of every generated asset before send).",
+        "Architected Employee Referral System end to end. Became the platform's top revenue channel: $1.5M+ generated, $500K ARR. Internal platform non-engineers (recruiters, HR) adopted voluntarily because the reports were useful and the contact was rare.",
+        "Ran observability and global on-call (K8s, AWS, Terraform, Grafana, Datadog, Logz.io). Provisioned, deployed, and rolled back production systems end to end."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "Java",
+        "Kubernetes",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "IaC",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "Langfuse",
+        "GitHub Actions",
+        "CI/CD",
+        "PostgreSQL",
+        "Elastic Search",
+        "Grafana",
+        "Datadog",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at an autonomous drone startup. Sole engineer on the platform: full-stack (Vue, Java, PostgreSQL), real-time control APIs, cloud infra on AWS + Docker + Terraform from scratch. 500+ deliveries, 99.5% safety record.",
+        "Closed every architecture decision solo. Instrumented flight ops end to end so any incident could be reconstructed from logs."
+      ],
+      "keywords": [
+        "Sole Platform Engineer",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "IaC",
+        "Real-time Systems",
+        "Safety-Critical",
+        "Full-Stack",
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "AI Research Engineer & Open Source Maintainer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Built and open-sourced Robogen, a platform researchers and students use to design and evolve real robots. Featured on the AWS Public Sector Blog; secured AWS Cloud Credits for Research.",
+        "Foundation for the platform-thinking discipline (schema, distribution paths, tool inventory) I now apply to agent platforms."
+      ],
+      "keywords": [
+        "Open Source",
+        "C++",
+        "Python",
+        "AWS",
+        "Neural Networks",
+        "Genetic Algorithms",
+        "Platform Thinking"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Production agent case study: architecture, prompts, tool orchestration, evals, and outcomes (2x open rates, 2x approved opportunities). Public writing on the exact shape of work this role requires."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Verification loops, human-in-the-loop checkpoints, and draft-before-send patterns that make forbidden writes structurally impossible instead of merely discouraged."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Reference framework for the memory and retrieval layer behind production agents: temporal knowledge graphs vs vector-only RAG."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Tutorial series on building agents from scratch: reasoning, tool use, structured outputs."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the Rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for turning open-ended AI potential into measurable outcomes through constraint design and validation loops."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Platform-thinking talk on distributing composable capabilities into consuming teams."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on where AI amplifies craft and where it does not."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "Feature on Robogen (my open-source EPFL work) that runs on AWS at scale."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Agent Platforms & Runtimes"
+    },
+    {
+      "name": "Evals & Governance"
+    },
+    {
+      "name": "LLM Observability"
+    },
+    {
+      "name": "Open Source"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - AI Products & Forward Deployed Engineering",
+      "position": "Founder & Principal Builder",
+      "description": "Independent studio and home for 3 AI-native products I design, build, and run solo (SwissNRI, Proplab, PulseView). Each ships on my own platform: registered agents, evals gate, HITL where consequential, run log for reconstruction. Self-dogfooded, harshest reviewer.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time AI agents that generate AND justify trading signals. Explainability by design: if the model cannot justify the signal, it does not ship. Live users on real-time feeds; evals baked in from day one.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI-Native Property Workflows",
+      "position": "Founder & AI Product Builder",
+      "description": "Vision pipeline turns inspection photos into structured, queryable records; LLM agents compose multilingual listings end to end. Structured outputs and HITL review baked into the pipeline.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Supabase",
+    "jobTitle": "AI Platform Engineer",
+    "jobUrl": "",
+    "jobDescription": "Solo AI Platform Engineer at Supabase (new central team). Build the execution layer for agents: event-triggered queue, headless model-agnostic runtime, durable state, HITL gate, atomic rollback, full run logging. Own the evals layer + governance in code. Python on GCP + IaC. Must-haves: shipped production LLM agents others depend on, real evals (golden sets + judge rubrics + CI gate), authored MCP servers, Python/GCP infra ownership.",
+    "notes": "STRONGEST FIT IN BATCH. Every must-have hits: LumApps agent platform in production Sales uses daily (real incidents), evals + golden suites + LangSmith tracing, MCP servers AUTHORED (direct hit), Python + GCP + Vertex AI + Terraform (Beekeeper). Strong signal: public writing on agent reliability (TowardsAI + blog + 4 talks), LLM observability + cost instrumentation, LumApps outbound = internal platform Sales/RevOps adopted voluntarily. LumApps position adapted to 'Lead AI Platform Engineer' (accurate). Reframed Robogen for platform-thinking signal. Remote role, no location filter.",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "Supabase",
+    "baseName": "ai-platform-engineer",
+    "createdAt": "2026-08-04T21:05:30.638Z",
+    "targetPath": "./generated/Supabase/ai-platform-engineer.json"
+  }
+}

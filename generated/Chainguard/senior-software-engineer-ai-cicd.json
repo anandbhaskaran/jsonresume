@@ -1,0 +1,298 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Software Engineer | AI × CI/CD | Containers, Kubernetes, GitHub Actions",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Senior engineer building at the intersection of AI and CI/CD in production. At Beekeeper I shipped an LLM pipeline on GitHub Actions in 6 weeks that replaced a $337K annual vendor and now translates 12K+ assets. At LumApps I run production multi-agent systems on GCP with tools exposed over MCP, evals, and cost telemetry. 13+ years shipping to 10M+ users on Docker, Kubernetes, and modern CI/CD (Jenkins, GitHub Actions). Comfortable owning features end to end, working directly with Product, and picking up new stacks quickly (Go included).",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Built production multi-agent workflows (Python, LangGraph, Google ADK on GCP Vertex AI) with tools exposed over MCP and state streamed to the UI. Directly parallel to the agent skills / agentic foundation Chainguard is extending into customer-facing products.",
+        "Own the AI platform end to end: architecture, eval pipelines, LangSmith tracing across model, orchestration, and infra layers, cost-per-request telemetry, and on-call. Same discipline the AI × CI/CD role needs to ship reliably.",
+        "Report directly to C-level on outcomes. 2x open rates, 2x approved opportunities, $1M forecast in quarterly revenue on the outbound product built on this platform."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "GCP",
+        "Multi-Agent Systems",
+        "MCP",
+        "Agent Skills",
+        "LangGraph",
+        "Google ADK",
+        "RAG",
+        "Evaluation Pipelines",
+        "Observability",
+        "Cost Instrumentation",
+        "Docker",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Shipped an LLM pipeline on GitHub Actions + OpenAI APIs in 6 weeks that replaced a $337K annual vendor. 12K+ assets translated on every merge; hardened workflow that product engineers extend without breaking.",
+        "Ran production on Docker + Kubernetes (AWS EKS) for 10M+ users. Owned Jenkins → GitHub Actions migration, containerized services, and the CI/CD pipeline for critical release paths. Enforced comprehensive unit, integration, and E2E test coverage.",
+        "Architected Employee Referral System end to end (Java, PostgreSQL, Elastic Search on Kubernetes). Became the platform's top revenue channel: $1.5M+ revenue, $500K ARR at 99.99% SLA.",
+        "Ran observability and global on-call (Grafana, Datadog, Logz.io, Langfuse for LLM traces). Diagnosed and triaged incidents across container, service, and infra layers."
+      ],
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "AWS EKS",
+        "GitHub Actions",
+        "Jenkins",
+        "CI/CD",
+        "Java",
+        "Python",
+        "TypeScript",
+        "PostgreSQL",
+        "Elastic Search",
+        "Kafka",
+        "OpenAI",
+        "LangChain",
+        "Langfuse",
+        "Grafana",
+        "Datadog",
+        "Incident Triage",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an EPFL spin-off. Shipped the full autonomous drone delivery platform (Vue/Java/PostgreSQL, containerized on Docker) that powered 500+ real-world deliveries.",
+        "Built AWS infrastructure and CI/CD pipeline from scratch (Docker, Terraform for IaC). Enterprise-grade reliability that enabled a Unilever partnership and a CES showcase."
+      ],
+      "keywords": [
+        "Docker",
+        "AWS",
+        "Terraform",
+        "Infrastructure as Code",
+        "CI/CD",
+        "Java",
+        "Vue",
+        "PostgreSQL",
+        "Zero-to-One Product"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on shipping a production agent end to end: architecture, evals, tracing, cost trade-offs, and what actually moved the metric (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Map of memory and RAG tools for the AI brain layer. How to pick the right retrieval and memory stack for agents in production."
+    },
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Architecture guide for a production-grade backend service using containers, infrastructure-as-code, and cloud-native scalability patterns."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Deep-dive on Module Federation + TypeScript patterns for team-autonomous delivery in enterprise apps."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Verification loops, human-in-the-loop checkpoints, and draft-before-send patterns that keep autonomous agents safe in production."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI × Developer Tooling"
+    },
+    {
+      "name": "Software Supply Chain Security"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed AI Practice",
+      "position": "Founder & Principal",
+      "description": "My independent AI practice and the home for AI products I ship myself (PulseView, Proplab, SwissNRI). Every backend, container image, CI pipeline, and observability layer shipped solo. Same rigor I bring to team production work.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail traders. TypeScript across the stack, containerized services, event-driven ingest from live technical and news feeds. Explainability built into the eval loop: if the model can't justify the signal, it doesn't ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & AI Product Builder",
+      "description": "AI-native MVP for property inspections. Vision pipeline extracts structured signals from photos; LLM agents turn records into multilingual, marketing-ready listings end to end. Shipped on containerized services with modern CI/CD.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Chainguard",
+    "jobTitle": "Senior Software Engineer, AI CICD",
+    "jobUrl": "",
+    "jobDescription": "Senior Software Engineer, AI CICD at Chainguard (secure software supply chain, hardened OSS builds). Small fast team shipping AI × security products: Guardener, hardened GitHub Actions, Chainguard Agent Skills. Own features end to end with Product + front-end team. Extend Chainguard's agentic AI foundation into customer-facing products. Must: 5+ years SWE, containers/artifact registries/Docker/Kubernetes ecosystem, CI/CD systems, Go (or ramp fast), AI tooling. Bonus: strong Product collaboration, autonomy.",
+    "notes": "No Go experience (primary: Java, Python, TypeScript). JD says 'or strong readiness to ramp quickly' so not a hard gate. Strong overlap on containers/K8s/CI-CD (Beekeeper), GitHub Actions + AI pipelines (Beekeeper LLM pipeline), MCP + agents + agent-skills-adjacent work (LumApps), IaC + Docker (Dronistics).",
+    "createdAt": "2026-08-05"
+  },
+  "_generatedFile": {
+    "company": "Chainguard",
+    "baseName": "senior-software-engineer-ai-cicd",
+    "createdAt": "2026-08-06T09:00:06.909Z",
+    "targetPath": "./generated/Chainguard/senior-software-engineer-ai-cicd.json"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Applied AI Engineer | LLM Ops & Platform Infrastructure | Python + TypeScript",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Applied AI engineer with a platform bias. At LumApps I built the shared AI substrate the rest of the org now builds on: AI Brain (a temporal knowledge graph every agent reads and writes), eval pipelines, LangSmith tracing, and cost-per-request instrumentation across production multi-agent workflows. 13+ years shipping backend systems and developer tooling to 10M+ users, most recently in Python and TypeScript. I think in trade-offs (reliability, latency, cost, quality, maintainability) and I like making other engineers faster more than I like shipping single features.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer (Platform & Applied AI)",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Own the LLM Ops layer for production agents: eval pipelines, LangSmith tracing, cost-per-request instrumentation, tool-selection tuning, verification loops, and on-call. Same platform other product teams now build on top of.",
+        "Built AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ silos into one time-aware memory every agent reads and writes. Event-driven ingest over Pub/Sub, per-agent query and write-back contracts, freshness layer for stale-fact detection. Reusable across the platform.",
+        "Shipped the reference multi-agent workflow (Python, LangGraph, Google ADK on GCP Vertex AI, tools over MCP, state streamed to the UI over AG-UI): 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day, $1M forecast in quarterly revenue."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "LLM Ops",
+        "ML Ops",
+        "GCP",
+        "Vertex AI",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "Evaluation Pipelines",
+        "LangSmith",
+        "Observability",
+        "Cost & Latency Tuning",
+        "RAG",
+        "Vector Databases",
+        "Knowledge Graphs",
+        "Neo4j",
+        "FastAPI"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead, Platform)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Designed a distributed templating engine (Java, Kafka) that cut customer setup time 90% and now powers 15% of all assets for 10M+ users. Reusable platform primitive other product teams standardize on.",
+        "Replaced a $337K annual vendor translation contract with an in-house LLM pipeline (GitHub Actions + OpenAI APIs) shipped in 6 weeks. 12K+ assets translated, product team iterates without external gatekeepers.",
+        "Ran observability and global on-call (Grafana, Datadog, Logz.io, Langfuse for LLM traces): logs, metrics, dashboards, alerting. Diagnosed and fixed production issues across model, service, and infra layers.",
+        "Built and mentored the AI engineering cohort. Wrote the internal patterns, review bar, and eval tooling other engineers now reuse when shipping AI features independently."
+      ],
+      "keywords": [
+        "Java",
+        "Python",
+        "TypeScript",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "Langfuse",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "ClickHouse",
+        "Grafana",
+        "Datadog",
+        "GitHub Actions",
+        "Developer Tooling",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an EPFL spin-off. Shipped the full autonomous drone delivery platform (Vue/Java/PostgreSQL) that powered 500+ real-world deliveries.",
+        "Built cloud infrastructure and CI/CD pipeline from scratch on AWS. Enterprise-grade reliability that enabled a Unilever partnership and a CES showcase."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Real-time Systems",
+        "Platform APIs"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Map of the memory and RAG tools for the AI brain layer: temporal knowledge graphs vs vector-only RAG, and how to pick the right retrieval stack for agents in production."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on shipping a production AI agent end to end: architecture, evals, tracing, and cost trade-offs (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "How verification loops, human-in-the-loop checkpoints, and draft-before-send patterns keep an autonomous agent from shipping wrong actions to real users."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Deep-dive on how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity, the same pattern for AI platform componentization."
+    },
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Architecture guide for a production-grade shared service using infrastructure-as-code and cloud-native scalability patterns."
+    }
+  ],
+  "interests": [
+    {
+      "name": "LLM Ops & Developer Platforms"
+    },
+    {
+      "name": "Knowledge Graphs & RAG"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed AI Practice",
+      "position": "Founder & Principal",
+      "description": "My independent AI practice and the home for AI products I ship myself (SwissNRI, Proplab, PulseView). Same LLM Ops discipline I bring to platform work: prompt versioning, eval loops, RAG grounding, tracing, cost-per-request telemetry, whether the customer is mine or someone else's team.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail traders. AI agents generate AND justify trading signals from technical and news data. Explainability built into the eval stack: if the model can't justify the signal, it doesn't ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform. RAG-grounded assistant with citations back to the regulation; compliance-first agentic guardrails built before features. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Zapier",
+    "jobTitle": "Applied AI Engineer",
+    "jobUrl": "",
+    "jobDescription": "Applied AI Engineer on Zapier's AI Platform team. Build shared infrastructure for AI/ML development across the company: LLM proxy server, observability tooling, ML Ops platform, evaluation workflows, operational tooling. Highly leveraged, developer-experience-focused. Improve how models are accessed, monitored, evaluated, deployed, governed, and operated. Trade-off thinking: reliability, latency, cost, quality, maintainability. Stack: TypeScript + Python, typed languages, modern backend. Wants 4+ years SWE with production AI/ML systems, 1+ year LLM Ops or ML Ops or adjacent platform work, backend/dev-tooling/internal-platform experience, full ML/LLM lifecycle. Remote-first (Zapier).",
+    "notes": "",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "Zapier",
+    "baseName": "applied-ai-engineer",
+    "createdAt": "2026-08-04T20:53:00.594Z",
+    "targetPath": "./generated/Zapier/applied-ai-engineer.json"
+  }
+}

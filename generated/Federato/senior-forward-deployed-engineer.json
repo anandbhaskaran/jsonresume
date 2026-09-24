@@ -1,0 +1,342 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Forward Deployed Engineer | AI-Native Delivery | Python, JavaScript, SQL | Ships to Prod, Not Slides",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Forward deployed engineer with 13+ years shipping software the customer actually uses. At LumApps I lead technical discovery through production for a global SaaS, owning agent architecture, integrations, and the escalation path when it breaks. Anand Creations is my independent FDE practice: embed, run discovery, build the integrations, ship. Deep across Python, JavaScript, SQL and the messy real-world debugging that comes with client-specific constraints. MBA-trained, spoken at Dev Innovation Summit and Front Conference, and a mentor to engineers who now lead features on their own.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Lead technical discovery through production for a global AI-native SaaS: agent architecture, POCs, integrations with Salesforce, HubSpot, Pendo via REST + webhooks + OAuth, and MCP tool servers exposed to end users. 2x open rates, 2x approved opportunities, $1M/quarter forecast revenue.",
+        "Serve as the technical escalation point when integrations break: reproduce, root-cause, fix, and write the postmortem. Own eval pipelines (LangSmith), cost telemetry, and on-call for global production.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j unifying 5+ enterprise silos into one time-aware source. Architectural decision shaped by real deployment learnings, not theory."
+      ],
+      "keywords": [
+        "Forward Deployed",
+        "AI-Native Platform",
+        "Technical Discovery",
+        "Client Integrations",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "REST APIs",
+        "Webhooks",
+        "OAuth",
+        "GCP",
+        "Vertex AI",
+        "LangChain",
+        "LangGraph",
+        "MCP",
+        "PostgreSQL",
+        "Neo4j",
+        "Salesforce",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Architected Employee Referral System end-to-end as Tech Lead of Incubation, reporting to CIO. Ran planning, scoping, and delivery of a complex multi-quarter implementation. Became the platform's top revenue channel ($1.5M+ generated, $500K ARR).",
+        "Replaced $337K in annual vendor translation costs with an in-house Python + OpenAI pipeline shipped in 6 weeks. Full scope: diagnose the recurring spend, build the integration, ship with instrumentation, kill the contract.",
+        "Ran observability and on-call for global production (Grafana, Datadog, Logz.io) across Python, Java, TypeScript, Vue services on Kubernetes. Reproduced and diagnosed customer-facing issues, built the fix, documented the playbook.",
+        "Hired and mentored the AI engineering cohort. Grew engineers who now lead features independently. Co-owned GTM launches with Sales, PM, and Customer Success with instrumentation to know within a week if they moved the needle."
+      ],
+      "keywords": [
+        "Complex Delivery",
+        "Client Implementations",
+        "Mentorship",
+        "Playbooks",
+        "Python",
+        "Java",
+        "TypeScript",
+        "JavaScript",
+        "SQL",
+        "PostgreSQL",
+        "ClickHouse",
+        "Elastic Search",
+        "REST APIs",
+        "AWS",
+        "Kubernetes",
+        "OpenAI",
+        "Grafana",
+        "Datadog"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Evaluated 20+ startups on architecture, scalability, and AI readiness for seed-to-VC investment decisions. Structured, data-driven feedback to investment committees.",
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading; advised founders on integrations, delivery playbooks, and building engineering teams that ship."
+      ],
+      "keywords": [
+        "Technical Discovery",
+        "Cross-functional Leadership",
+        "AI Strategy",
+        "Startup Evaluation",
+        "Stakeholder Communication"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for EPFL spin-off drone delivery. Shipped end-to-end platform (Vue, Java, PostgreSQL, AWS) powering 500+ real-world deliveries. Enterprise-grade integrations enabled Unilever partnership and CES Las Vegas showcase.",
+        "Owned the full client-facing implementation as single accountable owner: architecture, integrations, on-call, and the customer conversations behind them."
+      ],
+      "keywords": [
+        "Founding Engineer",
+        "Enterprise Integrations",
+        "Client-Facing Delivery",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "REST APIs"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of a production agentic AI system shipped to real users: architecture, POC-to-prod, and the outcomes that mattered (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Practical map of the enterprise AI memory stack: why temporal knowledge graphs beat vector-only RAG for AI-native platforms."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "How verification loops, human-in-the-loop checkpoints, and draft-before-send patterns keep autonomous agents from shipping wrong actions to real customers."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology talk on lean validation, rapid prototyping, and data-driven decisions when moving from zero to launched product."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Playbook for hiring and running remote-first engineering teams with psychological safety, clear accountability, and shipping cadence."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive on how microfrontends let teams scale delivery without breaking each other's deploys."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Forward Deployed Engineering"
+    },
+    {
+      "name": "AI-Native Platforms"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "Conference Speaking"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed engineering practice: embed with a team, run technical discovery, build the integrations and custom implementations that get the product to work under real client constraints. Home for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView).",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax platform for Swiss-Indian families in a heavily regulated domain (DTAA, FEMA, Swiss tax). Ran discovery with real users, built RAG-grounded assistant with citations back to source regulation. Compliance-first design in a regulated industry, same discipline required to ship in insurance. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence platform for retail traders. AI agents generate AND justify trading signals with explainability built in: if the model can't explain the signal, it doesn't ship. Auditability is the whole product.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Federato",
+    "jobTitle": "Senior Forward Deployed Engineer",
+    "jobUrl": "",
+    "jobDescription": "Senior Forward Deployed Engineer at Federato (AI-native insurance platform, $180M raised incl. $100M Series D from Goldman Sachs). Drive planning/scoping/delivery of complex client implementations, be technical escalation point, lead discovery, propose architecture, represent FDE in product feedback, own delivery playbooks and mentorship. Remote. Requirements: BS CS, 6-8+ years SWE/systems/TPM, deep integration debugging, client communication, mentorship, playbooks, Python + JS + SQL.",
+    "notes": "Direct FDE brand match. Positioned around technical discovery, integrations, escalation, playbooks. Called out regulated-industry parallel via SwissNRI (fintech/DTAA/FEMA) as a bridge to Federato's insurance domain.",
+    "createdAt": "2026-08-18"
+  },
+  "_generatedFile": {
+    "company": "Federato",
+    "baseName": "senior-forward-deployed-engineer",
+    "createdAt": "2026-08-18T21:42:27.014Z",
+    "targetPath": "./generated/Federato/senior-forward-deployed-engineer.json"
+  }
+}

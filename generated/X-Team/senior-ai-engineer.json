@@ -1,0 +1,354 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior AI Engineer | Production Agents, RAG & MCP | LangChain / LangGraph / CrewAI | Open Source",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Senior AI engineer shipping production agents that real users depend on. Lead AI Engineer at LumApps: multi-agent workflows on Python with LangChain, LangGraph and Google ADK; tools over MCP servers I authored; RAG grounded by a temporal knowledge graph (Graphiti/Neo4j); LangSmith tracing and cost-per-request instrumentation. 2x conversions, $1M forecast quarterly. Prior LLM shipping at Beekeeper (LangChain, CrewAI, $337K/yr saved on translation). Founded 3 AI products solo through Anand Creations. Open source: Robogen (AI research at EPFL, featured on AWS blog) and a Terraform module on the Registry with ~4,600 users. Fully remote-native since Obermatt in 2018.",
+    "metrics": [
+      {
+        "value": "3",
+        "label": "AI Products Founded"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "4,600+",
+        "label": "OSS Module Users"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Architected and deployed a production multi-agent system on Python with LangChain, LangGraph, and Google ADK over GCP Vertex AI. Tools exposed over MCP servers I authored, agent state streamed over AG-UI. High-performance, fault-tolerant AI service with fallback/retry and on-call. 2x conversions, $1M forecast quarterly.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti/Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, product usage) into one time-aware store grounding all RAG retrieval.",
+        "Own the observability and evaluation layer: LangSmith tracing on every run, golden suites, judge rubrics, safety cases, cost-per-request instrumentation. No agent ships without evals."
+      ],
+      "keywords": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "Google ADK",
+        "MCP (Authored)",
+        "AG-UI",
+        "GCP",
+        "Vertex AI",
+        "OpenAI",
+        "Anthropic",
+        "RAG",
+        "Vector Search",
+        "Neo4j",
+        "Graphiti",
+        "LangSmith",
+        "Evaluation Pipelines",
+        "Fault-Tolerant AI Services",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Replaced $337K/yr in vendor translation costs with an in-house LLM pipeline shipped in 6 weeks (GitHub Actions + OpenAI + LangChain). 12K+ assets translated; product team ships in new languages without a gatekeeper.",
+        "Built AI Onboarding Specialist and a GenAI demo generator using LangChain + CrewAI. LLM-powered features shipped end to end (prompts, orchestration, UI, evals). Improved demo speed and close rates.",
+        "Designed a distributed templating engine that cut customer setup time 90% and powers 15% of all assets on the platform (10M+ users). High-performance backend for 10M+ users.",
+        "Ran observability and global on-call across K8s + AWS (Grafana, Datadog, Logz.io, Langfuse). Hired and mentored the AI engineering cohort."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "Java",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "Langfuse",
+        "OpenAI",
+        "Claude",
+        "Kubernetes",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "PostgreSQL",
+        "Elastic Search",
+        "Kafka",
+        "GitHub Actions",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at a startup. Shipped full stack (Vue, Java, PostgreSQL, real-time APIs, AWS/Docker/Terraform infra) from empty repo to 500+ real-world deliveries. Backend built for fault tolerance from day one.",
+        "Direct engagement with enterprise partners (Unilever) and CES Las Vegas showcase."
+      ],
+      "keywords": [
+        "Founding Engineer",
+        "Backend Services",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "CI/CD",
+        "Real-time Systems"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "AI Research Engineer & Open Source Maintainer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Built and open-sourced Robogen, a platform for co-evolution of robot bodies and brains via genetic algorithms. Featured on the AWS Public Sector Blog.",
+        "Data manipulation and scientific computing (Pandas, NumPy) for large-scale AWS parallel evolution runs. Secured AWS Cloud Credits for Research."
+      ],
+      "keywords": [
+        "Open Source",
+        "Python",
+        "Pandas",
+        "NumPy",
+        "AWS",
+        "Neural Networks",
+        "Genetic Algorithms",
+        "Hugging Face (adjacent)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Production agent case study: architecture, prompts, tools, evals, outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Memory and retrieval stack behind production agents: temporal knowledge graphs vs vector-only RAG."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Verification loops and HITL patterns for shipping agents safely."
+    },
+    {
+      "name": "Terraform URL Shortener (Open Source Module)",
+      "publisher": "Terraform Registry",
+      "url": "https://registry.terraform.io/modules/anandbhaskaran/url-shortener/aws/latest",
+      "summary": "Open-source Terraform module. ~4,600 users. Active maintenance of a developer tool."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Tutorial series on building ReAct agents from a blank file to a working autonomous system."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "Feature on Robogen (my open-source EPFL work) that runs on AWS at scale."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive on distributed frontends at scale."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Playbook for going from a hunch to a shipped product fast."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Agentic AI in Production"
+    },
+    {
+      "name": "Vector Search & RAG"
+    },
+    {
+      "name": "Open Source"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - AI Products, Open Source & Forward Deployed Engineering",
+      "position": "Founder & Principal Builder",
+      "description": "Independent studio and home for 3 AI-native products I ship solo (PulseView, Proplab, SwissNRI). Plus open source that people actually use: a Terraform URL-shortener module on the Terraform Registry with ~4,600 users, and Robogen from EPFL featured on the AWS Public Sector Blog.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time AI agents that generate AND justify trading signals. Live users on real-time feeds. RAG + explainability by design; if the model cannot explain the signal, it does not ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI-Native Property Workflows",
+      "position": "Founder & AI Product Builder",
+      "description": "Vision pipeline turns inspection photos into structured records; LLM agents compose multilingual, marketing-ready listings end to end. One flow, zero copy-paste.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "X-Team",
+    "jobTitle": "Senior AI Engineer",
+    "jobUrl": "",
+    "jobDescription": "Senior AI Engineer at X-Team (remote-first developer collective placing engineers with brands like Riot Games, Fox, Coinbase, Epic Games). Must-haves: LangChain/LlamaIndex agents + RAG, MCP integration, local inference (Ollama/vLLM/HF Transformers), fault-tolerant AI backend, vector search (Supabase/pgvector/Pinecone). Nice-to-haves: LangSmith, Streamlit/Gradio, OSS contributions, Pandas/NumPy, LangGraph/AutoGen/CrewAI.",
+    "notes": "STRONG FIT. Direct hits on most-important: LangChain + LangGraph production agents (LumApps), MCP servers authored (LumApps), fault-tolerant backend + on-call (LumApps + Beekeeper), RAG via AI Brain KG. Nice-to-haves: LangSmith (LumApps direct), OSS (Terraform + Robogen), Pandas/NumPy (EPFL research), CrewAI + LangGraph (Beekeeper + LumApps). Gaps: local inference (Ollama/vLLM/HF) — I use hosted APIs mostly, though have HF-adjacent experience via EPFL. Streamlit/Gradio not primary. Remote-native since Obermatt 2018. Fully remote-global role — good location fit.",
+    "createdAt": "2026-08-05"
+  },
+  "_generatedFile": {
+    "company": "X-Team",
+    "baseName": "senior-ai-engineer",
+    "createdAt": "2026-08-04T22:03:27.804Z",
+    "targetPath": "./generated/X-Team/senior-ai-engineer.json"
+  }
+}

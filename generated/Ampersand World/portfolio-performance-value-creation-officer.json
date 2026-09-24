@@ -1,0 +1,294 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Investor, Operator & AI Engineer | 22% CAGR (USD) / 13 Years | Portfolio Value Creation, PE-Owned Product Leadership, Founder-CEO Diligence",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "13 years ago I started my own portfolio and never stopped optimizing it for performance and value creation: 22% CAGR (USD) across cycles, with high-conviction positions in Anthropic ($18B round), SpaceX ($125B round), Indian consumer/financial/IT compounders and a Ray Dalio-informed risk framework. Operator side: Lead AI Engineer at LumApps (Bridgepoint-owned PE portfolio company), driving GTM AI that 2x conversions and forecasts $1M/quarter in revenue. Founded 3 companies, ran 6 years of hands-on product/data engineering at Beekeeper ($1.5M+ revenue channel built, $337K in vendor cost cut), and mentor buy-side / fintech founders at Tenity including Opt Alpha (algo trading). Unconventional profile: I bring the investor lens, the operator scars and an AI leverage layer that most PE value-creation officers cannot.",
+    "metrics": [
+      {
+        "value": "22%",
+        "label": "CAGR (USD) / 13Y"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps (Bridgepoint-owned)",
+      "position": "Lead AI Engineer & GTM AI Advisor",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "highlights": [
+        "Operate inside a Bridgepoint PE portfolio company. Own the GTM AI thesis end-to-end: production multi-agent workflows that 2x open rates, 2x approved opportunities and forecast $4M/quarter pipeline (~$1M revenue at 25% conversion). Report directly to C-level on value-creation outcomes.",
+        "Consult with commercial leadership on how AI compounds sales productivity across the portfolio: measurable rep-hour savings (2 to 3 hours per rep per day), cost-per-request instrumentation and value-creation KPIs the PE owner can underwrite.",
+        "Architected AI Brain, a temporal knowledge graph unifying Salesforce, HubSpot, Pendo, transcripts and product usage. Same playbook I would use to build a shared performance-and-diligence layer across an investment group's portfolio."
+      ],
+      "keywords": [
+        "PE Portfolio Company",
+        "Bridgepoint",
+        "GTM Strategy",
+        "Value Creation",
+        "AI Advisory",
+        "Multi-Agent Systems",
+        "Python",
+        "LangGraph",
+        "GCP",
+        "Salesforce",
+        "C-Level Reporting"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Architected Employee Referral System end-to-end, reporting to CIO: became the platform's top revenue channel with $1.5M+ generated and $500K ARR at 99.99% SLA. Ran the business case, the tech and the GTM with Sales and PM.",
+        "Replaced $337K in annual vendor cost with an in-house LLM pipeline shipped in 6 weeks. Direct P&L impact, rigorous payback analysis, ruthless prioritization.",
+        "Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Each shipped with instrumentation so we could challenge assumptions and know within a week whether the initiative moved the metric.",
+        "Led Search Platform revamp across 3 teams; mentored the AI engineering cohort; global on-call. Practical, hands-on operator across product, engineering and commercial."
+      ],
+      "keywords": [
+        "Operational Value Creation",
+        "P&L Ownership",
+        "GTM Execution",
+        "Product Management",
+        "Cross-functional Leadership",
+        "Cost Optimization",
+        "AWS",
+        "Java",
+        "Python",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Portfolio-style diligence on 20+ fintech and AI startups for seed-to-VC investment decisions: business model, moat, unit economics, governance and ESG readiness. Challenged founders and CFOs on the numbers, not just the story.",
+        "Mentored Opt Alpha on scaling algorithmic trading in production. Advised multiple portfolio companies on operating rhythm, hiring and value-creating AI adoption."
+      ],
+      "keywords": [
+        "Investment Due Diligence",
+        "Corporate Governance",
+        "Portfolio Advisory",
+        "Founder / CFO Coaching",
+        "Algorithmic Trading",
+        "Fintech",
+        "Business Model Analysis"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at an EPFL spin-off. Built the commercial platform that ran 500+ real-world deliveries and enabled partnerships with Unilever and a CES showcase. Ownership over product, tech and enterprise commercials.",
+        "First-hand experience of logistics, last-mile trade and industrial operations: exactly the kind of hands-on operating context Ampersand's portfolio touches (logistics, trade, industrial businesses)."
+      ],
+      "keywords": [
+        "Logistics",
+        "Industrial Operations",
+        "Enterprise Sales",
+        "Founding Team",
+        "Real-Time Systems",
+        "AWS",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on shipping a production AI system that delivered a measurable commercial lift. Same value-creation playbook applied to a PE-owned portfolio company."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework talk on turning AI potential into measurable business outcomes: exactly the operating lens portfolio companies need."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology for building high-performance teams. Directly transferable to portfolio-company org and hiring diagnostics."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Reference guide on memory + RAG as the foundation of an AI-augmented portfolio operating layer."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Portfolio Value Creation"
+    },
+    {
+      "name": "PE & Family Office Operating Models"
+    },
+    {
+      "name": "Ray Dalio Principles / Risk Parity"
+    },
+    {
+      "name": "Algo Trading & AI for Investing"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Investing Track Record - 22% CAGR (USD), 13 Years",
+      "position": "Self-Directed Investor",
+      "description": "13+ years managing my own multi-asset portfolio for performance and value creation. 22% CAGR (USD) across cycles, with disciplined position sizing and drawdown control. Notable high-conviction positions: Anthropic (entered at $18B round), SpaceX (entered at $125B round) and Indian consumer / financial / IT compounders as a core EM sleeve. Risk framework informed by Ray Dalio's Principles and Big Debt Crises. Every position underwritten with a written thesis on business model, moat, unit economics, capital allocation and governance, with pre-defined invalidation triggers.",
+      "startDate": "2012-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence & Algo Trading",
+      "position": "Founder & Builder",
+      "description": "Production AI platform I built for my own portfolio first, then opened to retail. Ingests price and news time series, runs technical + sentiment signals, and executes rules-based algo strategies with agents that generate AND justify every signal (if the model cannot explain it, it does not ship). Explainability, evaluation and back-testing baked in. Living proof that AI can compound an investor's edge without giving up governance.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent practice embedding with CEO/CFO/CIO of portfolio-style companies to unlock AI-driven value creation: technical diligence, agent architecture, evaluation and observability. Same operator playbook I would bring across Ampersand's diversified portfolio: sit with management, challenge assumptions, ship the improvement, measure the outcome.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Ampersand World",
+    "jobTitle": "Portfolio Performance & Value Creation Officer",
+    "jobUrl": "",
+    "jobDescription": "Privately owned international investment group. Hands-on, pragmatic role combining portfolio performance, investment analysis, governance and operational value creation across a diversified portfolio. Works closely with CEOs and CFOs. 7-12 years relevant experience (PE / portfolio ops / family office / consulting). Geneva-based, ~50% travel to Dubai. Exposure to commodities, trade, logistics, industrial businesses is a plus.",
+    "notes": "Unconventional vision-sell application. Leads with the 22% CAGR / 13Y investor track record (Anthropic, SpaceX, India, Dalio-informed), LumApps as a Bridgepoint PE portfolio company where I directly own the AI value-creation thesis, and Tenity + Opt Alpha as buy-side / algo trading exposure. AI is positioned as the differentiator vs traditional PE VC officer profiles. Location friction: Geneva + ~50% Dubai travel from Olten is material; candidate is aware.",
+    "createdAt": "2026-08-17"
+  },
+  "_generatedFile": {
+    "company": "Ampersand World",
+    "baseName": "portfolio-performance-value-creation-officer",
+    "createdAt": "2026-08-17T10:04:24.020Z",
+    "targetPath": "./generated/Ampersand World/portfolio-performance-value-creation-officer.json"
+  }
+}

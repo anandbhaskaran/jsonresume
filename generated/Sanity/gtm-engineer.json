@@ -1,0 +1,344 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "GTM Engineer & AI Systems Builder | Ships Internal AI Workflows for Sales/RevOps | 3× Founder | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "GTM Engineer by practice: I build the internal AI-powered tools GTM teams use. At LumApps I own the production multi-agent outbound system on TypeScript, Python, LangGraph and Google ADK. Unified Salesforce, HubSpot, Pendo and product usage into one time-aware store (AI Brain), shipped agents that Sales, RevOps and CS actually use, and instrumented every workflow with evals, tracing and adoption metrics. Result: 2x open rates, 2x approved opportunities, $1M forecast quarterly. Prior GTM launches co-owned at Beekeeper (Employee Referral $1.5M+ revenue, GenAI demo tooling for sales), 3 AI products founded solo. MBA, 4 conference talks, bias to ship trustworthy systems fast.",
+    "metrics": [
+      {
+        "value": "$1M+",
+        "label": "GTM Pipeline Forecast"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "3",
+        "label": "Products Founded"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer (GTM Systems)",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Built the AI-powered internal system Sales and RevOps use daily. Multi-agent workflows on Python, TypeScript, LangGraph, Google ADK, MCP and AG-UI. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day, $1M forecast in quarterly revenue.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti/Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, product usage) into one auditable time-aware store. Data quality, schema governance, and API design so GTM teams can actually trust the data.",
+        "Own the reliability layer: eval pipelines, LangSmith tracing, cost-per-request instrumentation, HITL checkpoints, and adoption metrics. Partner with Sales, RevOps, and Ops on rollout; report to C-level on GTM outcomes."
+      ],
+      "keywords": [
+        "TypeScript",
+        "Python",
+        "Node.js",
+        "React (adjacent)",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "Salesforce",
+        "HubSpot",
+        "CRM Integrations",
+        "Multi-Agent Systems",
+        "Prompt Design",
+        "Evaluation Pipelines",
+        "Human-in-the-Loop",
+        "Data Governance",
+        "GTM Engineering",
+        "RevOps Partnership"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead) & GTM Co-Owner",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Co-owned cross-functional GTM launches with Sales, PM, and RevOps: Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, Employee Lifecycle. Every launch instrumented so we knew within a week if it moved pipeline.",
+        "Built GenAI demo tooling that auto-composed personalized, on-brand demo content per account from Salesforce data. Direct sales enablement impact: improved demo speed and close rates.",
+        "Architected Employee Referral System end to end (TypeScript, Vue, Node.js, Java, PostgreSQL). Became the platform's top revenue channel: $1.5M+ generated, $500K ARR. Enterprise deal execution and post-launch expansion.",
+        "Replaced $337K/yr in vendor translation costs with an in-house LLM pipeline shipped in 6 weeks. Turned an operational blocker into a durable internal tool, transitioned ownership to product team."
+      ],
+      "keywords": [
+        "TypeScript",
+        "Vue",
+        "Node.js",
+        "Java",
+        "Python",
+        "GTM Launches",
+        "Sales Enablement",
+        "Demo Tooling",
+        "Salesforce",
+        "Content Automation",
+        "Localization (70+ languages)",
+        "Kubernetes",
+        "AWS",
+        "PostgreSQL",
+        "Elastic Search"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Evaluated 20+ startups for seed-to-VC decisions on architecture, scalability, and GTM readiness.",
+        "Advised portfolio companies on production AI adoption for GTM: prompt design, evals, and instrumentation to prove pipeline impact."
+      ],
+      "keywords": [
+        "Startup Advisory",
+        "GTM Readiness",
+        "AI Adoption",
+        "Enterprise Sales"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at a startup. Full-stack (Vue, Node.js, Java, PostgreSQL, real-time APIs, AWS/Docker/Terraform) from empty repo to 500+ real-world deliveries.",
+        "Turned prototype demos into enterprise partnerships (Unilever) and a CES showcase. Same discipline as internal GTM tools: ambiguous problem to shipped system fast."
+      ],
+      "keywords": [
+        "Founding Engineer",
+        "Full-Stack",
+        "Enterprise Partnerships",
+        "Vue",
+        "Node.js",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Terraform"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of the LumApps AI outbound system: architecture, prompts, tool orchestration, evals, and the GTM outcomes (2x open rates, 2x approved opportunities). The exact shape of a GTM Engineering ship."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Verification loops and human-in-the-loop patterns for shipping AI systems into GTM workflows safely."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Memory and retrieval stack for production agents: how to build systems people can trust."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Playbook for going from ambiguous problem to shipped product fast, exactly the motion GTM Engineering runs."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Tutorial series on building agents from scratch, including tool use and structured context."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Reference architecture talk on shipping large TypeScript frontends as composable, team-autonomous apps."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on augmenting workflows with AI rather than replacing them."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the Rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for turning open-ended AI potential into measurable business outcomes."
+    }
+  ],
+  "interests": [
+    {
+      "name": "GTM Engineering"
+    },
+    {
+      "name": "AI-Powered Internal Tools"
+    },
+    {
+      "name": "Data Quality & Governance"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - AI Products & Forward Deployed Engineering",
+      "position": "Founder & Principal Builder",
+      "description": "Independent studio and home for 3 AI-native products I design, build, and ship on my own (SwissNRI, Proplab, PulseView). Every product includes its own internal ops tooling I built to run it, effectively my own GTM engineering practice at small scale.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time AI agents that generate AND justify trading signals. Solo end to end: product, agent stack, UI, live users on real-time feeds. Explainability and evals baked in from day one.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border compliance platform. RAG-grounded assistant with citations; compliance-first agentic design flags risk before users file. Community-led GTM through content and word-of-mouth.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Sanity",
+    "jobTitle": "GTM Engineer",
+    "jobUrl": "",
+    "jobDescription": "GTM Engineer at Sanity (Systems Engineering team). Build internal AI-powered tools for Sales, RevOps, CS, Marketing. Full-stack TS/React/Node.js + AI workflows (agents, prompts, evals, HITL). Turn operational friction into shipped systems. Nice-to-have: GTM Engineering / RevOps / SE background, CRM integrations, AI/LLM workflows in production, demo tooling.",
+    "notes": "STRONG FIT. LumApps outbound literally IS a GTM Engineering ship: internal AI tool Sales uses, Salesforce/HubSpot integration, evals + HITL + governance, adoption metrics. Beekeeper GenAI demo generator = direct nice-to-have hit ('demo tooling'). GTM launches co-owned. Reframed titles: LumApps as 'Lead AI Engineer (GTM Systems)'; Beekeeper as '... & GTM Co-Owner'. LOCATION GAP: Remote in NA (SF preferred) — candidate is Zurich. This is a hard filter unless they're flexible on remote-EU or the candidate is willing to relocate.",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "Sanity",
+    "baseName": "gtm-engineer",
+    "createdAt": "2026-08-04T21:00:16.974Z",
+    "targetPath": "./generated/Sanity/gtm-engineer.json"
+  }
+}

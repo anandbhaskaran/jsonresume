@@ -1,0 +1,352 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Forward Deployed Engineer | Solution Architect for Data & AI | Customer-Facing Technical Lead",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Forward deployed engineer who runs technical discovery, builds POCs, and turns them into production wins that move revenue. At LumApps I own the AI stack that 2x outbound conversions and forecasts $1M in quarterly revenue, presenting outcomes directly to C-level. Anand Creations is my forward deployed practice: embedding with teams, translating business problems into working prototypes, winning technical champions. Deep across data (PostgreSQL, ClickHouse, Elastic Search, Neo4j), cloud (GCP, AWS), and modern AI (LLMs, RAG, agentic systems), with a decade of speaking at conferences and demoing to executives.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Led technical discovery through production for a global SaaS platform: agent architecture, POCs, executive demos, and cost-per-request instrumentation. Report directly to C-level on outcomes. 2x open rates, 2x approved opportunities, forecast $1M in quarterly revenue.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ data silos (Salesforce, HubSpot, Pendo, transcripts, product usage) into one queryable memory every agent reads and writes. Turned scattered enterprise data into a single, high-trust source for downstream AI.",
+        "Own eval pipelines, agent tracing (LangSmith), and cost telemetry so every demo and POC comes with the numbers the buyer needs to greenlight."
+      ],
+      "keywords": [
+        "Solution Architecture",
+        "POC to Production",
+        "Executive Demos",
+        "GCP",
+        "Vertex AI",
+        "Python",
+        "SQL",
+        "Neo4j",
+        "Salesforce",
+        "LangChain",
+        "LangGraph",
+        "MCP",
+        "RAG",
+        "Multi-Agent Systems",
+        "LangSmith",
+        "Observability"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Co-owned GTM launches with Sales and PM (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Each shipped with instrumentation so we knew within a week if it moved the needle. Employee Referral System became the top revenue channel ($1.5M+ generated, $500K ARR).",
+        "Built GenAI demo system for Sales: auto-generates personalized content from Salesforce data so every pitch feels custom-built for that customer. Improved demo speed and close rates on real deals.",
+        "Replaced $337K in annual vendor translation costs with an in-house LLM pipeline shipped in 6 weeks. 12K+ assets translated; the buying team saw the ROI in the first invoice cycle.",
+        "Led Search Platform revamp across 3 teams: redesigned indexing and ranking (Elastic Search, ClickHouse) with measurable engagement lift. Ran on-call and observability (Grafana, Datadog, Logz.io) for global production systems."
+      ],
+      "keywords": [
+        "GTM",
+        "Sales Enablement",
+        "SQL",
+        "PostgreSQL",
+        "ClickHouse",
+        "Elastic Search",
+        "Kafka",
+        "AWS",
+        "Kubernetes",
+        "Python",
+        "Java",
+        "TypeScript",
+        "Vue",
+        "OpenAI",
+        "LangChain",
+        "Salesforce",
+        "Grafana",
+        "Datadog",
+        "GitHub Actions",
+        "Observability"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Evaluated 20+ startups on technical architecture, scalability, and data/AI readiness to inform seed-to-VC investment decisions. Presented recommendations to investment committees.",
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading systems; advised multiple portfolio companies on data platform choices, AI adoption, and building teams that ship."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Technical Advisory",
+        "Data Platform Evaluation",
+        "Startup Evaluation",
+        "Executive Presentation"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Shipped end-to-end drone delivery platform (Vue, Java, PostgreSQL, AWS). Enterprise-grade reliability enabled partnership with Unilever and a CES Las Vegas showcase.",
+        "Ran technical customer conversations from architecture demo through onboarding. 500+ real-world deliveries, 40% faster than incumbents, 99.5% safety record."
+      ],
+      "keywords": [
+        "Enterprise Partnerships",
+        "Customer Onboarding",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Real-time Systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of a production AI agent shipped to real users: architecture, POC-to-prod path, and the outcomes buyers care about (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Practical map of memory and RAG tools for the enterprise AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to pick the right data stack."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Executive-audience talk on turning open-ended AI capability into measurable business outcomes."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on the intersection of AI and human creativity for a mixed technical and business audience."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive on how microfrontends let teams scale without breaking each other's deploys."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology talk on lean validation, rapid prototyping, and data-driven decisions in startup environments."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Data visualization techniques for making high-dimensional embeddings inspectable, useful for RAG grounding conversations with customers."
+    },
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Architecture walkthrough of an enterprise-grade URL shortener using cloud-native scalability patterns."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Forward Deployed Engineering"
+    },
+    {
+      "name": "AI & Data Platforms"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "Conference Speaking"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed engineering practice: embed with a customer team, run technical discovery, build POCs, and ship production AI end to end. Own the sales-engineering to delivery bridge for my own AI products (SwissNRI, Proplab, PulseView), same playbook I bring to any engagement.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax platform for Swiss-Indian families. Ran discovery with users, built RAG-grounded assistant that answers DTAA, FEMA, and Swiss tax questions with citations back to the regulation. Zero-to-MVP in 3 months, 40% uplift in user satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence platform for retail traders. AI agents generate AND justify trading signals from technical and news data with explainability built in: every signal is traceable back to the source data, the same audit story enterprise buyers demand.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Snowflake",
+    "jobTitle": "Senior Solution Engineer",
+    "jobUrl": "",
+    "jobDescription": "Senior Solution Engineer, Snowflake, Swiss market, remote. Work with account sales and channel partners to run technical discovery, POCs, demos, and design/implementation for prospects. Present Snowflake technology to executive and technical audiences. Requirements: SE/SA experience in SaaS or analytics/data science/data engineering, presentation skills, data architecture and cloud experience, hands-on SQL, customer-facing communication. Preferred: Python, modern data stack (dbt, spark, containers, orchestration, git), AI/ML/data science.",
+    "notes": "Position as forward deployed engineer bridging engineering IC to solution engineering. Lean on Anand Creations FDE practice, GTM launches, demo systems, conference speaking. AI/ML as strength; acknowledge Snowflake stack is new but data + cloud fundamentals transfer.",
+    "createdAt": "2026-08-17"
+  },
+  "_generatedFile": {
+    "company": "Snowflake",
+    "baseName": "senior-solution-engineer",
+    "createdAt": "2026-08-17T07:16:03.833Z",
+    "targetPath": "./generated/Snowflake/senior-solution-engineer.json"
+  }
+}

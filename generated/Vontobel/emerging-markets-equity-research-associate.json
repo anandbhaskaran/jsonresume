@@ -1,0 +1,299 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Investor & AI Engineer | 18% CAGR (USD) over 13 Years, India-focused EM | Building AI Agents for Bottom-up Equity Research",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "13+ years as a personal investor with an 18% CAGR (USD) track record, built on disciplined bottom-up, hypothesis-driven analysis with a major focus on India and adjacent Asian EMs. Indian-origin, on-the-ground fluency with Indian consumer, financial and IT names, regulation (SEBI, DTAA, FEMA) and the local sell side; extended into broader EM and DM through the same quality-at-a-reasonable-price lens. In parallel, Lead AI Engineer at LumApps building production multi-agent systems on GCP, and founder of PulseView, an AI market intelligence platform where agents generate and justify trading signals from technical and news data. I want to join Vontobel to combine deep India / EM conviction with an AI edge: agents that accelerate research, keep the mtx team's library alive, and surface mispriced EM quality stocks faster than the sell side.",
+    "metrics": [
+      {
+        "value": "18%",
+        "label": "CAGR (USD) / 13Y"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "highlights": [
+        "Architected AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ signal sources (CRM, transcripts, product usage) into one time-aware memory with per-agent read/write contracts and a freshness layer. Direct analog to a live research library where every fact is time-stamped, sourced and queryable.",
+        "Designed and shipped production multi-agent workflows (Python, LangGraph, Google ADK on Vertex AI) that 2x conversions and forecast $1M/quarter revenue. Same building blocks would let a research team automate deep-dive prep, industry mapping and sell-side digestion.",
+        "Run the full delivery loop: hypothesis, PoC, evaluations, tracing, cost-per-request telemetry, on-call. Disciplined, deadline-driven; reports directly to C-level on outcomes."
+      ],
+      "keywords": [
+        "Python",
+        "Multi-Agent Systems",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "RAG",
+        "Knowledge Graphs",
+        "Neo4j",
+        "Graphiti",
+        "Evaluation Pipelines",
+        "Vertex AI",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Architected the Employee Referral System end-to-end. Understood the underlying unit economics and shipped the platform's top revenue channel: $1.5M+ generated, $500K ARR, 99.99% SLA. Same commercial-first thinking I use when I underwrite a stock.",
+        "Replaced $337K in annual vendor cost with an in-house LLM pipeline shipped in 6 weeks. Rigorous cost analysis, ruthless prioritization, measurable payback.",
+        "Built GenAI demo system for sales that auto-generates personalized content from Salesforce data. Cross-functional work with Product, Sales and CIO on GTM launches instrumented to prove impact within a week.",
+        "Led Search Platform revamp across 3 teams: redesigned indexing and ranking to surface what users actually mean. Same discipline applied to distilling large, noisy information sets for decision-making."
+      ],
+      "keywords": [
+        "Python",
+        "Java",
+        "LLM Pipelines",
+        "OpenAI",
+        "Claude",
+        "AWS",
+        "Kubernetes",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "ClickHouse",
+        "Grafana",
+        "Datadog"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production. Direct exposure to buy-side execution constraints, alpha decay and infrastructure trade-offs.",
+        "Technology evaluation panelist for 20+ fintech and AI startups. Assessed business models, moats, scalability and ESG readiness to inform seed-to-VC investment decisions. Fundamental due diligence at seed stage."
+      ],
+      "keywords": [
+        "Investment Due Diligence",
+        "Fintech",
+        "Algorithmic Trading",
+        "Business Model Analysis",
+        "ESG",
+        "Startup Evaluation"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at an EPFL spin-off. Owned the commercial platform end-to-end that ran 500+ real-world deliveries and enabled partnerships with Unilever and a CES showcase.",
+        "Built the business case, the tech and the customer conversations in parallel. Bottom-up understanding of an emerging industry from first principles."
+      ],
+      "keywords": [
+        "Founding Engineer",
+        "Product Strategy",
+        "Enterprise Sales",
+        "AWS",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "CI/CD"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Reference guide to memory and RAG for the AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to build the equivalent of a living research library for agents."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on building a production AI agent that delivered measurable business outcomes. Same playbook I would use to build an equity-research agent for the mtx team."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Practical tutorial on ReAct agents that combine reasoning and action for hypothesis-driven workflows."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework talk on turning AI potential into measurable business outcomes through constraint design."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Indian Equities & EM"
+    },
+    {
+      "name": "Fundamental & Value Investing"
+    },
+    {
+      "name": "AI for Investment Research"
+    },
+    {
+      "name": "Portfolio Construction & Risk"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Investing Track Record - 18% CAGR (USD), 13 Years, India-focused EM",
+      "position": "Self-Directed Investor",
+      "description": "Managed my own portfolio for 13+ years using a bottom-up, quality-at-a-reasonable-price approach. Primary focus on Indian equities (consumer, financials, IT services, capital goods) with satellite positions across broader EM, US and EU. 18% CAGR in USD terms, benchmark-beating through multiple cycles including demonetisation, GST rollout, IL&FS and COVID drawdowns. Every position underwritten with a written thesis on business model, moat, unit economics, capital allocation and ESG / governance risk, with pre-defined invalidation triggers and position sizing rules.",
+      "startDate": "2012-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "AI-native equity research platform. Agents ingest technical and news data, form a hypothesis, and generate AND justify a signal with cited evidence: if the model cannot explain the signal, it does not ship. Explainability, evaluation and back-testing built in. Built for my own portfolio first, now serving live retail users. Direct working analog of what an AI-augmented research desk could look like.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native platform for Swiss-Indian cross-border tax and regulatory compliance (India DTAA, FEMA, Swiss tax, SEBI on foreign investing). RAG-grounded assistant answers regulatory questions with citations back to the source; compliance-first agentic design flags risk before users act. Kept me current on Indian tax, regulatory and capital-control regimes that directly shape investable Indian names. Same discipline (regulation-first, cite the source, guardrails before features) I would apply to ESG and country-risk screens on EM. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Vontobel",
+    "jobTitle": "Emerging Markets Equity Research Associate",
+    "jobUrl": "",
+    "jobDescription": "Vontobel Asset Management (mtx team, Conviction Equities Boutique). Support senior analysts on fundamental bottom-up research on EM equities. ESG-integrated, quality-focused, ROIC-led. Zurich or Hong Kong. Requires CFA, Mandarin, 3+ years buy/sell-side. Team-based collaborative approach.",
+    "notes": "Non-traditional application. Sells the vision (13-year personal investor with 18% CAGR, India-focused EM + deep AI engineer who can build agents that give the mtx team a research edge) rather than fitting the JD. Missing hard requirements: CFA, Mandarin, prior buy/sell-side experience. Angle: India / EM fluency (Indian-origin, SwissNRI regulatory work) + unique combination of bottom-up investor + production AI engineer, plus PulseView as tangible proof.",
+    "createdAt": "2026-08-17"
+  },
+  "_generatedFile": {
+    "company": "Vontobel",
+    "baseName": "emerging-markets-equity-research-associate",
+    "createdAt": "2026-08-17T09:45:33.414Z",
+    "targetPath": "./generated/Vontobel/emerging-markets-equity-research-associate.json"
+  }
+}

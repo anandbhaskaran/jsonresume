@@ -1,0 +1,318 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI Transformation Engineer | Cross-Functional AI Adoption | LLM Ops & RAG | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "AI transformation practitioner who moves companies from AI curiosity to measurable adoption. At LumApps I own AI transformation end to end: identifying high-impact use cases with product and sales, prototyping fast, shipping to production, and reporting outcomes to C-level (2x conversions, $1M quarterly forecast). At Beekeeper I built and mentored the AI engineering cohort, replaced a $337K vendor with an in-house LLM pipeline in 6 weeks, and co-owned GTM adoption with Sales and Product. MBA-trained, comfortable translating LLMs into business value across technical and non-technical teams. Zurich-based, hybrid-ready.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer & AI Transformation Lead",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Own group-wide AI transformation end to end: run use-case discovery with Sales, Product, and RevOps; prioritize the roadmap; turn use cases into working prototypes and then production systems. Report adoption and outcomes directly to C-level.",
+        "Shipped a production multi-agent workflow for outbound sales on Python, LangGraph, Google ADK, with tools exposed over MCP and state streamed to the UI over AG-UI. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day, $1M forecast in quarterly revenue. Prompt engineering, eval pipelines, and cost-per-request telemetry built in.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, transcripts, product usage) into one time-aware memory for RAG. Grounds retrieval, cuts hallucinations, and enforces access control and data governance across the AI stack."
+      ],
+      "keywords": [
+        "AI Transformation",
+        "Use Case Discovery",
+        "Python",
+        "LLMs",
+        "OpenAI",
+        "MCP",
+        "Multi-Agent Systems",
+        "Prompt Engineering",
+        "RAG",
+        "Vector Databases",
+        "Knowledge Graphs",
+        "Neo4j",
+        "Evaluation Pipelines",
+        "LangSmith",
+        "Responsible AI",
+        "Cross-functional Delivery",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead, AI Adoption)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Replaced a $337K annual vendor translation contract with an in-house LLM pipeline (GitHub Actions + OpenAI APIs) shipped in 6 weeks. 12K+ assets translated. Ran the adoption motion so the product team could iterate without external gatekeepers.",
+        "Built and mentored the AI engineering cohort as acting hiring manager. Hired for craft and curiosity, ran onboarding and hands-on training, grew engineers who now lead AI features independently.",
+        "Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, GenAI Demo System). Each shipped with adoption metrics and impact reporting so we knew within a week if it moved the needle.",
+        "Built AI Onboarding Specialist: personalized, high-touch guidance for every new signup. 100% of customers guided through setup, time-to-first-value cut without adding headcount. Prompt engineering, eval loops, and responsible-use guardrails."
+      ],
+      "keywords": [
+        "AI Adoption",
+        "Change Management",
+        "Training & Enablement",
+        "Java",
+        "Python",
+        "TypeScript",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "Langfuse",
+        "Prompt Engineering",
+        "A/B Testing",
+        "PostgreSQL",
+        "Kubernetes",
+        "AWS",
+        "GitHub Actions",
+        "Cross-functional GTM"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Evaluated 20+ startups on architecture, scalability, and AI readiness for seed-to-VC investment decisions. Same lens I bring to internal AI use-case scoring.",
+        "Advised portfolio companies on AI strategy, adoption, and building engineering cultures that ship."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "AI Readiness",
+        "Stakeholder Advisory",
+        "Technical Mentoring"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an EPFL spin-off. Shipped the full autonomous drone delivery platform (Vue/Java/PostgreSQL) that powered 500+ real-world deliveries.",
+        "Built cloud infra and CI/CD on AWS. Enterprise reliability that enabled a Unilever partnership and a CES Las Vegas showcase."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Zero-to-One Product"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for turning open-ended AI potential into measurable business outcomes through systematic implementation and practical constraint design. Same lens I use for enterprise AI adoption."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Map of memory and RAG tools for the AI brain layer: temporal knowledge graphs vs vector-only RAG, and how to pick the right retrieval stack for agents in production."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on shipping a production AI agent: prompts, evals, adoption, and what actually moved the metric (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology for assembling and scaling teams through psychological safety, clear accountability, and growth culture."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Tutorial on practical ReAct agents that combine reasoning with tool use for real-world applications."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI Adoption & Change Management"
+    },
+    {
+      "name": "Knowledge Graphs & RAG"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed AI Practice",
+      "position": "Founder & Principal",
+      "description": "Independent AI practice, home for AI products I design, build, and run myself (SwissNRI, Proplab, PulseView). Same playbook I bring to organizational AI transformation: pick the highest-leverage use case, ship the MVP fast, wire in evals and telemetry, measure adoption, iterate.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Compliance Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform for Swiss-Indian families. RAG-grounded assistant answers regulatory questions with citations back to the source; compliance-first agentic design flags risk before users file, with responsible-AI guardrails built before features. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & AI Product Builder",
+      "description": "AI-native MVP for property inspections. Vision pipeline extracts structured signals from photos; LLM agents turn those records into multilingual, marketing-ready listings end to end. One workflow, zero copy-paste.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Luware",
+    "jobTitle": "AI Transformation Engineer",
+    "jobUrl": "",
+    "jobDescription": "AI Transformation Engineer at Luware (Zurich-West, hybrid). Group-wide AI transformation initiative, Customer Zero for Microsoft. Identify and implement high-impact AI use cases across departments, turn roadmap into prototypes then production, deliver onboarding/workshops/training, track adoption metrics and impact, drive cultural shift toward AI adoption, ensure responsible AI aligned with policy/security/compliance. Wants: Wirtschaftsinformatik + tech background; proven digital transformation or AI adoption experience across departments (mandatory); Microsoft 365, Azure AI, Azure OpenAI, Copilot Studio, Power Platform; LLM integration, agent frameworks, MCP; AI governance, responsible AI; stakeholder management; translate AI to business value; full ML lifecycle; prompt engineering + fine-tuning; RAG, vector DBs, semantic search, bias mitigation.",
+    "notes": "Microsoft/Azure stack experience is lighter than the JD asks; leaned into transformation, adoption, MCP, RAG, prompt engineering, and cross-functional GTM strengths without overclaiming Copilot Studio / Power Platform.",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "Luware",
+    "baseName": "ai-transformation-engineer",
+    "createdAt": "2026-08-04T20:41:09.195Z",
+    "targetPath": "./generated/Luware/ai-transformation-engineer.json"
+  }
+}

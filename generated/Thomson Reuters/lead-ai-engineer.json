@@ -123,24 +123,6 @@
       ]
     },
     {
-      "name": "Tenity",
-      "position": "Startup Mentor & Technology Evaluation Panelist",
-      "startDate": "2024-06",
-      "url": "https://www.tenity.com/",
-      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Evaluates technical architecture and advises on AI adoption, engineering culture, and building systems that scale.",
-      "highlights": [
-        "Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.",
-        "Advised multiple portfolio companies on technical hiring, AI strategy, and building engineering cultures that actually ship."
-      ],
-      "keywords": [
-        "Technical Mentoring",
-        "AI Strategy",
-        "Startup Evaluation",
-        "Scalability",
-        "Algorithmic Trading"
-      ]
-    },
-    {
       "name": "Dronistics",
       "position": "Founding Engineer",
       "url": "https://lis.epfl.ch/",
@@ -148,8 +130,8 @@
       "endDate": "2020-03",
       "summary": "Founding engineer for an autonomous drone delivery system. Built everything from scratch: architecture, infrastructure, APIs, and the algorithms that made 500+ real-world deliveries possible.",
       "highlights": [
-        "Shipped end-to-end autonomous drone delivery platform (Vue/Java/PostgreSQL). 500+ successful deliveries, every flight a live production test for autonomous systems.",
-        "Built cloud infrastructure and CI/CD pipeline from scratch. Enterprise-grade reliability that enabled partnerships with Unilever and a CES showcase."
+        "Shipped end-to-end autonomous drone delivery platform (Vue/Java/PostgreSQL). 500+ successful deliveries in the real world.",
+        "Built cloud infrastructure and CI/CD from scratch. Enabled enterprise partnerships with Unilever and a CES showcase."
       ],
       "keywords": [
         "AWS",
@@ -163,6 +145,27 @@
         "Vue",
         "Java",
         "PostgreSQL"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "AI Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "summary": "AI research at the frontier of robotics. Built and scaled Robogen, an open-source platform for the co-evolution of robot morphologies and control systems via genetic algorithms, foundational AI work that underpins my current agentic systems craft.",
+      "highlights": [
+        "Engineered Robogen, an open-source AI platform for co-evolution of robot bodies and brains via genetic algorithms, a rare research direction where morphology and neural control evolve together.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel evolution runs impractical on local hardware. Secured AWS Cloud Credits for Research, featured on the AWS Public Sector Blog."
+      ],
+      "keywords": [
+        "AI Research",
+        "Genetic Algorithms",
+        "Neural Networks",
+        "AWS",
+        "Distributed Simulation",
+        "Python",
+        "C++"
       ]
     }
   ],
@@ -276,6 +279,19 @@
       "summary": "Leadership methodology article outlining proven strategies for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth-oriented culture."
     },
     {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "RoboGen, an open-source platform from EPFL, uses AWS and artificial evolution (AI) to co-evolve robot bodies and brains. To power its demanding, distributed experiments, the project relies on AWS Cloud for dynamic scaling. This allows researchers and students to rapidly design, test, and manufacture the unique, evolved robots in the real world."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Data visualization methodology article presenting innovative techniques for interpreting high-dimensional AI embeddings through interactive heatmap visualizations for enhanced model interpretability."
+    },
+    {
       "name": "From Idea to Product",
       "publisher": "Dev Innovation Summit 2022, USA (Talk)",
       "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
@@ -321,10 +337,7 @@
     {
       "name": "Anand Creations - Forward Deployed Engineering Practice",
       "position": "Founder & Principal Forward Deployed Engineer",
-      "description": "Independent forward deployed engineering practice, currently the home for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView). Open to forward-deployed client engagements: embedding with a team, running technical discovery, and shipping production agentic AI end to end.",
-      "highlights": [
-        "Take my own products from zero to production end to end: multi-agent systems, RAG grounding, eval pipelines, and observability, the same playbook I bring to any engagement."
-      ],
+      "description": "Independent forward deployed engineering practice, currently the home for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView). Open to forward-deployed client engagements: embedding with a team, running technical discovery, and shipping production agentic AI end to end. Take my own products from zero to production end to end: multi-agent systems, RAG grounding, eval pipelines, and observability, the same playbook I bring to any engagement.",
       "url": "https://anand-creations.com",
       "startDate": "2024-06-01"
     },
@@ -338,10 +351,7 @@
     {
       "name": "Proplab - AI for Real Estate",
       "position": "Founder & AI Product Builder",
-      "description": "Property inspections run on paper, clipboards, and WhatsApp photos. Built an AI-native MVP: vision models turn inspection photos into structured records; LLM agents turn those records into marketing-ready listings.",
-      "highlights": [
-        "Vision pipeline extracts structured signals (room type, condition, defects) from inspection photos; LLM agents turn those records into multilingual, marketing-ready listings end to end, zero copy-paste from photo to published listing."
-      ],
+      "description": "Property inspections run on paper, clipboards, and WhatsApp photos. Built an AI-native MVP: vision pipeline extracts structured signals (room type, condition, defects) from inspection photos; LLM agents turn those records into multilingual, marketing-ready listings end to end, zero copy-paste from photo to published listing.",
       "url": "https://proplab.io",
       "startDate": "2025-09-01"
     }
@@ -357,7 +367,7 @@
   "_generatedFile": {
     "company": "Thomson Reuters",
     "baseName": "lead-ai-engineer",
-    "createdAt": "2026-08-02T11:55:35.826Z",
+    "createdAt": "2026-08-04T12:23:55.816Z",
     "targetPath": "./generated/Thomson Reuters/lead-ai-engineer.json"
   }
 }

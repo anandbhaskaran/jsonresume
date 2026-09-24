@@ -1,0 +1,291 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Product Engineer | Full-Stack + UX | Developer Experience | 3x Founder",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Full-stack product engineer who ships end to end and cares about how it feels. 13+ years building for 10M+ users, from Beekeeper's Employee Referral System ($1.5M+ revenue, top platform channel) to AI outbound at LumApps (2x conversions, $1M forecast). TypeScript across the stack, observability and debug UX baked in from day one, product decisions grounded in customer conversations, not vibes. Also run Anand Creations, my own practice where I design, build, and ship developer-facing AI products (PulseView, Proplab, SwissNRI) solo. Remote-native, default to action.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Own AI outbound end to end: agent architecture on Python and TypeScript, UI streamed over AG-UI, tools over MCP, and the debug/trace experience reps use to see exactly what the agent did and why. 2x open rates, 2x approved opportunities, $1M forecast in quarterly revenue.",
+        "Built the observability layer for AI in production: LangSmith tracing, cost-per-request telemetry, and eval pipelines that reflect real usage. Same craft that turns opaque model calls into something reps and PMs can actually understand.",
+        "Report directly to C-level on outcomes. Talk to reps and PMs weekly, turn ambiguous complaints into shippable UI and API changes."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "AG-UI",
+        "MCP",
+        "React (via AG-UI)",
+        "Observability",
+        "Debug UX",
+        "Evaluation Pipelines",
+        "LangSmith",
+        "GCP",
+        "Product Instrumentation",
+        "Customer Conversations"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead, Product)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Architected Employee Referral System end to end (TypeScript/Vue frontend, Java backend, PostgreSQL, Elastic Search on Kubernetes). Became the platform's top revenue channel: $1.5M+ revenue, $500K ARR. Owned product thinking, UX, launch, and iteration.",
+        "Designed distributed templating engine that cut customer setup time 90%. Powers 15% of all assets for 10M+ users. Zero-to-live in minutes, not days, because the UX was designed for it.",
+        "Ran observability and global on-call (Grafana, Datadog, Logz.io): logs, metrics, dashboards, alerting. Built the debug experience I wanted product engineers to have.",
+        "Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Each shipped with instrumentation so we knew within a week if it moved the needle."
+      ],
+      "keywords": [
+        "TypeScript",
+        "Vue",
+        "Microfrontends",
+        "Module Federation",
+        "Java",
+        "PostgreSQL",
+        "Elastic Search",
+        "Kubernetes",
+        "AWS",
+        "Kafka",
+        "Grafana",
+        "Datadog",
+        "Product Ownership",
+        "UX Design",
+        "End-to-End Feature Delivery"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an EPFL spin-off. Shipped the full autonomous drone delivery platform (Vue frontend, Java backend, PostgreSQL, real-time APIs) that powered 500+ real-world deliveries. Every screen designed by me, tested with real ops teams.",
+        "Built AWS infra and CI/CD from scratch. Enterprise reliability that enabled a Unilever partnership and a CES Las Vegas showcase."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Real-time APIs",
+        "Product Design",
+        "Zero-to-One Product"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Deep-dive on microfrontend architecture (Module Federation, TypeScript, React/Vue interop) for team-autonomous frontend delivery in enterprise apps."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology for accelerating product cycles through lean validation, rapid prototyping, and data-driven iteration."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of shipping a production product for reps: architecture, UX decisions, observability, real-world outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Architecture guide for a production-grade API service using infrastructure-as-code and cloud-native scalability patterns."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology for scaling teams through psychological safety, clear accountability, and growth culture. Written from remote-first experience."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Developer Experience"
+    },
+    {
+      "name": "Product Craft & Micro-Interactions"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal",
+      "description": "My independent practice and the home for AI products I design, build, and run myself (SwissNRI, Proplab, PulseView). Every screen, API, and email flow shipped by me solo. Same standards I bring to Resend-scale product surfaces: clarity, speed, and observability the user actually sees.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail traders. TypeScript across the stack, live-streaming UI, and an explainability layer that shows exactly why each trading signal fired. If the model can't justify the signal in the UI, it doesn't ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & AI Product Builder",
+      "description": "AI-native MVP for property inspections. Vision pipeline extracts structured signals from photos; LLM agents turn them into multilingual, marketing-ready listings. One workflow from photo capture to published listing, zero copy-paste. Full product surface designed and shipped solo.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Resend",
+    "jobTitle": "Product Engineer",
+    "jobUrl": "",
+    "jobDescription": "Product Engineer at Resend (modern email API for developers, 3M+ devs, 100% remote, backed by a16z + YC). Full-stack + UX role: shape core product experience, own features end to end (product thinking, UX, implementation, instrumentation, launch, iteration), build debug/observability UX for emails/webhooks/domains/API requests, talk to users, raise the bar on craft/performance/accessibility/reliability. Stack: TypeScript, React, Next.js. 6+ years shipping web products. Great fit: product judgment, DX obsession, low ego, default to action, hands-on. Exceptional fit: dev/infra product experience, email/DNS/webhooks/API platform experience, visual taste, small high-ownership teams.",
+    "notes": "React is not my primary frontend framework (Vue is), but I've used it via AG-UI at LumApps and I have deep TypeScript + microfrontends experience. Emphasized full-stack + product ownership + observability UX + solo-shipped founder projects.",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "Resend",
+    "baseName": "product-engineer",
+    "createdAt": "2026-08-04T21:19:07.362Z",
+    "targetPath": "./generated/Resend/product-engineer.json"
+  }
+}

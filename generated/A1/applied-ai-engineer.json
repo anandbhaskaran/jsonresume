@@ -1,0 +1,359 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Applied AI Engineer | Production LLM Systems | Model → System → Product",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Applied AI engineer who owns LLM features from prompt to production. Lead AI Engineer at LumApps building multi-agent workflows on Python, LangGraph and Google ADK: prompts, tools, memory, evals, tracing, and cost-per-request instrumentation. 2x outbound conversions, $1M forecast in quarterly revenue. Prior LLM pipelines shipped at Beekeeper ($337K/yr vendor cost eliminated in 6 weeks) and 3 AI products founded on the side (PulseView, Proplab, SwissNRI). ML foundation from EPFL research (neural networks, genetic algorithms, embodied learning). Comfortable across the stack: model, orchestration, infra, UX.",
+    "metrics": [
+      {
+        "value": "$1M+",
+        "label": "Quarterly Revenue Forecast"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "AI Products Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead Applied AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Shipped production multi-agent workflows on Python, LangGraph, Google ADK over Vertex AI. ReAct with self-reflection, tools over MCP, state streamed to the UI over AG-UI. Verification loops and human-in-the-loop checkpoints turn raw outputs into structured, reliable behaviors. 2x open rates, 2x approved opportunities, $1M forecast quarterly.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, product usage) into one time-aware memory every agent reads and writes. Grounds RAG so agents stop hallucinating; long-running workflows keep persistent context.",
+        "Built the evaluation and reliability layer: lightweight eval pipelines, LangSmith tracing, tool-selection tuning, cost-per-request instrumentation, fallback/retry paths for LLM and tool failures, and on-call for global production."
+      ],
+      "keywords": [
+        "Python",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "AG-UI",
+        "GCP",
+        "Vertex AI",
+        "OpenAI",
+        "Anthropic",
+        "RAG",
+        "Vector Databases",
+        "Neo4j",
+        "Graphiti",
+        "Prompt Engineering",
+        "Evaluation Pipelines",
+        "LangSmith",
+        "Multi-Agent Systems",
+        "Latency & Cost Optimization",
+        "Observability",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Replaced $337K/yr in vendor translation costs with an in-house LLM pipeline shipped in 6 weeks (GitHub Actions + OpenAI). 12K+ assets translated; product team iterates without a gatekeeper.",
+        "Built AI Onboarding Specialist and a GenAI demo generator: LLM-powered features shipped end to end (prompts, orchestration, UI, evals). Improved demo speed, close rates, time-to-first-value.",
+        "Designed a distributed templating engine that cut customer setup time 90% and powers 15% of all assets on the platform (10M+ users). Product Owner; concept to production.",
+        "Ran observability and global on-call (Grafana, Datadog, Logz.io); built and mentored the AI engineering cohort. Deputy tech lead of FUEL."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "Java",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "Langfuse",
+        "Prompt Engineering",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "PostgreSQL",
+        "Elastic Search",
+        "Kafka",
+        "GitHub Actions",
+        "Grafana",
+        "Datadog"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Shipped end-to-end delivery platform with real-time flight-control APIs and logistics optimization. 500+ autonomous last-mile deliveries; 99.5% safety record.",
+        "Built cloud infra and CI/CD from scratch (AWS, Docker, Terraform). Enabled Unilever partnership and a CES showcase."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "CI/CD",
+        "Real-time Systems",
+        "Logistics Optimization"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "AI Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Engineered Robogen, an open-source platform where robot bodies and neural controllers co-evolve via genetic algorithms.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel evolution. Secured AWS Cloud Credits for Research; featured on the AWS Public Sector Blog.",
+        "TA for Evolutionary Robotics; supervised 20+ master's students on optimization, neural networks, and embodied learning. ML foundation for my applied LLM work today."
+      ],
+      "keywords": [
+        "C++",
+        "Python",
+        "Neural Networks",
+        "Genetic Algorithms",
+        "Evolutionary AI",
+        "Embodied Learning",
+        "AWS",
+        "Robotics",
+        "Webots",
+        "Open Source"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Production case study of a multi-agent LLM system: prompts, tool use, failure modes, evals, and outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Verification loops, human-in-the-loop checkpoints, and draft-before-send patterns that keep an autonomous agent from shipping wrong actions in production."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Memory and retrieval stack behind production agents: why temporal knowledge graphs beat vector-only RAG for persistent context."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Practical tutorial series on building ReAct agents: reasoning, tool use, and structured outputs from raw model responses."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Techniques for interpreting high-dimensional AI embeddings through interactive heatmaps for model interpretability."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "Feature on Robogen (my open-source EPFL work), an AI platform that co-evolves robot bodies and brains via genetic algorithms, powered by AWS at scale."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on the intersection of AI and creativity: augmenting craft in product design rather than replacing it."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the Rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for turning open-ended AI potential into measurable product outcomes through constraint design and validation loops."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Agent Reliability & Evals"
+    },
+    {
+      "name": "Memory & RAG"
+    },
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail traders. AI agents generate AND justify trading signals from technical and news data; if the model cannot explain the signal, it does not ship. Solo end to end: structured outputs, evals, live users on real-time feeds.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI-Native Property Workflows",
+      "position": "Founder & AI Product Builder",
+      "description": "Vision pipeline extracts structured signals (room type, condition, defects) from inspection photos, replacing paper reports with queryable, AI-readable data. LLM agents then compose multilingual, marketing-ready listings end to end.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "Anand Creations - AI Products & Forward Deployed Engineering",
+      "position": "Founder & Principal Builder",
+      "description": "Independent studio for AI-native products I design, build, and ship on my own (PulseView, Proplab, SwissNRI). Full-stack, model to UX, concept to real customers.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "A1",
+    "jobTitle": "Applied AI Engineer",
+    "jobUrl": "",
+    "jobDescription": "Applied AI Engineer at A1. Turn model capabilities into real product behavior end to end: prompts, tools, memory, agent workflows, structured outputs, latency/cost/reliability, lightweight evaluation frameworks. Stack: Python, PyTorch/JAX, LLMs (OpenAI/LLaMA/Qwen), vLLM, Vector DB.",
+    "notes": "Reframed around model → system → product. Led with LumApps agent workflows + memory + evals + reliability, Beekeeper LLM feature shipping, Robogen ML foundation (neural nets, GA, embodied learning). Publications lead with production agent case studies + verification loops + memory/RAG + embeddings interpretability.",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "A1",
+    "baseName": "applied-ai-engineer",
+    "createdAt": "2026-08-04T19:21:14.357Z",
+    "targetPath": "./generated/A1/applied-ai-engineer.json"
+  }
+}

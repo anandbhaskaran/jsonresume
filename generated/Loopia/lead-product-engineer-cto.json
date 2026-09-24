@@ -1,0 +1,332 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Lead Product Engineer & Founder | Full-Stack + Agentic AI | Ship-First, Customer-First",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Full-stack product engineer with a founder's instinct and a working system for building with AI. Lead AI Engineer at LumApps shipping production multi-agent workflows (2x conversions, $1M forecast quarterly). Founded 3 AI products on the side and run Anand Creations, taking each from concept to real users solo, code to customer. Blog and talks lay out my actual agentic-dev stack: context, prompts, tools, evals, and shipping AI reliably. Founding engineer roots at Dronistics (500+ deliveries, Unilever partnership, CES). Zurich-based, hybrid-ready, and biased toward shipping what customers actually feel.",
+    "metrics": [
+      {
+        "value": "3",
+        "label": "Products Founded"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "4",
+        "label": "Conference Talks"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Own AI product transformation end to end: agent architecture, prompts, tools over MCP, evals, tracing, cost-per-request instrumentation, and on-call. Report to C-level on outcomes. 2x open rates, 2x approved opportunities, $1M forecast in quarterly revenue.",
+        "Shipped a production multi-agent outbound system on Python, LangGraph and Google ADK over GCP Vertex AI, with state streamed to the UI over AG-UI. Verification loops and human-in-the-loop checkpoints keep it safe for real customers.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti/Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, product usage) into one time-aware memory grounding every agent."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "AG-UI",
+        "GCP",
+        "Vertex AI",
+        "OpenAI",
+        "Anthropic",
+        "RAG",
+        "Neo4j",
+        "Prompt Engineering",
+        "Evaluation Pipelines",
+        "Agentic Development",
+        "Product Ownership",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Architected Employee Referral System end to end (Java, Vue, PostgreSQL). Became the platform's top revenue channel: $1.5M+ generated, $500K ARR. Product sense: shipped the feature customers actually paid for.",
+        "Replaced $337K/yr in vendor translation costs with an in-house LLM pipeline shipped in 6 weeks. Concept to production, no gatekeepers, product team ships in new languages themselves.",
+        "Designed a distributed templating engine that cut customer setup time 90% and powers 15% of all assets on the platform (10M+ users). Full-stack, Product Owner.",
+        "Co-owned cross-functional GTM launches with Sales and PM (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Every launch shipped with instrumentation to know within a week if it moved the metric."
+      ],
+      "keywords": [
+        "TypeScript",
+        "Vue",
+        "Node.js",
+        "Java",
+        "Python",
+        "Microfrontends",
+        "Module Federation",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "PostgreSQL",
+        "Elastic Search",
+        "Kafka",
+        "GitHub Actions",
+        "Grafana",
+        "Datadog"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an autonomous drone delivery startup. Shipped the full stack (Vue, Java, PostgreSQL, real-time APIs, cloud) from an empty repo to 500+ real-world deliveries.",
+        "Built external partnerships (Unilever) and secured a CES Las Vegas showcase. Put prototypes in front of partners and turned each into the next opportunity."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "Node.js",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "CI/CD",
+        "Real-time Systems",
+        "Partnerships",
+        "Zero-to-One"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "How I actually build and ship a production agent: context, prompts, tools, evals, and what breaks in the real world (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "My system for shipping agents safely: verification loops, human-in-the-loop checkpoints, and draft-before-send patterns that keep an autonomous agent from doing the wrong thing in production."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "How I think about context and memory for agents: why temporal knowledge graphs beat vector-only RAG, and how to pick a memory stack that survives production."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Practical tutorial series on building agents from a blank file to a working autonomous system."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "How to go from a hunch to a shipped product fast: lean validation, rapid prototyping, killing what does not move the metric."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Deep-dive on shipping large frontends as composable, team-autonomous experiences."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on augmenting craft with AI rather than replacing it."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the Rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Turning open-ended AI potential into measurable product outcomes through constraint design and validation loops."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Agentic Development"
+    },
+    {
+      "name": "Founding & Zero-to-One"
+    },
+    {
+      "name": "Circular Economy"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail traders. Built for my own portfolio first, then opened to users on real-time feeds. Solo end to end (product, agents, UI, streaming). Core principle: if the model cannot explain the signal, it does not ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI-Native Property Workflows",
+      "position": "Founder & AI Product Builder",
+      "description": "Vision pipeline extracts structured signals from inspection photos, replacing paper reports with queryable data. LLM agents then compose multilingual, marketing-ready listings end to end. Concept to production, solo.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "Anand Creations - AI Products & Forward Deployed Engineering",
+      "position": "Founder & Principal Builder",
+      "description": "Independent studio and home for the AI-native products I design, build, and ship on my own (PulseView, Proplab, SwissNRI). Site, brand, and every product surface designed by me. Concept to customer, code to community.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Loopia",
+    "jobTitle": "Lead Product Engineer / CTO",
+    "jobUrl": "",
+    "jobDescription": "Loopia builds white-label trade-in and resale technology (circular economy). Hiring one engineer to own the product end to end: customer-facing UI, backend logic, partner integrations, and keeping it running. Small senior team, Zurich hybrid. Requires product sense, customer fluency, founder-like ownership, and a real system for agentic development (context, prompts, tools, evals, shipping AI safely). Motivation letter gets priority.",
+    "notes": "Reframed as founder + product engineer + agentic-dev practitioner. Led with LumApps end-to-end AI product ownership, Beekeeper Employee Referral (product sense + $1.5M+ revenue), LLM pipeline (ship-fast/6-weeks), Dronistics founding + partnerships (customer fluency: Unilever, CES). Publications lead with production agentic case studies and my written agentic-dev system.",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "Loopia",
+    "baseName": "lead-product-engineer-cto",
+    "createdAt": "2026-08-04T19:56:23.725Z",
+    "targetPath": "./generated/Loopia/lead-product-engineer-cto.json"
+  }
+}

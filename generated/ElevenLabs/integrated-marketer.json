@@ -1,0 +1,325 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "GTM Builder & Integrated Campaigns | Built AI Outbound Systems at Scale | 3× Founder | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Unusual profile for an Integrated Marketer role: I built the AI outbound system marketing teams use. At LumApps I own the production multi-agent outbound stack (2x open rates, 2x approved opportunities, $1M forecast quarterly), including personalized sequences, ABM-shaped targeting, and instrumentation that tells us within a week if a channel is working. At Beekeeper I co-owned GTM launches with Sales and PM (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, Employee Lifecycle) and ran demo systems that generated personalized content per account. MBA (93.2%), 4 international conference talks, and 3 AI products founded on the side. Bias to ship, translate positioning into copy, and measure what actually moved pipeline.",
+    "metrics": [
+      {
+        "value": "$1M+",
+        "label": "Quarterly Pipeline Forecast"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "3",
+        "label": "Products Founded"
+      },
+      {
+        "value": "4",
+        "label": "Conference Talks"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer (Outbound Sales Systems)",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Built and shipped the production AI outbound system SDRs use every day. Personalized sequences, ABM-shaped targeting from Salesforce/HubSpot, and channel instrumentation. Result: 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day, $1M forecast in quarterly revenue.",
+        "Own campaign analytics end to end: cost-per-request, conversion funnels, tracing, and per-vertical breakdowns. Kill what does not work; scale what does.",
+        "Cross-functional with Sales, Product, and RevOps. Report directly to C-level on pipeline outcomes, not activity."
+      ],
+      "keywords": [
+        "AI-Powered Outbound",
+        "Pipeline Generation",
+        "ABM",
+        "Salesforce",
+        "HubSpot",
+        "Campaign Analytics",
+        "Personalization at Scale",
+        "Cross-Functional GTM",
+        "Instrumentation",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead) & GTM Co-Owner",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Co-owned cross-functional GTM launches with Sales and PM: Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, Employee Lifecycle. Every launch shipped with instrumentation so we knew within a week if it moved pipeline.",
+        "Architected Employee Referral System end to end and ran its GTM. Became the platform's top revenue channel: $1.5M+ generated, $500K ARR. Direct engagement with enterprise buyers from discovery through post-launch.",
+        "Built GenAI demo generator that auto-produced personalized, on-brand content per account from Salesforce data. Improved demo speed and close rates; the same personalization playbook translated into email and ad creative.",
+        "Replaced $337K/yr in vendor translation costs with an in-house LLM pipeline. Unlocked localized content and campaigns in new languages without a gatekeeper. Bias to ship."
+      ],
+      "keywords": [
+        "GTM Launches",
+        "Campaign Instrumentation",
+        "Enterprise Buyers",
+        "Personalization",
+        "Localization (70+ languages ready)",
+        "Sales & Product Partnership",
+        "Revenue Ownership",
+        "Content Automation"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Evaluated 20+ startups for seed-to-VC decisions, including their GTM strategies, positioning, and campaign readiness.",
+        "Advised portfolio companies on translating product positioning into channel-ready campaigns and building instrumentation to prove pipeline impact."
+      ],
+      "keywords": [
+        "Startup GTM Advisory",
+        "Positioning",
+        "Campaign Strategy",
+        "Enterprise Sales Advisory"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at a startup. Turned prototype demos into enterprise partnerships (Unilever) and event marketing wins (CES Las Vegas showcase). Every partner conversation shaped the next campaign narrative.",
+        "Owned brand-adjacent surfaces (operator UI, partner-facing materials) alongside the full-stack build."
+      ],
+      "keywords": [
+        "Enterprise Partnerships",
+        "Event Marketing (CES)",
+        "Narrative Building",
+        "Founding Team",
+        "Zero-to-One"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of the LumApps AI outbound system: what actually moved the pipeline needle (2x open rates, 2x approved opportunities) and what did not."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Framework for taking product positioning from decks into a shipped, measured product. Lean validation, rapid iteration, killing what does not convert."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on where AI genuinely amplifies creative work: campaign copy, personalization, and content at scale."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Playbook for assembling and running high-performing teams, applicable to marketing pods and SDR partnerships."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "How verification and human-in-the-loop checkpoints keep AI-generated outbound content on-brand and safe to send."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the Rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Turning open-ended AI potential into measurable outcomes through constraint design and validation loops."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical talk on shipping large, composable web experiences at scale, foundational for landing-page and campaign-asset infrastructure."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Framework post on memory and retrieval for production agents, published on my own blog as thought leadership."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI-Powered GTM"
+    },
+    {
+      "name": "Product Positioning"
+    },
+    {
+      "name": "Content & Public Speaking"
+    },
+    {
+      "name": "Founder Coaching"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - AI Products & GTM Practice",
+      "position": "Founder & Principal Builder",
+      "description": "Independent studio and home for 3 AI-native products I design, build, market, and ship myself (SwissNRI, Proplab, PulseView). Every product needed its own positioning, landing pages, content, and channel strategy. Marketing-by-necessity, learned by doing.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail traders. Built for my own portfolio first, then opened to users. Live users acquired through content, positioning, and product-led signals, no paid budget.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border compliance platform for Swiss-Indian families. Community-led GTM through content, positioning, and word-of-mouth in a specific vertical. Zero-to-MVP in 3 months; 40% uplift in user satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "ElevenLabs",
+    "jobTitle": "Integrated Marketer",
+    "jobUrl": "",
+    "jobDescription": "Integrated Marketer at ElevenLabs for the Eleven Agents product line. Build multi-channel campaigns (paid, email, webinar, events) for 2-3 verticals. Turn product positioning into campaign assets, partner with product marketing/paid media/sales, own pipeline and conversion. 3+ yrs B2B demand gen at high-growth software/AI company.",
+    "notes": "UNUSUAL FIT: candidate is an engineer + MBA + founder, NOT a traditional marketer. Reframed as 'builder who built the AI outbound tool marketing uses' + 'MBA-trained cross-functional GTM co-owner at Beekeeper' + '3 founded products = ran their marketing solo' + 'speaker/writer track record'. JD says 'potential > past experience' — leaning into that. RISK: they may filter for standard demand-gen background. Recommend a strong cover letter framing this as a builder-turned-marketer angle.",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "ElevenLabs",
+    "baseName": "integrated-marketer",
+    "createdAt": "2026-08-04T20:58:00.594Z",
+    "targetPath": "./generated/ElevenLabs/integrated-marketer.json"
+  }
+}

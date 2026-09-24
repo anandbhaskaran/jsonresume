@@ -1,0 +1,321 @@
+<title>One Year, 138 CVs</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  color-scheme:light;
+  --bg:#f3f4f2; --surface:#fcfcfb; --line:#dcdcd7; --line-soft:#ebebe7;
+  --ink:#0b0b0b; --ink-2:#52514e; --ink-3:#83827d;
+  --s-applied:#86b6ef; --s-conv:#3987e5; --s-int:#1c5cab; --s-acc:#eb6834; --s-acc-ink:#b8451c;
+  --grid:#e6e6e1; --tip-bg:#0b0b0b; --tip-ink:#fcfcfb;
+  --chip:#e9eae6; --chip-on:#0b0b0b; --chip-on-ink:#fcfcfb;
+  --disp:"IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#141413; --surface:#1a1a19; --line:#33332f; --line-soft:#262623;
+    --ink:#ffffff; --ink-2:#c3c2b7; --ink-3:#8f8e86;
+    --s-applied:#184f95; --s-conv:#3987e5; --s-int:#9ec5f4; --s-acc:#e0632f; --s-acc-ink:#f08a5c;
+    --grid:#2a2a27; --tip-bg:#fcfcfb; --tip-ink:#0b0b0b;
+    --chip:#262623; --chip-on:#fcfcfb; --chip-on-ink:#0b0b0b;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#141413; --surface:#1a1a19; --line:#33332f; --line-soft:#262623;
+  --ink:#ffffff; --ink-2:#c3c2b7; --ink-3:#8f8e86;
+  --s-applied:#184f95; --s-conv:#3987e5; --s-int:#9ec5f4; --s-acc:#e0632f; --s-acc-ink:#f08a5c;
+  --grid:#2a2a27; --tip-bg:#fcfcfb; --tip-ink:#0b0b0b;
+  --chip:#262623; --chip-on:#fcfcfb; --chip-on-ink:#0b0b0b;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
+.wrap{max-width:1160px;margin:0 auto;padding-inline:20px;padding-block:32px 64px;display:grid;gap:40px}
+h1,h2,h3{font-family:var(--disp);margin:0;text-wrap:balance;line-height:1.05}
+h1{font-size:clamp(40px,7vw,76px);font-weight:700;letter-spacing:-.01em}
+h2{font-size:24px;font-weight:600}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+.lede{max-width:62ch;color:var(--ink-2);font-size:17px}
+.lede b{color:var(--ink);font-weight:600}
+header{display:grid;gap:14px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+.tile{background:var(--surface);border:1px solid var(--line);padding:14px 16px;display:grid;gap:2px}
+.tile .n{font-family:var(--mono);font-size:30px;font-weight:500;line-height:1.1;font-variant-numeric:tabular-nums}
+.tile .l{font-size:13px;color:var(--ink-2)}
+.tile.acc .n{color:var(--s-acc-ink)}
+section{display:grid;gap:14px;align-content:start}
+.sec-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px 20px}
+.sec-head p{margin:0;color:var(--ink-2);max-width:70ch}
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13px;color:var(--ink-2)}
+.legend span{display:inline-flex;align-items:center;gap:7px}
+.legend i{width:11px;height:11px;border-radius:50%;display:inline-block;flex:none}
+.legend i.ring{box-shadow:0 0 0 2px var(--surface),0 0 0 3.5px var(--s-acc)}
+.chart{background:var(--surface);border:1px solid var(--line);position:relative;padding:12px 8px 6px}
+.scroll{overflow-x:auto}
+svg{display:block;font-family:var(--body)}
+svg text{fill:var(--ink-2);font-size:12px}
+svg .lbl{fill:var(--ink);font-weight:500}
+svg .mono{font-family:var(--mono);font-size:11px}
+.tip{position:absolute;pointer-events:none;background:var(--tip-bg);color:var(--tip-ink);padding:8px 10px;font-size:12.5px;line-height:1.4;max-width:280px;z-index:5;display:none;border-radius:2px}
+.tip b{font-weight:600}
+.tip .d{font-family:var(--mono);font-size:11px;opacity:.75}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media (max-width:760px){.two{grid-template-columns:1fr}}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px;margin:0;padding:0;list-style:none}
+.facts li{background:var(--surface);border:1px solid var(--line);padding:14px 16px;display:grid;gap:4px}
+.facts .k{font-family:var(--mono);font-size:22px;font-variant-numeric:tabular-nums}
+.facts .t{color:var(--ink-2);font-size:14px}
+.facts .t b{color:var(--ink);font-weight:600}
+.path{display:grid;gap:0;background:var(--surface);border:1px solid var(--line)}
+.path div{display:grid;grid-template-columns:96px 1fr;gap:12px;padding:9px 16px;border-top:1px solid var(--line-soft);font-size:14px}
+.path div:first-child{border-top:0}
+.path .d{font-family:var(--mono);font-size:12.5px;color:var(--ink-3);padding-top:2px}
+.path .hi{color:var(--s-acc-ink);font-weight:600}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{font:inherit;font-size:13px;background:var(--chip);color:var(--ink);border:0;padding:5px 11px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-ink)}
+.chip:focus-visible,input:focus-visible,button:focus-visible{outline:2px solid var(--s-conv);outline-offset:2px}
+input[type=search]{font:inherit;font-size:13px;padding:6px 10px;border:1px solid var(--line);background:var(--surface);color:var(--ink);min-width:200px}
+.count{font-family:var(--mono);font-size:12px;color:var(--ink-3);margin-left:auto}
+.tbl{overflow-x:auto;background:var(--surface);border:1px solid var(--line)}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+th,td{text-align:left;padding:8px 12px;border-top:1px solid var(--line-soft);vertical-align:top}
+th{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);font-weight:500;border-top:0;cursor:pointer;white-space:nowrap;user-select:none}
+th[data-sort]:after{content:"";margin-left:4px}
+th.on:after{content:"▾"}
+td.d{font-family:var(--mono);font-size:12.5px;white-space:nowrap;color:var(--ink-2)}
+td.note{color:var(--ink-2);max-width:42ch}
+.pill{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.pill i{width:9px;height:9px;border-radius:50%;display:inline-block}
+.pill.accepted{color:var(--s-acc-ink);font-weight:600}
+tr.acc td{background:color-mix(in oklab,var(--s-acc) 8%,transparent)}
+.foot{color:var(--ink-3);font-size:12.5px;max-width:80ch}
+@media (prefers-reduced-motion:no-preference){.chip{transition:background .15s}}
+</style>
+
+<div class="wrap">
+<header>
+  <div class="eyebrow">Job hunt log · 14 Sep 2025 to 18 Sep 2026</div>
+  <h1>One year, 138 CVs, one signature.</h1>
+  <p class="lede">Every tailored CV that left the build pipeline, plotted by the week it was written. Colour is how far each one got. The orange dot is <b>Salesforce, Lead Forward Deployed Engineer</b>: offer accepted 18 Sep 2026, contract signed 22 Sep, first day 4 Jan 2027.</p>
+  <div class="tiles" id="tiles"></div>
+</header>
+
+<section>
+  <div class="sec-head">
+    <h2>When the CVs went out</h2>
+    <div class="legend">
+      <span><i style="background:var(--s-applied)"></i>Applied, no recorded reply</span>
+      <span><i style="background:var(--s-conv)"></i>Conversation</span>
+      <span><i style="background:var(--s-int)"></i>Interview loop</span>
+      <span><i class="ring" style="background:var(--s-acc)"></i>Offer accepted</span>
+    </div>
+  </div>
+  <div class="chart"><div class="scroll"><svg id="timeline" role="img" aria-label="Weekly dot timeline of 138 job applications from September 2025 to September 2026, with the Salesforce interview path marked below the axis"></svg></div><div class="tip" id="tip1"></div></div>
+  <p class="foot">One dot per CV, stacked by ISO week. Hover a dot for the company, role and what happened. The rail under the axis is the Salesforce path from CV to first day; the gap after 22 Sep is the three-month notice period at Lumapps.</p>
+</section>
+
+<div class="two">
+  <section>
+    <div class="sec-head"><h2>What I applied for</h2></div>
+    <div class="chart"><svg id="cats" role="img" aria-label="Horizontal bars of application count by role category, segmented by stage reached"></svg><div class="tip" id="tip2"></div></div>
+    <p class="foot">Categories come from the job title. The winning role sat in the FDE bar, the fifth-largest of eight.</p>
+  </section>
+  <section>
+    <div class="sec-head"><h2>The Salesforce path</h2></div>
+    <div class="path" id="path"></div>
+  </section>
+</div>
+
+<section>
+  <div class="sec-head"><h2>Things the data says</h2></div>
+  <ul class="facts" id="facts"></ul>
+</section>
+
+<section>
+  <div class="sec-head"><h2>All 138</h2><p>Filter by stage or category, search a company, click a header to sort.</p></div>
+  <div class="controls" id="controls">
+    <input type="search" id="q" placeholder="Search company or role" aria-label="Search company or role">
+    <span class="count" id="count"></span>
+  </div>
+  <div class="controls" id="catchips"></div>
+  <div class="tbl"><table id="table"><thead><tr>
+    <th data-sort="date" class="on">Date</th><th data-sort="co">Company</th><th data-sort="role">Role</th><th data-sort="cat">Category</th><th data-sort="stage">Stage</th><th>Notes</th>
+  </tr></thead><tbody></tbody></table></div>
+</section>
+</div>
+
+<script>
+const DATA = [{"co":"Amazon","role":"Senior Delivery Consultant","date":"2025-09-14","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"EPAM","role":"Senior Full Stack Developer","date":"2025-09-14","cat":"Software engineer","stage":"conversation","note":"Call 3 Sep 2025. Banking consultancy, Zurich and Geneva."},{"co":"Snaplabs","role":"Software Engineer Augmented Reality","date":"2025-09-14","cat":"Software engineer","stage":"applied","note":""},{"co":"Aeon","role":"Founding Engineer","date":"2025-09-15","cat":"Founder / CTO","stage":"conversation","note":"Call with the CPO 23 Jan 2025. Full-body MRI predictive diagnostics. Stock-heavy deal floated."},{"co":"Copebit","role":"AI Senior Software Development Engineer","date":"2025-09-15","cat":"AI engineer","stage":"applied","note":""},{"co":"Copebit","role":"AWS Senior Software Development Engineer","date":"2025-09-15","cat":"Software engineer","stage":"applied","note":"Copebit had already made an offer in Feb 2023 during an earlier hunt. Re-applied here."},{"co":"Mintlify","role":"Product Engineer","date":"2025-09-15","cat":"Software engineer","stage":"applied","note":""},{"co":"Supabase","role":"Technical Product Manager","date":"2025-09-15","cat":"Product / Leadership","stage":"applied","note":""},{"co":"Coltech","role":"Senior Software Engineer Python AI","date":"2025-09-17","cat":"AI engineer","stage":"applied","note":""},{"co":"Marqea","role":"CTO Lead AI Developer","date":"2025-09-17","cat":"Founder / CTO","stage":"applied","note":""},{"co":"Lakera","role":"Senior Product Engineer","date":"2025-09-22","cat":"Software engineer","stage":"conversation","note":"Call 21 Oct 2025. Makers of the Gandalf prompt-injection game. Loop: technical call then onsite with a task."},{"co":"AWS","role":"Senior Solutions Architect Generative AI Startups AWS","date":"2025-10-23","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"SIX","role":"Senior Application Engineer","date":"2025-10-23","cat":"Software engineer","stage":"applied","note":""},{"co":"UBS","role":"Product Growth Lead","date":"2025-10-23","cat":"Product / Leadership","stage":"applied","note":""},{"co":"UBS","role":"Product Owner Red Your UBS AI Assistant","date":"2025-10-23","cat":"Product / Leadership","stage":"applied","note":"Rejected with a written feedback PDF on 28 Oct 2025. The only company that sent feedback."},{"co":"Zühlke","role":"Lead Software Architect Java","date":"2025-10-23","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"Saidler & Co","role":"Lead AI Engineer","date":"2025-11-02","cat":"AI engineer","stage":"interview","note":"Meeting 6 Nov 2025 plus a case study paper. Hedge fund / crypto investor."},{"co":"Reprisk","role":"Senior AI Engineer","date":"2025-11-05","cat":"AI engineer","stage":"applied","note":""},{"co":"Coverstar","role":"Lead Software Engineer","date":"2026-02-12","cat":"Software engineer","stage":"conversation","note":"Call 11 Feb 2026. Social platform for kids, 1M monthly users, Zurich office."},{"co":"Pinterest","role":"Sr Software Engineer","date":"2026-02-12","cat":"Software engineer","stage":"applied","note":""},{"co":"SwissRe","role":"AI Engineering Lead","date":"2026-02-24","cat":"AI engineer","stage":"applied","note":""},{"co":"AXA","role":"Senior GenAI Engineer","date":"2026-03-10","cat":"AI engineer","stage":"applied","note":""},{"co":"Adobe","role":"Senior Cloud AI Engineer","date":"2026-03-11","cat":"AI engineer","stage":"applied","note":""},{"co":"LGT Capital Partners","role":"Solution Architect AI Firmwide Technology Focus","date":"2026-03-11","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"Upsilon Family","role":"Independent Contractor Venture Partner","date":"2026-03-17","cat":"Founder / CTO","stage":"applied","note":""},{"co":"Kraken","role":"AI Agents Solutions Architect Finance","date":"2026-05-03","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"On","role":"Staff Software Engineer","date":"2026-05-11","cat":"Software engineer","stage":"applied","note":""},{"co":"AWS","role":"Principal GTM Specialist Solution Architect AI ML GenAI EMEA Data and AI Solutions Architecture","date":"2026-05-20","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"Volaris Group","role":"AI Engineering Lead Portfolio AI Enablement","date":"2026-05-29","cat":"AI engineer","stage":"conversation","note":"Call 27 May. Buy-and-hold software group, 250 companies, wants a small AI team for one 40-company portfolio."},{"co":"AI Coworker (Accel)","role":"AI Agent Engineer","date":"2026-06-09","cat":"AI engineer","stage":"applied","note":""},{"co":"DuvoAI","role":"Forward Deployed Engineer","date":"2026-06-11","cat":"FDE","stage":"applied","note":""},{"co":"EWOR","role":"Founder Fellow","date":"2026-06-12","cat":"Founder / CTO","stage":"conversation","note":"Fellowship event 18 Jun with 336 attendees. Met Migma, Sapiaverse and others."},{"co":"Vontobel","role":"Senior AI Architect","date":"2026-06-12","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"Google","role":"Staff Forward Deployed Engineer GenAI Google Cloud","date":"2026-06-13","cat":"FDE","stage":"applied","note":""},{"co":"AlphaSense","role":"Senior Manager GTM Engineering","date":"2026-06-15","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"Anthropic","role":"Data Scientist GTM","date":"2026-06-15","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"Mews","role":"GTM AI Builder","date":"2026-06-15","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"Nebius","role":"Director GTM Physical AI","date":"2026-06-15","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"Reltio","role":"Sr Manager AI GTM Strategy Enablement","date":"2026-06-15","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"STEALTH","role":"Deputy CTO","date":"2026-06-15","cat":"Founder / CTO","stage":"applied","note":""},{"co":"Sunrise","role":"Sr Tech Lead Agentic AI Platform MCP","date":"2026-06-17","cat":"AI engineer","stage":"applied","note":""},{"co":"Snyk","role":"Staff Incubation Engineer","date":"2026-06-22","cat":"Software engineer","stage":"applied","note":""},{"co":"Vontobel","role":"Senior AI Architect","date":"2026-06-22","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"Firinne Solutions","role":"Head of AI Transformation Global Sports Betting Technology Provider","date":"2026-06-23","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"NWS Management AG","role":"Entrepreneurial Lead Data AI Advisory","date":"2026-06-23","cat":"Founder / CTO","stage":"applied","note":""},{"co":"NWS Management AG","role":"Principal Engineer Engineering Lead Agentic AI","date":"2026-06-23","cat":"AI engineer","stage":"applied","note":""},{"co":"Orderfox","role":"Senior AI Data Product Engineer","date":"2026-06-23","cat":"AI engineer","stage":"applied","note":""},{"co":"RM Group","role":"Strategic Solution Architect AI Data Lead","date":"2026-06-23","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"Voila AI","role":"AI Engineer","date":"2026-06-23","cat":"AI engineer","stage":"applied","note":""},{"co":"re-cinq","role":"Lead AI Native Engineer","date":"2026-07-01","cat":"AI engineer","stage":"applied","note":""},{"co":"AWS","role":"Principal Delivery Consultant Technical Lead GenAI ML Data Science Professional Services AWS Industries","date":"2026-07-13","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"Anthropic","role":"Applied AI Architect Industries","date":"2026-07-13","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"Google","role":"Forward Deployed Engineer Applied AI Google Cloud","date":"2026-07-13","cat":"FDE","stage":"applied","note":""},{"co":"Google","role":"Partner Solution Architect Regional System Integrators","date":"2026-07-13","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"Kraken","role":"Founding DevRel Lead","date":"2026-07-13","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"Ledgy","role":"Staff Senior Software Engineer","date":"2026-07-13","cat":"Software engineer","stage":"conversation","note":"Talked 8 Jul 2025 about the Apollo team vacancy and salary bands."},{"co":"OpenAI","role":"Technical Deployment Lead Forward Deployed Engineering Zurich","date":"2026-07-13","cat":"FDE","stage":"applied","note":""},{"co":"Remote","role":"Senior Forward Deployed Engineer Remote Build","date":"2026-07-13","cat":"FDE","stage":"applied","note":""},{"co":"Replit","role":"Head of Forward Deployed Engineering","date":"2026-07-13","cat":"FDE","stage":"applied","note":""},{"co":"Admin AI (via TechTree)","role":"Infrastructure Engineer","date":"2026-07-14","cat":"Software engineer","stage":"applied","note":""},{"co":"EPAM","role":"Director Applied AI Transformation Software Hi Tech","date":"2026-07-15","cat":"Product / Leadership","stage":"applied","note":""},{"co":"Galileo","role":"Principal Engineer","date":"2026-07-15","cat":"Software engineer","stage":"applied","note":""},{"co":"Nerdy","role":"AI Product Engineer","date":"2026-07-15","cat":"AI engineer","stage":"applied","note":""},{"co":"Pencil","role":"AI Transformation Lead","date":"2026-07-15","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"Riverkin","role":"CTO","date":"2026-07-15","cat":"Founder / CTO","stage":"conversation","note":"Call 20 Jul. River sensing for hydro and flash-flood warning. Hands-on CTO to take an MVP to production."},{"co":"Rivia","role":"Founding AI Engineer","date":"2026-07-15","cat":"Founder / CTO","stage":"applied","note":""},{"co":"Rivia","role":"Senior AI Engineer","date":"2026-07-15","cat":"AI engineer","stage":"conversation","note":"Recruiter call 13 Aug. Series A, 22 people. Loop: tech screen, CTO, onsite."},{"co":"Alpaca","role":"Senior Fullstack Engineer Trading API","date":"2026-07-20","cat":"Quant / Finance","stage":"applied","note":""},{"co":"Ashby","role":"Staff Software Engineer Product Engineering","date":"2026-07-20","cat":"Software engineer","stage":"applied","note":""},{"co":"Avaloq","role":"AI Software Engineer","date":"2026-07-20","cat":"AI engineer","stage":"applied","note":""},{"co":"Maze","role":"Engineering Director","date":"2026-07-21","cat":"Product / Leadership","stage":"conversation","note":"Applied for Engineering Director. They called back for a Backend AI Engineer seat instead."},{"co":"Roche","role":"Fullstack Developer","date":"2026-07-21","cat":"Software engineer","stage":"applied","note":""},{"co":"Roche","role":"Senior Business Product Owner AI Knowledge Management","date":"2026-07-21","cat":"Product / Leadership","stage":"applied","note":""},{"co":"Salesforce","role":"Lead Forward Deployed Engineer","date":"2026-07-21","cat":"FDE","stage":"accepted","note":"CV 21 Jul. Recruiter screen 3 Aug. HM interview 10 Aug ran 90 min instead of 45. Panel 7 Sep probed stakeholder handling, not architecture. Zurich onsite 14 Sep. Written offer 16 Sep, countered twice, accepted on a call 18 Sep, signed 22 Sep. Start 4 Jan 2027."},{"co":"Social Discovery Group","role":"Deputy CTO","date":"2026-07-21","cat":"Founder / CTO","stage":"applied","note":""},{"co":"Hoshii AG","role":"Forward Deployed Software Engineer","date":"2026-08-02","cat":"FDE","stage":"applied","note":""},{"co":"Thomson Reuters","role":"Lead AI Engineer","date":"2026-08-02","cat":"AI engineer","stage":"applied","note":""},{"co":"Chainlink","role":"Senior Solutions Architect","date":"2026-08-03","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"Citadel Securities","role":"Platform Engineer","date":"2026-08-03","cat":"Software engineer","stage":"applied","note":""},{"co":"EnzianLabs","role":"CTO Quant Engineer","date":"2026-08-03","cat":"Founder / CTO","stage":"applied","note":""},{"co":"G-20 Group","role":"Prediction Markets Quant Engineer","date":"2026-08-03","cat":"Quant / Finance","stage":"interview","note":"Interview with the CPO and Chief Quant Officer late Aug. Built an intro deck and a study plan for it."},{"co":"OpenAI","role":"Forward Deployed Engineer","date":"2026-08-03","cat":"FDE","stage":"applied","note":""},{"co":"Partners Group","role":"AI Engineer","date":"2026-08-03","cat":"AI engineer","stage":"applied","note":""},{"co":"Unique AI","role":"Forward Deployed Data Scientist Team Lead FSI Enterprise Solutions","date":"2026-08-03","cat":"FDE","stage":"applied","note":""},{"co":"A1","role":"Applied AI Engineer","date":"2026-08-04","cat":"AI engineer","stage":"applied","note":""},{"co":"A1","role":"Entrepreneur in Residence","date":"2026-08-04","cat":"Founder / CTO","stage":"applied","note":""},{"co":"A1","role":"Full Stack Engineer AI Systems","date":"2026-08-04","cat":"AI engineer","stage":"applied","note":""},{"co":"AP Group","role":"Applied AI Engineer","date":"2026-08-04","cat":"AI engineer","stage":"applied","note":""},{"co":"Adobe","role":"AI Native Design Engineer and Product Builder","date":"2026-08-04","cat":"AI engineer","stage":"applied","note":"CV reworked twice between 4 and 10 Aug."},{"co":"Base360","role":"Entrepreneur in Residence","date":"2026-08-04","cat":"Founder / CTO","stage":"applied","note":""},{"co":"ElevenLabs","role":"Integrated Marketer","date":"2026-08-04","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"GitLab","role":"Staff Forward Deployed Engineer Agentic SDLC","date":"2026-08-04","cat":"FDE","stage":"applied","note":""},{"co":"Infisical","role":"Senior Full Stack Engineer","date":"2026-08-04","cat":"Software engineer","stage":"applied","note":""},{"co":"Khare Automations","role":"Founding Lead Software Engineer","date":"2026-08-04","cat":"Founder / CTO","stage":"applied","note":""},{"co":"Loopia","role":"Lead Product Engineer CTO","date":"2026-08-04","cat":"Founder / CTO","stage":"applied","note":""},{"co":"Luware","role":"AI Transformation Engineer","date":"2026-08-04","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"Mercora","role":"Founding Engineer","date":"2026-08-04","cat":"Founder / CTO","stage":"applied","note":""},{"co":"PostHog","role":"Context Engineer","date":"2026-08-04","cat":"AI engineer","stage":"applied","note":""},{"co":"ROSEN","role":"GenAI Product Owner","date":"2026-08-04","cat":"Product / Leadership","stage":"applied","note":""},{"co":"Resend","role":"Product Engineer","date":"2026-08-04","cat":"Software engineer","stage":"applied","note":""},{"co":"Sanity","role":"GTM Engineer","date":"2026-08-04","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"Supabase","role":"AI Platform Engineer","date":"2026-08-04","cat":"AI engineer","stage":"interview","note":"Recruiter 18 Aug, HM 30 Aug, peer 8 Sep, technical 9 Sep. Rejected 17 Sep, the day after the Salesforce offer landed."},{"co":"Supabase","role":"GTM Strategist","date":"2026-08-04","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"The Flex","role":"Founding Software Engineer","date":"2026-08-04","cat":"Founder / CTO","stage":"applied","note":""},{"co":"Zapier","role":"Applied AI Engineer","date":"2026-08-04","cat":"AI engineer","stage":"applied","note":""},{"co":"ekona","role":"Senior AI Engineer","date":"2026-08-04","cat":"AI engineer","stage":"applied","note":""},{"co":"Chainguard","role":"Senior Software Engineer AI CI/CD","date":"2026-08-05","cat":"AI engineer","stage":"applied","note":""},{"co":"Hightouch","role":"AI Engineer","date":"2026-08-05","cat":"AI engineer","stage":"applied","note":""},{"co":"IMC","role":"Core Developer Digital Assets","date":"2026-08-05","cat":"Quant / Finance","stage":"applied","note":""},{"co":"Remote","role":"Forward Deployed Engineer AI","date":"2026-08-05","cat":"FDE","stage":"applied","note":""},{"co":"Remote","role":"GTM Strategy Principal","date":"2026-08-05","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"Remote","role":"Senior Forward Deployed Engineer","date":"2026-08-05","cat":"FDE","stage":"applied","note":""},{"co":"X-Team","role":"Agentic AI Architect","date":"2026-08-05","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"X-Team","role":"Senior AI Engineer","date":"2026-08-05","cat":"AI engineer","stage":"applied","note":""},{"co":"X-Team","role":"Senior Backend Engineer","date":"2026-08-05","cat":"Software engineer","stage":"applied","note":""},{"co":"Neho","role":"AI Product Engineer","date":"2026-08-13","cat":"AI engineer","stage":"applied","note":""},{"co":"AWS","role":"Sr Specialist SA GenAI Specialists Team Germany Switzerland and CEE","date":"2026-08-17","cat":"Architect / Consulting","stage":"applied","note":""},{"co":"Ampersand World","role":"Portfolio Performance Value Creation Officer","date":"2026-08-17","cat":"Quant / Finance","stage":"applied","note":""},{"co":"Caplena","role":"Forward Deployed Engineer","date":"2026-08-17","cat":"FDE","stage":"applied","note":""},{"co":"Clove","role":"Product Engineer","date":"2026-08-17","cat":"Software engineer","stage":"applied","note":""},{"co":"EWOR","role":"AI Cofounder CEO","date":"2026-08-17","cat":"Founder / CTO","stage":"applied","note":""},{"co":"EWOR","role":"Applied AI Cofounder CPTO","date":"2026-08-17","cat":"Founder / CTO","stage":"applied","note":""},{"co":"Hitachi Energy","role":"Global AI Prompting Engineer PGTR","date":"2026-08-17","cat":"AI engineer","stage":"applied","note":""},{"co":"Julius Baer","role":"Senior Portfolio Engineer and Financial Data Specialist","date":"2026-08-17","cat":"Quant / Finance","stage":"applied","note":""},{"co":"Snowflake","role":"Senior Solution Engineer","date":"2026-08-17","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"Vontobel","role":"Emerging Markets Equity Research Associate","date":"2026-08-17","cat":"Quant / Finance","stage":"applied","note":""},{"co":"Arize","role":"AI Sales Engineer EMEA","date":"2026-08-18","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"Federato","role":"Senior Forward Deployed Engineer","date":"2026-08-18","cat":"FDE","stage":"applied","note":""},{"co":"Hostaway","role":"Lead AI GTM Engineer","date":"2026-08-18","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"Kalepa","role":"Staff Backend Engineer","date":"2026-08-18","cat":"Software engineer","stage":"applied","note":""},{"co":"TLDR","role":"GTM Engineer Applied AI","date":"2026-08-18","cat":"GTM / Sales eng","stage":"applied","note":""},{"co":"Admin AI (via TechTree)","role":"Forward Deployed Engineer","date":"2026-08-18","cat":"FDE","stage":"interview","note":"Stealth healthcare AI startup (Admin AI) found via the TechTree board. Tech interview 19 Aug went very well."},{"co":"micro1","role":"Member of Technical Staff Enterprise AI","date":"2026-08-18","cat":"AI engineer","stage":"applied","note":""},{"co":"Swiss Re","role":"AI Engineer","date":"2026-08-19","cat":"AI engineer","stage":"applied","note":""},{"co":"Merantix Commodities","role":"Cofounder CTO","date":"2026-08-21","cat":"Founder / CTO","stage":"applied","note":""},{"co":"EnzianLabs","role":"Founding Product Engineer","date":"2026-09-14","cat":"Founder / CTO","stage":"applied","note":""},{"co":"Google","role":"AI Innovation Engineer Google Cloud","date":"2026-09-16","cat":"AI engineer","stage":"applied","note":"Sent 16 Sep, two days before accepting Salesforce."},{"co":"Google","role":"Senior Staff Forward Deployed Engineer GenAI Google Cloud","date":"2026-09-16","cat":"FDE","stage":"applied","note":"Sent 16 Sep, the day the Salesforce written offer arrived. Cover letter finished 21 Sep."}];
+const STAGES = {applied:{l:'Applied',c:'var(--s-applied)',r:0},conversation:{l:'Conversation',c:'var(--s-conv)',r:1},interview:{l:'Interview loop',c:'var(--s-int)',r:2},accepted:{l:'Offer accepted',c:'var(--s-acc)',r:3}};
+const CATS = ['AI engineer','Founder / CTO','Software engineer','Architect / Consulting','FDE','GTM / Sales eng','Quant / Finance','Product / Leadership'];
+const fmt = s => { const d=new Date(s+'T00:00:00'); return d.toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'}); };
+const fmtS = s => { const d=new Date(s+'T00:00:00'); return d.toLocaleDateString('en-GB',{day:'numeric',month:'short'}); };
+const svgNS='http://www.w3.org/2000/svg';
+const el=(t,a={},txt)=>{const e=document.createElementNS(svgNS,t);for(const k in a)e.setAttribute(k,a[k]);if(txt!=null)e.textContent=txt;return e;};
+
+/* ---------- tiles ---------- */
+const companies=new Set(DATA.map(d=>d.co)).size;
+const conv=DATA.filter(d=>d.stage!=='applied').length;
+const loops=DATA.filter(d=>d.stage==='interview'||d.stage==='accepted').length;
+document.getElementById('tiles').innerHTML=[
+  ['138','tailored CVs',''],[companies,'companies',''],[conv,'reached a conversation',''],[loops,'full interview loops',''],['1','offer, accepted','acc'],['369','days, first CV to yes','']
+].map(([n,l,c])=>`<div class="tile ${c}"><div class="n">${n}</div><div class="l">${l}</div></div>`).join('');
+
+/* ---------- tooltip helper ---------- */
+function tipper(tipEl, wrapEl){
+  return {
+    show(html,evt){ tipEl.innerHTML=html; tipEl.style.display='block'; this.move(evt); },
+    move(evt){ const r=wrapEl.getBoundingClientRect(); let x=evt.clientX-r.left+14, y=evt.clientY-r.top+14;
+      const tw=tipEl.offsetWidth, th=tipEl.offsetHeight; if(x+tw>r.width-8) x=evt.clientX-r.left-tw-14; if(y+th>r.height-4) y=evt.clientY-r.top-th-10; tipEl.style.left=x+'px'; tipEl.style.top=y+'px'; },
+    hide(){ tipEl.style.display='none'; }
+  };
+}
+const rowTip = d => `<b>${d.co}</b><br>${d.role}<br><span class="d">${fmt(d.date)} · ${d.cat} · ${STAGES[d.stage].l}</span>${d.note?'<br>'+d.note:''}`;
+
+/* ---------- timeline ---------- */
+(function(){
+  const svg=document.getElementById('timeline'), wrap=svg.closest('.chart'), tip=tipper(document.getElementById('tip1'),wrap);
+  const W=1120, ML=14, MR=70, top=64, dotR=3.8, pitch=9, cols=2;
+  const start=new Date('2025-09-01T00:00:00'), end=new Date('2027-01-16T00:00:00');
+  const weeks=Math.ceil((end-start)/864e5/7);
+  const weekW=(W-ML-MR)/weeks;
+  const xOf=d=>ML+((new Date(d+'T00:00:00')-start)/864e5/7)*weekW;
+  // group by week
+  const byWeek={}; DATA.forEach(d=>{const w=Math.floor((new Date(d.date+'T00:00:00')-start)/864e5/7);(byWeek[w]=byWeek[w]||[]).push(d);});
+  const maxN=Math.max(...Object.values(byWeek).map(a=>a.length));
+  const rows=Math.ceil(maxN/cols);
+  const baseY=top+rows*pitch+8;
+  const railTop=baseY+30, H=railTop+120;
+  svg.setAttribute('viewBox',`0 0 ${W} ${H}`); svg.setAttribute('width',W); svg.setAttribute('height',H); svg.style.minWidth=W+'px';
+  // month grid + labels
+  let m=new Date(start);
+  while(m<end){
+    const x=ML+((m-start)/864e5/7)*weekW;
+    svg.appendChild(el('line',{x1:x,x2:x,y1:top-6,y2:baseY,stroke:'var(--grid)','stroke-width':1}));
+    const lab=m.toLocaleDateString('en-GB',{month:'short'});
+    const t=el('text',{x:x+4,y:baseY+14,class:'mono'},m.getMonth()===0||m.getTime()===start.getTime()?lab+' '+m.getFullYear():lab);
+    svg.appendChild(t);
+    m=new Date(m.getFullYear(),m.getMonth()+1,1);
+  }
+  svg.appendChild(el('line',{x1:ML,x2:W-MR,y1:baseY,y2:baseY,stroke:'var(--line)','stroke-width':1}));
+  // dots
+  const order={accepted:0,interview:1,conversation:2,applied:3};
+  Object.entries(byWeek).forEach(([w,list])=>{
+    list.sort((a,b)=>order[b.stage]-order[a.stage]||a.date.localeCompare(b.date)); // accepted ends on top
+    const x0=ML+(+w)*weekW+weekW/2-((cols-1)*pitch)/2;
+    list.forEach((d,i)=>{
+      const cx=x0+(i%cols)*pitch, cy=baseY-6-Math.floor(i/cols)*pitch;
+      const g=el('g',{tabindex:0,role:'img','aria-label':`${d.co}, ${d.role}, ${fmt(d.date)}, ${STAGES[d.stage].l}`});
+      g.style.cursor='default';
+      if(d.stage==='accepted'){ g.appendChild(el('circle',{cx,cy,r:dotR+3.5,fill:'var(--s-acc)'})); g.appendChild(el('circle',{cx,cy,r:dotR+1.5,fill:'var(--surface)'})); }
+      g.appendChild(el('circle',{cx,cy,r:dotR,fill:STAGES[d.stage].c}));
+      g.appendChild(el('rect',{x:cx-pitch/2,y:cy-pitch/2,width:pitch,height:pitch,fill:'transparent'}));
+      g.addEventListener('mouseenter',e=>tip.show(rowTip(d),e)); g.addEventListener('mousemove',e=>tip.move(e)); g.addEventListener('mouseleave',()=>tip.hide());
+      g.addEventListener('focus',e=>{const r=g.getBoundingClientRect();tip.show(rowTip(d),{clientX:r.left+r.width/2,clientY:r.top});}); g.addEventListener('blur',()=>tip.hide());
+      svg.appendChild(g);
+      if(d.stage==='accepted'){ svg.appendChild(el('text',{x:cx-13,y:cy-2,class:'lbl','text-anchor':'end'},'Salesforce')); svg.appendChild(el('text',{x:cx-13,y:cy+12,class:'mono','text-anchor':'end'},'Lead FDE · 21 Jul')); }
+    });
+  });
+  // direct labels for the two other loops, both in the week of 3 Aug
+  (function(){ const w=Math.floor((new Date('2026-08-03T00:00:00')-start)/864e5/7); const n=byWeek[w].length; const cx=ML+w*weekW+weekW/2; const colTop=baseY-6-(Math.ceil(n/cols)-1)*pitch-dotR;
+    svg.appendChild(el('line',{x1:cx,y1:colTop-3,x2:cx,y2:top-20,stroke:'var(--line)'}));
+    svg.appendChild(el('text',{x:cx,y:top-24,class:'mono','text-anchor':'middle'},'Same week: Supabase (4 rounds, out 17 Sep)'));
+    svg.appendChild(el('text',{x:cx,y:top-38,class:'mono','text-anchor':'middle'},'and G-20 (quant loop, late Aug)'));
+    svg.appendChild(el('text',{x:cx+14,y:colTop+8,class:'mono'},n+' CVs in one week')); })();
+  // Salesforce rail
+  const rail=[['2026-07-21','CV',0],['2026-08-03','Recruiter',1],['2026-08-10','HM',0],['2026-09-07','Panel',1],['2026-09-14','Onsite',0],['2026-09-16','Offer',1],['2026-09-18','Yes',0],['2026-09-22','Signed',1],['2027-01-04','Day 1',0]];
+  const ry=railTop+30;
+  svg.appendChild(el('text',{x:ML,y:railTop+4,class:'mono'},'SALESFORCE PATH'));
+  svg.appendChild(el('line',{x1:xOf('2026-07-21'),x2:xOf('2026-09-22'),y1:ry,y2:ry,stroke:'var(--s-acc)','stroke-width':2}));
+  svg.appendChild(el('line',{x1:xOf('2026-09-22'),x2:xOf('2027-01-04'),y1:ry,y2:ry,stroke:'var(--s-acc)','stroke-width':2,'stroke-dasharray':'2 5'}));
+  svg.appendChild(el('text',{x:(xOf('2026-09-22')+xOf('2027-01-04'))/2,y:ry-10,class:'mono','text-anchor':'middle'},'3-month notice at Lumapps'));
+  const slot0=xOf('2026-07-02'), slotW=(xOf('2027-01-14')-slot0)/(rail.length-1);
+  rail.forEach(([d,l],i)=>{ const x=xOf(d), sx=slot0+i*slotW; svg.appendChild(el('circle',{cx:x,cy:ry,r:4,fill:'var(--s-acc)',stroke:'var(--surface)','stroke-width':2}));
+    svg.appendChild(el('polyline',{points:`${x},${ry+5} ${sx},${ry+26} ${sx},${ry+36}`,fill:'none',stroke:'var(--line)'}));
+    svg.appendChild(el('text',{x:sx,y:ry+50,'text-anchor':'middle',class:'lbl',style:'font-size:12px'},l));
+    svg.appendChild(el('text',{x:sx,y:ry+64,'text-anchor':'middle',class:'mono',fill:'var(--ink-3)',style:'font-size:10.5px'},fmtS(d))); });
+})();
+
+/* ---------- categories ---------- */
+(function(){
+  const svg=document.getElementById('cats'), wrap=svg.closest('.chart'), tip=tipper(document.getElementById('tip2'),wrap);
+  const W=560, ML=160, MR=40, rowH=30, top=8, barH=14;
+  const H=top+CATS.length*rowH+8;
+  svg.setAttribute('viewBox',`0 0 ${W} ${H}`); svg.setAttribute('width','100%'); svg.style.maxWidth='100%';
+  const totals=CATS.map(c=>DATA.filter(d=>d.cat===c).length); const max=Math.max(...totals);
+  const sx=n=>n/max*(W-ML-MR);
+  CATS.forEach((c,i)=>{
+    const y=top+i*rowH+8; const rows=DATA.filter(d=>d.cat===c);
+    svg.appendChild(el('text',{x:ML-10,y:y+barH-3,'text-anchor':'end',class:'lbl'},c));
+    let x=ML; ['applied','conversation','interview','accepted'].forEach(s=>{
+      const n=rows.filter(d=>d.stage===s).length; if(!n) return;
+      const w=sx(n); const isLast=s==='accepted'||['conversation','interview','accepted'].every(k=>k===s||!rows.some(d=>d.stage===k&&STAGES[k].r>STAGES[s].r));
+      const r=el('rect',{x:x+(x>ML?2:0),y,width:Math.max(w-(x>ML?2:0),1.5),height:barH,fill:STAGES[s].c,rx:isLast?3:0});
+      const names=rows.filter(d=>d.stage===s).map(d=>d.co); const uniq=[...new Set(names)];
+      r.addEventListener('mouseenter',e=>tip.show(`<b>${c}</b> · ${STAGES[s].l}: ${n}<br><span class="d">${uniq.slice(0,12).join(', ')}${uniq.length>12?' +'+(uniq.length-12)+' more':''}</span>`,e));
+      r.addEventListener('mousemove',e=>tip.move(e)); r.addEventListener('mouseleave',()=>tip.hide());
+      svg.appendChild(r); x+=w;
+    });
+    svg.appendChild(el('text',{x:x+6,y:y+barH-3,class:'mono'},totals[i]));
+  });
+})();
+
+/* ---------- Salesforce path list ---------- */
+document.getElementById('path').innerHTML=[
+ ['21 Jul 2026','Tailored CV built. Same day as CVs for Maze, Roche and Social Discovery Group.'],
+ ['3 Aug','Recruiter screen. Gave a 200k CHF expectation without asking for the band.'],
+ ['10 Aug','Hiring manager interview, booked for 45 min, ran about 90. Mostly expectation and stakeholder handling.'],
+ ['25 Aug','Mock panel with a friend. Feedback: state scope, timeline and a discovery phase before the solution.'],
+ ['7 Sep','Panel, 50 min. Probed conflict, trust and escalation, not agent internals. Had no sharp questions ready for the last 5 min.'],
+ ['14 Sep','Meet and greet at the Zurich office.'],
+ ['16 Sep','Verbal then written offer, same day.'],
+ ['17 Sep','Counter sent. That evening Supabase closed its loop with a no.'],
+ ['18 Sep','<span class="hi">Final ask approved on a call. Accepted.</span> Base up about 5% and equity doubled versus the draft.'],
+ ['22 Sep','Contract set signed in Workday. Resignation sent to Lumapps the same day.'],
+ ['4 Jan 2027','First day.'],
+].map(([d,t])=>`<div><span class="d">${d}</span><span>${t}</span></div>`).join('');
+
+/* ---------- facts ---------- */
+const byDay={}; DATA.forEach(d=>byDay[d.date]=(byDay[d.date]||0)+1);
+const busiest=Object.entries(byDay).sort((a,b)=>b[1]-a[1])[0];
+const burst=DATA.filter(d=>d.date>='2026-07-13'&&d.date<='2026-08-21').length;
+const repeat=Object.entries(DATA.reduce((m,d)=>(m[d.co]=(m[d.co]||0)+1,m),{})).filter(([,n])=>n>1).sort((a,b)=>b[1]-a[1]);
+const fde=DATA.filter(d=>d.cat==='FDE').length;
+const idx=DATA.findIndex(d=>d.stage==='accepted')+1;
+document.getElementById('facts').innerHTML=[
+ [busiest[1],`CVs written on <b>${fmt(busiest[0])}</b>, the single busiest day. Ten more followed the next day.`],
+ [`${Math.round(burst/DATA.length*100)}%`,`of the year's CVs (${burst} of 138) left in the six weeks from 13 Jul to 21 Aug 2026. The Salesforce CV was in that burst.`],
+ ['99 days',`of silence between 5 Nov 2025 and 12 Feb 2026. Two CVs in November, none in December or January.`],
+ [`#${idx}`,`Salesforce was CV number ${idx} of 138. Fifty-nine days from CV to yes; the median company never replied.`],
+ [`${fde} of 138`,`carried "forward deployed" in the title. One converted. Google alone got five CVs, two of them on 16 Sep, the day the Salesforce offer arrived.`],
+ [`${repeat.length}`,`companies got more than one CV. ${repeat.slice(0,5).map(([c,n])=>`${c} ${n}`).join(', ')}.`],
+ ['1 of 123',`applied-only companies sent written feedback: UBS, for the AI assistant product owner role, Oct 2025.`],
+ ['4 rounds',`at Supabase (recruiter, hiring manager, peer, technical) ended in a rejection on 17 Sep, one day after the Salesforce offer and one day before the acceptance.`],
+ ['3 stated bands',`came from small startups: 150k CHF at Rivia, 155k max at Maze, 170k plus stock at Lakera. Salesforce landed above all three.`],
+].map(([k,t])=>`<li><span class="k">${k}</span><span class="t">${t}</span></li>`).join('');
+
+/* ---------- table ---------- */
+(function(){
+  const tbody=document.querySelector('#table tbody'), q=document.getElementById('q'), count=document.getElementById('count');
+  let stage='all', cat='all', sortKey='date', sortDir=-1;
+  const ctl=document.getElementById('controls');
+  const mk=(txt,val,grp)=>{const b=document.createElement('button');b.className='chip';b.textContent=txt;b.dataset.v=val;b.dataset.g=grp;b.setAttribute('aria-pressed',String(val==='all'));return b;};
+  const stageChips=[mk('All stages','all','s'),...Object.keys(STAGES).map(s=>mk(STAGES[s].l,s,'s'))];
+  stageChips.forEach(b=>ctl.insertBefore(b,count));
+  const catBox=document.getElementById('catchips'); const catChips=[mk('All categories','all','c'),...CATS.map(c=>mk(c,c,'c'))]; catChips.forEach(b=>catBox.appendChild(b));
+  [...stageChips,...catChips].forEach(b=>b.addEventListener('click',()=>{ const grp=b.dataset.g; (grp==='s'?stageChips:catChips).forEach(x=>x.setAttribute('aria-pressed','false')); b.setAttribute('aria-pressed','true'); if(grp==='s')stage=b.dataset.v; else cat=b.dataset.v; render(); }));
+  q.addEventListener('input',render);
+  document.querySelectorAll('th[data-sort]').forEach(th=>th.addEventListener('click',()=>{ const k=th.dataset.sort; if(sortKey===k) sortDir*=-1; else {sortKey=k;sortDir=k==='date'?-1:1;} document.querySelectorAll('th').forEach(t=>t.classList.remove('on')); th.classList.add('on'); render(); }));
+  function render(){
+    const s=q.value.trim().toLowerCase();
+    let rows=DATA.filter(d=>(stage==='all'||d.stage===stage)&&(cat==='all'||d.cat===cat)&&(!s||(d.co+' '+d.role).toLowerCase().includes(s)));
+    rows.sort((a,b)=>{ let va=a[sortKey], vb=b[sortKey]; if(sortKey==='stage'){va=STAGES[a.stage].r;vb=STAGES[b.stage].r;} return (va>vb?1:va<vb?-1:0)*sortDir || a.date.localeCompare(b.date); });
+    count.textContent=`${rows.length} of ${DATA.length}`;
+    tbody.innerHTML=rows.map(d=>`<tr class="${d.stage==='accepted'?'acc':''}"><td class="d">${fmt(d.date)}</td><td><b>${d.co}</b></td><td>${d.role}</td><td>${d.cat}</td><td><span class="pill ${d.stage}"><i style="background:${STAGES[d.stage].c}"></i>${STAGES[d.stage].l}</span></td><td class="note">${d.note}</td></tr>`).join('');
+  }
+  render();
+})();
+</script>

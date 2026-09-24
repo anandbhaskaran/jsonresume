@@ -1,0 +1,360 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Founding AI Engineer & Cofounder CTO · Production Agentic Systems · 13y Investor (30.57% XIRR) · Algo Trader · MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Two lifelong strengths, one convergence: 13+ years shipping production AI, and 13+ years running a personal portfolio at 30.57% XIRR with algo trading in the remaining hours. The exact combination an AI-native trading operating system needs. At LumApps I built the AI Brain, a Graphiti and Neo4j temporal knowledge graph that unifies 5+ silos into one time-aware memory every agent reads and writes, the shape needed to represent counterparties, flows and market context. Founded three AI companies on the side, including PulseView, an explainable AI market-intelligence agent shipped from my own trading portfolio first. Founding engineer DNA: zero to production, solo, before hiring.",
+    "metrics": [
+      {
+        "value": "30.57%",
+        "label": "Personal Portfolio XIRR (13y)"
+      },
+      {
+        "value": "$1M/qtr",
+        "label": "AI Agent Revenue Forecast"
+      },
+      {
+        "value": "$337K",
+        "label": "Vendor Cost Eliminated"
+      },
+      {
+        "value": "3",
+        "label": "AI Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich / Olten",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Designed AI Brain, a Graphiti and Neo4j temporal knowledge graph that unifies 5+ silos (Salesforce, HubSpot, Pendo, transcripts, product usage) into one time-aware memory every agent reads and writes. Event-driven ingest, per-agent query/write-back contracts, freshness layer. Same shape needed for counterparties, flows and market context.",
+        "Built production multi-agent workflows on Python, LangGraph and Google ADK over Vertex AI (ReAct, self-reflection, hierarchical delegation), tools over MCP, state streamed to UI over AG-UI. 2x open rates, 2x approved opportunities, 2-3 hours saved per rep per day, $1M forecast quarterly revenue.",
+        "Owned end to end: agent architecture, eval pipelines, tracing (LangSmith), tool-selection tuning, cost-per-request telemetry, on-call. Report to C-level on outcomes."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "GCP",
+        "Vertex AI",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "AG-UI",
+        "Multi-Agent Systems",
+        "ReAct",
+        "Self-Reflection",
+        "RAG",
+        "Neo4j",
+        "Graphiti",
+        "Temporal Knowledge Graphs",
+        "Vector Databases",
+        "Evaluation Pipelines",
+        "LangSmith",
+        "Pub/Sub",
+        "Salesforce",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Replaced $337K annual vendor translation contract with an in-house LLM pipeline in 6 weeks (GitHub Actions + OpenAI). 12K+ assets translated; unit economics first, model choice second.",
+        "Architected Employee Referral System end to end as tech lead (reporting to CIO). Platform's top revenue channel: $1.5M+ generated, $500K ARR, 99.99% SLA. Co-owned GTM with Sales and PM.",
+        "Co-owned GTM launches with Product and Sales. Every feature shipped with instrumentation so we knew within a week if it moved the needle; killed the ones that did not."
+      ],
+      "keywords": [
+        "Java",
+        "Python",
+        "TypeScript",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "Langfuse",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "ClickHouse",
+        "Grafana",
+        "Datadog",
+        "On-Call",
+        "GTM"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production: infra, risk controls, and the engineering tradeoffs specific to live trading.",
+        "Evaluated 20+ fintech and AI startups on architecture, scalability and AI readiness to inform seed-to-VC investment decisions."
+      ],
+      "keywords": [
+        "Algorithmic Trading",
+        "AI Strategy",
+        "Startup Evaluation",
+        "Technical Due Diligence",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Shipped end-to-end autonomous drone delivery platform solo before hiring: full stack, cloud infra, real-time flight-control APIs, logistics optimization. 500+ real-world deliveries, 40% faster, 99.5% safety record, zero incidents.",
+        "Built the cloud + CI/CD from scratch to enterprise-grade reliability. Enabled Unilever partnership and CES Las Vegas showcase. Zero to live, ambiguity-friendly, physical-world messy."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Real-time Systems",
+        "Flight Control APIs",
+        "Logistics Optimization",
+        "Zero-to-One"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "AI Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Engineered Robogen, open-source platform for co-evolution of robot bodies and brains via genetic algorithms. Foundational applied ML (optimization under noise, search over huge state spaces, learning-from-environment loops), the primitives underneath modern agentic systems.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel evolution runs. Secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog."
+      ],
+      "keywords": [
+        "C++",
+        "Python",
+        "AWS",
+        "Genetic Algorithms",
+        "Neural Networks",
+        "Evolutionary AI",
+        "Robotics",
+        "Simulation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Map of the 12 memory and RAG tools building the AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to pick the right memory stack for agents in production. Same reasoning behind a trading intelligence layer over counterparties, flows and markets."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of building and deploying a production AI agent: architecture, implementation, and outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Verification loops, human-in-the-loop checkpoints and draft-before-send patterns that keep an autonomous agent from shipping wrong actions. The same shape needed to keep an agent from pricing wrong flow."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Practical implementation of ReAct (Reasoning + Acting) agents combining reasoning with actionable decision-making for real-world use."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Turning unlimited AI potential into measurable business outcomes through systematic implementation and constraint design."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Playbook for assembling and scaling high-performing engineering teams. Same lens I would use to recruit the founding engineering team here."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Investing & Algo Trading"
+    },
+    {
+      "name": "Agentic AI Systems"
+    },
+    {
+      "name": "Temporal Knowledge Graphs"
+    },
+    {
+      "name": "Zero-to-One Building"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built for my own trading portfolio first, then opened to retail traders. AI agents generate AND justify signals from technical and news data. Core principle: if the model cannot explain the signal, it does not ship. The template for an agentic layer that keeps a human in control of every priced decision.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Personal Investing & Algorithmic Trading (13+ years)",
+      "position": "Solo Portfolio Manager & Systematic Trader",
+      "description": "13+ year track record as a private investor, 30.57% XIRR compounded through cycles. Systematic and algo trading in parallel: signal design, backtesting, execution automation, live risk and P&L monitoring. Where the reflex to check risk before size comes from.",
+      "startDate": "2012-01-01"
+    },
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent practice, home for the AI products I design, build and run solo (PulseView, SwissNRI, Proplab). Zero-to-production playbook: multi-agent systems, RAG grounding, eval pipelines and observability, shipped by one engineer with commercial ownership.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform. RAG-grounded assistant answers DTAA/FEMA/Swiss tax questions with citations back to the regulation. Compliance-first agentic design flags risk before users act, the same posture required for flows that must be risk-checked before execution.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Merantix Commodities",
+    "jobTitle": "Cofounder CTO / Founding AI Engineer",
+    "jobUrl": "",
+    "jobDescription": "AI-native operating layer for physical commodity trading, developed and proven through an integrated trading operation. Founded by a physical commodity trader with 15+ years across leading global trading houses, built with Merantix Capital. Building: trading cockpit, proprietary intelligence platform (counterparties, relationships, flows, market context), agentic layer, learning loop, workflow automation. Role: ship the first product yourself, take the platform from zero to live trading support solo before hiring, co-define company strategy with CEO, go into the field with traders, pitch investors, recruit and lead founding engineering team. Profile: strong math/ML/data engineering foundation, applied AI/ML depth shipped in messy real-world environments, heterogeneous unstructured data to decision systems (knowledge graphs, agentic systems, LLM orchestration, signal/time-series pipelines), commercially strong (P&L not just model metrics), strategic thinker, comfort with early-stage ambiguity. No commodities experience required, willingness to learn deeply and speak trader language is. Location: flexible with strong preference for co-working in Switzerland plus field time. Co-founder equity, cash calibrated to venture stage, funded start.",
+    "notes": "User is a 13+ year investor at 30.57% XIRR, does algo trading in parallel to AI day job, looking for the next adventure that connects AI and markets. Visionary CV + cover letter requested.",
+    "createdAt": "2026-08-21T00:00:00.000Z"
+  },
+  "_generatedFile": {
+    "company": "Merantix Commodities",
+    "baseName": "cofounder-cto",
+    "createdAt": "2026-08-22T16:03:30.223Z",
+    "targetPath": "./generated/Merantix Commodities/cofounder-cto.json"
+  }
+}

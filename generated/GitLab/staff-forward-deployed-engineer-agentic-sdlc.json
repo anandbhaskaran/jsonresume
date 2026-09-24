@@ -1,0 +1,348 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Forward Deployed AI Engineer | Staff-Level Production Systems | Agentic SDLC & Governance | Enterprise Customer Focus",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Forward Deployed Engineer by practice, not just by title. Runs Anand Creations as an independent Forward Deployed Engineering practice; embeds with teams to diagnose adoption blockers, contribute production code, and turn field learning into durable patterns. Lead AI Engineer at LumApps driving governed, measurable adoption of a production agentic system (2x conversions, $1M forecast quarterly) with evals, tracing, context management, and human-in-the-loop guardrails. 13+ years shipping enterprise-grade systems for Fortune-500 customers ($1.5M+ revenue at Beekeeper, Unilever partnership at Dronistics). 4 international conference talks and published writing on production agentic AI, memory, and reliability, the shape of thought leadership this role expects.",
+    "metrics": [
+      {
+        "value": "3",
+        "label": "AI Products Founded"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Enterprise Revenue"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "4",
+        "label": "Conference Talks"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer (Agentic SDLC)",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Drive governed, measurable adoption of a production agentic system across the org. Multi-agent workflows on Python, LangGraph, Google ADK, MCP, and AG-UI. Human-in-the-loop guardrails and verification loops for AI safety. 2x open rates, 2x approved opportunities, $1M forecast quarterly.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti/Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, product usage) into one time-aware store. Context management and grounding that keeps agents auditable and stops hallucination.",
+        "Own the reliability layer: eval pipelines, LangSmith tracing, tool-selection tuning, cost-per-request instrumentation, fallback paths, and on-call. Report to C-level on outcomes; cross-functional coordination with Sales, Product, and Ops without formal authority."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "AG-UI",
+        "Vertex AI",
+        "OpenAI",
+        "Anthropic",
+        "Agentic SDLC",
+        "AI Governance",
+        "Model Evaluation",
+        "Context Management",
+        "Prompt Design",
+        "RAG",
+        "Neo4j",
+        "Observability",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Architected Employee Referral System end to end for enterprise customers. Became the platform's top revenue channel: $1.5M+ generated, $500K ARR. Direct engagement with strategic accounts, from discovery through post-launch stewardship.",
+        "Replaced $337K/yr in vendor translation costs with an in-house LLM pipeline shipped in 6 weeks (GitHub Actions CI/CD + OpenAI). Turned a field blocker into a durable product capability, then transitioned ownership to the product team.",
+        "Led Search Platform revamp across 3 teams (indexing, ranking, distributed templating engine that powers 15% of assets for 10M+ users). Cross-functional coordination without formal authority.",
+        "Ran observability and global on-call (K8s, AWS, Grafana, Datadog, Logz.io). Hired and mentored the AI engineering cohort; engineers now lead features independently."
+      ],
+      "keywords": [
+        "TypeScript",
+        "Vue",
+        "Java",
+        "Python",
+        "Kubernetes",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "PostgreSQL",
+        "Elastic Search",
+        "Kafka",
+        "GitHub Actions",
+        "CI/CD",
+        "Grafana",
+        "Datadog",
+        "Enterprise Customers",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Evaluated 20+ startups for seed-to-VC decisions on architecture, scalability, and AI adoption. Cross-functional coordination without authority is the entire job.",
+        "Advised portfolio companies on production AI adoption: prompt design, evals, governance, and safe rollout patterns for enterprise workflows."
+      ],
+      "keywords": [
+        "AI Governance",
+        "AI Adoption",
+        "Enterprise Advisory",
+        "Cross-Functional",
+        "Technical Strategy"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an autonomous drone delivery startup. Shipped full stack (Vue, Java, PostgreSQL, real-time APIs, AWS/Docker/Terraform infra) from empty repo to 500+ deliveries.",
+        "Direct engagement with strategic enterprise customers (Unilever) and a CES Las Vegas showcase. Turned field feedback into product roadmap."
+      ],
+      "keywords": [
+        "Founding Engineer",
+        "Enterprise Customer Engagement",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "CI/CD",
+        "Real-time Systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Production case study of a multi-agent LLM system: context, prompts, tools, evals, and the outcomes (2x open rates, 2x approved opportunities). The kind of technical narrative this role produces."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Human-in-the-loop and verification patterns for shipping agents safely in production, an adoption-safety framework."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Reference framework for the memory and retrieval layer behind production agents: temporal knowledge graphs vs vector-only RAG."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Practical tutorial series on building ReAct agents, one of several adoption-oriented walkthroughs I have published."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Reference architecture talk on shipping large frontends as composable, team-autonomous experiences."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Adoption framework: going from a hunch to a shipped product fast through lean validation, rapid prototyping, and killing what does not move the metric."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on where GenAI genuinely amplifies craft and where it does not, an adoption-decision lens."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the Rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for turning open-ended GenAI potential into measurable outcomes through constraint design and validation loops."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Agentic SDLC & AI Governance"
+    },
+    {
+      "name": "Forward Deployed Engineering"
+    },
+    {
+      "name": "Enterprise AI Adoption"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent Forward Deployed Engineering practice. Embed with teams, run technical discovery, resolve adoption blockers, and ship production agentic AI end to end without becoming a permanent dependency. Home for the AI products I build and ship myself (SwissNRI, Proplab, PulseView), each a real reference for the patterns I bring to client engagements.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time AI agents that generate AND justify trading signals from technical and news data. Explainability by design: if the model cannot justify the signal, it does not ship. Live users on real-time feeds; AI-safety principles baked in.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Compliance",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native compliance platform for cross-border finances. RAG-grounded assistant answers regulatory questions with citations back to the source; compliance-first agentic design flags risk before users file. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "GitLab",
+    "jobTitle": "Staff Forward Deployed Engineer, Agentic SDLC",
+    "jobUrl": "",
+    "jobDescription": "Staff FDE for GitLab's Duo Agent Platform. Field-situated product engineer: diagnose strategic customer adoption blockers, contribute production code, drive governed AI adoption (agentic SDLC), and produce thought-leadership artefacts. Cross-functional coordination without authority. Rails/Go preferred; agentic AI + adoption experience essential.",
+    "notes": "Reframed hard around Forward Deployed Engineering (Anand Creations literally is one). Emphasized LumApps agentic system as governed enterprise AI adoption (matches Duo Agent Platform shape), Beekeeper enterprise customer engagement + tech lead across teams, Tenity cross-functional advisory, Dronistics enterprise partnership. Publications reframed as reference frameworks / adoption artefacts (thought-leadership signal). GAP: no Rails/Go — using Python/Java/Vue/TypeScript. If they gate strictly on language, this filters; if they weigh agentic + FDE experience heavier (JD language suggests they do), strong fit.",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "GitLab",
+    "baseName": "staff-forward-deployed-engineer-agentic-sdlc",
+    "createdAt": "2026-08-04T20:28:28.863Z",
+    "targetPath": "./generated/GitLab/staff-forward-deployed-engineer-agentic-sdlc.json"
+  }
+}

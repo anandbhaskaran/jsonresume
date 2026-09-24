@@ -1,0 +1,380 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI Engineer | Prompt Engineering & Enterprise LLM Systems | Electronics & Communication Engineer",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "AI engineer with an electronics and embedded-systems background (B.Tech Electronics & Communication, MSc Embedded Systems) who now ships production LLM systems for the enterprise. At LumApps I own the prompt library, few-shot templates, context-injection strategy, and eval pipelines behind multi-agent workflows that 2x outbound conversions. Fluent at translating domain-specific business logic into precise prompts, iterating with SMEs, and running eval, governance, and cost telemetry (LangSmith, Langfuse) until outputs are accurate, compliant, and production-safe.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Own the prompt library for a production multi-agent platform: few-shot templates, prompt chaining, context injection, and versioned system prompts per agent. Iterated with SMEs until outputs met accuracy and compliance bars. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day.",
+        "Built eval pipelines and A/B tests on LangSmith with cost-per-request telemetry: golden datasets, LLM-as-judge scorers, regression checks on every prompt change, dashboards for precision, hallucination rate, and token spend.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j unifying 5+ enterprise silos into one time-aware memory. Grounds RAG retrieval and gives every prompt clean, traceable domain context."
+      ],
+      "keywords": [
+        "Prompt Engineering",
+        "Prompt Chaining",
+        "Few-Shot Learning",
+        "Context Injection",
+        "RAG",
+        "LangSmith",
+        "Eval Pipelines",
+        "A/B Testing",
+        "LLM-as-Judge",
+        "Hallucination Mitigation",
+        "Governance",
+        "Python",
+        "GCP",
+        "Vertex AI",
+        "LangChain",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "Multi-Agent Systems",
+        "Neo4j",
+        "Graphiti"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Replaced $337K in annual vendor translation costs with an in-house LLM pipeline shipped in 6 weeks: prompt templates per locale, few-shot examples per content type, glossary-grounded context injection. 12K+ assets translated with compliance guardrails.",
+        "Built AI Onboarding Specialist: prompt-driven guide that turns new-signup context into personalized, high-touch setup. 100% of customers guided through onboarding without added headcount.",
+        "Ran observability and on-call for production LLM systems (Grafana, Datadog, Langfuse): prompt-level traces, cost dashboards, drift alerts."
+      ],
+      "keywords": [
+        "Prompt Engineering",
+        "LLM Pipelines",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "Langfuse",
+        "Python",
+        "Java",
+        "TypeScript",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "GitHub Actions",
+        "Grafana",
+        "Datadog",
+        "Observability",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Evaluated 20+ startups on technical architecture, AI readiness, and prompt/eval maturity to inform seed-to-VC investment decisions.",
+        "Advised portfolio companies on prompt strategy, LLM eval design, and building AI cultures that ship responsibly."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Prompt Strategy",
+        "LLM Evaluation",
+        "Startup Evaluation",
+        "Technical Mentoring"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Shipped end-to-end autonomous drone delivery platform (Vue, Java, PostgreSQL). 500+ successful deliveries with enterprise-grade reliability that enabled Unilever partnership and CES showcase.",
+        "Engineered real-time flight control APIs and logistics optimization for industrial hardware operations. 40% faster deliveries, 99.5% safety record, zero incidents."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Real-time Systems",
+        "Flight Control APIs",
+        "Industrial Systems",
+        "Safety-Critical Software"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "AI Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Engineered Robogen, an open-source platform for co-evolution of robot bodies and brains via genetic algorithms. Foundational optimization and search work that underpins how I approach LLM prompt tuning today.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel evolution runs. Secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog.",
+        "Teaching Assistant for Evolutionary Robotics at EPFL. Supervised 20+ master's students through hands-on projects in genetic algorithms and neural controllers."
+      ],
+      "keywords": [
+        "C++",
+        "Python",
+        "AWS",
+        "Genetic Algorithms",
+        "Neural Networks",
+        "Evolutionary AI",
+        "Robotics"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on building a production AI agent: prompt design, few-shot patterns, eval loops, and the real-world outcomes (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "A map of 12 memory and RAG tools for the AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to pick the right context stack for enterprise agents."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "How verification loops, human-in-the-loop checkpoints, and draft-before-send prompt patterns keep autonomous agents from shipping wrong actions to real customers."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Practical tutorial on ReAct (Reasoning + Acting) prompting, showing how to build autonomous agents that combine reasoning with action for real-world tasks."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Techniques for interpreting high-dimensional AI embeddings via interactive heatmaps, useful for context-injection debugging and RAG grounding audits."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework talk on turning open-ended AI potential into measurable business outcomes through constraint design, prompt discipline, and eval-first thinking."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on how AI augments rather than replaces human creativity, with examples from real product work."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "AWS feature on Robogen: an open-source EPFL platform using AWS and artificial evolution to co-evolve robot bodies and brains."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Prompt Engineering & Evals"
+    },
+    {
+      "name": "AI Ethics & Governance"
+    },
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed engineering practice, home for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView). Every product runs on hand-crafted prompt libraries, eval pipelines, and RAG grounding; the same playbook I bring to any enterprise engagement.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax platform for Swiss-Indian families. RAG-grounded assistant answers DTAA, FEMA, and Swiss tax questions in plain language with citations back to the regulation. Compliance-first prompt design flags risk before users file; regulatory guardrails built before features. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail traders. AI agents generate AND justify trading signals from technical and news data, with explainability and eval built in: if the model can't explain the signal via its prompt-traceable reasoning, it doesn't ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Hitachi Energy",
+    "jobTitle": "Global AI Prompting Engineer PGTR",
+    "jobUrl": "",
+    "jobDescription": "Global AI Prompting Engineer PGTR at Hitachi Energy. Design, test, and optimize domain-specific prompts for ACE, a GenAI-powered platform for Bid & Proposal Management in the Transformers Business Unit. Responsibilities: develop and maintain prompt libraries; implement prompt chaining, context injection, few-shot learning; own prompt lifecycle (versioning, traceability, governance); evaluate LLM responses for precision, compliance, bias mitigation; A/B testing and performance dashboards; collaborate with SMEs, Module Owners, Business Stakeholders; document prompt strategies aligned with Hitachi Energy AI Ethics Charter. Background: Bachelor or master in electrical engineering, transformer industry experience, NLP and context management understanding, hands-on LLM and prompt engineering, willingness to learn Python and AI APIs, Agile.",
+    "notes": "",
+    "createdAt": "2026-08-17"
+  },
+  "_generatedFile": {
+    "company": "Hitachi Energy",
+    "baseName": "global-ai-prompting-engineer-pgtr",
+    "createdAt": "2026-08-17T07:02:09.970Z",
+    "targetPath": "./generated/Hitachi Energy/global-ai-prompting-engineer-pgtr.json"
+  }
+}

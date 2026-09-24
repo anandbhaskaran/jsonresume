@@ -1,0 +1,342 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Forward Deployed Research Engineer | Enterprise AI in Production | Evals, Agentic Workflows, Data Design",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Forward deployed engineer who lives inside enterprise AI systems in production. At LumApps I embed with GTM teams, surface real failure modes in multi-agent workflows, design golden datasets and LLM-as-judge evals on LangSmith, and run tight experimental loops that took open rates and approved opportunities to 2x. Prior 6 years at Beekeeper covered shipping LLM pipelines and AI features to 10M+ users with instrumentation from day one. Anand Creations is my independent forward-deployed practice. Founder-mode iteration, MBA-trained business framing, and a public writing habit (12+ articles and conference talks) that turns work into reusable research artifacts.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Own the eval and data layer for a production multi-agent system: golden datasets, LLM-as-judge scorers on LangSmith, regression checks on every prompt change, cost-per-request telemetry. Failure modes surfaced from production get formalized into datasets that target the exact weakness.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j unifying 5+ enterprise silos (Salesforce, HubSpot, Pendo, transcripts, product usage) into one time-aware source. Freshness layer flags stale facts before they hallucinate downstream.",
+        "Run tight experimental loops with SMEs and stakeholders to validate hypotheses and quantify improvements: 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day, $1M/quarter forecast revenue."
+      ],
+      "keywords": [
+        "Forward Deployed",
+        "Enterprise AI",
+        "Eval Design",
+        "Golden Datasets",
+        "LLM-as-Judge",
+        "Agentic Workflows",
+        "Failure Mode Analysis",
+        "Data Curation",
+        "LangSmith",
+        "Python",
+        "GCP",
+        "Vertex AI",
+        "LangChain",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "RAG",
+        "Neo4j",
+        "Graphiti"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Replaced $337K in annual vendor translation costs with an in-house Python + OpenAI pipeline shipped in 6 weeks. Diagnosed failure modes across content types, iterated dataset and prompt design per locale, shipped with quality guardrails.",
+        "Built AI Onboarding Specialist: prompt-driven guide that turns new-signup context into personalized, high-touch setup. Instrumented for real-world quality so every regression showed up in the dashboard, not the customer.",
+        "Led Search Platform revamp across 3 teams: redesigned indexing and ranking (Elastic Search, ClickHouse) driven by measured relevance failures, not intuition. Measurable engagement lift for 10M+ users.",
+        "Ran observability and on-call for global production LLM systems (Grafana, Datadog, Logz.io, Langfuse): prompt-level traces, cost dashboards, drift alerts. Built the lightweight tooling that made rapid iteration safe."
+      ],
+      "keywords": [
+        "Enterprise AI",
+        "LLM Pipelines",
+        "Dataset Design",
+        "Evaluation",
+        "Python",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "Langfuse",
+        "PostgreSQL",
+        "ClickHouse",
+        "Elastic Search",
+        "AWS",
+        "Kubernetes",
+        "Grafana",
+        "Datadog"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Evaluated 20+ startups on architecture, scalability, and AI readiness for seed-to-VC investment decisions. Decision-oriented analysis, presented to investment committees.",
+        "Advised portfolio founders on eval design, agentic workflow choices, and translating operational issues into structured research problems."
+      ],
+      "keywords": [
+        "AI Advisory",
+        "Eval Design Review",
+        "Agentic Systems",
+        "Startup Evaluation",
+        "Cross-functional"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "AI Research Engineer",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Engineered Robogen, an open-source platform for co-evolution of robot bodies and brains via genetic algorithms. Foundational optimization, search, and fitness-landscape work that underpins how I approach eval and iteration today.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel evolution runs. Secured AWS Cloud Credits for Research; work featured on the AWS Public Sector Blog.",
+        "Teaching Assistant for Evolutionary Robotics at EPFL. Supervised 20+ master's students through hands-on projects in genetic algorithms, neural controllers, and embodied AI."
+      ],
+      "keywords": [
+        "AI Research",
+        "Neural Networks",
+        "Genetic Algorithms",
+        "Evolutionary AI",
+        "Open Source Research",
+        "C++",
+        "Python",
+        "AWS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Research-style case study of a production AI agent: architecture, failure modes surfaced from live traffic, and quantified improvements (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Map of memory and RAG tools for the enterprise AI brain layer: why temporal knowledge graphs beat vector-only RAG for grounded, evaluable systems."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "How verification loops and human-in-the-loop checkpoints turn agentic failure modes into recoverable events instead of production incidents."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Practical tutorial on ReAct (Reasoning + Acting) agents, the base primitive behind most production agentic workflows."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "AWS feature on Robogen: an open-source EPFL platform using AWS and artificial evolution to co-evolve robot bodies and brains at scale."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Techniques for interpreting high-dimensional embeddings via interactive heatmaps, useful for RAG grounding audits and dataset debugging."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework talk on turning open-ended AI capability into measurable outcomes through constraint design and eval-first thinking."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Forward Deployed Research"
+    },
+    {
+      "name": "Agentic Systems & Evals"
+    },
+    {
+      "name": "Enterprise AI"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed practice: embed with a team, run technical discovery, surface real failure modes in live AI workflows, and ship the fix with instrumentation. Home for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView), each a live testbed for eval + agentic patterns.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence platform for retail traders. AI agents generate AND justify trading signals with explainability built in: if the model can't explain the signal, it doesn't ship. Every signal is a labelled example for future eval.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax platform for Swiss-Indian families. Ran discovery with real users, built RAG-grounded assistant answering DTAA, FEMA and Swiss tax questions with citations back to the regulation. Zero-to-MVP in 3 months, 40% uplift in satisfaction from feedback-driven iteration.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "micro1",
+    "jobTitle": "Member of Technical Staff, Enterprise AI",
+    "jobUrl": "",
+    "jobDescription": "Member of Technical Staff, Enterprise AI at micro1. Forward-deployed research partner embedded in enterprise AI systems. Surface failure modes, design high-signal datasets and eval protocols, run tight experimental loops, benchmark agentic workflows, build lightweight eval/data tooling. Master's in CS/ML/AI. Preferred: client-facing, internal research tooling, benchmarks/publications, forward-deployed research. Remote. $180-250K USD base + equity.",
+    "notes": "Position exactly around FDE + enterprise AI evals + agentic workflows. Adapted label to Forward Deployed Research Engineer. Kept EPFL research role for research-lineage signal. Publications reordered to lead with production case studies and research-style writeups.",
+    "createdAt": "2026-08-18"
+  },
+  "_generatedFile": {
+    "company": "micro1",
+    "baseName": "member-of-technical-staff-enterprise-ai",
+    "createdAt": "2026-08-18T21:30:55.604Z",
+    "targetPath": "./generated/micro1/member-of-technical-staff-enterprise-ai.json"
+  }
+}

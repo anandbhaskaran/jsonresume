@@ -1,0 +1,307 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Staff Backend Engineer & AI Systems Lead | Python, PostgreSQL, AWS/GCP | Production LLM Pipelines with Evals & Decision Traces",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Staff-level backend engineer with 13+ years shipping reliable systems around fragmented, high-value data. Currently Lead AI Engineer at LumApps: services, data models, async pipelines and evaluation loops for production multi-agent systems on Python + GCP (Pub/Sub, LangGraph, LangSmith tracing, cost-per-request telemetry). Six years at Beekeeper on AWS (Python/Java, PostgreSQL, Kafka, Elastic Search, Kubernetes) at 99.99% SLA under GDPR for 10M+ users, including an LLM pipeline that eliminated $337K in vendor cost in 6 weeks. Founder of SwissNRI, a compliance-first regulated fintech: comfortable where explainability, audit trails and long-horizon correctness matter as much as latency.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "highlights": [
+        "Design services, data models and async pipelines on Python + GCP for production multi-agent workflows (LangGraph, Google ADK on Vertex AI). Event-driven ingest over Pub/Sub with automated cleaning, deduplication and versioning across 5+ enterprise data sources; 2x conversions, $1M/quarter revenue forecast.",
+        "Built the evaluation loop that makes stochastic AI behavior debuggable and explainable: LangSmith tracing, evals-as-tests, tool-selection tuning and cost-per-request telemetry. Same discipline the JD calls out for making decisions transparent.",
+        "Architected AI Brain, a temporal knowledge graph on Graphiti and Neo4j that captures every agent read/write as a timestamped, cited decision trace. A working intelligence layer over fragmented enterprise data."
+      ],
+      "keywords": [
+        "Python",
+        "Async Workflows",
+        "Data Pipelines",
+        "Pub/Sub",
+        "LangGraph",
+        "GCP",
+        "Vertex AI",
+        "PostgreSQL",
+        "Evaluation Loops",
+        "LangSmith",
+        "LLMs",
+        "Distributed Systems",
+        "Knowledge Graphs",
+        "Neo4j"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Owned production backend infrastructure on AWS for 10M+ frontline users: Python/Java services on Kubernetes, PostgreSQL, Kafka pipelines, Elastic Search, ClickHouse, Lambda / EC2. GDPR-sensitive workloads at 99.99% SLA on the platform's top revenue channel ($1.5M+ generated, $500K ARR).",
+        "Replaced $337K in annual vendor cost with an in-house LLM pipeline shipped in 6 weeks (Python + OpenAI + GitHub Actions). Rigorous measurement, direct P&L impact, product team unblocked.",
+        "Architected the Employee Referral System end-to-end: services, PostgreSQL data model, async job workflows and cross-team GTM. Same design lens applied to Search Platform revamp across 3 teams.",
+        "Global on-call, observability (Grafana, Datadog, Logz.io); mentored the AI engineering cohort; proactive stakeholder communication with Product, Sales and CIO."
+      ],
+      "keywords": [
+        "Python",
+        "Java",
+        "PostgreSQL",
+        "Kafka",
+        "Elastic Search",
+        "ClickHouse",
+        "AWS",
+        "Lambda",
+        "EC2",
+        "Kubernetes",
+        "Async Workflows",
+        "Distributed Systems",
+        "GDPR",
+        "OpenAI",
+        "LangChain",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Ran discovery-style diligence on 20+ fintech and AI startups: system design, data architecture, moats and ROI framing. Direct, honest, challenge-the-idea communication with founders and CFOs.",
+        "Mentored Opt Alpha on scaling asynchronous algorithmic trading systems in production; advised portfolio companies on where AI creates real leverage."
+      ],
+      "keywords": [
+        "System Design Review",
+        "Fintech",
+        "Async Systems",
+        "Algorithmic Trading",
+        "Stakeholder Communication",
+        "AI Strategy"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at an EPFL spin-off. Built the backend from scratch (Java, PostgreSQL, AWS, Docker, Terraform, CI/CD) for a live commercial platform that ran 500+ real-world deliveries.",
+        "Engineered real-time telemetry, flight-control APIs and logistics optimization. Enterprise-grade reliability that landed Unilever partnership and a CES showcase: every output auditable, every deployment verifiable."
+      ],
+      "keywords": [
+        "Backend from Scratch",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "CI/CD",
+        "Real-Time Systems",
+        "Founding Engineer"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Reference guide to memory and RAG under an AI decision layer: temporal knowledge graphs vs vector-only, and how to build a data backbone agents can be trusted with."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Verification loops, human-in-the-loop checkpoints and draft-before-send patterns to keep stochastic agents from shipping wrong actions in high-stakes workflows."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on the architecture and evaluation of a production AI agent that moved real business metrics. Where AI helps in a professional workflow and where it does not."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Practical tutorial on ReAct agents that combine reasoning and action for long-horizon workflows."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Backend Systems Craft"
+    },
+    {
+      "name": "LLM Evals & Decision Traces"
+    },
+    {
+      "name": "Data Pipelines on Fragmented Data"
+    },
+    {
+      "name": "Regulated / High-Stakes AI"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SwissNRI - Compliance-First Regulated Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Production platform for Swiss-Indian cross-border tax and compliance decisions. Python + PostgreSQL backend, RAG-grounded assistant answering DTAA, FEMA and Swiss tax with citations back to the regulation, and an agentic layer that flags risk before users act. Compliance-first design with regulator-verifiable outputs, PII controls and audit trails baked in from day one. Zero-to-MVP in 3 months, 40% uplift in user satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent practice building production AI on customers' live data end-to-end: services, pipelines, evaluations and observability. Same operating model I would bring to Kalepa's core backend: own the problem, ship the fix, keep the decision explainable.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - Live-Data AI Decision Engine",
+      "position": "Founder & Builder",
+      "description": "Production platform ingesting real-time price and news time series (Python, async workers, structured storage), computing indicators and running agents that generate AND justify signals with cited evidence: if the model cannot explain the decision, it does not ship. Explainability, evaluation and back-testing built in.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Kalepa",
+    "jobTitle": "Staff Backend Engineer",
+    "jobUrl": "",
+    "jobDescription": "Kalepa Core Backend team. Design services, data models, pipelines and evaluation loops for AI decision systems across the $7T insurance industry. Python primary; serverless (Lambda, EC2), async workflows, PostgreSQL; LLM/GenAI bonus. 8+ years experience, high ownership, transparent communication. Europe remote OK.",
+    "notes": "Very strong fit. Direct matches on Python + PostgreSQL + AWS Lambda/EC2 + async workflows (Beekeeper), evaluation loops + LLM production (LumApps), and regulated / high-stakes decision systems (SwissNRI). Europe remote works from Zurich.",
+    "createdAt": "2026-08-18"
+  },
+  "_generatedFile": {
+    "company": "Kalepa",
+    "baseName": "staff-backend-engineer",
+    "createdAt": "2026-08-18T14:58:11.797Z",
+    "targetPath": "./generated/Kalepa/staff-backend-engineer.json"
+  }
+}

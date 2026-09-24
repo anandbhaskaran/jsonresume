@@ -1,0 +1,321 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "GTM Strategy Principal | Built AI GTM Systems for Enterprise Revenue | 3× Founder | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "MBA-trained senior operator who architects GTM systems and ships them. At LumApps I built the AI-driven revenue automation that Sales and RevOps depend on (2x conversions, $1M forecast quarterly) and report to C-level on outcomes. Prior 6 years co-owning cross-functional GTM launches at Beekeeper with Sales, PM and RevOps ($1.5M+ in revenue shipped, top platform channel). MBA (93.2%) at Quantic, Startup Mentor at Tenity advising 20+ founders per year on GTM readiness for VC decisions, and 3 AI products founded solo through Anand Creations. Deep bias for AI and automation as the step-change lever, and for turning complexity into narratives executives can act on.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$1M+",
+        "label": "Quarterly Pipeline Forecast"
+      },
+      {
+        "value": "20+",
+        "label": "Startups Advised"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer (GTM Automation)",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Architected AI-driven revenue automation across Sales, RevOps and CS. Multi-agent workflows on Python + LangGraph unify Salesforce, HubSpot, Pendo, and product-usage signals into one auditable time-aware store (AI Brain). Step-change outcomes: 2x open rates, 2x approved opportunities, 2 to 3 hours per rep per day, $1M forecast quarterly.",
+        "Lead the transition to AI-native GTM operating models. Cross-functional program spanning Product, Sales, RevOps and Finance; C-level executive updates that synthesise complex data into actions.",
+        "Own the governance and eval layer: safety cases, HITL gates, cost-per-request tracing, adoption metrics. Turned one-off wins into reusable patterns the rest of the org builds on."
+      ],
+      "keywords": [
+        "GTM Automation",
+        "Revenue Motions",
+        "Cross-Functional Program Leadership",
+        "Executive Reporting",
+        "Salesforce",
+        "HubSpot",
+        "Pendo",
+        "Product-Usage Signals",
+        "Governance & Adoption Metrics",
+        "AI/LLM Strategy",
+        "C-Level Advisory"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead) & GTM Co-Owner",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Co-owned cross-functional GTM launches with Sales, PM and RevOps: Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, Employee Lifecycle. Every launch instrumented so we knew within a week if it moved the metric.",
+        "Architected the Employee Referral System end to end and ran its GTM. Became the platform's top revenue channel: $1.5M+ generated, $500K ARR. Owned coverage, segmentation, activation and post-launch expansion with Sales leadership.",
+        "Built GenAI demo tooling that auto-produced personalized content per account from Salesforce data. Direct sales enablement impact; the same personalization playbook translated into email and outbound.",
+        "Delivered exec-level readouts and strategic memos translating platform work into revenue impact. Trusted advisor to Product, Sales and RevOps stakeholders."
+      ],
+      "keywords": [
+        "GTM Launches",
+        "Coverage & Segmentation",
+        "Revenue Ownership",
+        "Sales Enablement",
+        "Cross-Functional Leadership",
+        "Executive Communication",
+        "Salesforce Data",
+        "Localization (70+ languages)",
+        "Content Automation",
+        "Enterprise B2B SaaS"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Technology Evaluation Panelist. Evaluated 20+ startups per year on architecture, scalability, forecast credibility, and GTM readiness for seed-to-VC investment decisions.",
+        "Trusted advisor to founders on GTM operating models, revenue motions, hiring specialists, and building governance frameworks that scale."
+      ],
+      "keywords": [
+        "Trusted Advisor",
+        "GTM Readiness",
+        "Investment Diligence",
+        "Founder Coaching",
+        "Governance Frameworks"
+      ]
+    },
+    {
+      "name": "Obermatt",
+      "position": "Technical Product Manager (concurrent side role)",
+      "url": "https://obermatt.com/en/home.html",
+      "startDate": "2018-07",
+      "endDate": "2021-01",
+      "highlights": [
+        "Bridged business and engineering on a financial-analytics product. Ran discovery with customers, built strategic roadmaps that lifted satisfaction and retention.",
+        "Directed a remote engineering team; introduced agile practices (productivity up 20%) and CI/CD (deployment times down 30%). Async-native operating."
+      ],
+      "keywords": [
+        "Product Strategy",
+        "Cross-Functional",
+        "Remote Team Leadership",
+        "Roadmap",
+        "Operating Model Design"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of a production AI GTM system: what actually moved pipeline (2x open rates, 2x approved opportunities) and how the data model made the strategy executable."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "GTM playbook: lean validation, rapid iteration, killing what does not move the metric. Strategy translated into shipped systems."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Playbook for assembling and scaling high-performing distributed teams. Governance and process for pods that ship."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Framework for the data layer under GTM automation: why unified time-aware stores beat fragmented CRM data."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the Rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for turning open-ended AI potential into measurable business outcomes at executive level."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on where AI genuinely amplifies work and where it does not."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Reference architecture talk on distributing composable capabilities across teams."
+    }
+  ],
+  "interests": [
+    {
+      "name": "GTM Strategy & Operating Models"
+    },
+    {
+      "name": "AI as Step-Change Lever"
+    },
+    {
+      "name": "Executive Communication"
+    },
+    {
+      "name": "Founder Coaching"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - AI Products & GTM Practice",
+      "position": "Founder & Principal Builder",
+      "description": "Independent studio and home for 3 AI-native products I designed, built, marketed, and shipped solo (SwissNRI, Proplab, PulseView). Every product required end-to-end GTM: positioning, funnel design, activation, expansion, instrumentation.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Community-led GTM in a specific vertical (Swiss-Indian families). Positioning + word-of-mouth + content strategy drove zero-to-MVP in 3 months and 40% uplift in user satisfaction. Trust-first packaging in a regulated market.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "PLG-native: built for my own portfolio first, then opened to users. Live users acquired through content, positioning, and product-led signals. Retention driven by signal quality.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Remote",
+    "jobTitle": "GTM Strategy Principal",
+    "jobUrl": "",
+    "jobDescription": "GTM Strategy Principal (EMEA) at Remote. Architect and lead cross-functional GTM programs across Product, Sales, Partnerships, RevOps. Design operating models (account allocation, segmentation, capacity, revenue motions), governance frameworks, and platform-selling transitions. Trusted advisor to GTM leadership; exec-level communication. AI + automation as step-change lever.",
+    "notes": "STRETCH FIT: candidate is engineer + MBA + founder, not classic GTM Principal. Best angle: the JD explicitly wants AI/automation as step-change lever, which is my STRONGEST card. LumApps AI-driven revenue automation = literal proof; Beekeeper GTM co-ownership + $1.5M+ revenue; Tenity advisory to GTM leadership; Obermatt cross-functional TPM. Reframed LumApps position to 'Lead AI Engineer (GTM Automation)'. GAPS: no formal RevOps/Strategy Principal title, no strategy consulting background. Cover letter should sell 'MBA-engineer-turned-strategist who built the AI GTM system' angle. EMEA location matches (Zurich).",
+    "createdAt": "2026-08-05"
+  },
+  "_generatedFile": {
+    "company": "Remote",
+    "baseName": "gtm-strategy-principal",
+    "createdAt": "2026-08-05T21:07:51.216Z",
+    "targetPath": "./generated/Remote/gtm-strategy-principal.json"
+  }
+}

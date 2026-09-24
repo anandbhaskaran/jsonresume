@@ -1,0 +1,365 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI Engineer | Technical Solutioning, Integrations & Enterprise Systems",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Technical engineer with 13+ years scoping and shipping production systems for enterprise stakeholders, from requirements through go-live. At LumApps, own AI transformation end-to-end: agent architecture, an integration layer unifying 5+ enterprise systems (Salesforce, HubSpot, Pub/Sub), and go-to-market enablement, reporting outcomes directly to C-level. At Beekeeper, scoped and shipped a $1.5M+ revenue system end-to-end from business case to production, and built rapid proof-of-concept tooling for sales. Mentor fintech and algorithmic-trading startups on technical architecture at Tenity, and write and speak publicly on production AI systems (technical breakdowns, conference talks).",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns AI transformation end-to-end, from production AI agent architecture to company-wide governance and sales enablement strategy. Reports directly to C-level on outcomes.",
+      "highlights": [
+        "Led technical discovery through production: scoped requirements with business stakeholders, architected the agent solution, and reported outcomes directly to C-level, not progress.",
+        "Designed the integration layer (event-driven Pub/Sub ingest, a query and write-back contract per consuming system) unifying 5+ enterprise systems (Salesforce, HubSpot, Pendo, conversation transcripts, product usage) into one API every downstream agent consumes, the same integration-architecture pattern used to plug new systems into an existing stack.",
+        "Built and deployed production multi-agent workflows for outbound sales on Python, LangGraph and Google ADK, with tools exposed over MCP servers, a standard protocol for connecting AI systems to external data and tools. 2x open rates, 2x approved opportunities. Forecast: $1M in quarterly revenue."
+      ],
+      "keywords": [
+        "Python",
+        "APIs",
+        "Integration Architecture",
+        "Event-Driven Architecture",
+        "Pub/Sub",
+        "MCP",
+        "RAG",
+        "Multi-Agent Systems",
+        "LangGraph",
+        "Google ADK",
+        "GCP",
+        "Vertex AI",
+        "TypeScript",
+        "FastAPI",
+        "Salesforce",
+        "HubSpot",
+        "Neo4j",
+        "Graphiti",
+        "Observability",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who operates like a founding engineer. Owns the problem, designs the solution, ships to prod, and stays accountable to the metric. Built AI-powered products used by millions while growing the engineering team around me.",
+      "highlights": [
+        "Architected Employee Referral System end-to-end: identified market gaps via competitor analysis, scoped the solution with the CIO and Sales, and shipped to production. Became the platform's top revenue channel ($1.5M+ generated, $500K ARR).",
+        "Built GenAI demo system for sales: auto-generates personalized proof-of-concept content per prospect from Salesforce data, shipped fast to improve demo speed and close rates.",
+        "Replaced $337K in annual vendor translation costs with an in-house LLM pipeline shipped in 6 weeks, a buy-versus-build call and a rapid proof-of-concept-to-production delivery.",
+        "Owned Beekeeper Template Engine as Product Owner: technical investigations, solutioning, vision-setting, and epic definition, turning the highest-value customer use cases into a platform capability now powering 15% of all assets created (10M+ users)."
+      ],
+      "keywords": [
+        "Java",
+        "Python",
+        "TypeScript",
+        "APIs",
+        "Solution Architecture",
+        "Salesforce",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "AWS",
+        "Kubernetes",
+        "Vue",
+        "OpenAI",
+        "LangChain",
+        "Observability",
+        "Grafana",
+        "Datadog",
+        "On-Call",
+        "Jenkins",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Evaluates technical architecture and advises on AI adoption, engineering culture, and building systems that scale.",
+      "highlights": [
+        "Evaluated 20+ startups on technical architecture, scalability, and readiness to inform seed-to-VC investment decisions, including buy-vs-build assessments.",
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production, hands-on exposure to capital markets infrastructure and low-latency, high-stakes reliability requirements."
+      ],
+      "keywords": [
+        "Capital Markets",
+        "Algorithmic Trading",
+        "Technical Due Diligence",
+        "Startup Evaluation",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built everything from scratch: architecture, infrastructure, APIs, and the algorithms that made 500+ real-world deliveries possible.",
+      "highlights": [
+        "Built reliability in from day one, enabling enterprise partnerships with Unilever and a showcase at CES Las Vegas. 500+ real-world last-mile deliveries.",
+        "Engineered flight control APIs and logistics optimization algorithms. 40% faster deliveries, 99.5% safety, zero incidents."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "APIs",
+        "Docker",
+        "CI/CD",
+        "Real-time Systems",
+        "Logistics Optimization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "In-depth case study of building and deploying a production AI outbound sales agent, detailing the architecture, implementation, and real-world outcomes that led to 2x open rates and 2x approved opportunities."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "A map of the 12 memory and RAG tools building the AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to pick the right memory and retrieval stack for agents in production."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "How verification loops, human-in-the-loop checkpoints, and draft-before-send patterns keep an autonomous agent from shipping wrong actions to real customers."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote presentation exploring the intersection of artificial intelligence and human creativity, demonstrating how AI can augment rather than replace creative processes in product development."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Comprehensive methodology presentation on accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Technical deep-dive presentation demonstrating how microfrontend architecture enables scalable, team-autonomous development while reducing deployment complexity for enterprise applications."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Microfrontends"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed engineering practice, currently the home for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView). Open to forward-deployed client engagements: embedding with a team, running technical discovery, and shipping production agentic AI end to end. Take my own products from zero to production end to end: multi-agent systems, RAG grounding, eval pipelines, and observability, the same playbook I bring to any engagement.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform for Swiss-Indian families, replacing spreadsheets and expensive advisors. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions in plain language with citations back to the regulation; compliance-first agentic design flags risk before users file, with regulatory guardrails built before features. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built for my own trading portfolio first, then opened to retail traders. AI agents generate AND justify trading signals from technical and news data, with explainability and evaluation built in: if the model can't explain the signal, it doesn't ship. Now serving live users on real-time feeds.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Chainlink",
+    "jobTitle": "Senior Solutions Architect",
+    "jobUrl": "",
+    "jobDescription": "Senior Solutions Architect, Chainlink capital markets team. Drive adoption of Chainlink products across capital markets: gather requirements, scope projects, deliver PoCs and reference architectures, respond to RFIs/RFPs/DDQs, evangelize to financial institutions. Requires technical pre/postsales experience with large institutions, blockchain/DeFi/tokenization knowledge, middleware/integration architecture, PoC delivery. Preferred: Solidity/Golang/Rust, capital markets domain knowledge, decentralised oracle design, technical authorship, cloud SA certifications.",
+    "notes": "Candidate has no direct blockchain/DeFi/Solidity experience. Tailored to lean into genuinely held transferable strengths: technical discovery/solutioning, integration architecture, rapid PoC-to-production delivery, capital-markets-adjacent domain exposure (algorithmic trading mentoring, fintech), and technical authorship/public speaking (evangelism). No fabrication of blockchain skills.",
+    "createdAt": "2026-08-03T00:00:00.000Z"
+  },
+  "_generatedFile": {
+    "company": "Chainlink",
+    "baseName": "senior-solutions-architect",
+    "createdAt": "2026-08-03T20:43:25.073Z",
+    "targetPath": "./generated/Chainlink/senior-solutions-architect.json"
+  }
+}

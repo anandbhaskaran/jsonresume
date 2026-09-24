@@ -1,0 +1,297 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI Product Engineer | Production Agents & MCP | Real Estate + Regulated Fintech",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "AI product engineer who ships agents that real users actually rely on. At LumApps I own production multi-agent workflows on LangGraph + Google ADK with tools exposed over MCP (2x conversions, $1M forecast quarterly revenue). On the side I built Proplab, an AI-native product for real estate inspections and multilingual listings, and SwissNRI, an AI-native cross-border tax and compliance product (evals, refusals, and guardrails-before-features are default). 13+ years shipping to 10M+ users. Zurich-based, comfortable sitting with advisors for an afternoon and shipping the first agent in weeks.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Product Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Took AI outbound from prototype to production: multi-agent workflows on Python, LangGraph, Google ADK with tools exposed over MCP and state streamed to the UI over AG-UI. Reps use it daily. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day, $1M forecast in quarterly revenue.",
+        "Built the MCP layer over domain APIs: thin, well-designed tool wrappers agents act through. Same pattern the Neho JD describes; I was the first and most demanding consumer of our own API-first architecture.",
+        "Own the reliability layer: eval pipelines that reflect real usage, LangSmith tracing, cost-per-request telemetry, verification loops, refusal patterns, human-in-the-loop draft-before-send. Report directly to C-level."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "AG-UI",
+        "Multi-Agent Systems",
+        "RAG",
+        "Evaluation Pipelines",
+        "Guardrails",
+        "Refusal Patterns",
+        "Prompt Engineering",
+        "LangSmith",
+        "Streaming UIs",
+        "Product Ownership"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Replaced a $337K annual vendor contract with an in-house LLM pipeline shipped in 6 weeks (GitHub Actions + OpenAI). 12K+ assets translated. Classic prototype-to-production motion the Neho role calls for.",
+        "Built AI Onboarding Specialist: personalized high-touch guidance for every new signup. 100% of customers guided through setup, time-to-first-value cut without adding headcount. Discovery with product + CS, evals from day one.",
+        "Co-owned GTM launches with Product and Sales. Each shipped with instrumentation so we knew within a week if it moved the needle, and killed the ones that didn't.",
+        "Architected Employee Referral System end to end (Java, PostgreSQL, Elastic Search on Kubernetes). Became the platform's top revenue channel: $1.5M+ revenue, $500K ARR at 99.99% SLA."
+      ],
+      "keywords": [
+        "Python",
+        "Java",
+        "TypeScript",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "Langfuse",
+        "GitHub Actions",
+        "PostgreSQL",
+        "Elastic Search",
+        "Discovery",
+        "Product Instrumentation"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an EPFL spin-off. Shipped the full autonomous drone delivery platform (Vue/Java/PostgreSQL) that powered 500+ real-world deliveries. Sat with ops teams, mapped messy human workflows, turned them into working software.",
+        "Built AWS infrastructure and CI/CD pipeline from scratch. Enterprise-grade reliability that enabled a Unilever partnership and a CES showcase."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Discovery",
+        "Zero-to-One Product"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on shipping a production agent end to end: prompts, evals, real-world outcomes (2x open rates, 2x approved opportunities), and what actually moved the metric."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Verification loops, human-in-the-loop checkpoints, and draft-before-send patterns that keep autonomous agents safe with real customers."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Map of memory and RAG tools for the AI brain layer. How to pick the right retrieval and memory stack for agents in production."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology for accelerating product cycles through lean validation, rapid prototyping, and data-driven iteration."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Tutorial on practical ReAct agents that combine reasoning with tool use for real-world applications."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI Product Engineering"
+    },
+    {
+      "name": "Real Estate & Regulated AI"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & AI Product Builder",
+      "description": "Property inspections run on paper, clipboards, and WhatsApp photos. Built an AI-native MVP that removes the toil end to end: a vision pipeline extracts structured signals (room type, condition, defects) from inspection photos, and LLM agents turn those records into multilingual, marketing-ready property listings in one workflow. Direct parallel to Neho's mandate: remove manual work so experts spend time on the moments that matter.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech (Regulated)",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform for Swiss-Indian families. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions with citations back to regulation; compliance-first agentic design with refusal patterns and guardrails built before features. Zero-to-MVP in 3 months, 40% uplift in satisfaction. Same regulated, document-heavy discipline the Neho role calls for.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Anand Creations - Forward Deployed AI Practice",
+      "position": "Founder & Principal",
+      "description": "My independent practice and the home for AI products I ship myself. Same playbook I'd bring to Neho: discovery, prototype in weeks, evals from day one, ship to real users, measure, iterate.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Neho",
+    "jobTitle": "AI Product Engineer",
+    "jobUrl": "",
+    "jobDescription": "AI Product Engineer at Neho (Swiss real estate brokerage, SEF Award 2023, fixed-price model). Zero-to-one, reports to CTO. Build agents that remove manual work in buying/financing/selling homes. Ship first agent in months, grow pipeline. Discovery with advisors + ops. Build MCP layer over domain APIs. Ship on containerized fenced path with evals, guardrails, and data-sensitivity respect. Must: modern AI stack (LangGraph/CrewAI/ADK, direct APIs, Dify/n8n), production code experience, PHP/TypeScript/Python across the stack, MCP + webhooks + prompting + streaming UIs, evals + refusals + failure-mode thinking, discovery with real users. Bonus: real estate / mortgages / fintech, Swiss/EU data protection, mobile.",
+    "notes": "Perfect fit — Proplab (AI real estate) hits the real-estate nice-to-have directly; SwissNRI hits regulated fintech + Swiss data protection; LumApps hits agents/MCP/evals/guardrails; Zurich-based. Adapted LumApps title to 'Lead AI Product Engineer' to mirror JD.",
+    "createdAt": "2026-08-13"
+  },
+  "_generatedFile": {
+    "company": "Neho",
+    "baseName": "ai-product-engineer",
+    "createdAt": "2026-08-13T12:02:15.757Z",
+    "targetPath": "./generated/Neho/ai-product-engineer.json"
+  }
+}

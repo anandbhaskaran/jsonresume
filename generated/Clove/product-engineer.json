@@ -1,0 +1,286 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI-Native Product Engineer & Founder | 0 to 1 Full-Stack Shipping on GCP | Remote-First from Zurich, Open to London Hybrid",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Product-minded engineer who ships end-to-end (schema to UI to production) and treats AI as the leverage layer, not the feature. 13+ years of full-stack building including founding-engineer roles (Dronistics EPFL spin-off, SwissNRI regulated fintech) and 6 years at Beekeeper serving 10M+ users. Currently Lead AI Engineer at LumApps on GCP: event-driven ingest over Pub/Sub, LangGraph workflow orchestration, React/TypeScript UIs streamed over AG-UI, and an AI leverage discipline (evals, tracing, cost telemetry) that lets a small team move like a big one. Remote-first from Zurich, comfortable travelling to London on a hybrid cadence. I want to help close the advice gap at Clove because financial advice, done well, is exactly the kind of high-trust product I love building.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Ship end-to-end on a Python/TypeScript stack over GCP: API design, workflow orchestration (LangGraph, Google ADK), event-driven ingest over Pub/Sub, and React UIs streamed from agent state via AG-UI. Own features from schema to polished UI, no PM handoff.",
+        "Set how we build with AI: evals, tracing (LangSmith), tool-selection tuning, cost-per-request telemetry and MCP tool servers. The guardrails that let a small team ship like a big one, exactly the pattern-setting the JD calls out.",
+        "2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast $4M/quarter in approved opportunities. Report directly to C-level on outcomes."
+      ],
+      "keywords": [
+        "TypeScript",
+        "React",
+        "Python",
+        "GCP",
+        "Event-Driven",
+        "Pub/Sub",
+        "Workflow Orchestration",
+        "LangGraph",
+        "MCP",
+        "API Design",
+        "AG-UI",
+        "Product Engineering",
+        "AI Force Multiplier"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Owned features from schema to polished UI across a full-stack Vue/TypeScript/Java monolith on Kubernetes (event streams over Kafka). 10M+ frontline users, 99.99% SLA on the Employee Referral System ($1.5M+ revenue, $500K ARR).",
+        "Replaced $337K in annual vendor cost with an in-house LLM pipeline shipped in 6 weeks. Prototype, measure, ship, iterate: the exact loop the JD describes.",
+        "Built AI Onboarding Specialist and GenAI demo generator: consumer-facing flows that used AI to make each user feel personally guided. Product-taste-driven, instrumented from day one.",
+        "Co-owned GTM launches with Product and Sales; every feature shipped with analytics baked in so we knew within a week whether it moved the needle. Mentored the AI cohort; set patterns others build on."
+      ],
+      "keywords": [
+        "Full-Stack",
+        "TypeScript",
+        "Vue",
+        "Java",
+        "Python",
+        "Kafka",
+        "Event-Driven",
+        "PostgreSQL",
+        "Elastic Search",
+        "AWS",
+        "Kubernetes",
+        "OpenAI",
+        "LangChain",
+        "Analytics",
+        "Product Engineering"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at an EPFL spin-off. Took the product from a blank page to a live commercial platform (Vue/Java/PostgreSQL on AWS) that ran 500+ real-world deliveries. Set the patterns, wrote the first tests, drew the first architecture.",
+        "Enterprise-grade reliability that customers and partners could trust (Unilever partnership, CES showcase). High-trust product taste applied end-to-end, from flight-control APIs to the operator UI."
+      ],
+      "keywords": [
+        "0 to 1",
+        "Founding Engineer",
+        "Full-Stack",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "API Design",
+        "Real-Time Systems",
+        "Docker",
+        "CI/CD"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on shipping a production AI agent that delivered a measurable commercial lift. Where AI helps in a product loop, and where it does not."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "How to build the memory backbone under a product's AI layer. Practical view on RAG, temporal knowledge graphs and where each fits."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Verification loops, human-in-the-loop checkpoints and draft-before-send patterns for autonomous agents that touch real users. Same discipline needed in a high-trust financial product."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Product-engineering talk on shipping polished multi-audience frontends with a small team through modular architecture."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI as Force Multiplier"
+    },
+    {
+      "name": "0 to 1 Founding Engineering"
+    },
+    {
+      "name": "Product Craft & Design Detail"
+    },
+    {
+      "name": "Fintech & High-Trust Products"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SwissNRI - 0 to 1 AI-native Financial Advice Platform",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Direct parallel to Clove's mission. Closing the advice gap for Swiss-Indian families locked out of affordable cross-border tax and financial guidance. Full product from blank page: React/TS onboarding, GCP backend, RAG-grounded adviser assistant answering DTAA, FEMA and Swiss tax with citations back to the regulation, and compliance-first agentic design that flags risk before users act. High-trust and regulated by design. Zero-to-MVP in 3 months, 40% uplift in user satisfaction from feedback-driven iteration.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Anand Creations - AI-Native Building Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Where I set the personal patterns for how to build with AI: prototype in a day, ship in a week, measure in production. Independent forward-deployed practice and the home for the AI products I run myself. Full-stack ownership, opinionated tooling (Claude Code, MCP servers, evals-as-tests, cost telemetry) and a hard rule that the human experience beats the technical demo.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail investors. Agents ingest technical and news data, form a hypothesis and generate AND justify a signal with cited evidence: if the model cannot explain the signal, it does not ship. Explainability, evaluation and back-testing baked into a polished consumer UI. Built for my own portfolio first, then opened up. Small-team, 0 to 1, product-taste-driven.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Clove",
+    "jobTitle": "Product engineer",
+    "jobUrl": "",
+    "jobDescription": "Clove is an early-stage London fintech closing the advice gap by combining trusted advisers with technology. One of the first hires. Product engineer across consumer, adviser and internal surfaces on a modular Go monolith with React frontends on GCP. AI-native, event-driven, workflow orchestration, first-principles.",
+    "notes": "Strong technical/culture fit. Location: Hybrid London, candidate is Zurich-based; positioned as remote-first with regular London trips (worth addressing head-on in a short cover letter). Go: no direct Go experience but strong Java/Python/TS fundamentals; JD explicitly says similar tech works. Angle: 0 to 1 fintech (SwissNRI) as direct mission parallel, AI-native building practice, product-eng end-to-end craft on GCP.",
+    "createdAt": "2026-08-17"
+  },
+  "_generatedFile": {
+    "company": "Clove",
+    "baseName": "product-engineer",
+    "createdAt": "2026-08-17T15:14:13.155Z",
+    "targetPath": "./generated/Clove/product-engineer.json"
+  }
+}

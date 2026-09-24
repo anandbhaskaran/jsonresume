@@ -1,0 +1,307 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Forward Deployed AI Engineer | Production Agents, Evals & Data Pipelines | Regulated Enterprise Delivery",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Forward deployed AI engineer who owns the customer's outcome, not a slice of a roadmap. Currently Lead AI Engineer at LumApps building production multi-agent systems on Python, LangGraph and GCP Vertex AI with evals, LangSmith tracing and cost-per-request telemetry designed for stochastic behavior. Delivered 2x sales conversions and $1M/quarter forecast revenue. Founder of Anand Creations, my forward-deployed practice embedding with teams to run discovery, ship PoCs and productionize agents on top of their live data. 6 years at Beekeeper shipping AI-native features to 10M+ users under GDPR and strict reliability constraints; co-founded SwissNRI, a compliance-first regulated fintech. Comfortable in enterprise data silos, on-call for global production, and in front of the customer.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Ship production multi-agent workflows against live enterprise data (Salesforce, HubSpot, Pendo, transcripts, product usage) using Python, LangGraph, Google ADK on GCP Vertex AI, with MCP tool servers and AG-UI. 2x open rates, 2x approved opportunities, $1M/quarter revenue forecast. Own the discovery-to-production loop and the ROI conversation with C-level.",
+        "Built the eval, LangSmith tracing and cost-per-request layer that turns stochastic agent behavior into a system you can ship, measure and trust. Same pattern I apply when the answer changes every call.",
+        "Architected AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ enterprise silos into one queryable, time-aware layer with per-agent contracts and a freshness guard on retrieval. A working analog of an AI-first data platform."
+      ],
+      "keywords": [
+        "Python",
+        "SQL",
+        "Multi-Agent Systems",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "Vertex AI",
+        "GCP",
+        "Evaluation Pipelines",
+        "LangSmith",
+        "Stochastic Systems",
+        "Data Pipelines",
+        "Knowledge Graphs",
+        "Neo4j",
+        "Graphiti"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Replaced $337K in annual vendor cost with an in-house LLM pipeline shipped in 6 weeks (Python, OpenAI, GitHub Actions). Ruthless ROI framing, direct P&L impact, product team unblocked from external gatekeepers.",
+        "Ran the full data plumbing under 10M+ frontline users on AWS: PostgreSQL, Kafka pipelines, Elastic Search, ClickHouse. GDPR-sensitive workloads, 99.99% SLA on the top revenue channel ($1.5M+ generated, $500K ARR).",
+        "Shipped AI-native customer flows (AI Onboarding Specialist, GenAI demo generator on Salesforce data). Built with evals, tracing and human-in-the-loop from day one; measured impact within a week of launch.",
+        "Ran discovery and PoCs with Product, Sales and CIO; mentored the AI cohort; global on-call. Comfortable moving between engineering, data, GTM and the customer conversation."
+      ],
+      "keywords": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "Kafka",
+        "Elastic Search",
+        "ClickHouse",
+        "AWS",
+        "Kubernetes",
+        "OpenAI",
+        "LangChain",
+        "GDPR",
+        "Data Pipelines",
+        "Enterprise Delivery",
+        "PoC"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Ran discovery-style diligence on 20+ fintech and AI startups: business models, data architecture, moats and ROI framing. Translated between engineers, founders and non-technical LPs.",
+        "Mentored Opt Alpha on scaling algorithmic trading in production; advised multiple portfolio companies on where AI genuinely creates leverage and where it does not."
+      ],
+      "keywords": [
+        "Discovery",
+        "PoC",
+        "Fintech",
+        "AI Strategy",
+        "Enterprise Advisory",
+        "Stakeholder Translation"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at an EPFL spin-off. Built the commercial platform (Vue/Java/PostgreSQL on AWS) end-to-end and ran the enterprise sales conversations that landed a Unilever partnership and a CES showcase.",
+        "500+ real-world deliveries, 40% faster, 99.5% safety record. Every output verifiable, every deployment auditable: the same bar regulated enterprise customers demand."
+      ],
+      "keywords": [
+        "Founding Engineer",
+        "Enterprise PoC",
+        "AWS",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "Docker",
+        "Terraform",
+        "CI/CD",
+        "Real-Time Systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on shipping a production AI agent that moved real business metrics. Where AI helps in an enterprise loop and where it does not."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Verification loops, human-in-the-loop checkpoints and draft-before-send patterns to keep stochastic agents from shipping wrong actions on live customer data."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Practical reference on the memory / RAG stack under an AI-first data platform: temporal knowledge graphs vs vector-only, and how to pick the right layer for enterprise data."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework talk on translating AI potential into measurable ROI: the same conversation FDEs have with enterprise customers every week."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Forward Deployed Engineering"
+    },
+    {
+      "name": "Enterprise AI & Data Platforms"
+    },
+    {
+      "name": "Evals & Stochastic-System Design"
+    },
+    {
+      "name": "Regulated / High-Trust Products"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent FDE practice. I embed with teams, run technical discovery, ship PoCs, and take agents from zero to production over the customer's live data with evals, tracing and cost telemetry from day one. Same operating model the JD describes: bridge, close, build, embed. Home for the AI products I run myself (SwissNRI, PulseView, Proplab).",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - Compliance-First Regulated Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Live production platform for Swiss-Indian cross-border tax and financial compliance. RAG-grounded assistant answers DTAA, FEMA and Swiss tax with citations back to the regulation; agentic layer flags risk before users act. Compliance-first design (PII, GDPR-adjacent, regulator-verifiable outputs) built before features. Zero-to-MVP in 3 months, 40% uplift in user satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence on Live Data",
+      "position": "Founder & Builder",
+      "description": "Production AI platform ingesting real-time price and news time series, computing indicators and running agents that generate AND justify trading signals with cited evidence: if the model cannot explain the signal, it does not ship. Explainability, evaluation and back-testing baked in. A working example of turning noisy live data into verifiable, ROI-oriented AI output.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "TechTree",
+    "jobTitle": "Forward Deployed Engineer",
+    "jobUrl": "",
+    "jobDescription": "AI-native data platform for regulated enterprises (Siemens, UBS, Nvidia, Telefonica). FDE owns customer outcomes: bridge (pipelines, agents, evals), close (PoCs), build (platform gaps), embed (PII, DORA, GDPR, verifiable output). Python, SQL, data tooling. Stochastic-systems mindset; ambiguity-native; product engineer first.",
+    "notes": "Very strong fit. Direct match on Forward Deployed identity (Anand Creations), agent + data + eval stack (LumApps), regulated enterprise delivery (Beekeeper GDPR at 10M+ users, SwissNRI compliance-first). Actual company name not confirmed by candidate; folder placeholder 'TechTree' used.",
+    "createdAt": "2026-08-18"
+  },
+  "_generatedFile": {
+    "company": "TechTree",
+    "baseName": "forward-deployed-engineer",
+    "createdAt": "2026-08-18T14:49:35.706Z",
+    "targetPath": "./generated/TechTree/forward-deployed-engineer.json"
+  }
+}

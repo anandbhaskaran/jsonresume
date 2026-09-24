@@ -1,0 +1,342 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "GenAI Product Owner Mindset | 3× Founder & Applied AI Lead | Discovery to Prototype in Days | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Product-owner-by-instinct who ships GenAI 0-to-1 and leads the specialists doing the deep work. Founded 3 AI products solo (SwissNRI, Proplab, PulseView), each from customer conversation to validated build in weeks. Lead AI Engineer at LumApps steering prompt engineering, RAG, evals, and AI safety across a production multi-agent system (2x conversions, $1M forecast quarterly). MBA (93.2%), 20+ startups advised at Tenity, Product Owner of Beekeeper features used by 10M+ users. Comfortable equally in a customer interview, a workshop, and a vibe-coded prototype I built the same afternoon.",
+    "metrics": [
+      {
+        "value": "3",
+        "label": "GenAI Products 0→1"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "4",
+        "label": "Conference Talks"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Own AI product delivery end to end: customer discovery, prototype, production, and adoption. Reports to C-level on outcomes. Multi-agent system: 2x open rates, 2x approved opportunities, $1M forecast quarterly.",
+        "Lead the specialists (prompt engineering, RAG, evals, agentic workflows, AI safety) across a production stack: LangGraph, Google ADK, MCP, AG-UI, LangSmith. Translate their craft into decisions the org can ship.",
+        "Design AI Brain, a temporal knowledge graph on Graphiti/Neo4j grounding every agent. Kill or scale ideas based on eval results and real user signal, not opinion."
+      ],
+      "keywords": [
+        "GenAI Product Ownership",
+        "Customer Discovery",
+        "Prompt Engineering",
+        "RAG",
+        "Evaluation Pipelines",
+        "AI Safety",
+        "Agentic Workflows",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "Leading Specialists",
+        "0-to-1"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Interviewed and evaluated 20+ startups on architecture, scalability, and AI readiness for seed-to-VC decisions. Customer-discovery muscle built on real founders under time pressure.",
+        "Advised portfolio companies on GenAI product strategy, hiring specialists, and running discovery-led cultures that ship."
+      ],
+      "keywords": [
+        "Customer Discovery",
+        "Founder Coaching",
+        "AI Product Strategy",
+        "Hiring Specialists",
+        "Workshop Facilitation"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead) & Product Owner",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Product Owner of the distributed templating engine that cut customer setup time 90% and powers 15% of all assets on the platform (10M+ users). Ran the discovery, defined the epics, shipped through 3 teams.",
+        "Replaced $337K/yr in vendor translation costs with an in-house LLM pipeline shipped in 6 weeks. GenAI 0-to-1: prototype to production, no gatekeepers.",
+        "Built and led the AI engineering cohort. Hiring manager for AI roles; grew specialists who now lead features independently.",
+        "Co-owned cross-functional GTM launches with Sales and PM (Employee Referral $1.5M+ revenue, Sentiment Analysis, Re-ignite Revenue). Every launch shipped with instrumentation so we knew within a week if it moved the metric."
+      ],
+      "keywords": [
+        "Product Ownership",
+        "GenAI 0-to-1",
+        "Continuous Discovery",
+        "GTM",
+        "Cross-Functional Leadership",
+        "Hiring Specialists",
+        "AI Strategy",
+        "Vue",
+        "OpenAI",
+        "Claude",
+        "LangChain"
+      ]
+    },
+    {
+      "name": "Obermatt",
+      "position": "Technical Product Manager (concurrent side role)",
+      "url": "https://obermatt.com/en/home.html",
+      "startDate": "2018-07",
+      "endDate": "2021-01",
+      "highlights": [
+        "Bridged business and engineering on a financial-analytics product. Ran discovery with customers, built roadmaps that lifted satisfaction and retention.",
+        "Directed a remote engineering team; agile practices lifted productivity 20%; Docker CI/CD cut deployment time 30%."
+      ],
+      "keywords": [
+        "Product Management",
+        "Customer Interviews",
+        "Roadmap & Strategy",
+        "Remote Team Leadership",
+        "Agile"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an autonomous drone delivery startup in a safety-critical industrial domain. Shipped the full product from empty repo to 500+ real-world deliveries (99.5% safety record).",
+        "Ran discovery with Unilever and secured a CES Las Vegas showcase. Turned prototype demos into narratives partners bought into."
+      ],
+      "keywords": [
+        "Founding Team",
+        "Safety-Critical Systems",
+        "Partnerships",
+        "Customer Discovery",
+        "Prototype to Production",
+        "Industrial"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Playbook for going from a hunch to a shipped product in days: lean validation, rapid prototyping, killing what does not move the metric."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of a production GenAI product from prototype to real customers: 2x open rates, 2x approved opportunities."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "AI safety in practice: verification loops and human-in-the-loop checkpoints that keep autonomous agents from shipping wrong actions."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "How to pick the right memory and retrieval stack for GenAI agents in production."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the Rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Turning open-ended GenAI potential into measurable product outcomes through constraint design and validation loops."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Assembling and steering high-performing specialist teams without org-chart authority."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on where GenAI genuinely amplifies craft, and where it does not."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Continuous Discovery & JTBD"
+    },
+    {
+      "name": "GenAI 0-to-1 Products"
+    },
+    {
+      "name": "Founder Coaching"
+    },
+    {
+      "name": "AI Safety & Evals"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Proplab - AI-Native Property Workflows",
+      "position": "Founder & AI Product Builder",
+      "description": "0-to-1 GenAI product for real estate. Ran discovery with agents, vibe-coded the vision pipeline in days: photos to structured records to multilingual listings, one workflow, zero copy-paste.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built for my own portfolio first, then opened to users. Solo end to end (discovery, agents, UI, live users). Core principle: if the model cannot explain the signal, it does not ship. AI safety by design.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Anand Creations - AI Products & Discovery Practice",
+      "position": "Founder & Principal Builder",
+      "description": "Independent studio and home for the GenAI products I design, discover, build, and ship on my own (Proplab, PulseView, SwissNRI). Concept to customer, discovery to prototype in days.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "ROSEN",
+    "jobTitle": "GenAI Product Owner",
+    "jobUrl": "",
+    "jobDescription": "GenAI Product Owner at ROSEN (pipeline inspection). Own short-lived GenAI products end to end: customer discovery, solo vibe-coded prototypes in days, steer specialists (prompt engineering, RAG, evals, AI safety), kill or scale based on real user signal. Bilingual German + English C1.",
+    "notes": "Reframed as GenAI Product Owner: leading specialists at LumApps, PO of templating engine at Beekeeper, GenAI 0-to-1 (LumApps agent, Beekeeper LLM pipeline, 3 founded products), customer discovery (Tenity, Dronistics/Unilever, Obermatt PM). Dronistics reframed for safety-critical industrial signal (adjacent to pipeline inspection). GAP: no German — flagged.",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "ROSEN",
+    "baseName": "genai-product-owner",
+    "createdAt": "2026-08-04T20:10:25.789Z",
+    "targetPath": "./generated/ROSEN/genai-product-owner.json"
+  }
+}

@@ -6,7 +6,7 @@
     "email": "anandbaskaran3193@gmail.com",
     "phone": "+41763043193",
     "url": "https://anand-creations.com",
-    "summary": "Engineer at the intersection of AI applications, product thinking, and production-grade systems. The rare combination behind AI products that actually ship and move metrics. I am Lead Software Engineer at LumApps, building production multi-agent systems on GCP that 2x outbound conversions and forecast $1M in quarterly revenue. On the side I run Anand Creations, a forward deployed engineering practice and the home for AI products I build and ship myself. 13+ years building software for millions: LLM pipelines that eliminated $337K in vendor cost at Beekeeper, autonomous drone deliveries at Dronistics, co-evolution of robot brains and bodies via genetic algorithms at EPFL. Founded three companies on the side. I optimize for outcomes, not artefacts. Every system I build has a metric attached and a customer on the other side.",
+    "summary": "Engineer at the intersection of AI applications, product thinking, and production-grade systems. The rare combination behind AI products that actually ship and move metrics. I am Lead AI Engineer at LumApps, building production multi-agent systems on GCP that 2x outbound conversions and forecast $1M in quarterly revenue. On the side I run Anand Creations, a forward deployed engineering practice and the home for AI products I build and ship myself. 13+ years building software for millions: LLM pipelines that eliminated $337K in vendor cost at Beekeeper, autonomous drone deliveries at Dronistics, co-evolution of robot brains and bodies via genetic algorithms at EPFL. Founded three companies on the side. I optimize for outcomes, not artefacts. Every system I build has a metric attached and a customer on the other side.",
     "metrics": [
       { "value": "$1.5M+", "label": "Revenue Shipped" },
       { "value": "$337K", "label": "Costs Eliminated" },
@@ -39,8 +39,9 @@
   "work": [
     {
       "name": "LumApps",
-      "position": "Lead Software Engineer",
+      "position": "Lead AI Engineer",
       "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
       "startDate": "2026-03",
       "summary": "Owns AI transformation end-to-end, from production AI agent architecture to company-wide governance and sales enablement strategy. Reports directly to C-level on outcomes.",
       "highlights": [
@@ -48,7 +49,29 @@
         "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, conversation transcripts, product usage) into one time-aware memory every agent reads and writes. Event-driven ingest over Pub/Sub, a query and write-back contract per agent, and a freshness layer that flags stale facts, grounding RAG retrieval to cut hallucinations.",
         "Led technical discovery through production: agent architecture, eval pipelines, agent tracing (LangSmith), tool-selection tuning, and cost-per-request instrumentation, with on-call for global production systems. Reports directly to C-level on outcomes, not progress."
       ],
-      "keywords": ["Python", "TypeScript", "GCP", "Vertex AI", "LangChain", "LangGraph", "Google ADK", "MCP", "AG-UI", "FastAPI", "Multi-Agent Systems", "ReAct", "RAG", "Vector Databases", "Evaluation Pipelines", "LangSmith", "Observability", "On-Call", "Neo4j", "Graphiti", "Salesforce"]
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "GCP",
+        "Vertex AI",
+        "LangChain",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "AG-UI",
+        "FastAPI",
+        "Multi-Agent Systems",
+        "ReAct",
+        "RAG",
+        "Vector Databases",
+        "Evaluation Pipelines",
+        "LangSmith",
+        "Observability",
+        "On-Call",
+        "Neo4j",
+        "Graphiti",
+        "Salesforce"
+      ]
     },
     {
       "name": "Beekeeper AG",
@@ -135,10 +158,10 @@
     },
     {
       "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
-      "position": "Research Engineer",
+      "position": "AI Research Engineer",
       "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
       "startDate": "2016-08",
-      "endDate": "2018-07",
+      "endDate": "2020-03",
       "summary": "AI research at the frontier of robotics. Built and scaled Robogen, an open-source platform for the co-evolution of robot morphologies and control systems via genetic algorithms. Foundational AI work that underpins my current LLM and agentic systems craft.",
       "highlights": [
         "Engineered Robogen, an open-source platform for co-evolution of robot bodies and brains via genetic algorithms. Rare research direction where morphology and neural control evolve together through artificial selection.",
@@ -351,10 +374,7 @@
     {
       "name": "Anand Creations - Forward Deployed Engineering Practice",
       "position": "Founder & Principal Forward Deployed Engineer",
-      "description": "Independent forward deployed engineering practice, currently the home for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView). Open to forward-deployed client engagements: embedding with a team, running technical discovery, and shipping production agentic AI end to end.",
-      "highlights": [
-        "Take my own products from zero to production end to end: multi-agent systems, RAG grounding, eval pipelines, and observability, the same playbook I bring to any engagement."
-      ],
+      "description": "Independent forward deployed engineering practice, currently the home for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView). Open to forward-deployed client engagements: embedding with a team, running technical discovery, and shipping production agentic AI end to end. Take my own products from zero to production end to end: multi-agent systems, RAG grounding, eval pipelines, and observability, the same playbook I bring to any engagement.",
       "url": "https://anand-creations.com",
       "startDate": "2024-06-01"
     },
@@ -368,11 +388,7 @@
     {
       "name": "Proplab - AI for Real Estate",
       "position": "Founder & AI Product Builder",
-      "description": "Property inspections run on paper, clipboards, and WhatsApp photos. Built an AI-native MVP: vision models turn inspection photos into structured records; LLM agents turn those records into marketing-ready listings.",
-      "highlights": [
-        "Vision pipeline that extracts structured signals (room type, condition, defects) from inspection photos. Replaces paper-based reports with queryable, AI-readable data.",
-        "LLM listing generator turns inspection records into multilingual, marketing-ready property listings end-to-end. One agent workflow, zero copy-paste from photo to published listing."
-      ],
+      "description": "Property inspections run on paper, clipboards, and WhatsApp photos. Built an AI-native MVP: vision pipeline extracts structured signals (room type, condition, defects) from inspection photos, replacing paper-based reports with queryable, AI-readable data. LLM agents then turn those records into multilingual, marketing-ready property listings end-to-end, one workflow, zero copy-paste from photo to published listing.",
       "url": "https://proplab.io",
       "startDate": "2025-09-01"
     },

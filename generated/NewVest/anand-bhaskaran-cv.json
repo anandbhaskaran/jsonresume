@@ -1,0 +1,299 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Forward Deployed AI Engineer | Fintech & Regulated Products | 3x Founder | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Forward deployed AI engineer and founder. Lead AI Engineer at LumApps, shipping production multi-agent systems on GCP that 2x conversions and forecast $1M in quarterly revenue. Also founder of Anand Creations, my independent practice, and co-founder of SwissNRI, an AI-native cross-border tax and compliance platform for Swiss-Indian families (regulated, RAG-grounded, guardrails-first). 13+ years building for 10M+ users, including a $1.5M+ revenue product at Beekeeper. MBA-trained, Zurich-based, comfortable sitting with an investor, a compliance officer, or an engineer and shipping the thing that moves the metric.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Shipped production multi-agent workflows for outbound (Python, LangGraph, Google ADK on GCP Vertex AI, tools over MCP, UI streamed over AG-UI). 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day, $1M forecast in quarterly revenue.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, transcripts, product usage) into one time-aware memory. Event-driven ingest, freshness detection, RAG grounded to source. Same pattern that would let a NewVest agent read 50 GPs' quarterly letters and flag drift.",
+        "Own end-to-end: architecture, eval pipelines, LangSmith tracing, cost-per-request telemetry, on-call. Report directly to C-level on outcomes."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "Multi-Agent Systems",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "GCP",
+        "Vertex AI",
+        "RAG",
+        "Knowledge Graphs",
+        "Neo4j",
+        "Evaluation Pipelines",
+        "LangSmith",
+        "Product Ownership"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead, Incubation)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Architected Employee Referral System end to end as tech lead of the Incubation team, reporting to CIO. Ran market research, product scope, and GTM with Sales and PM. Became the platform's top revenue channel: $1.5M+ revenue, $500K ARR. Founder work inside a company.",
+        "Replaced a $337K annual vendor contract with an in-house LLM pipeline shipped in 6 weeks. 12K+ assets translated. Zero-to-production is a habit, not a stretch.",
+        "Ran observability and global on-call (Grafana, Datadog, Logz.io) for high-traffic production. Diagnosed and triaged incidents across service, DB, and infra layers.",
+        "Co-owned GTM launches with Product and Sales. Each shipped with instrumentation so we knew within a week if it moved the needle."
+      ],
+      "keywords": [
+        "Java",
+        "Python",
+        "TypeScript",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "LangChain",
+        "Kafka",
+        "PostgreSQL",
+        "Elastic Search",
+        "Product Ownership",
+        "GTM",
+        "Incident Triage"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Evaluated 20+ startups on architecture, scalability, and AI readiness for seed-to-VC investment decisions. Same diligence lens I would apply to internal ops build-vs-buy calls.",
+        "Mentored Opt Alpha (high-frequency algorithmic trading) and advised portfolio companies on AI strategy and hiring."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Startup Diligence",
+        "Technical Mentoring",
+        "Fintech Advisory"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an EPFL spin-off. Shipped the full autonomous drone delivery platform (Vue/Java/PostgreSQL) that powered 500+ real-world deliveries.",
+        "Built cloud infra and CI/CD on AWS from scratch. Enterprise reliability that enabled a Unilever partnership and a CES showcase."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Zero-to-One Product"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Map of memory and RAG tools for the AI brain layer. Same design underpins any research-heavy AI system (fund letters, regulatory filings, LP communications)."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on shipping a production AI agent end to end: 2x open rates, 2x approved opportunities. Same playbook for LP acquisition and RIA outbound."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology for accelerating product cycles through lean validation, rapid prototyping, and data-driven iteration."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for turning open-ended AI potential into measurable outcomes."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI in Regulated Industries"
+    },
+    {
+      "name": "Fintech & Cross-Border Compliance"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SwissNRI - AI Cross-border Fintech (Regulated)",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform for Swiss-Indian families. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions in plain language with citations back to the regulation; compliance-first agentic design flags risk before users file. Zero-to-MVP in 3 months, 40% uplift in satisfaction. Direct parallel to LP-facing regulated communications and fund documentation Q&A.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Anand Creations - Forward Deployed AI Practice",
+      "position": "Founder & Principal",
+      "description": "Independent forward deployed practice. Open to embedded engagements: sit with a small team, run technical discovery, prototype in weeks, ship to production. Same playbook whether the client is a fintech, a fund, or a SaaS.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail traders. AI agents generate AND justify trading signals from technical and news data, with explainability built into the eval loop. If the model can't explain the signal, it doesn't ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "NewVest",
+    "jobTitle": "Forward Deployed AI Engineer (Prospect / Client Introduction)",
+    "jobUrl": "",
+    "jobDescription": "Not a job application. Introduction to John Malinovic at NewVest (PE market-index fund business) following first call on 2026-08-05. Sent alongside a one-pager on how Anand can help NewVest scale (AI research over top-50 GPs, LP-facing product surface, distribution/LP acquisition, ops automation).",
+    "notes": "Positioned as forward deployed engineer / consulting-ready, not job-hunt CV. Led with fintech + regulated + zero-to-one. Kept LumApps title unchanged (Lead AI Engineer, not adapted).",
+    "createdAt": "2026-08-05"
+  },
+  "_generatedFile": {
+    "company": "NewVest",
+    "baseName": "anand-bhaskaran-cv",
+    "createdAt": "2026-08-05T16:04:46.794Z",
+    "targetPath": "./generated/NewVest/anand-bhaskaran-cv.json"
+  }
+}

@@ -1,0 +1,3 @@
+**Additional Information — ekona Senior AI Engineer**
+
+I run my own forward deployed practice (Anand Creations) alongside my day job, so client-facing AI delivery in regulated contexts is already how I work. SwissNRI, my cross-border tax and compliance product for Swiss-Indian families, is RAG-grounded with citations back to the regulation and compliance-first agentic guardrails, the closest parallel I have to ekona's life sciences and supply chain work. Zurich-based, comfortable sitting with domain experts, and I default to shipping something small and working over writing a spec no one reads. Happy to walk through the AI Brain temporal knowledge graph or the LumApps eval and observability setup on a call.

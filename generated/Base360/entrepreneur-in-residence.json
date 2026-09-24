@@ -1,0 +1,312 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Entrepreneur in Residence | 3x Founder | AI Product Builder | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Serial founder and AI product builder. 3 companies founded on the side, $1.5M+ in revenue shipped inside Beekeeper as tech lead of a new incubation vertical, and current Lead AI Engineer at LumApps building production multi-agent systems that forecast $1M in quarterly revenue. I take zero-to-one AI products end to end: market research, product strategy, engineering, GTM with sales and product, and the metric on the other side. MBA-trained, Zurich-based, and I optimize for outcomes not artefacts.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Built and shipped a production AI outbound sales product end to end: Python, LangGraph, Google ADK on GCP Vertex AI, with tools over MCP and state streamed to the UI over AG-UI. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day, $1M forecast in quarterly revenue. Own the roadmap, the eval bar, and the on-call pager.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, transcripts, product usage) into one time-aware memory every agent reads and writes. Grounds RAG and cuts hallucinations.",
+        "Report directly to C-level on outcomes, not progress. Own product bets, eval strategy, cost-per-request instrumentation, and the sales enablement narrative alongside the engineering."
+      ],
+      "keywords": [
+        "Python",
+        "LangGraph",
+        "Google ADK",
+        "GCP",
+        "Vertex AI",
+        "MCP",
+        "AG-UI",
+        "Multi-Agent Systems",
+        "RAG",
+        "Vector Databases",
+        "Evaluation Pipelines",
+        "Neo4j",
+        "Graphiti",
+        "Product Strategy",
+        "GTM"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead, Incubation)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Architected Employee Referral System end to end as tech lead of the Incubation team, reporting to CIO. Ran market research, competitor analysis, product scope, and GTM with Sales and PM. Became the platform's top revenue channel: $1.5M+ generated, $500K ARR. Founder work inside a company.",
+        "Replaced $337K in annual vendor translation costs with an LLM pipeline I shipped in 6 weeks. 12K+ assets translated, product team iterates without external gatekeepers. Zero-to-production motion is a habit.",
+        "Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis, GenAI Demo System). Each shipped with instrumentation so we knew within a week if it moved the needle. Multi-hat by default: product, sales, engineering.",
+        "Hired and grew the AI engineering cohort as acting hiring manager. Recruited for craft and curiosity, mentored engineers who now lead features independently. Built the team as I built the product."
+      ],
+      "keywords": [
+        "Java",
+        "Python",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "OpenAI",
+        "LangChain",
+        "Product Ownership",
+        "GTM",
+        "Market Research",
+        "Hiring & Team Building",
+        "Cross-functional Leadership"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Evaluated 20+ startups on architecture, scalability, and AI readiness to inform seed-to-VC investment decisions. Same lens I use to size venture opportunities.",
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading systems, and advised multiple portfolio companies on AI strategy, technical hiring, and building engineering cultures that ship."
+      ],
+      "keywords": [
+        "AI Strategy",
+        "Startup Evaluation",
+        "Technical Mentoring",
+        "Venture Building"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an EPFL spin-off. Shipped the full autonomous drone delivery platform (Vue/Java/PostgreSQL) that powered 500+ real-world last-mile deliveries.",
+        "Built cloud infrastructure and DevOps pipeline from scratch. Enterprise reliability that enabled a Unilever partnership and a CES Las Vegas showcase."
+      ],
+      "keywords": [
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Zero-to-One Product",
+        "Enterprise Partnerships"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    }
+  ],
+  "publications": [
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology for accelerating product development cycles through lean validation, rapid prototyping, and data-driven decision making in startup environments."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework for turning unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology for assembling and scaling high-performing engineering teams through psychological safety, clear accountability, and growth culture."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study of building and shipping a production AI outbound sales agent: architecture, real-world outcomes (2x open rates, 2x approved opportunities), and what actually moved the metric."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Map of the memory and RAG tools building the AI brain layer, and how to pick the right memory and retrieval stack for agents in production."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on the intersection of AI and human creativity, and how AI augments rather than replaces creative processes in product development."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Startup Mentoring"
+    },
+    {
+      "name": "Zero-to-One Products"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal",
+      "description": "My independent practice and the home for the AI products I design, build, and run myself (SwissNRI, Proplab, PulseView). Same playbook I would bring to a Base360 venture: pick the wedge, ship the MVP fast, wire in evals and telemetry, learn from real users, and compound.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence (B2C)",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail traders. AI agents generate AND justify trading signals from technical and news data. Built for my own portfolio first, then opened to live users. Core product principle: if the model can't explain the signal, it doesn't ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech (B2C)",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform for Swiss-Indian families. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions with citations back to the regulation. Zero-to-MVP in 3 months, 40% uplift in user satisfaction from feedback-driven iteration.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Base360",
+    "jobTitle": "Entrepreneur in Residence",
+    "jobUrl": "",
+    "jobDescription": "Base360.ai is building the AI operating system for B2C businesses, unifying every customer interaction (social, DMs, WhatsApp, email, SMS, phone) into one AI-powered platform. EIR role: identify a major opportunity, build a new product or business vertical within Base360.ai, assemble the team, validate the market, and grow it into a standalone business. If successful, become the long-term GM of your venture. Looking for entrepreneurial mindset with bias toward action, exceptional problem-solving, strong product/commercial intuition, comfort with ambiguity, ability to recruit and lead high-performing teams, highly analytical execution, customer obsession, comfort wearing multiple hats (product, sales, marketing, ops), AI-native. Prior founder/early employee/product leader/operator/investor experience valued.",
+    "notes": "",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "Base360",
+    "baseName": "entrepreneur-in-residence",
+    "createdAt": "2026-08-04T19:48:04.273Z",
+    "targetPath": "./generated/Base360/entrepreneur-in-residence.json"
+  }
+}

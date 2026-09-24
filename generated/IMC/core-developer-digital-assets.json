@@ -1,0 +1,336 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Software Engineer | Embedded Systems MSc × 2 | C++ / Python / Java | Real-Time & Large-Scale Data | Trading Interest",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Systems engineer with dual Embedded Systems MSc (KTH, TU/e) and 3+ years of production C++ on Linux at EPFL (Robogen). Built real-time flight-control APIs as founding engineer at Dronistics and large-scale distributed data systems at Beekeeper (Kafka, ClickHouse, Elastic Search, PostgreSQL for 10M+ users). Current Lead AI Engineer at LumApps, where I ship production ML systems on GCP with cost and latency tracing. Trading domain interest: mentored Opt Alpha at Tenity on scaling high-frequency algorithmic trading in production, and run PulseView (my own real-time market intelligence product with live users). Zurich-based; Zug commutable.",
+    "metrics": [
+      {
+        "value": "3",
+        "label": "AI Products Founded"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "20+",
+        "label": "Startups Advised"
+      },
+      {
+        "value": "4,600+",
+        "label": "OSS Module Users"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Own a production multi-agent ML system on Python + GCP Vertex AI: instrumentation for latency, cost per request, and throughput. Report to C-level on outcomes; on-call for global production.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti/Neo4j unifying 5+ data sources into one time-aware store. Event-driven ingest over Pub/Sub, concurrent read/write patterns, and freshness tracking."
+      ],
+      "keywords": [
+        "Python",
+        "GCP",
+        "Vertex AI",
+        "ML Systems",
+        "Latency & Throughput Instrumentation",
+        "Concurrency",
+        "Event-Driven Architecture",
+        "Neo4j",
+        "Pub/Sub",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Large-scale distributed data systems for 10M+ users: Kafka event streams, ClickHouse analytics, Elastic Search indexing, PostgreSQL, K8s on AWS. Performance tuning across the stack.",
+        "Ran observability and global on-call across production systems (Grafana, Datadog, Logz.io). Debugged and optimized system behavior end to end.",
+        "Read, debugged, and improved codebases in Java, TypeScript, Python, and Vue across 3 teams. Comfortable diving into unfamiliar code and closing decisions."
+      ],
+      "keywords": [
+        "Distributed Systems",
+        "Kafka",
+        "ClickHouse",
+        "Elastic Search",
+        "PostgreSQL",
+        "Kubernetes",
+        "AWS",
+        "Java",
+        "Python",
+        "Performance Optimization",
+        "Observability",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production. Direct exposure to HFT architecture, latency budgets, and exchange connectivity concerns.",
+        "Evaluated 20+ startups on architecture, scalability, and system design for seed-to-VC investment decisions."
+      ],
+      "keywords": [
+        "Algorithmic Trading Advisory",
+        "HFT Architecture",
+        "Latency Budgets",
+        "System Design",
+        "Fintech"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Engineered real-time flight-control APIs and logistics optimization algorithms. 500+ autonomous deliveries, 99.5% safety record, zero incidents.",
+        "Built full-stack (Vue, Java, PostgreSQL) and cloud infra (AWS, Docker, Terraform) from empty repo. Deep exposure to real-time constraints and system reliability."
+      ],
+      "keywords": [
+        "Real-Time Systems",
+        "Flight Control APIs",
+        "Java",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "Safety-Critical Systems",
+        "Latency-Sensitive Optimization"
+      ]
+    },
+    {
+      "name": "EPFL, Laboratory of Intelligent Systems (Robogen)",
+      "position": "AI Research Engineer (C++ / Linux)",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "startDate": "2016-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "3+ years shipping C++ in a Linux/Unix environment. Engineered Robogen, an open-source platform for co-evolution of robot bodies and neural controllers via genetic algorithms.",
+        "Migrated the simulation pipeline to AWS for large-scale parallel evolution runs. Grid-computing-style workloads across EC2; secured AWS Cloud Credits for Research.",
+        "Foundational CS work: algorithms, memory models, concurrency, neural networks, statistics, and large-scale data. Featured on the AWS Public Sector Blog."
+      ],
+      "keywords": [
+        "C++",
+        "Linux / Unix",
+        "Algorithms",
+        "Concurrency",
+        "Memory Management",
+        "Genetic Algorithms",
+        "Neural Networks",
+        "Statistics",
+        "AWS EC2",
+        "Grid-Style Compute",
+        "Open Source"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "Feature on Robogen (my open-source EPFL C++ platform), running large-scale parallel evolution on AWS."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Techniques for interpreting high-dimensional data through interactive heatmaps."
+    },
+    {
+      "name": "Terraform URL Shortener (Open Source Module)",
+      "publisher": "Terraform Registry",
+      "url": "https://registry.terraform.io/modules/anandbhaskaran/url-shortener/aws/latest",
+      "summary": "Open-source Terraform module for AWS Lambda. ~4,600 users; active maintenance of a developer tool."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Production case study on shipping a multi-agent system with latency and cost instrumentation."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Deep-dive on distributed systems architecture applied to frontend."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Fast iteration from concept to shipped system."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Low-Latency Systems"
+    },
+    {
+      "name": "Algorithmic Trading"
+    },
+    {
+      "name": "Statistics & ML"
+    },
+    {
+      "name": "Open Source"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments",
+      "summary": "Winner for innovative analog circuit design; foundational hardware-oriented thinking."
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence for retail traders. AI agents generate AND justify trading signals from technical and news data on real-time feeds. Solo end to end. Built for my own trading portfolio first; direct interest in market microstructure and execution.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Anand Creations - AI Products & Open Source",
+      "position": "Founder & Principal Builder",
+      "description": "Independent studio and home for 3 products I ship solo (PulseView, Proplab, SwissNRI). Plus a Terraform URL-shortener module on the Registry with ~4,600 users I keep maintaining.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "IMC",
+    "jobTitle": "Core Developer - Digital Assets",
+    "jobUrl": "",
+    "jobDescription": "IMC Zug (Switzerland) — C++ Software Engineer on ultra-low-latency crypto/DeFi trading platform. Design/code/optimize proprietary trading systems (market data + order submission). Requirements: excellent C++ on Linux, low-level network/system programming, low-latency systems experience, CS foundations (algorithms, concurrency, CPU architecture, networks, performance). Plus: stats, ML, large-scale data. Onsite in Zug, Master's/PhD.",
+    "notes": "STRETCH FIT. Candidate is Python/TypeScript/AI-primary, not C++ HFT-primary. Real gaps: no recent C++, no production HFT experience. Strengths reframed: Embedded Systems MSc x2 (KTH + TU/e = perfect CS foundations); 3+ yrs C++/Linux at EPFL Robogen (2016-2020); real-time systems at Dronistics; large-scale data at Beekeeper (Kafka/ClickHouse/ES/PG for 10M+ users); ML/stats big-plus is a direct hit; PulseView + Opt Alpha advisory (Tenity) = trading domain interest. Reordered education to lead with Embedded Systems MSc. Reduced LumApps to 2 bullets (AI angle less relevant), promoted EPFL to 3 (C++ signal). Zurich-based, Zug commutable. Advise a cover letter that names the gap head-on ('I am not a full-time C++ engineer today, but here is my CS foundation + my active trading-domain work').",
+    "createdAt": "2026-08-05"
+  },
+  "_generatedFile": {
+    "company": "IMC",
+    "baseName": "core-developer-digital-assets",
+    "createdAt": "2026-08-06T08:58:24.244Z",
+    "targetPath": "./generated/IMC/core-developer-digital-assets.json"
+  }
+}

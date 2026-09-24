@@ -12,6 +12,7 @@
                     {{name}}
                     {{/if}}
                     {{#if position}}<span class="work-role-inline">· {{position}}</span>{{/if}}
+                    {{#if demoUrl}}<a class="demo-pill" href="{{demoUrl}}" target="_blank" title="Watch demo" aria-label="Watch demo"><span class="demo-pill-icon">▶</span> Watch demo</a>{{/if}}
                 </h3>
                 <h5 class="italic pull-right">
                     {{#if startDate}}
@@ -36,7 +37,7 @@
             {{#if highlights.length}}
             <ul>
                 {{#each highlights}}
-                <li>{{.}}</li>
+                <li>{{{.}}}</li>
                 {{/each}}
             </ul>
             {{/if}}

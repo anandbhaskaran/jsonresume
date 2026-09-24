@@ -1,0 +1,293 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Senior Backend Engineer | Distributed & Event-Driven Systems | Search & Discovery",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Senior backend engineer with 13+ years building distributed, event-driven systems for 10M+ users. Led a 3-team Search Platform revamp at Beekeeper (indexing and ranking redesign, measurable engagement lift), architected the Employee Referral System behind $1.5M+ in revenue at 99.99% SLA, and ran global on-call across Grafana, Datadog, Logz.io. Now Lead AI Engineer at LumApps building event-driven agent workflows on GCP Pub/Sub. Deep on TypeScript, PostgreSQL, Elastic Search, Kafka, AWS, and incident triage in complex production codebases.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer (Backend & Event-Driven Systems)",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "highlights": [
+        "Built event-driven backend for AI Brain: temporal knowledge graph on Graphiti and Neo4j, event ingest over GCP Pub/Sub from 5+ upstream systems (Salesforce, HubSpot, Pendo, transcripts, product usage) with typed per-source contracts, freshness layer for stale-data detection, and per-agent query and write-back APIs.",
+        "Shipped production Python + TypeScript services (FastAPI, LangGraph, Google ADK) on GCP with LangSmith tracing, cost-per-request telemetry, evals, and on-call. Same shape as high-throughput backend + observability, applied to LLM traffic.",
+        "Report directly to C-level on outcomes. 2x open rates, 2x approved opportunities, $1M forecast in quarterly revenue for the outbound product built on this platform."
+      ],
+      "keywords": [
+        "TypeScript",
+        "Python",
+        "GraphQL",
+        "REST APIs",
+        "Event-Driven Architecture",
+        "GCP Pub/Sub",
+        "Neo4j",
+        "Vector Databases",
+        "FastAPI",
+        "Observability",
+        "LangSmith",
+        "Performance Tuning",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Led Search Platform revamp across 3 teams: redesigned indexing and ranking pipelines on Elastic Search to surface what users mean, not just what they typed. Measurable engagement lift. Same shape as feed and discovery work.",
+        "Architected Employee Referral System end to end (Java, Vue, PostgreSQL, Elastic Search on Kubernetes). Became the platform's top revenue channel: $1.5M+ revenue, $500K ARR. Designed for 99.99% SLA at high traffic, integrated with third-party job boards over event-driven scraping.",
+        "Designed a distributed templating engine (Java, Kafka event streaming) that cut customer setup time 90%. Powers 15% of all assets for 10M+ users. Projection cache + event-driven invalidation for sub-100ms preview.",
+        "Ran observability and global on-call (Grafana, Datadog, Logz.io) for high-traffic production. Diagnosed and triaged incidents across service, DB, and infra layers; enforced comprehensive unit, integration and E2E test coverage on critical flows."
+      ],
+      "keywords": [
+        "Java",
+        "TypeScript",
+        "Vue",
+        "Node.js Tooling",
+        "PostgreSQL",
+        "Elastic Search",
+        "Kafka",
+        "ClickHouse",
+        "Kubernetes",
+        "AWS",
+        "Docker",
+        "GitHub Actions",
+        "Jenkins",
+        "Grafana",
+        "Datadog",
+        "Logz.io",
+        "Search & Ranking",
+        "Incident Triage",
+        "On-Call"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for an EPFL spin-off. Shipped the full autonomous drone delivery platform (Vue/Java/PostgreSQL) that powered 500+ real-world deliveries. Built the backend, real-time flight control APIs, and logistics optimization from scratch.",
+        "Built AWS infrastructure (EC2, S3, Terraform IaC) and CI/CD pipeline from scratch. Enterprise-grade reliability that enabled a Unilever partnership and a CES showcase."
+      ],
+      "keywords": [
+        "Java",
+        "Vue",
+        "PostgreSQL",
+        "AWS",
+        "Terraform",
+        "Docker",
+        "CI/CD",
+        "Real-time APIs",
+        "Infrastructure as Code"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "High-Performance, Scalable URL Shortener",
+      "publisher": "AWS in Plain English",
+      "url": "https://medium.com/aws-in-plain-english/create-your-own-url-shortener-in-less-than-5-minutes-c3db7ca14fa8",
+      "summary": "Architecture guide for a production-grade backend service using infrastructure-as-code and cloud-native scalability patterns."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Deep-dive on Module Federation + TypeScript patterns for team-autonomous frontend delivery in enterprise apps."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Leadership methodology for scaling remote engineering teams through psychological safety, clear accountability, and growth culture."
+    },
+    {
+      "name": "Visualizing AI Embeddings with Heatmap",
+      "publisher": "TowardsDev",
+      "url": "https://medium.com/towardsdev/visualizing-ai-understanding-embeddings-with-heatmaps-9a802016cbcc",
+      "summary": "Data visualization techniques for interpreting high-dimensional embeddings, useful for search and recommendation debugging."
+    },
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Case study on shipping a production event-driven agent system: architecture, evals, tracing, and cost trade-offs."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Distributed Systems"
+    },
+    {
+      "name": "Search & Discovery"
+    },
+    {
+      "name": "Remote Engineering Culture"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence platform for retail traders. TypeScript backend, event-driven ingest from live technical and news feeds, personalized signal generation with an explainability layer. Serves live users on real-time streams; if the model can't justify the signal, it doesn't ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal",
+      "description": "Independent practice, home for AI products I design, build, and run myself (PulseView, Proplab, SwissNRI). Every backend, event pipeline, and observability layer shipped solo. Same rigor I bring to team production work.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & AI Product Builder",
+      "description": "AI-native MVP for property inspections. Vision pipeline extracts structured signals from photos into queryable, AI-readable data; LLM agents turn records into multilingual listings. One workflow, zero copy-paste from photo to published listing.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "X-Team",
+    "jobTitle": "Senior Backend Engineer",
+    "jobUrl": "",
+    "jobDescription": "Senior Backend Engineer at X-Team (Europe remote), placing engineers with brands like Riot Games, Fox, Coinbase, Epic. Product squad building high-throughput, low-latency discovery systems (feed delivery, recommendation pipelines, event-driven data flows). Investigate system behavior, resolve performance bottlenecks, modernize a large production codebase. Must have: 5+ years distributed backend systems, Node.js + TypeScript primary, GraphQL/REST, NoSQL (DynamoDB), event-driven stream processing (Kinesis, EventBridge), AWS (ECS, DynamoDB, PostgreSQL), containerized deployments, comprehensive testing (unit/integration/E2E). Nice: recommendation/feed systems, Terraform IaC, React Native awareness, NestJS/Apollo GraphQL/Sentry/Snowflake/vector DBs.",
+    "notes": "Primary backend language is Java (Beekeeper) + Python (LumApps), not Node.js. TypeScript is real from frontend + LumApps agent tooling. Emphasized event-driven architecture (Kafka + Pub/Sub), Search revamp = feed/discovery analog, PostgreSQL, AWS, and incident triage / on-call. Node.js gap will show up in a technical screen; consider whether to apply.",
+    "createdAt": "2026-08-05"
+  },
+  "_generatedFile": {
+    "company": "X-Team",
+    "baseName": "senior-backend-engineer",
+    "createdAt": "2026-08-04T22:07:15.719Z",
+    "targetPath": "./generated/X-Team/senior-backend-engineer.json"
+  }
+}

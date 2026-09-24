@@ -1,0 +1,1106 @@
+[
+ {
+  "co": "Amazon",
+  "role": "Senior Delivery Consultant",
+  "date": "2025-09-14",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "EPAM",
+  "role": "Senior Full Stack Developer",
+  "date": "2025-09-14",
+  "cat": "Software engineer",
+  "stage": "conversation",
+  "note": "Call 3 Sep 2025. Banking consultancy, Zurich and Geneva."
+ },
+ {
+  "co": "Snaplabs",
+  "role": "Software Engineer Augmented Reality",
+  "date": "2025-09-14",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Aeon",
+  "role": "Founding Engineer",
+  "date": "2025-09-15",
+  "cat": "Founder / CTO",
+  "stage": "conversation",
+  "note": "Call with the CPO 23 Jan 2025. Full-body MRI predictive diagnostics. Stock-heavy deal floated."
+ },
+ {
+  "co": "Copebit",
+  "role": "AI Senior Software Development Engineer",
+  "date": "2025-09-15",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Copebit",
+  "role": "AWS Senior Software Development Engineer",
+  "date": "2025-09-15",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": "Copebit had already made an offer in Feb 2023 during an earlier hunt. Re-applied here."
+ },
+ {
+  "co": "Mintlify",
+  "role": "Product Engineer",
+  "date": "2025-09-15",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Supabase",
+  "role": "Technical Product Manager",
+  "date": "2025-09-15",
+  "cat": "Product / Leadership",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Coltech",
+  "role": "Senior Software Engineer Python AI",
+  "date": "2025-09-17",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Marqea",
+  "role": "CTO Lead AI Developer",
+  "date": "2025-09-17",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Lakera",
+  "role": "Senior Product Engineer",
+  "date": "2025-09-22",
+  "cat": "Software engineer",
+  "stage": "conversation",
+  "note": "Call 21 Oct 2025. Makers of the Gandalf prompt-injection game. Loop: technical call then onsite with a task."
+ },
+ {
+  "co": "AWS",
+  "role": "Senior Solutions Architect Generative AI Startups AWS",
+  "date": "2025-10-23",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "SIX",
+  "role": "Senior Application Engineer",
+  "date": "2025-10-23",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "UBS",
+  "role": "Product Growth Lead",
+  "date": "2025-10-23",
+  "cat": "Product / Leadership",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "UBS",
+  "role": "Product Owner Red Your UBS AI Assistant",
+  "date": "2025-10-23",
+  "cat": "Product / Leadership",
+  "stage": "applied",
+  "note": "Rejected with a written feedback PDF on 28 Oct 2025. The only company that sent feedback."
+ },
+ {
+  "co": "Zühlke",
+  "role": "Lead Software Architect Java",
+  "date": "2025-10-23",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Saidler & Co",
+  "role": "Lead AI Engineer",
+  "date": "2025-11-02",
+  "cat": "AI engineer",
+  "stage": "interview",
+  "note": "Meeting 6 Nov 2025 plus a case study paper. Hedge fund / crypto investor."
+ },
+ {
+  "co": "Reprisk",
+  "role": "Senior AI Engineer",
+  "date": "2025-11-05",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Coverstar",
+  "role": "Lead Software Engineer",
+  "date": "2026-02-12",
+  "cat": "Software engineer",
+  "stage": "conversation",
+  "note": "Call 11 Feb 2026. Social platform for kids, 1M monthly users, Zurich office."
+ },
+ {
+  "co": "Pinterest",
+  "role": "Sr Software Engineer",
+  "date": "2026-02-12",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "SwissRe",
+  "role": "AI Engineering Lead",
+  "date": "2026-02-24",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "AXA",
+  "role": "Senior GenAI Engineer",
+  "date": "2026-03-10",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Adobe",
+  "role": "Senior Cloud AI Engineer",
+  "date": "2026-03-11",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "LGT Capital Partners",
+  "role": "Solution Architect AI Firmwide Technology Focus",
+  "date": "2026-03-11",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Upsilon Family",
+  "role": "Independent Contractor Venture Partner",
+  "date": "2026-03-17",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Kraken",
+  "role": "AI Agents Solutions Architect Finance",
+  "date": "2026-05-03",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "On",
+  "role": "Staff Software Engineer",
+  "date": "2026-05-11",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "AWS",
+  "role": "Principal GTM Specialist Solution Architect AI ML GenAI EMEA Data and AI Solutions Architecture",
+  "date": "2026-05-20",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Volaris Group",
+  "role": "AI Engineering Lead Portfolio AI Enablement",
+  "date": "2026-05-29",
+  "cat": "AI engineer",
+  "stage": "conversation",
+  "note": "Call 27 May. Buy-and-hold software group, 250 companies, wants a small AI team for one 40-company portfolio."
+ },
+ {
+  "co": "AI Coworker (Accel)",
+  "role": "AI Agent Engineer",
+  "date": "2026-06-09",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "DuvoAI",
+  "role": "Forward Deployed Engineer",
+  "date": "2026-06-11",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "EWOR",
+  "role": "Founder Fellow",
+  "date": "2026-06-12",
+  "cat": "Founder / CTO",
+  "stage": "conversation",
+  "note": "Fellowship event 18 Jun with 336 attendees. Met Migma, Sapiaverse and others."
+ },
+ {
+  "co": "Vontobel",
+  "role": "Senior AI Architect",
+  "date": "2026-06-12",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Google",
+  "role": "Staff Forward Deployed Engineer GenAI Google Cloud",
+  "date": "2026-06-13",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "AlphaSense",
+  "role": "Senior Manager GTM Engineering",
+  "date": "2026-06-15",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Anthropic",
+  "role": "Data Scientist GTM",
+  "date": "2026-06-15",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Mews",
+  "role": "GTM AI Builder",
+  "date": "2026-06-15",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Nebius",
+  "role": "Director GTM Physical AI",
+  "date": "2026-06-15",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Reltio",
+  "role": "Sr Manager AI GTM Strategy Enablement",
+  "date": "2026-06-15",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "STEALTH",
+  "role": "Deputy CTO",
+  "date": "2026-06-15",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Sunrise",
+  "role": "Sr Tech Lead Agentic AI Platform MCP",
+  "date": "2026-06-17",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Snyk",
+  "role": "Staff Incubation Engineer",
+  "date": "2026-06-22",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Vontobel",
+  "role": "Senior AI Architect",
+  "date": "2026-06-22",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Firinne Solutions",
+  "role": "Head of AI Transformation Global Sports Betting Technology Provider",
+  "date": "2026-06-23",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "NWS Management AG",
+  "role": "Entrepreneurial Lead Data AI Advisory",
+  "date": "2026-06-23",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "NWS Management AG",
+  "role": "Principal Engineer Engineering Lead Agentic AI",
+  "date": "2026-06-23",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Orderfox",
+  "role": "Senior AI Data Product Engineer",
+  "date": "2026-06-23",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "RM Group",
+  "role": "Strategic Solution Architect AI Data Lead",
+  "date": "2026-06-23",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Voila AI",
+  "role": "AI Engineer",
+  "date": "2026-06-23",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "re-cinq",
+  "role": "Lead AI Native Engineer",
+  "date": "2026-07-01",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "AWS",
+  "role": "Principal Delivery Consultant Technical Lead GenAI ML Data Science Professional Services AWS Industries",
+  "date": "2026-07-13",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Anthropic",
+  "role": "Applied AI Architect Industries",
+  "date": "2026-07-13",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Google",
+  "role": "Forward Deployed Engineer Applied AI Google Cloud",
+  "date": "2026-07-13",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Google",
+  "role": "Partner Solution Architect Regional System Integrators",
+  "date": "2026-07-13",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Kraken",
+  "role": "Founding DevRel Lead",
+  "date": "2026-07-13",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Ledgy",
+  "role": "Staff Senior Software Engineer",
+  "date": "2026-07-13",
+  "cat": "Software engineer",
+  "stage": "conversation",
+  "note": "Talked 8 Jul 2025 about the Apollo team vacancy and salary bands."
+ },
+ {
+  "co": "OpenAI",
+  "role": "Technical Deployment Lead Forward Deployed Engineering Zurich",
+  "date": "2026-07-13",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Remote",
+  "role": "Senior Forward Deployed Engineer Remote Build",
+  "date": "2026-07-13",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Replit",
+  "role": "Head of Forward Deployed Engineering",
+  "date": "2026-07-13",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Admin AI (via TechTree)",
+  "role": "Infrastructure Engineer",
+  "date": "2026-07-14",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "EPAM",
+  "role": "Director Applied AI Transformation Software Hi Tech",
+  "date": "2026-07-15",
+  "cat": "Product / Leadership",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Galileo",
+  "role": "Principal Engineer",
+  "date": "2026-07-15",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Nerdy",
+  "role": "AI Product Engineer",
+  "date": "2026-07-15",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Pencil",
+  "role": "AI Transformation Lead",
+  "date": "2026-07-15",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Riverkin",
+  "role": "CTO",
+  "date": "2026-07-15",
+  "cat": "Founder / CTO",
+  "stage": "conversation",
+  "note": "Call 20 Jul. River sensing for hydro and flash-flood warning. Hands-on CTO to take an MVP to production."
+ },
+ {
+  "co": "Rivia",
+  "role": "Founding AI Engineer",
+  "date": "2026-07-15",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Rivia",
+  "role": "Senior AI Engineer",
+  "date": "2026-07-15",
+  "cat": "AI engineer",
+  "stage": "conversation",
+  "note": "Recruiter call 13 Aug. Series A, 22 people. Loop: tech screen, CTO, onsite."
+ },
+ {
+  "co": "Alpaca",
+  "role": "Senior Fullstack Engineer Trading API",
+  "date": "2026-07-20",
+  "cat": "Quant / Finance",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Ashby",
+  "role": "Staff Software Engineer Product Engineering",
+  "date": "2026-07-20",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Avaloq",
+  "role": "AI Software Engineer",
+  "date": "2026-07-20",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Maze",
+  "role": "Engineering Director",
+  "date": "2026-07-21",
+  "cat": "Product / Leadership",
+  "stage": "conversation",
+  "note": "Applied for Engineering Director. They called back for a Backend AI Engineer seat instead."
+ },
+ {
+  "co": "Roche",
+  "role": "Fullstack Developer",
+  "date": "2026-07-21",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Roche",
+  "role": "Senior Business Product Owner AI Knowledge Management",
+  "date": "2026-07-21",
+  "cat": "Product / Leadership",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Salesforce",
+  "role": "Lead Forward Deployed Engineer",
+  "date": "2026-07-21",
+  "cat": "FDE",
+  "stage": "accepted",
+  "note": "CV 21 Jul. Recruiter screen 3 Aug. HM interview 10 Aug ran 90 min instead of 45. Panel 7 Sep probed stakeholder handling, not architecture. Zurich onsite 14 Sep. Written offer 16 Sep, countered twice, accepted on a call 18 Sep, signed 22 Sep. Start 4 Jan 2027."
+ },
+ {
+  "co": "Social Discovery Group",
+  "role": "Deputy CTO",
+  "date": "2026-07-21",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Hoshii AG",
+  "role": "Forward Deployed Software Engineer",
+  "date": "2026-08-02",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Thomson Reuters",
+  "role": "Lead AI Engineer",
+  "date": "2026-08-02",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Chainlink",
+  "role": "Senior Solutions Architect",
+  "date": "2026-08-03",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Citadel Securities",
+  "role": "Platform Engineer",
+  "date": "2026-08-03",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "EnzianLabs",
+  "role": "CTO Quant Engineer",
+  "date": "2026-08-03",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "G-20 Group",
+  "role": "Prediction Markets Quant Engineer",
+  "date": "2026-08-03",
+  "cat": "Quant / Finance",
+  "stage": "interview",
+  "note": "Interview with the CPO and Chief Quant Officer late Aug. Built an intro deck and a study plan for it."
+ },
+ {
+  "co": "OpenAI",
+  "role": "Forward Deployed Engineer",
+  "date": "2026-08-03",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Partners Group",
+  "role": "AI Engineer",
+  "date": "2026-08-03",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Unique AI",
+  "role": "Forward Deployed Data Scientist Team Lead FSI Enterprise Solutions",
+  "date": "2026-08-03",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "A1",
+  "role": "Applied AI Engineer",
+  "date": "2026-08-04",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "A1",
+  "role": "Entrepreneur in Residence",
+  "date": "2026-08-04",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "A1",
+  "role": "Full Stack Engineer AI Systems",
+  "date": "2026-08-04",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "AP Group",
+  "role": "Applied AI Engineer",
+  "date": "2026-08-04",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Adobe",
+  "role": "AI Native Design Engineer and Product Builder",
+  "date": "2026-08-04",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": "CV reworked twice between 4 and 10 Aug."
+ },
+ {
+  "co": "Base360",
+  "role": "Entrepreneur in Residence",
+  "date": "2026-08-04",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "ElevenLabs",
+  "role": "Integrated Marketer",
+  "date": "2026-08-04",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "GitLab",
+  "role": "Staff Forward Deployed Engineer Agentic SDLC",
+  "date": "2026-08-04",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Infisical",
+  "role": "Senior Full Stack Engineer",
+  "date": "2026-08-04",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Khare Automations",
+  "role": "Founding Lead Software Engineer",
+  "date": "2026-08-04",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Loopia",
+  "role": "Lead Product Engineer CTO",
+  "date": "2026-08-04",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Luware",
+  "role": "AI Transformation Engineer",
+  "date": "2026-08-04",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Mercora",
+  "role": "Founding Engineer",
+  "date": "2026-08-04",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "PostHog",
+  "role": "Context Engineer",
+  "date": "2026-08-04",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "ROSEN",
+  "role": "GenAI Product Owner",
+  "date": "2026-08-04",
+  "cat": "Product / Leadership",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Resend",
+  "role": "Product Engineer",
+  "date": "2026-08-04",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Sanity",
+  "role": "GTM Engineer",
+  "date": "2026-08-04",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Supabase",
+  "role": "AI Platform Engineer",
+  "date": "2026-08-04",
+  "cat": "AI engineer",
+  "stage": "interview",
+  "note": "Recruiter 18 Aug, HM 30 Aug, peer 8 Sep, technical 9 Sep. Rejected 17 Sep, the day after the Salesforce offer landed."
+ },
+ {
+  "co": "Supabase",
+  "role": "GTM Strategist",
+  "date": "2026-08-04",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "The Flex",
+  "role": "Founding Software Engineer",
+  "date": "2026-08-04",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Zapier",
+  "role": "Applied AI Engineer",
+  "date": "2026-08-04",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "ekona",
+  "role": "Senior AI Engineer",
+  "date": "2026-08-04",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Chainguard",
+  "role": "Senior Software Engineer AI CI/CD",
+  "date": "2026-08-05",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Hightouch",
+  "role": "AI Engineer",
+  "date": "2026-08-05",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "IMC",
+  "role": "Core Developer Digital Assets",
+  "date": "2026-08-05",
+  "cat": "Quant / Finance",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Remote",
+  "role": "Forward Deployed Engineer AI",
+  "date": "2026-08-05",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Remote",
+  "role": "GTM Strategy Principal",
+  "date": "2026-08-05",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Remote",
+  "role": "Senior Forward Deployed Engineer",
+  "date": "2026-08-05",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "X-Team",
+  "role": "Agentic AI Architect",
+  "date": "2026-08-05",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "X-Team",
+  "role": "Senior AI Engineer",
+  "date": "2026-08-05",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "X-Team",
+  "role": "Senior Backend Engineer",
+  "date": "2026-08-05",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Neho",
+  "role": "AI Product Engineer",
+  "date": "2026-08-13",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "AWS",
+  "role": "Sr Specialist SA GenAI Specialists Team Germany Switzerland and CEE",
+  "date": "2026-08-17",
+  "cat": "Architect / Consulting",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Ampersand World",
+  "role": "Portfolio Performance Value Creation Officer",
+  "date": "2026-08-17",
+  "cat": "Quant / Finance",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Caplena",
+  "role": "Forward Deployed Engineer",
+  "date": "2026-08-17",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Clove",
+  "role": "Product Engineer",
+  "date": "2026-08-17",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "EWOR",
+  "role": "AI Cofounder CEO",
+  "date": "2026-08-17",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "EWOR",
+  "role": "Applied AI Cofounder CPTO",
+  "date": "2026-08-17",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Hitachi Energy",
+  "role": "Global AI Prompting Engineer PGTR",
+  "date": "2026-08-17",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Julius Baer",
+  "role": "Senior Portfolio Engineer and Financial Data Specialist",
+  "date": "2026-08-17",
+  "cat": "Quant / Finance",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Snowflake",
+  "role": "Senior Solution Engineer",
+  "date": "2026-08-17",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Vontobel",
+  "role": "Emerging Markets Equity Research Associate",
+  "date": "2026-08-17",
+  "cat": "Quant / Finance",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Arize",
+  "role": "AI Sales Engineer EMEA",
+  "date": "2026-08-18",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Federato",
+  "role": "Senior Forward Deployed Engineer",
+  "date": "2026-08-18",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Hostaway",
+  "role": "Lead AI GTM Engineer",
+  "date": "2026-08-18",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Kalepa",
+  "role": "Staff Backend Engineer",
+  "date": "2026-08-18",
+  "cat": "Software engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "TLDR",
+  "role": "GTM Engineer Applied AI",
+  "date": "2026-08-18",
+  "cat": "GTM / Sales eng",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Admin AI (via TechTree)",
+  "role": "Forward Deployed Engineer",
+  "date": "2026-08-18",
+  "cat": "FDE",
+  "stage": "interview",
+  "note": "Stealth healthcare AI startup (Admin AI) found via the TechTree board. Tech interview 19 Aug went very well."
+ },
+ {
+  "co": "micro1",
+  "role": "Member of Technical Staff Enterprise AI",
+  "date": "2026-08-18",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Swiss Re",
+  "role": "AI Engineer",
+  "date": "2026-08-19",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Merantix Commodities",
+  "role": "Cofounder CTO",
+  "date": "2026-08-21",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "EnzianLabs",
+  "role": "Founding Product Engineer",
+  "date": "2026-09-14",
+  "cat": "Founder / CTO",
+  "stage": "applied",
+  "note": ""
+ },
+ {
+  "co": "Google",
+  "role": "AI Innovation Engineer Google Cloud",
+  "date": "2026-09-16",
+  "cat": "AI engineer",
+  "stage": "applied",
+  "note": "Sent 16 Sep, two days before accepting Salesforce."
+ },
+ {
+  "co": "Google",
+  "role": "Senior Staff Forward Deployed Engineer GenAI Google Cloud",
+  "date": "2026-09-16",
+  "cat": "FDE",
+  "stage": "applied",
+  "note": "Sent 16 Sep, the day the Salesforce written offer arrived. Cover letter finished 21 Sep."
+ }
+]

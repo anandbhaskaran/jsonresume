@@ -1,0 +1,355 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "CTO / Quant Engineer | Production AI Systems | AI Investor",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Engineering leader who takes production AI systems from prototype to scale for 10M+ users. I invest directly in AI too: secondary positions in OpenAI and Anthropic, and a personal Python system that tracks $1.5M across equities and options by integrating multiple market data APIs, so NAV, IRR, and fund structures are lived experience, not theory. At Beekeeper I owned architecture across five concurrent production systems and built the pipelines that tame messy real-world input: a 6-week LLM translation pipeline, a vision pipeline that turns inspection photos into structured data. 13+ years shipping production software for millions of users, with the same rigor applied to how I evaluate AI companies as an investor.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead Software Engineer",
+      "url": "https://www.lumapps.com/",
+      "startDate": "2026-03",
+      "summary": "Owns AI transformation end-to-end, from production AI agent architecture to company-wide governance and sales enablement strategy. Reports directly to C-level on outcomes.",
+      "highlights": [
+        "Led technical discovery through production: agent architecture, eval pipelines, agent tracing (LangSmith), tool-selection tuning, and cost-per-request instrumentation, with on-call for global production systems.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, conversation transcripts, product usage) into one time-aware memory every agent reads and writes, taming messy, inconsistent data into a single queryable layer.",
+        "Built and deployed production multi-agent workflows on Python, LangGraph and Google ADK over GCP Vertex AI, using ReAct, self-reflection and hierarchical delegation. 2x open rates, 2x approved opportunities, $1M forecast in quarterly revenue."
+      ],
+      "keywords": [
+        "Python",
+        "Evaluation Pipelines",
+        "Multi-Agent Systems",
+        "LangGraph",
+        "Google ADK",
+        "Vertex AI",
+        "GCP",
+        "RAG",
+        "Neo4j",
+        "Graphiti",
+        "Observability",
+        "On-Call",
+        "LangSmith",
+        "Salesforce",
+        "TypeScript",
+        "MCP",
+        "AG-UI",
+        "FastAPI",
+        "ReAct"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "summary": "Technical lead who operates like a founding engineer, owning architecture across concurrent production systems and the difference between a proof-of-concept and a resilient production system.",
+      "highlights": [
+        "Owned architectural design across five concurrent production systems (Artifacts, Forms, Employee Referral, Templater, Manager Hub), robust and modular by design, not by accident.",
+        "Replaced $337K in annual vendor translation costs with an LLM pipeline built in 6 weeks (prototype to production). 12K+ assets translated, product team now iterates without external gatekeepers.",
+        "Architected Employee Referral System end-to-end. Became the platform's top revenue channel ($1.5M+ generated, $500K ARR). Designed for 99.99% SLA because customer trust is measured in uptime.",
+        "Ran observability and on-call for global production systems (Grafana, Datadog, Logz.io): the discipline that separates a demo from something that survives contact with real traffic."
+      ],
+      "keywords": [
+        "Python",
+        "Java",
+        "TypeScript",
+        "Vue",
+        "Kubernetes",
+        "AWS",
+        "Kafka",
+        "PostgreSQL",
+        "ClickHouse",
+        "Elastic Search",
+        "OpenAI",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "Langfuse",
+        "Claude",
+        "Observability",
+        "Grafana",
+        "Datadog",
+        "Logz.io",
+        "On-Call",
+        "Jenkins",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "summary": "Technology panelist and mentor for seed-to-VC stage startups. Evaluates technical architecture and advises on AI adoption, engineering culture, and building systems that scale.",
+      "highlights": [
+        "Evaluated 20+ startups on technical architecture, scalability, and AI readiness to inform seed-to-VC investment decisions.",
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production."
+      ],
+      "keywords": [
+        "Algorithmic Trading",
+        "AI Strategy",
+        "Startup Evaluation",
+        "Technical Mentoring",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "summary": "Founding engineer for an autonomous drone delivery system. Built everything from scratch: architecture, infrastructure, APIs, and the algorithms that made 500+ real-world deliveries possible.",
+      "highlights": [
+        "Shipped end-to-end autonomous drone delivery platform (Vue/Java/PostgreSQL). 500+ successful deliveries, every flight a live production test for autonomous systems.",
+        "Engineered real-time flight control APIs and logistics optimization algorithms. 40% faster deliveries, 99.5% safety record, zero incidents."
+      ],
+      "keywords": [
+        "Logistics Optimization",
+        "Real-time Systems",
+        "Flight Control APIs",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "Infrastructure as Code",
+        "CI/CD"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Microsoft Certified Professional (MCPS)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "MongoDB for Java Developers",
+      "issuer": "MongoDB University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "In-depth case study of building and deploying a production AI outbound sales agent, detailing the architecture, implementation, and real-world outcomes that led to 2x open rates and 2x approved opportunities."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "A map of the 12 memory and RAG tools building the AI brain layer: why temporal knowledge graphs beat vector-only RAG, and how to pick the right memory and retrieval stack for agents in production."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "How verification loops, human-in-the-loop checkpoints, and draft-before-send patterns keep an autonomous agent from shipping wrong actions to real customers."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Technical tutorial series introducing practical implementation of ReAct (Reasoning + Acting) agents, demonstrating how to build autonomous AI systems that combine reasoning capabilities with actionable decision-making for real-world applications."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Strategic framework presentation on transforming unlimited AI potential into measurable business outcomes through systematic implementation and practical constraint design."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI Investing"
+    },
+    {
+      "name": "AI & Creativity"
+    },
+    {
+      "name": "Clean Architecture (TDD)"
+    },
+    {
+      "name": "Startup Mentoring"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed engineering practice, currently the home for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView). Open to forward-deployed client engagements: embedding with a team, running technical discovery, and shipping production agentic AI end to end.",
+      "highlights": [
+        "Take my own products from zero to production end to end: multi-agent systems, RAG grounding, eval pipelines, and observability, the same playbook I bring to any engagement."
+      ],
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built for my own trading portfolio first, then opened to retail traders. Tracks $1.5M across equities and options, built in Python and integrated with multiple market data and brokerage APIs. AI agents generate AND justify trading signals from technical and news data, with explainability and evaluation built in: if the model can't explain the signal, it doesn't ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & AI Product Builder",
+      "description": "Property inspections run on paper, clipboards, and WhatsApp photos. Built an AI-native MVP: vision models turn inspection photos into structured records; LLM agents turn those records into marketing-ready listings.",
+      "highlights": [
+        "Vision pipeline extracts structured signals (room type, condition, defects) from messy, inconsistent inspection photos, replacing paper-based reports with queryable, AI-readable data."
+      ],
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "EnzianLabs",
+    "jobTitle": "CTO / Quant Engineer",
+    "jobUrl": "",
+    "jobDescription": "EnzianLabs is building an AI system that is the backbone for the private equity industry. The role wants a quantitative background (MSc/PhD in computational finance, statistics, applied math, physics, or ML), fluency in probabilistic programming (JAX, NumPyro, PyMC), hands-on experience building data pipelines on real-world messy inputs, and experience fine-tuning large models for domain-specific tasks (Unsloth, HuggingFace). Responsibilities: own the end-to-end ML lifecycle, transitioning models from local notebooks to scalable production systems; architect data ingestion pipelines for noisy real-world inputs (scanned PDFs, inconsistent reporting formats, missing data); fine-tune LLMs and vision models for domain-specific financial tasks; apply LoRA, quantization, and efficient training (Unsloth, HuggingFace) for cost-effective AI at scale; apply Bayesian inference and probabilistic programming to model uncertainty in private market valuations. Requirements: quantitative degree; probabilistic programming and Bayesian inference experience (JAX, NumPyro, PyMC); proven production pipeline engineering (the gap between PoC and resilient production system); hands-on fine-tuning of foundational models; deep familiarity with the modern AI stack (HuggingFace, Unsloth, PyTorch) on a startup budget. Bonus: agent-based modeling and economic simulation; familiarity with financial concepts (NAV, IRR, fund structures); PE experience a plus but not required.",
+    "notes": "User does not have hands-on JAX/NumPyro/PyMC/Bayesian inference or LLM fine-tuning (Unsloth/HuggingFace) experience; per explicit instruction, did not fabricate these. Tailored around genuine strengths instead: production ML/AI systems ownership at CTO-level scope (architecture across 5 concurrent systems at Beekeeper), messy real-world data pipelines (Proplab vision pipeline, Beekeeper LLM translation pipeline), and real financial-markets domain fit as an active investor (secondary positions in OpenAI and Anthropic, personal $1.5M Python portfolio-tracking system across equities/options integrating multiple market APIs, NAV/IRR/fund-structure literacy). This is a stretch application: the core 'Foundations' requirement (quant degree + Bayesian/probabilistic programming) is not met.",
+    "createdAt": "2026-08-03"
+  },
+  "_generatedFile": {
+    "company": "EnzianLabs",
+    "baseName": "cto-quant-engineer",
+    "createdAt": "2026-08-03T15:54:50.671Z",
+    "targetPath": "./generated/EnzianLabs/cto-quant-engineer.json"
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI Sales Engineer / Solutions Architect | Production Agentic AI (LangGraph, ADK, MCP) | Evals, Tracing & Customer Outcomes",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "AI engineer and trusted technical advisor who ships production agents for a living and uses AI observability daily. Currently Lead AI Engineer at LumApps: production multi-agent workflows on Python, LangGraph, Google ADK and MCP over GCP, instrumented end-to-end with evals, LangSmith tracing and cost-per-request telemetry. I am the buyer Arize sells to, so I can articulate its value with authority. Founder of Anand Creations, my forward-deployed practice for running discovery, POCs and productionization on live customer data. 6 years co-owning GTM launches with Sales, Product and CIO at Beekeeper (10M+ users), and 20+ startup discovery + advisory engagements at Tenity. Zurich-based, EMEA-remote, happy to travel to customers across the region.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Ship production multi-agent workflows (Python, LangGraph, Google ADK, MCP servers) on GCP Vertex AI with full observability: evals-as-tests, LangSmith tracing, tool-selection tuning and cost-per-request telemetry. Daily hands-on user of the exact category Arize AX competes in.",
+        "2x open rates, 2x approved opportunities, $1M/quarter revenue forecast. Concrete before/after numbers I use to translate technical wins into board-ready ROI stories.",
+        "Report to C-level on outcomes; run cross-functional reviews with Sales and Product. Fluent in translating stochastic agent behavior into language a CDO and a CFO can both act on."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "OpenAI",
+        "AI Observability",
+        "LangSmith",
+        "Evaluation Pipelines",
+        "Tracing",
+        "Cost Telemetry",
+        "MLOps",
+        "GCP",
+        "Vertex AI"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Co-owned GTM launches with Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis). Each shipped with instrumentation so we could pitch measurable impact within a week. Exactly the story-arc a Sales Engineer needs.",
+        "Replaced $337K in annual vendor cost with an in-house LLM pipeline (OpenAI + GitHub Actions) shipped in 6 weeks. A crisp PoC narrative I have used to unblock enterprise buyers on 'AI is too expensive to ship'.",
+        "Architected Employee Referral System ($1.5M+ revenue, $500K ARR, 99.99% SLA) and led Search Platform revamp across 3 teams. Production data engineering on AWS, Kubernetes, Kafka, PostgreSQL and ClickHouse.",
+        "Mentored the AI engineering cohort and ran discovery with prospects and CIO. Comfortable moving between board-level pitch and hands-on prototype in the same day."
+      ],
+      "keywords": [
+        "Python",
+        "Java",
+        "TypeScript",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "Langfuse",
+        "AWS",
+        "Kubernetes",
+        "Kafka",
+        "PostgreSQL",
+        "ClickHouse",
+        "GTM",
+        "Discovery"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Trusted technical advisor to 20+ fintech and AI startups. Ran discovery on GenAI stacks, evaluated architectures and turned findings into investment recommendations. Same discovery-to-value motion an AI Sales Engineer runs with prospects.",
+        "Mentored Opt Alpha on scaling algorithmic trading; advised portfolio companies on where AI observability and evals genuinely earn their keep."
+      ],
+      "keywords": [
+        "Trusted Advisor",
+        "Discovery",
+        "Technical PoC",
+        "GenAI Stacks",
+        "MLOps Advisory",
+        "Fintech",
+        "AI Strategy"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at an EPFL autonomous drone spin-off (nod to the JD's own team background). Shipped the end-to-end platform (Vue/Java/PostgreSQL on AWS) that ran 500+ real-world deliveries.",
+        "Ran enterprise sales conversations that landed a Unilever partnership and a CES showcase. First-hand experience taking an unproven AI platform through PoC, procurement and production with a Fortune 500 buyer."
+      ],
+      "keywords": [
+        "Founding Engineer",
+        "Autonomous Drones",
+        "Enterprise Sales",
+        "PoC",
+        "AWS",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "Real-Time Systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "In-depth case study on shipping a production agent that moved real business metrics. The exact PoV an Arize buyer wants to hear about."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Verification loops, human-in-the-loop checkpoints and draft-before-send patterns for autonomous agents on real customer data."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Reference guide to the memory + RAG stack under production agents. Aligned with Arize's message on making AI work in the real world."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework talk on turning AI potential into measurable outcomes: the sales-engineering conversation, on stage."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on the intersection of AI and human work: content that resonates with technical and business stakeholders alike."
+    }
+  ],
+  "interests": [
+    {
+      "name": "AI Observability & Evals"
+    },
+    {
+      "name": "Agent Framework PoV (LangGraph, ADK, DSPy)"
+    },
+    {
+      "name": "Customer Discovery & Trusted Advisory"
+    },
+    {
+      "name": "Public Speaking on AI Delivery"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent FDE practice. I run discovery with teams adopting agentic AI, ship PoCs, then take agents from zero to production on their live data with evals, tracing and cost telemetry from day one. Direct match for the customer-facing FDE profile the JD invites: bridge, pitch, prototype, close.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence with Evals Built In",
+      "position": "Founder & Builder",
+      "description": "Production AI platform on live market data. Agents generate AND justify signals with cited evidence and back-testing: if the model cannot explain the signal, it does not ship. A working demo of what disciplined eval-driven agent development actually looks like, and a story I use when talking to prospects about observability.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "SwissNRI - Compliance-First Regulated Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "Live production platform for Swiss-Indian cross-border tax and compliance decisions. RAG-grounded assistant answers DTAA, FEMA and Swiss tax with citations back to the regulation; agentic layer flags risk with regulator-verifiable outputs. Proof point when selling into regulated GenAI buyers.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Arize",
+    "jobTitle": "AI Sales Engineer, EMEA",
+    "jobUrl": "",
+    "jobDescription": "Arize AI (Series C, $135M+ raised). AI observability and evaluation platform for production GenAI. EMEA remote AI Sales Engineer / Solutions Architect. Partners with AEs on discovery, product demos, POCs, technical objections. Python/TS, LLM/agent frameworks (OpenAI Agents SDK, ADK, LangGraph, DSPy), GenAI eval + app lifecycle.",
+    "notes": "Killer fit. Candidate is a daily hands-on user of the exact category (LangSmith at LumApps), so can pitch Arize with authority. Direct matches: Python/TS, LangGraph, ADK, MCP, evals + tracing + cost telemetry, customer-facing FDE identity (Anand Creations), GTM co-ownership (Beekeeper), discovery + advisory (Tenity), enterprise PoC and Fortune 500 sales history (Dronistics + Unilever). Zurich-based, EMEA remote works. Culture-fit callout: JD mentions autonomous drones directly in team background — candidate has that literal history.",
+    "createdAt": "2026-08-18"
+  },
+  "_generatedFile": {
+    "company": "Arize",
+    "baseName": "ai-sales-engineer-emea",
+    "createdAt": "2026-08-18T21:22:07.595Z",
+    "targetPath": "./generated/Arize/ai-sales-engineer-emea.json"
+  }
+}

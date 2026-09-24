@@ -1,0 +1,318 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Agentic AI Architect | Multi-Agent Systems for Dev Velocity | Cross-Language Codebases | Terraform / Docker / AWS",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Agentic AI architect who ships the platform, not the feature. At LumApps I designed and deployed a production multi-agent system (Python, LangGraph, Google ADK, MCP servers I authored, LangSmith evals) that increased team velocity and eliminated manual toil across Sales and RevOps workflows. At Beekeeper I read, debugged, and improved codebases across Java, Python, TypeScript, Vue, and Hybrid Mobile (Android/iOS) apps, and led work spanning 3 teams. Open source: Terraform URL-shortener module (~4,600 users) on the Registry. Consulting mindset from Tenity (20+ startups advised) and Anand Creations, my Forward Deployed Engineering practice.",
+    "metrics": [
+      { "value": "3", "label": "AI Products Founded" },
+      { "value": "10M+", "label": "Users Served" },
+      { "value": "4,600+", "label": "OSS Module Users" },
+      { "value": "20+", "label": "Startups Advised" }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer (Agentic Systems)",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Architected and deployed a production multi-agent system for code and workflow automation across teams. Python + LangGraph + Google ADK, tools over MCP servers I authored, RAG grounded by a temporal knowledge graph. Increased velocity, eliminated manual toil, 2x conversions, $1M forecast quarterly.",
+        "Route tasks between models based on cost and technical necessity: cheap models for classification, stronger models for reasoning and code understanding. Full cost-per-request instrumentation via LangSmith.",
+        "Interviewed teams (Sales, RevOps, Product) to identify repeatable manual pain points, then shipped standardised agentic solutions rather than one-off scripts. Same consulting motion this role requires."
+      ],
+      "keywords": [
+        "Python",
+        "LangGraph",
+        "Google ADK",
+        "LangChain",
+        "MCP (Authored)",
+        "Multi-Agent Systems",
+        "RAG",
+        "LangSmith",
+        "Cost Routing & Efficiency",
+        "Code-Understanding Agents",
+        "GCP",
+        "Vertex AI",
+        "OpenAI",
+        "Anthropic"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Led work across 3 teams and read/reviewed codebases in Java, Python, TypeScript, Vue, and Hybrid Mobile (Android/iOS via Ionic/Cordova with Module Federation microfrontends). Cross-language technical breadth that translates to configuring AI checks across repos I did not write.",
+        "Replaced $337K/yr in vendor translation costs with an in-house LLM pipeline shipped in 6 weeks (GitHub Actions CI/CD + OpenAI). Automation that eliminated manual toil for the product team; identical shape to the mandate here.",
+        "Ran K8s + AWS (including Lambda) production with Terraform IaC. Docker across the stack, observability via Grafana/Datadog/Logz.io, on-call.",
+        "Deputy tech lead of FUEL; acting hiring manager for AI roles. Hired and mentored the AI engineering cohort."
+      ],
+      "keywords": [
+        "TypeScript",
+        "Java (Kotlin-adjacent)",
+        "Python",
+        "PHP (reading)",
+        "Vue",
+        "Hybrid Mobile (Android/iOS)",
+        "Kubernetes",
+        "AWS Lambda",
+        "Docker",
+        "Terraform",
+        "GitHub Actions",
+        "CI/CD",
+        "Microfrontends",
+        "Module Federation",
+        "OpenAI",
+        "LangChain",
+        "CrewAI"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Built CI/CD and AWS infrastructure from scratch (Docker, Terraform, AWS Lambda). Enterprise-grade reliability that enabled Unilever partnership and a CES showcase.",
+        "Shipped full stack (Vue, Java, PostgreSQL, real-time APIs) end to end. Solo architecture decisions."
+      ],
+      "keywords": [
+        "Founding Engineer",
+        "AWS",
+        "AWS Lambda",
+        "Docker",
+        "Terraform",
+        "IaC",
+        "CI/CD",
+        "Vue",
+        "Java",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Consulting motion in practice: interviewed 20+ startups on architecture, listened for repeatable pain points, and translated them into scalable technical recommendations for seed-to-VC investors.",
+        "Active listener trained by real founders under time pressure."
+      ],
+      "keywords": [
+        "Consulting",
+        "Active Listening",
+        "Cross-Company Diagnosis",
+        "Technical Strategy"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Production multi-agent system case study: architecture, prompts, tool orchestration, evals, outcomes."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Human-in-the-loop and verification patterns for shipping agents safely. Shift-left thinking applied to AI outputs."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Reference framework for the memory and retrieval layer behind production agents."
+    },
+    {
+      "name": "Terraform URL Shortener (Open Source Module)",
+      "publisher": "Terraform Registry",
+      "url": "https://registry.terraform.io/modules/anandbhaskaran/url-shortener/aws/latest",
+      "summary": "Open-source Terraform module for a scalable URL shortener on AWS Lambda. ~4,600 users; active maintenance."
+    },
+    {
+      "name": "Microfrontends: Revolutionising Frontend Architecture",
+      "publisher": "Developer Week 2023, USA (Talk)",
+      "url": "https://pitch.com/v/microfrontends-kpc3n7",
+      "releaseDate": "2023-01-01",
+      "summary": "Talk on shipping large frontends as composable, team-autonomous experiences across web + hybrid mobile."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Practical tutorial series on building ReAct agents from a blank file to a working autonomous system."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Playbook for going from a hunch to a shipped product fast."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "Feature on Robogen (my open-source EPFL work) that runs on AWS at scale."
+    }
+  ],
+  "interests": [
+    { "name": "Agentic AI for Dev Velocity" },
+    { "name": "Multi-Language Code Understanding" },
+    { "name": "Open Source" },
+    { "name": "Cost-Efficient LLM Routing" }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - AI Products, Open Source & Forward Deployed Engineering",
+      "position": "Founder & Principal Builder",
+      "description": "Independent Forward Deployed Engineering practice: embed with teams, run technical discovery, and ship production agentic AI end to end. Home for 3 AI products I ship solo (SwissNRI, Proplab, PulseView) and open source that people actually use, including a Terraform module on the Registry with ~4,600 users.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time AI agents that generate AND justify trading signals. Live users on real-time feeds. Solo end to end (agent stack, UI, streaming, cost-routing across models).",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Proplab - AI-Native Property Workflows",
+      "position": "Founder & AI Product Builder",
+      "description": "Vision pipeline turns inspection photos into structured records; LLM agents compose multilingual listings end to end. Structured outputs and HITL review baked in.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "X-Team",
+    "jobTitle": "Agentic AI Architect (Contractor)",
+    "jobUrl": "",
+    "jobDescription": "Contractor role via X-Team. Design and deploy a modular multi-agent AI ecosystem across a client's WordPress/Mobile/Node.js engineering teams. Not feature dev: build AI automation tools that reduce manual toil, increase velocity, reduce bugs. Must handle multi-language codebases (PHP, TypeScript, Swift, Kotlin), AWS Lambda serverless, Terraform, Docker, CI/CD (Fastlane, Gradle). Consulting skillset critical.",
+    "notes": "Strong on agentic + AWS Lambda + Terraform + Docker + CI/CD + cross-language reading + consulting motion. Real gaps: no PHP/Swift/Kotlin/Fastlane hands-on. Beekeeper's Hybrid Mobile (Ionic/Cordova + Module Federation) is the closest signal for mobile CI/CD integration; called out explicitly. Java is Kotlin-adjacent (both JVM), noted. Positioned as an architect who reads codebases they did not write (JD says this explicitly). Consulting motion via Tenity + Anand Creations FDE.",
+    "createdAt": "2026-08-05"
+  }
+}

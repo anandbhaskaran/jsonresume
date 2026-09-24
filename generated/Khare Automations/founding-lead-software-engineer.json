@@ -1,0 +1,344 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "Founding Engineer & Agentic AI Builder | Production Systems for Investors (PulseView) | 3× Founder | MBA",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Agency, ownership, and production scars. I built and run the LumApps multi-agent outbound system in production (Python on GCP Vertex AI, tools over MCP I authored, evals + on-call), and I was there every time it broke. Founding engineer at Dronistics before that (empty repo to 500+ deliveries), and 3 AI products founded solo through Anand Creations. Deep investment-domain relevance: PulseView (my AI market intelligence product, live users), Tenity mentor evaluating 20+ startups per year for seed-to-VC decisions. Open source that people actually use (Terraform module, ~4,600 users). Zurich-based, Switzerland-native, ready to own the first technical seat.",
+    "metrics": [
+      {
+        "value": "3",
+        "label": "AI Products Founded"
+      },
+      {
+        "value": "20+",
+        "label": "Startups Advised"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "4,600+",
+        "label": "OSS Module Users"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Built and shipped a production multi-agent system that real users (Sales, RevOps) depend on daily. Python on GCP Vertex AI, LangGraph + Google ADK, tools over MCP servers I authored, agent state streamed over AG-UI. I was on-call every time it broke and own the postmortems. 2x conversions, $1M forecast quarterly.",
+        "Own the evaluation and quality harness: golden suites, judge rubrics, safety cases per agent, LangSmith tracing so every run reconstructs from its log. Rigorous on anything a user touches; fast and rough on experiments.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti/Neo4j that unifies 5+ silos (Salesforce, HubSpot, Pendo, product usage) into one auditable context store. Closed the architecture decision solo; report to C-level on outcomes."
+      ],
+      "keywords": [
+        "Python",
+        "GCP",
+        "Vertex AI",
+        "LangGraph",
+        "Google ADK",
+        "MCP (Authored)",
+        "AG-UI",
+        "Claude & Claude Code",
+        "OpenAI",
+        "Anthropic",
+        "Evaluation Harness",
+        "LangSmith",
+        "Multi-Agent Systems",
+        "Production On-Call",
+        "Neo4j"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Ran observability and global on-call across production systems used by 10M+ users (K8s, AWS, Grafana, Datadog, Logz.io). Was there when it broke; provisioned, deployed, rolled back systems end to end.",
+        "Replaced $337K/yr in vendor translation costs with an in-house LLM pipeline shipped in 6 weeks (GitHub Actions + OpenAI). Concept to production, no gatekeepers.",
+        "Architected Employee Referral System end to end. Became the platform's top revenue channel: $1.5M+ generated, $500K ARR.",
+        "Read, debugged, and improved codebases I did not write across 3 teams. Hired and mentored the AI engineering cohort."
+      ],
+      "keywords": [
+        "Python",
+        "TypeScript",
+        "Java",
+        "Kubernetes",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "OpenAI",
+        "Claude",
+        "LangChain",
+        "CrewAI",
+        "PostgreSQL",
+        "Elastic Search",
+        "Kafka",
+        "GitHub Actions",
+        "On-Call",
+        "Multi-Codebase"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Technology Evaluation Panelist for a VC / seed accelerator. Evaluated 20+ startups on architecture, scalability, and AI readiness for seed-to-VC investment decisions.",
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading systems in production; advised multiple portfolio companies on AI strategy."
+      ],
+      "keywords": [
+        "VC Advisory",
+        "Investment Diligence",
+        "Startup Evaluation",
+        "Algorithmic Trading",
+        "AI Strategy"
+      ]
+    },
+    {
+      "name": "Dronistics (EPFL spin-off)",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer at a startup. Shipped full stack from empty repo to 500+ real-world deliveries (Vue, Java, PostgreSQL, real-time APIs, AWS/Docker/Terraform infra).",
+        "Closed every architecture decision solo. Built partnerships with Unilever and a CES showcase."
+      ],
+      "keywords": [
+        "Founding Engineer",
+        "Zero-to-One",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "Solo Architecture Decisions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j"
+    },
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here’s What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Production agent case study: architecture, prompts, tool orchestration, evals, and outcomes (2x open rates, 2x approved opportunities). Public writing on the exact shape of work this role requires."
+    },
+    {
+      "name": "Drafted, not sent: how I built the second half of an AI outbound agent.",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/drafted-not-sent-how-i-built-the",
+      "releaseDate": "2025-05-29",
+      "summary": "Verification loops and HITL patterns that keep agents from shipping wrong actions in production."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Reference framework for the context layer behind production agents."
+    },
+    {
+      "name": "Terraform URL Shortener (Open Source Module)",
+      "publisher": "Terraform Registry",
+      "url": "https://registry.terraform.io/modules/anandbhaskaran/url-shortener/aws/latest",
+      "summary": "Open-source Terraform module for a scalable URL shortener on AWS. ~4,600 users; a side project people actually adopted."
+    },
+    {
+      "name": "Agentic AI: Simple ReAct Agent",
+      "publisher": "The Compounding Curiosity (Substack)",
+      "url": "https://thecompoundingcuriosity.substack.com/p/agentic-ai-part-1-simple-react-agent",
+      "releaseDate": "2025-04-11",
+      "summary": "Practical tutorial series on building ReAct agents from a blank file to a working system."
+    },
+    {
+      "name": "EPFL designs robots through artificial evolution",
+      "publisher": "AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/",
+      "releaseDate": "2018-11-21",
+      "summary": "Feature on Robogen, my open-source EPFL work that runs on AWS at scale."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Playbook for going from a hunch to a shipped product fast."
+    },
+    {
+      "name": "AI and Creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on augmenting craft with AI."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Agentic AI in Production"
+    },
+    {
+      "name": "Investment & Fintech"
+    },
+    {
+      "name": "Open Source"
+    },
+    {
+      "name": "Founder Coaching"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PulseView - Explainable AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "AI product for investors: real-time AI agents that generate AND justify trading signals from technical and news data. Built for my own portfolio first, opened to live users. Direct-domain adjacent to Khare's professional-investor focus. Solo end to end (product, agent stack, UI, live users on real-time feeds).",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    },
+    {
+      "name": "Anand Creations - AI Products & Open Source",
+      "position": "Founder & Principal Builder",
+      "description": "Independent studio and home for 3 AI-native products I ship solo (PulseView, Proplab, SwissNRI). Plus open source that people actually use: a Terraform URL-shortener module on the Terraform Registry with ~4,600 users, and Robogen from EPFL featured on the AWS Public Sector Blog.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax and compliance platform. RAG-grounded assistant with citations back to the regulation; compliance-first agentic design flags risk before users file. Zero-to-MVP in 3 months, 40% uplift in satisfaction.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "Khare Automations",
+    "jobTitle": "Founding Lead Software Engineer",
+    "jobUrl": "",
+    "jobDescription": "Founding Lead Engineer at Khare Automations (AI agentic system for VC and investment funds). First technical seat. Own a real part end to end: infra, connectors, eval harness, or user surface. Remote in CH/DE/UK. Hard line: shipped a production system real users depended on, was on-call when it broke. Python + Git day-to-day. LLM/agent pipelines. GCP a plus. Claude/Claude Code a plus.",
+    "notes": "STRONG FIT. Hits every requirement: LumApps production system with real users + on-call (hard-line pass); Python on GCP Vertex AI (plus); Claude + Claude Code + MCP-authored (plus); founding engineer at Dronistics (agency proof); investment domain via PulseView + Tenity (direct relevance to professional investors); OSS Terraform module w/ 4600 users + Robogen (signals-we-like hit). Zurich-based (Switzerland listed). Salary caveat: role can't pay full salary yet (equity share). Worth flagging to user.",
+    "createdAt": "2026-08-04"
+  },
+  "_generatedFile": {
+    "company": "Khare Automations",
+    "baseName": "founding-lead-software-engineer",
+    "createdAt": "2026-08-04T21:52:32.414Z",
+    "targetPath": "./generated/Khare Automations/founding-lead-software-engineer.json"
+  }
+}

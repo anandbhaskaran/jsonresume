@@ -1,0 +1,342 @@
+{
+  "basics": {
+    "name": "Anand Bhaskaran",
+    "label": "AI Founder | Builder of Production AI Products | 3x Founder | MBA | Ships Revenue, Not Slides",
+    "image": "",
+    "email": "anandbaskaran3193@gmail.com",
+    "phone": "+41763043193",
+    "url": "https://anand-creations.com",
+    "summary": "Founder-operator with 13+ years turning AI ideas into products that ship revenue. 3 companies founded on the side (SwissNRI AI fintech, Proplab AI-for-real-estate, PulseView explainable trading AI), all built and shipped under my Anand Creations practice while running Lead AI Engineer at LumApps (2x outbound conversions, $1M forecast quarterly). At Beekeeper, built the platform's top revenue channel ($1.5M+ generated, $500K ARR) and replaced $337K/year in vendor costs with a 6-week LLM pipeline. MBA-trained (Quantic, 93.2%), speaker at Dev Innovation Summit and Front Conference, ready to go all-in on a €1B+ AI company.",
+    "metrics": [
+      {
+        "value": "$1.5M+",
+        "label": "Revenue Shipped"
+      },
+      {
+        "value": "$337K",
+        "label": "Costs Eliminated"
+      },
+      {
+        "value": "10M+",
+        "label": "Users Served"
+      },
+      {
+        "value": "3",
+        "label": "Companies Founded"
+      }
+    ],
+    "location": {
+      "address": "",
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anandb3",
+        "url": "https://ch.linkedin.com/in/anandb3"
+      },
+      {
+        "network": "GitHub",
+        "username": "anandbhaskaran",
+        "url": "https://github.com/anandbhaskaran"
+      },
+      {
+        "network": "Website",
+        "username": "anand-creations.com",
+        "url": "https://anand-creations.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LumApps",
+      "position": "Lead AI Engineer",
+      "url": "https://www.lumapps.com/",
+      "demoUrl": "https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing",
+      "startDate": "2026-03",
+      "highlights": [
+        "Built and shipped production multi-agent workflows for outbound sales, 0 to 1 inside a scaling SaaS. 2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast $4M/quarter in opportunities, $1M/quarter in revenue.",
+        "Designed AI Brain, a temporal knowledge graph on Graphiti and Neo4j that unifies 5+ data silos into one time-aware memory every agent reads and writes. Same architecture I would run in a startup where trust in data is the moat.",
+        "Report directly to C-level on outcomes, not progress. Own agent architecture, eval pipelines, cost telemetry, and on-call for global production systems."
+      ],
+      "keywords": [
+        "0 to 1",
+        "Product Building",
+        "GCP",
+        "Vertex AI",
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "Google ADK",
+        "MCP",
+        "AG-UI",
+        "RAG",
+        "Multi-Agent Systems",
+        "Neo4j",
+        "Graphiti",
+        "LangSmith",
+        "Executive Reporting"
+      ]
+    },
+    {
+      "name": "Beekeeper AG",
+      "position": "Senior Software Engineer (Technical Lead)",
+      "url": "https://www.beekeeper.io/",
+      "startDate": "2020-03",
+      "endDate": "2026-02",
+      "highlights": [
+        "Architected Employee Referral System end-to-end as Tech Lead of Incubation, reporting to CIO. Became the platform's top revenue channel: $1.5M+ generated, $500K ARR. Built the team, ran the GTM with Sales and PM.",
+        "Replaced $337K in annual vendor translation costs with an in-house LLM pipeline shipped in 6 weeks. Founder-mode execution inside a scale-up: identified the spend, built the alternative, killed the contract.",
+        "Built AI Onboarding Specialist and GenAI demo system for Sales. Every new signup guided at scale; every pitch personalized from Salesforce data. Both shipped with instrumentation so we knew if they moved the needle.",
+        "Hired and mentored the AI engineering cohort. Grew engineers who now lead features independently. Co-owned GTM launches across Product and Sales (Seasonal Templates, Re-ignite Revenue, Sentiment Analysis)."
+      ],
+      "keywords": [
+        "Revenue Generation",
+        "GTM",
+        "Team Building",
+        "Hiring",
+        "Python",
+        "Java",
+        "TypeScript",
+        "Vue",
+        "OpenAI",
+        "LangChain",
+        "CrewAI",
+        "Strands Agents",
+        "AWS",
+        "Kubernetes",
+        "PostgreSQL",
+        "ClickHouse",
+        "Elastic Search",
+        "Kafka",
+        "Salesforce"
+      ]
+    },
+    {
+      "name": "Tenity",
+      "position": "Startup Mentor & Technology Evaluation Panelist",
+      "startDate": "2024-06",
+      "url": "https://www.tenity.com/",
+      "highlights": [
+        "Evaluated 20+ startups on architecture, scalability, and AI readiness to inform seed-to-VC investment decisions. Sit on the technology evaluation panel.",
+        "Mentored Opt Alpha on scaling high-frequency algorithmic trading; advised portfolio founders on hiring, AI strategy, and building companies that actually ship."
+      ],
+      "keywords": [
+        "Startup Advisory",
+        "VC Diligence",
+        "AI Strategy",
+        "Founder Mentoring",
+        "Investor Relations"
+      ]
+    },
+    {
+      "name": "Dronistics",
+      "position": "Founding Engineer",
+      "url": "https://lis.epfl.ch/",
+      "startDate": "2018-08",
+      "endDate": "2020-03",
+      "highlights": [
+        "Founding engineer for autonomous drone delivery (EPFL spin-off). Shipped end-to-end platform (Vue, Java, PostgreSQL, AWS) that powered 500+ real-world deliveries. Enterprise-grade from day one, closed Unilever partnership and CES Las Vegas showcase.",
+        "Engineered flight control APIs and logistics optimization: 40% faster deliveries, 99.5% safety record, zero incidents. Built CI/CD and cloud infra from scratch."
+      ],
+      "keywords": [
+        "Founding Engineer",
+        "0 to 1",
+        "Enterprise Sales",
+        "Vue",
+        "Java",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Real-time Systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Quantic School of Business and Technology",
+      "url": "https://quantic.edu/",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": "93.2%"
+    },
+    {
+      "institution": "EIT Digital",
+      "url": "https://www.eitdigital.eu/",
+      "area": "Innovation & Entrepreneurship",
+      "studyType": "Master (Programme)",
+      "startDate": "2014",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Eindhoven University of Technology (TU/e)",
+      "url": "https://www.tue.nl/",
+      "area": "Embedded Networking",
+      "studyType": "MSc (Netherlands)",
+      "startDate": "2015",
+      "endDate": "2016",
+      "score": "8.01/10"
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "url": "https://www.kth.se/",
+      "area": "Embedded Systems",
+      "studyType": "MSc (Sweden)",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "9.10/10"
+    },
+    {
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "https://www.amrita.edu/",
+      "area": "Electronics and Communication",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "8.18/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Build LLM Apps with LangChain",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "AI Agents in LangGraph",
+      "issuer": "LangChain & Tavily",
+      "url": "https://learn.deeplearning.ai/accomplishments/1982a3a9-125a-4d4f-b1e2-a7c01537945f"
+    },
+    {
+      "name": "Knowledge Graphs for RAG",
+      "issuer": "Neo4j",
+      "url": "https://learn.deeplearning.ai/accomplishments/596692a2-741c-4a38-8f67-199ce6515bab"
+    },
+    {
+      "name": "Building Modern Java Applications",
+      "issuer": "AWS"
+    }
+  ],
+  "publications": [
+    {
+      "name": "I Built an AI Outbound Agent. Here's What Actually Worked.",
+      "publisher": "TowardsAI",
+      "url": "https://pub.towardsai.net/i-built-an-ai-outbound-agent-heres-what-actually-worked-d8ba6ff378ed",
+      "releaseDate": "2025-05-01",
+      "summary": "Founder-mode case study of a production AI outbound agent: architecture, POC-to-prod, and the outcomes that moved the business (2x open rates, 2x approved opportunities)."
+    },
+    {
+      "name": "Your AI Needs a Brain, Not a Better Model",
+      "publisher": "Anand Creations (Blog)",
+      "url": "https://anand-creations.com/blog/your-ai-needs-a-brain",
+      "releaseDate": "2026-06-26",
+      "summary": "Founder essay on the AI memory stack: why temporal knowledge graphs beat vector-only RAG for building durable AI companies."
+    },
+    {
+      "name": "From Infinite Possibilities to Finite Results",
+      "publisher": "AI for the rest of Us, UK (Talk)",
+      "url": "https://pitch.com/v/ai-for-the-rest-of-us-p2tejg",
+      "summary": "Framework talk on turning open-ended AI capability into measurable business outcomes, delivered to a founder + operator audience."
+    },
+    {
+      "name": "From Idea to Product",
+      "publisher": "Dev Innovation Summit 2022, USA (Talk)",
+      "url": "https://pitch.com/public/51725ebc-00b0-437e-b0b9-3ee0e884b7df",
+      "releaseDate": "2022-01-01",
+      "summary": "Methodology on lean validation, rapid prototyping, and data-driven decisions when moving from zero to launched product."
+    },
+    {
+      "name": "The Blueprint for Building High-Impact Teams",
+      "publisher": "Medium",
+      "url": "https://medium.com/@anandb3/hiring-the-best-remote-software-engineers-to-build-a-highly-efficient-team-1dc0c43c0e15",
+      "summary": "Playbook for hiring and scaling remote-first engineering teams with psychological safety, clear accountability, and shipping cadence."
+    },
+    {
+      "name": "AI and creativity",
+      "publisher": "Front Conference (Talk)",
+      "url": "https://pitch.com/public/db40c9e9-c616-4a13-8593-79d375aa0f7d",
+      "summary": "Keynote on AI as a creative partner for founders and product teams, delivered to a mixed technical and business audience."
+    }
+  ],
+  "interests": [
+    {
+      "name": "0 to 1 AI Products"
+    },
+    {
+      "name": "Founder Community"
+    },
+    {
+      "name": "Startup Investing & Mentoring"
+    },
+    {
+      "name": "AI & Creativity"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Appreciation from John T. Chambers (ex-CEO, Cisco Systems)",
+      "awarder": "Cisco Systems",
+      "summary": "Recognized for contributions to strategic projects within Cisco's ecosystem"
+    },
+    {
+      "title": "AWS Cloud Credits for Research",
+      "date": "2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "TI India Analog Design Contest Winner",
+      "awarder": "Texas Instruments"
+    },
+    {
+      "title": "KTH Opportunities Fund",
+      "awarder": "KTH Royal Institute of Technology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anand Creations - Forward Deployed Engineering Practice",
+      "position": "Founder & Principal Forward Deployed Engineer",
+      "description": "Independent forward deployed engineering practice and umbrella for the AI products I design, build, and run on my own (SwissNRI, Proplab, PulseView). Personal proof that I can go zero-to-shipped without waiting for permission or a paycheck.",
+      "url": "https://anand-creations.com",
+      "startDate": "2024-06-01"
+    },
+    {
+      "name": "SwissNRI - AI Cross-border Fintech",
+      "position": "Co-Founder & Technical Lead",
+      "description": "AI-native cross-border tax platform for Swiss-Indian families, replacing spreadsheets and expensive advisors. RAG-grounded assistant answers DTAA, FEMA and Swiss tax questions with citations back to the regulation. Zero-to-MVP in 3 months, 40% uplift in user satisfaction from feedback-driven iteration.",
+      "url": "https://www.swissnri.com",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Proplab - AI for Real Estate",
+      "position": "Founder & AI Product Builder",
+      "description": "AI-native platform for small real estate teams. Vision pipeline extracts structured signals (room type, condition, defects) from inspection photos; LLM agents turn those records into multilingual, marketing-ready listings end-to-end. One workflow from photo capture to published listing, zero copy-paste.",
+      "url": "https://proplab.io",
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "PulseView - AI Market Intelligence",
+      "position": "Founder & Builder",
+      "description": "Real-time market intelligence built for my own trading portfolio first, then opened to retail traders. AI agents generate AND justify trading signals with explainability built in: if the model can't explain the signal, it doesn't ship.",
+      "url": "https://pulse-view.anand-creations.com",
+      "startDate": "2025-05-01"
+    }
+  ],
+  "_jobApplication": {
+    "company": "EWOR",
+    "jobTitle": "AI Co-Founder / CEO",
+    "jobUrl": "",
+    "jobDescription": "EWOR founder fellowship for building a €1B+ AI company. Salary or up to €500k funding, weekly 1:1 with unicorn founders (Paul Müller, Petter Made), hiring network (50,000+), distribution support, coaching to a multi-million euro raise within 12 months. Requirements: based in Europe or Americas, willing to own and scale a startup to €100M+ in revenues, excellent English.",
+    "notes": "Position as founder-operator ready to go full-time. Lead with 3 companies founded, product+revenue metrics, MBA, AI product building at scale, speaker credibility. Downplay pure IC framing.",
+    "createdAt": "2026-08-17"
+  },
+  "_generatedFile": {
+    "company": "EWOR",
+    "baseName": "ai-cofounder-ceo",
+    "createdAt": "2026-08-17T07:32:30.519Z",
+    "targetPath": "./generated/EWOR/ai-cofounder-ceo.json"
+  }
+}

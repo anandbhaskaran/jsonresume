@@ -6,7 +6,7 @@
 
 ## Summary
 
-Engineer at the intersection of **AI applications, product thinking, and production-grade systems**. The rare combination behind AI products that actually ship and move metrics. I am Lead Software Engineer at LumApps, building production multi-agent systems on GCP that 2x outbound conversions and forecast $1M in quarterly revenue. On the side I run Anand Creations, a forward deployed engineering practice and the home for AI products I build and ship myself. 13+ years building software for millions: LLM pipelines that eliminated $337K in vendor cost at Beekeeper, autonomous drone deliveries at Dronistics, co-evolution of robot brains and bodies via genetic algorithms at EPFL. Founded three companies on the side. I optimize for outcomes, not artefacts. Every system I build has a metric attached and a customer on the other side.
+Engineer at the intersection of **AI applications, product thinking, and production-grade systems**. The rare combination behind AI products that actually ship and move metrics. I am Lead AI Engineer at LumApps, building production multi-agent systems on GCP that 2x outbound conversions and forecast $1M in quarterly revenue. On the side I run Anand Creations, a forward deployed engineering practice and the home for AI products I build and ship myself. 13+ years building software for millions: LLM pipelines that eliminated $337K in vendor cost at Beekeeper, autonomous drone deliveries at Dronistics, co-evolution of robot brains and bodies via genetic algorithms at EPFL. Founded three companies on the side. I optimize for outcomes, not artefacts. Every system I build has a metric attached and a customer on the other side.
 
 ### Contact
 
@@ -31,12 +31,13 @@ Tamil (Native or Bilingual)
 
 ## Experience
 
-#### Lead Software Engineer, LumApps
+#### Lead AI Engineer, LumApps
 
 ```
 March 2026 - Present
 Zurich, Switzerland
 https://www.lumapps.com/
+Demo video: https://drive.google.com/file/d/1MUokeVsz9u9cIn-WN4aWgsEHaelcEBsQ/view?usp=sharing
 ```
 
 - **Multi-Agent Systems for Outbound Sales:** Built and deployed production multi-agent workflows on Python, LangGraph and Google ADK over GCP Vertex AI, using ReAct, self-reflection and hierarchical delegation, with tools exposed over MCP servers and agent state streamed to the UI over AG-UI. **2x open rates, 2x approved opportunities, 2 to 3 hours saved per rep per day. Forecast: $4M in approved opportunities per quarter; at 25% conversion, $1M in quarterly revenue.**
@@ -110,10 +111,10 @@ https://lis.epfl.ch/
 - **Cloud Infrastructure:** Built CI/CD pipeline and AWS infrastructure from scratch. Enterprise-grade reliability that customers and partners could trust.
 
 
-#### Research Engineer, EPFL Lab of Intelligent Systems (Robogen)
+#### AI Research Engineer, EPFL Lab of Intelligent Systems (Robogen)
 
 ```
-August 2016 - July 2018 (1 year 11 months)
+August 2016 - March 2020 (3 years 8 months)
 Lausanne, Switzerland
 https://aws.amazon.com/blogs/publicsector/epfl-designs-robots-through-artificial-evolution/
 ```
